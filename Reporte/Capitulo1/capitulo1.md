@@ -16,7 +16,7 @@
     <strong>Producto:  Hay que ponerle name </strong>
 </p>
 
-<div style="text-align:center;">
+<div style="text-align:center">
     <h3>Team Members:</h3>
     <table align="center">
         <tr>
@@ -163,18 +163,14 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
   <tr>
     <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
     <td> TB1<br><br>
-         <b>Steve Roger Castillo Robles </b><br>
-        - Realizamos la planificación adecuada para formar de manera efectiva el plan de desarrollo de nuestra solución.
-        <br><br> 
-         <b>Diego Mauricio Castro Soto</b><br>
-        - Trabajamos de manera colaborativa para distribuir todas las tareas de la entrega, realizar una tormenta de ideas y colaborar de forma efectiva en cada etapa del proyecto.
-        <br><br>
-        <b>Jennifer Mary Espinoza Quispe</b><br>
-        - Hemos establecido una estructura para identificar todos los elementos del proceso Lean UX, con el objetivo de comprender la problemática y encontrar soluciones en la medida de lo posible.
-        <br><br> 
-        <b>Ray Alessandro Del Carmen Zorrilla</b>
-        - Colaboramos con los miembros del equipo para acordar cómo serán los prototipos, íconos y otros diseños.
-        <br><br>
+         <b>Aguilar Castillo, Rodrigo Alejandro </b><br>
+colocar info         <br><br> 
+         <b>Escalante Baygorrea, Janiel Franz</b><br>
+colocar info         <br><br>
+        <b>Pin Matallana, Augusto José</b><br>
+colocar info         <br><br> 
+        <b>Ruiz Blas, Luciano Stefano</b>
+colocar info         <br><br>
    </td>
     <td>TB1<br><br>
     Seleccionamos un servicio de alquiler de habitaciones para estudiantes, donde desarrollamos el enunciado del problema y las declaraciones de hipótesis para evaluar el alcance del desarrollo y la solución de la problemática.</td>
@@ -182,22 +178,21 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
   <tr>
     <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
     <td> TB1<br><br>
-         <b>Steve Roger Castillo Robles</b><br>
-        - Se realizó un análisis para poder ofrecer una solución innovadora a un sector que tenga falta de apoyo.
-        <br><br> 
-         <b>Diego Mauricio Castro Soto</b><br>
-        - Realizamos un estudio detallado de cada uno de nuestros grupos objetivo en el proyecto, con el fin de garantizar que nuestra aplicación cumpla con todas las necesidades de nuestros usuarios objetivo.
-        <br><br>
-        <b>Jennifer Mary Espinoza Quispe</b><br>
-        - Realicé una entrevista a un miembro de uno de los grupos objetivo con el objetivo de obtener información relevante para llevar a cabo algunos de los aspectos del trabajo.
-        <br><br> 
-        <b>Ray Alessandro Del Carmen Zorrilla</b>
-        - Se realizó la elaboración de los prototipos según las propuestas realizadas por los usuarios en las entrevistas y lo acordado con el grupo.
-        <br><br>
+         <b>Aguilar Castillo, Rodrigo Alejandro</b><br>
+colocar info 
+<br><br> 
+         <b>Escalante Baygorrea, Janiel Franz</b><br>
+colocar info 
+<br><br>
+        <b>Pin Matallana, Augusto José</b><br>
+colocar info 
+<br><br> 
+        <b>Ruiz Blas, Luciano Stefano</b>
+colocar info 
+<br><br>
    </td>
     <td>TB1<br><br>
-    Se recopiló la información necesaria para poder enfrentar a los competidores y ofrecer un producto innovador basado en la tecnología.</td>
-  </tr>
+colocar info  </tr>
 </table>
 
 <br><br>
@@ -205,8 +200,7 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 # Capítulo I: Introducción
 ## 1.1. StartUp Profile
 ### 1.1.1. Description de la StartUp
-DigitalDart emerge como un arquitecto digital, diseñando soluciones web para resolver la búsqueda de trabajos ocasionales. Este startup de software reimagina cómo se generan ingresos y se busca la libertad laboral. A través de su plataforma ingeniosa, DigitalDart brindará ayuda a jóvenes con diversas habilidades entre 18 y 30 años conectándolos con los demandantes de servicios, considerando ubicación y habilidades. Al redefinir las convenciones laborales, esta flexibilidad no solo cambia la narrativa laboral, sino que también da un nuevo matiz a la economía contemporánea.
-
+colocar infor Mathi
 ### 1.1.2. Perfiles de integrantes del equipo
 
 <table align="center"  border="1" width="70%" style="text-align:center;">
