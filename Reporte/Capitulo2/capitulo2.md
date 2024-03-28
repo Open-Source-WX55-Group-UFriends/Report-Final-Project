@@ -7,5 +7,7 @@
 - **Perfil**: Conjunto de datos del usuario
 - **Dispositivo**: IoT = Red de objetos y dispositivos que son capaces de transmitir y recibir datos usando internet
 
+![Imagen de As-Is Mapping](https://i.postimg.cc/qqmsH0Z8/Scenario-Mapping-Template.jpg)
+
 
 
