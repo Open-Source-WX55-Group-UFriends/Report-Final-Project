@@ -4,19 +4,23 @@
 
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+<br>
     <img src="/assets/logo-upc.png"></img><br>
+<br>
     <strong>Ingeniería de Software - 5to Ciclo</strong><br>
-    <strong>Desarrollo de Aplicaciones Open Source - WX55</strong><br>
+<br>
+    <strong>Desarrollo de Aplicaciones Open Source - WX55</strong><br>  
+<br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez</strong><br>
-    <br>INFORME DE TRABAJO FINAL - TB1
+    <br> <strong>INFORME DE TRABAJO FINAL - TB1 </strong> 
 </p>
 
 <p align="center">
-    <strong>Startup: Hay que ponerle name </strong><br>
-    <strong>Producto:  Hay que ponerle name </strong>
+    <strong>Startup: FarmLogiTech </strong><br>
+    <strong>Producto:  FarmLogiTech </strong>
 </p>
 
-<h3 style="text-align:center">Team Members:</h3>
+<h3>Team Members:</h3>
 <div>
     <table align="center">
         <tr>
@@ -167,6 +171,8 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
   <tr>
     <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
     <td> TB1<br><br>
+         <b>Kunimoto Watanabe Mathias Tsuneo</b><br>
+colocar info         <br><br> 
          <b>Aguilar Castillo, Rodrigo Alejandro </b><br>
 colocar info         <br><br> 
          <b>Escalante Baygorrea, Janiel Franz</b><br>
@@ -204,18 +210,18 @@ colocar info  </tr>
 # Capítulo I: Introducción
 ## 1.1. StartUp Profile
 ### 1.1.1. Description de la StartUp
-colocar infor Mathi
+FarmLogiTech es una plataforma tecnológica creada el 22/03/2024 por un grupo de 5 estudiantes  que ofrece soluciones integrales para la gestión eficiente de granjas, facilitando la colaboración entre empresas grandes, dueños de granjas y trabajadores agrícolas.
 ### 1.1.2. Perfiles de integrantes del equipo
 
 <table align="center"  border="1" width="70%" style="text-align:center;">
      <tr align="center">
         <td rowspan="3">
-imagen colocarlo en la carpeta
+<img src="/assets/integrante-Mathias.jpg">
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-quien sos
+Mathias Tsuneo Kunimoto Watanabe
 </td>
     </tr>
     <tr>
@@ -229,17 +235,17 @@ quien sos
         <td align="left">
         <b>Acerca de:</b>
         <br>
-       quien eres , q pasa contigo
+       Soy Mathias Kunimoto, estudiante de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas UPC. El camino que quiero llegar, es en convertirme en un desarrollador full stack pero mas orientado en el frontend.
         </td>
     </tr>
     <tr align="center">
         <td rowspan="3">
-imagen colocarlo en la carpeta
+<img src="/assets/integrante-rodrigo.jpg">
         </td>
       <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-quien sos
+Rodrigo Alejandro Aguilar Castillo
 </td>
     </tr>
      <tr>
@@ -258,12 +264,12 @@ quien sos
     </tr>
      <tr align="center">
         <td rowspan="3">
-imagen colocarlo en la carpeta
+<img src="/assets/PONER NOMBRE DE TU IMAGEN.jpg">
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-quien sos
+Janiel Franz Escalante Baygorrea
 </td>
     </tr>
     <tr>
@@ -282,12 +288,12 @@ quien sos
     </tr>
     <tr align="center">
         <td rowspan="3">
-imagen colocarlo en la carpeta
+<img src="/assets/PONER NOMBRE DE TU IMAGEN.jpg">
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-quien sos
+Augusto José Pin Matallana 
 </td>
     </tr>
     <tr>
@@ -306,12 +312,12 @@ quien sos
     </tr>
     <tr align="center">
         <td rowspan="3">
-imagen colocarlo en la carpeta
+<img src="/assets/PONER NOMBRE DE TU IMAGEN.jpg">
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-quien sos
+Luciano Stefano Ruiz Blas
 </td>
     </tr>
     <tr>
