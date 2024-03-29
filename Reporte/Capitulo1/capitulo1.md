@@ -4,7 +4,7 @@
 
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <img src="/assets/logo-upc.png"></img><br>
     <strong>Ingeniería de Software - 5to Ciclo</strong><br>
     <strong>Desarrollo de Aplicaciones Open Source - WX55</strong><br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez</strong><br>
@@ -16,8 +16,8 @@
     <strong>Producto:  Hay que ponerle name </strong>
 </p>
 
-<div style="text-align:center">
-    <h3>Team Members:</h3>
+<h3 style="text-align:center">Team Members:</h3>
+<div>
     <table align="center">
         <tr>
             <th style="text-align:center;">Member</th>
@@ -26,6 +26,10 @@
         <tr>
                 <td>Aguilar Castillo, Rodrigo Alejandro</td>
             <td>U202210584</td>
+        </tr>
+        <tr>
+                <td>Kunimoto Watanabe, Mathias Tsuneo</td>
+            <td>U202210148</td>
         </tr>
         <tr>
             <td>Escalante Baygorrea, Janiel Franz</td>
@@ -52,7 +56,7 @@
 <br><br>
 
 # Project Report Collaboration Insights
-<br><br>
+
 
 # Contenido
 ## Tabla de Contenidos
