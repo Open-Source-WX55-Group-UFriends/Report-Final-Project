@@ -336,3 +336,92 @@ Luciano Stefano Ruiz Blas
     </tr>
 
 </table>
+
+
+### 1.2.1. Antecedentes y problemática
+La industria agrícola se encuentra en un estado de transformación, impulsado por el crecimiento de la población mundial y los cambios en las demandas del mercado. La presión sobre los agricultores para aumentar la producción y la calidad de los cultivos es más intensa que nunca. Sin embargo, muchos enfrentan obstáculos como la falta de herramientas tecnológicas adecuadas, la coordinación deficiente entre equipos de trabajo y la escasez de información en tiempo real sobre el estado de los cultivos y las condiciones climáticas.
+Según un informe de Rizia, Ana (2020) publicado en la página del MBA USP, muchos ganaderos pueden carecer de la capacitación necesaria en gestión agrícola y comercialización, lo que dificulta la toma de decisiones informadas y eficientes. Además, la falta de un control financiero adecuado puede llevar a dificultades económicas y poner en riesgo la viabilidad de la granja a largo plazo.
+
+
+-   **What?**
+
+    La industria agrícola enfrenta desafíos significativos en la gestión eficiente de las granjas, debido a la falta de herramientas tecnológicas adecuadas y la presión para aumentar la producción y calidad de los cultivos.
+
+
+-   **When?**
+
+    Este problema ha ido aumentando en los últimos años, especialmente con el crecimiento de la población y los cambios en las demandas del mercado agrícola.
+
+-   **Where?**
+
+    Este problema es global y afecta a las granjas en diversas regiones del mundo, tanto en países desarrollados como en desarrollo.
+
+-   **Who?**
+
+    Los agricultores, tanto pequeños como grandes, están directamente involucrados en estas dificultades, ya que son responsables de la producción agrícola y deben enfrentar las demandas del mercado.
+
+- **Why?**
+
+    Es crucial abordar esta problemática porque la agricultura desempeña un papel fundamental en la alimentación de la creciente población mundial y en la economía global.
+
+-   **How?**
+
+    Se necesitan soluciones tecnológicas innovadoras que ayuden a los agricultores a optimizar sus operaciones, mejorar la calidad de los cultivos y aumentar su competitividad en el mercado agrícola. Esto puede lograrse mediante el desarrollo de herramientas de gestión agrícola integradas, el uso de sensores y la aplicación de técnicas de análisis de datos.
+
+-   **How much?**
+
+    El costo de implementar estas soluciones tecnológicas puede variar dependiendo de la escala de la granja y los recursos disponibles para la adopción de tecnología agrícola.
+
+### 1.2.2. Lean UX Process
+#### 1.2.2.1. Lean UX Problem Statements
+
+- La gestión eficiente de las actividades agrícolas y la colaboración efectiva entre empresas grandes y dueños de granjas son desafíos clave en la industria agrícola. Simplificar la gestión diaria de las operaciones agrícolas es fundamental para aumentar la productividad y eficiencia de los trabajadores en las granjas. Además, mejorar la colaboración entre las empresas y los dueños de granjas es crucial para facilitar asociaciones beneficiosas que impulsen el crecimiento y la rentabilidad en toda la cadena de suministro agrícola.
+
+#### 1.2.2.2. Lean UX Assumptions
+
+**Business Outcomes:**
+- Aumento de la productividad y eficiencia en las operaciones agrícolas.
+- Mejora en la colaboración entre empresas grandes y dueños de granjas.
+- Incremento en la rentabilidad y calidad de los productos agrícolas.
+
+**Users:**
+- Empresas Grandes: Interesadas en mejorar su cadena de suministro y obtener productos agrícolas de alta calidad.
+- Dueños de Granjas: Buscan optimizar la gestión de sus operaciones y aumentar su rentabilidad.
+- Trabajadores de Granjas: Necesitan herramientas para facilitar la realización de tareas diarias y mejorar su eficiencia.
+
+**User Outcomes:**
+- Empresas Grandes: Acceso a productos agrícolas de alta calidad y mejora en la eficiencia de su cadena de suministro.
+- Dueños de Granjas: Mayor eficiencia en la gestión de las operaciones agrícolas y aumento en la rentabilidad.
+- Trabajadores de Granjas: Facilidad para realizar tareas diarias y mejora en su eficiencia laboral.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+- Creemos que al implementar un sistema de seguimiento y análisis de datos agrícolas, podemos mejorar la toma de decisiones y la eficiencia en las operaciones agrícolas.
+- Creemos que al integrar funcionalidades de pronóstico meteorológico en la plataforma, podemos ayudar a los agricultores a tomar medidas preventivas contra eventos climáticos adversos.
+- Creemos que al ofrecer una interfaz intuitiva y fácil de usar en la plataforma, podemos aumentar tanto por parte de los usuarios, lo que resultará en una mayor satisfacción del cliente y una mayor retención.
+- Creemos que al ofrecer herramientas de análisis de rendimiento de cultivos en tiempo real, podemos proporcionar a los agricultores información detallada sobre el rendimiento de sus cultivos y áreas de mejora, lo que resultará en una optimización de los procesos de producción agrícola.
+- Creemos que al incorporar características de planificación de cultivos y rotación de cultivos en la plataforma, podemos ayudar a los agricultores a maximizar el rendimiento de sus tierras y mejorar la sostenibilidad a largo plazo de sus operaciones.
+
+#### 1.2.2.4. Lean UX Canvas
+
+<div align=center>
+    <img src="/assets/canva.png" alt="Canvas"/>
+</div>
+
+## 1.3. Segmentos Objetivo
+
+
+**Dueños de Granjas y Agricultores Independientes:**
+- Agricultores propietarios de granjas de diferentes tamaños y tipos de cultivos.
+- Buscan herramientas tecnológicas para optimizar la gestión de sus operaciones agrícolas.
+- Interesados en mejorar la eficiencia, productividad y rentabilidad de sus cultivos.
+
+**Trabajadores Agrícolas:**
+- Empleados que realizan tareas diarias en las granjas, como la siembra, el riego, la cosecha y el cuidado del ganado.
+- Necesitan herramientas prácticas y fáciles de usar para realizar sus tareas de manera eficiente y colaborativa.
+- Buscan mejorar su productividad y contribuir al éxito general de la granja.
+
+**Empresas y Corporaciones del Sector Agrícola:**
+- Empresas agrícolas, procesadores de alimentos y distribuidores.
+- Buscan establecer asociaciones estratégicas con granjas para mejorar la cadena de suministro y obtener productos agrícolas de alta calidad.
+- Interesados en tecnologías que les ayuden a monitorear y mejorar la calidad y el suministro de los productos agrícolas que utilizan en sus operaciones.
