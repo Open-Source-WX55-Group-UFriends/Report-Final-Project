@@ -20,7 +20,7 @@
     <strong>Producto:  FarmLogiTech </strong>
 </p>
 
-<h3>Team Members:</h3>
+<h3 align="center" >Team Members:</h3>
 <div>
     <table align="center">
         <tr>
@@ -288,7 +288,7 @@ Janiel Franz Escalante Baygorrea
     </tr>
     <tr align="center">
         <td rowspan="3">
-<img src="/assets/PONER NOMBRE DE TU IMAGEN.jpg">
+<img src="/assets/integrante-augusto.jpg">
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
