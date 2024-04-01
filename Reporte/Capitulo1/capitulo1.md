@@ -259,7 +259,7 @@ Rodrigo Alejandro Aguilar Castillo
         <td align="left">
         <b>Acerca de:</b>
         <br>
-       quien eres , q pasa contigo
+Soy Rodrigo Aguilar, estudiante de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas UPC. me llama mucho la atención la tecnología y los dispositivos electrónicos. Uno de mis pasatiempos es programar.
         </td>
     </tr>
      <tr align="center">
