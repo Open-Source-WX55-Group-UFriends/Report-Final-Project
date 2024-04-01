@@ -264,7 +264,7 @@ Rodrigo Alejandro Aguilar Castillo
     </tr>
      <tr align="center">
         <td rowspan="3">
-<img src="/assets/PONER NOMBRE DE TU IMAGEN.jpg">
+<img src="/assets/integrante-franz.jpg">
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -283,7 +283,7 @@ Janiel Franz Escalante Baygorrea
         <td align="left">
         <b>Acerca de:</b>
         <br>
-       quien eres , q pasa contigo
+Soy Franz Escalante, actualmente estudio la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas UPC. Me considero una persona responsable y perseverante. En mis ratos libres me gusta practicar deporte y escuchar música.
         </td>
     </tr>
     <tr align="center">
@@ -307,12 +307,12 @@ Augusto José Pin Matallana
         <td align="left">
         <b>Acerca de:</b>
         <br>
-       quien eres , q pasa contigo
+       Tengo 18 y estudio en la carrera de ingeniería de software, me gusta todo lo que tiene que ver con computación y desarrollo de aplicaciones o videojuegos, actualmente estoy en el tercer ciclo y hasta ahora me ha gustado todo lo que tiene la carrera.
         </td>
     </tr>
     <tr align="center">
         <td rowspan="3">
-<img src="/assets/PONER NOMBRE DE TU IMAGEN.jpg">
+<img src="/assets/integrante-luciano.jpg">
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -331,7 +331,7 @@ Luciano Stefano Ruiz Blas
         <td align="left">
         <b>Acerca de:</b>
         <br>
-       quien eres , q pasa contigo
+Soy Luciano Ruiz, tengo 20 años y estudio la carrera de Ingeniería de Software. Soy un apasionado de la tecnología y la creación de software. Además, cuento con conocimiento de diferentes lenguajes de programación como C++, C#, Java, Python, etc. Me gusta aprender intensamente temas de mi interés como la inteligencia artificial y el desarrollo de aplicaciones móviles. Finalmente, me considero una persona con cualidades aptas para trabajar en equipo y aprender rápidamente conocimientos.
         </td>
     </tr>
 
