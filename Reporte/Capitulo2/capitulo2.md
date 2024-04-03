@@ -18,27 +18,21 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
   <tr>
     <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
     <td colspan="1" valign="top" style="font-weight: bold;">
-        NombrePorDefinir
+        FarmLogiTech
         <br>
-        <div style="text-align: center; margin-top: 10px;">
-                <img src="https://media.discordapp.net/attachments/1145421916413366426/1146125730242113576/WhatsApp_Image_2023-08-27_at_11.01.45_PM.jpeg?width=2002&height=1342" alt="ChambeaPe" width="60px">
-        </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
         FarmLogs
     <div style="text-align: center;">
-                <img src="https://media.discordapp.net/attachments/1145421916413366426/1146125730942554232/favicon_ct.png?width=600&height=600" alt="Computrabajo" width="60px">
         </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
         Granular
       <div style="text-align: center; margin-top: 20px;">
-                <img src="https://media.discordapp.net/attachments/1145421916413366426/1146125731219374101/545921-imageonline-co-transparentimage-6.png?width=547&height=118" alt="ChambeaPe" width="60px">
             </div>
       </td>
     <td colspan="1" valign="top" style="font-weight: bold;" >
         Agworld
       <div style="text-align: center; margin-top: 10px;">
-                <img src="https://media.discordapp.net/attachments/1145421916413366426/1146125730586034227/maxresdefault.jpg?width=1447&height=814" alt="ChambeaPe" width="60px">
             </div>
     </td>
   </tr>
@@ -128,11 +122,77 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
   </tr>
 </table>
 
+
+
+## 2.2. Entrevistas
+### 2.2.1. Diseño de entrevistas
+
+#### Preguntas generales:
+¿Cuál es tu nombre?
+¿Qué edad tienes?
+¿Dónde vives actualmente?
+¿A qué te dedicas?
+
+#### Segmento objetivo: Dueño
+- ¿Qué desafíos enfrenta actualmente al gestionar su granja?
+- ¿Qué tipo de granja suele administrar? (agreria, ganadera, avicola, etc.)
+- De tener experiencia en gestionar una granja, ¿cómo ha realizado las gestiones de toda la granja?
+- ¿Qué te parece más importante para un plataforma de gestion: la facilidad de uso de la plataforma, la seguridad de la informacion, la diversidad de opciones disponibles, u otros aspectos?
+- ¿Cuáles son las principales características que busca en una plataforma de gestion de granjas?
+- ¿Qué incentivos o beneficios podrían motivarlo a utilizar una plataforma de gestion de granjas de manera más frecuente?
+- ¿Ha tenido alguna experiencia previa con plataformas similares de gestion de granjas?¿Qué aspectos le gustaron?
+- ¿Estarías dispuesto(a) a pagar una tarifa por utilizar una aplicación que te ayude a gestionar tu granja de manera más eficiente?
+- ¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?
+
+#### Segmento objetivo: Administrador
+- ¿Qué tipo de productos agrícolas o ganaderos suelen adquirir para sus operaciones?
+- ¿Qué criterios son más importantes al seleccionar proveedores de productos agrícolas o ganaderos?
+- ¿Qué desafíos enfrentan actualmente al establecer relaciones comerciales con granjas proveedoras?
+- ¿Qué información consideran crucial al evaluar a una granja como posible proveedor?
+- ¿Cómo prefieren comunicarse con las granjas proveedoras potenciales?
+- ¿Qué características o funcionalidades esperarían encontrar en una plataforma que facilite la conexión con granjas proveedoras?
+- ¿Qué beneficios esperarían obtener al utilizar una plataforma en lugar de métodos tradicionales de búsqueda y contacto?
+- ¿Cuáles son las principales preocupaciones en términos de calidad, seguridad alimentaria y sostenibilidad al seleccionar proveedores agrícolas o ganaderos?
+- ¿Qué incentivos podrían motivarlos a utilizar una plataforma como la tuya para establecer relaciones con granjas proveedoras?
+
+## 2.3. Needfinding
+### 2.3.1. User Personas
+- User persona trabajador en granja
+  ![Imagen de UserPersona1](https://i.postimg.cc/FRbmXWdt/User-persona-trabajador.jpg)
+
+- Dueño de granja
+  ![Imagen de UserPersona2](https://i.postimg.cc/s2kDrGTW/User-persona-granjero.jpg)
+
+- Empresaria
+  ![Imagen de UserPersona3](https://i.postimg.cc/W4hhjvjB/User-persona-empresaria.jpg)
+
+### 2.3.2. User Task Matrix
+A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos.
+![Imagen de TaskMatrix](https://i.postimg.cc/x10PvtVs/Tabla-User-Task.jpg)
+Las tareas que tienen mayor frecuencia son aquellas que comparten
+los dueños de las granjas y los trabajadores de las mismas.
+Por otro lado, los empresarios tienen tareas que no se comparten
+con los otros segmentos, pero que son importantes para las granjas,
+ya que estas deben alinearse con los estandares de los empresarios.
+
+### 2.3.3 User Journey Mapping
+A continuación se pueden apreciar los User Journey Mapping de los segmentos objetivos.
+- User Journey Mapping trabajador en granja
+  ![Imagen de UserPersona1](https://i.postimg.cc/tTKBsfdJ/Customer-journey-map-Juann.png)
+- User Journey Mapping dueño de granja
+  ![Imagen de UserPersona1](https://i.postimg.cc/SsWLjKg2/Customer-journey-map-Piero.png)
+- User Journey Mapping empresaria
+  ![Imagen de UserPersona1](https://i.postimg.cc/tRYmRdj8/Customer-journey-map-Maria.png)
+
+### 2.3.5 Empathy Mapping
+
+
 ### 2.3.5 As-Is Scenario Mapping
 
+![Imagen de As-Is Mapping](https://i.postimg.cc/qqmsH0Z8/Scenario-Mapping-Template.jpg)
 ## 2.4 Ubiquitous Language
 - **Plataforma**: Representación de un sistema digital
 - **Perfil**: Conjunto de datos del usuario
 - **Dispositivo**: IoT = Red de objetos y dispositivos que son capaces de transmitir y recibir datos usando internet
 
-![Imagen de As-Is Mapping](https://i.postimg.cc/qqmsH0Z8/Scenario-Mapping-Template.jpg)
+
