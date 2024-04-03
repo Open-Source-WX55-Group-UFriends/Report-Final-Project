@@ -143,3 +143,14 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 - ¿Ha tenido alguna experiencia previa con plataformas similares de gestion de granjas?¿Qué aspectos le gustaron?
 - ¿Estarías dispuesto(a) a pagar una tarifa por utilizar una aplicación que te ayude a gestionar tu granja de manera más eficiente?
 - ¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?
+
+#### Segmento objetivo: Administrador
+- ¿Qué tipo de productos agrícolas o ganaderos suelen adquirir para sus operaciones?
+- ¿Qué criterios son más importantes al seleccionar proveedores de productos agrícolas o ganaderos?
+- ¿Qué desafíos enfrentan actualmente al establecer relaciones comerciales con granjas proveedoras?
+- ¿Qué información consideran crucial al evaluar a una granja como posible proveedor?
+- ¿Cómo prefieren comunicarse con las granjas proveedoras potenciales?
+- ¿Qué características o funcionalidades esperarían encontrar en una plataforma que facilite la conexión con granjas proveedoras?
+- ¿Qué beneficios esperarían obtener al utilizar una plataforma en lugar de métodos tradicionales de búsqueda y contacto?
+- ¿Cuáles son las principales preocupaciones en términos de calidad, seguridad alimentaria y sostenibilidad al seleccionar proveedores agrícolas o ganaderos?
+- ¿Qué incentivos podrían motivarlos a utilizar una plataforma como la tuya para establecer relaciones con granjas proveedoras?
