@@ -134,13 +134,12 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 ¿A qué te dedicas?
 
 #### Segmento objetivo: Dueño
-¿Qué desafíos enfrenta actualmente al gestionar su granja?
-¿Qué tipo de granja suele administrar? (agreria, ganadera, avicola, etc.)
-De tener experiencia en gestionar una granja, ¿cómo ha realizado las gestiones de toda la granja?
-¿Qué estrategias manejo ha utilizado para su granja?
-¿Qué te parece más importante para un plataforma de gestion: la facilidad de uso de la plataforma, la seguridad de la informacion, la diversidad de opciones disponibles, u otros aspectos?
-¿Cuáles son las principales características que busca en una plataforma de gestion de granjas?
-¿Qué incentivos o beneficios podrían motivarlo a utilizar una plataforma de gestion de granjas de manera más frecuente? 
-¿Ha tenido alguna experiencia previa con plataformas similares de gestion de granjas?¿Qué aspectos le gustaron? 
-¿Estarías dispuesto(a) a pagar una tarifa por utilizar una aplicación que te ayude a gestionar tu granja de manera más eficiente?
-¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?
+- ¿Qué desafíos enfrenta actualmente al gestionar su granja?
+- ¿Qué tipo de granja suele administrar? (agreria, ganadera, avicola, etc.)
+- De tener experiencia en gestionar una granja, ¿cómo ha realizado las gestiones de toda la granja?
+- ¿Qué te parece más importante para un plataforma de gestion: la facilidad de uso de la plataforma, la seguridad de la informacion, la diversidad de opciones disponibles, u otros aspectos?
+- ¿Cuáles son las principales características que busca en una plataforma de gestion de granjas?
+- ¿Qué incentivos o beneficios podrían motivarlo a utilizar una plataforma de gestion de granjas de manera más frecuente?
+- ¿Ha tenido alguna experiencia previa con plataformas similares de gestion de granjas?¿Qué aspectos le gustaron?
+- ¿Estarías dispuesto(a) a pagar una tarifa por utilizar una aplicación que te ayude a gestionar tu granja de manera más eficiente?
+- ¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?
