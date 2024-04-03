@@ -19,27 +19,21 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
   <tr>
     <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
     <td colspan="1" valign="top" style="font-weight: bold;">
-        NombrePorDefinir
+        FarmLogiTech
         <br>
-        <div style="text-align: center; margin-top: 10px;">
-                <img src="https://media.discordapp.net/attachments/1145421916413366426/1146125730242113576/WhatsApp_Image_2023-08-27_at_11.01.45_PM.jpeg?width=2002&height=1342" alt="ChambeaPe" width="60px">
-        </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
         FarmLogs
     <div style="text-align: center;">
-                <img src="https://media.discordapp.net/attachments/1145421916413366426/1146125730942554232/favicon_ct.png?width=600&height=600" alt="Computrabajo" width="60px">
         </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
         Granular
       <div style="text-align: center; margin-top: 20px;">
-                <img src="https://media.discordapp.net/attachments/1145421916413366426/1146125731219374101/545921-imageonline-co-transparentimage-6.png?width=547&height=118" alt="ChambeaPe" width="60px">
             </div>
       </td>
     <td colspan="1" valign="top" style="font-weight: bold;" >
         Agworld
       <div style="text-align: center; margin-top: 10px;">
-                <img src="https://media.discordapp.net/attachments/1145421916413366426/1146125730586034227/maxresdefault.jpg?width=1447&height=814" alt="ChambeaPe" width="60px">
             </div>
     </td>
   </tr>
@@ -128,3 +122,25 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
     <td colspan="1" valign="top">El escaso número de funciones hace que muchas personas opten por buscar otra aplicación más completa.</td>
   </tr>
 </table>
+
+## 2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas
+
+#### Preguntas generales:
+¿Cuál es tu nombre?
+¿Qué edad tienes?
+¿Dónde vives actualmente?
+¿A qué te dedicas?
+
+#### Segmento objetivo: Dueño
+¿Qué desafíos enfrenta actualmente al gestionar su granja?
+¿Qué tipo de granja suele administrar? (agreria, ganadera, avicola, etc.)
+De tener experiencia en gestionar una granja, ¿cómo ha realizado las gestiones de toda la granja?
+¿Qué estrategias manejo ha utilizado para su granja?
+¿Qué te parece más importante para un plataforma de gestion: la facilidad de uso de la plataforma, la seguridad de la informacion, la diversidad de opciones disponibles, u otros aspectos?
+¿Cuáles son las principales características que busca en una plataforma de gestion de granjas?
+¿Qué incentivos o beneficios podrían motivarlo a utilizar una plataforma de gestion de granjas de manera más frecuente? 
+¿Ha tenido alguna experiencia previa con plataformas similares de gestion de granjas?¿Qué aspectos le gustaron? 
+¿Estarías dispuesto(a) a pagar una tarifa por utilizar una aplicación que te ayude a gestionar tu granja de manera más eficiente?
+¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?
