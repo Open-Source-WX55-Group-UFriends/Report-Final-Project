@@ -338,7 +338,7 @@
             <b>Épica</b>
         </td>
         <td colspan=2>
-            Mejora de la cadena de suministro
+            Acceso a valoraciones y comentarios sobre las granjas para empresarios
         </td>
     </tr>
     <tr align="left">
@@ -346,7 +346,7 @@
             <b>ID-HU</b>
         </td>
         <td>
-            07
+            7
         </td>
         <td>
             <b>Owner</b>
@@ -360,7 +360,7 @@
             <b>Título HU</b>
         </td>
         <td colspan=2>
-            Acceder a valoraciones y comentarios de otras granjas
+            Acceder a valoraciones y comentarios sobre granjas
         </td>
     </tr>
     <tr align="left">
@@ -372,23 +372,18 @@
     <tr align="left">
         <td colspan=4>
             <b>Criterio de Aceptación:</b><br>
-            <b>Scenario 01:</b> Acceso exitoso a las valoraciones y comentarios<br>
+            <b>Scenario 01:</b> Acceso exitoso a valoraciones y comentarios sobre granjas<br>
             <b>Dado</b> que el empresario está autenticado en la plataforma<br>
-            <b>Cuando</b> selecciona una granja y accede a su perfil<br>
-            <b>Entonces</b> el sistema muestra las valoraciones y comentarios de otros empresarios sobre esa granja.<br><br>
-            <b>Scenario 02:</b> No hay valoraciones o comentarios disponibles<br>
-            <b>Dado</b> que el empresario está autenticado en la plataforma<br>
-            <b>Cuando</b> intenta acceder a las valoraciones y comentarios de una granja<br>
-            <b>Y</b> no hay información disponible<br>
-            <b>Entonces</b> el sistema muestra un mensaje indicando que no hay valoraciones ni comentarios disponibles en este momento.<br><br>
-            <b>Scenario 03:</b> Error al acceder a las valoraciones y comentarios<br>
-            <b>Dado</b> que el empresario está autenticado en la plataforma<br>
-            <b>Cuando</b> intenta acceder a las valoraciones y comentarios de una granja<br>
-            <b>Y</b> hay un problema técnico o de conectividad<br>
-            <b>Entonces</b> el sistema muestra un mensaje indicando que no es posible acceder a la información en este momento y sugiere intentarlo nuevamente más tarde.
+            <b>Cuando</b> accede a la sección de valoraciones y comentarios sobre granjas<br>
+            <b>Entonces</b> el sistema muestra de manera clara y organizada las valoraciones y comentarios de otros empresarios sobre las granjas.<br><br>
+            <b>Scenario 02:</b> Error al acceder a valoraciones y comentarios sobre granjas por falta de datos<br>
+            <b>Dado</b> que el empresario intenta acceder a la información pero no hay datos disponibles<br>
+            <b>Cuando</b> intenta acceder a la sección de valoraciones y comentarios sobre granjas<br>
+            <b>Entonces</b> el sistema muestra un mensaje indicando que no hay valoraciones o comentarios disponibles en ese momento.
         </td>
     </tr>
 </table>
+
 
 <table align="center" border="1" width="90%" style="text-align:center;">
     <tr align="left">
@@ -500,12 +495,6 @@
             <b>Dado</b> que el dueño de la granja está autenticado en la plataforma<br>
             <b>Cuando</b> intenta verificar los niveles de inventario<br>
             <b>Y</b> hay un problema técnico o de conectividad<br>
-            <b>Entonces</b> el sistema no puede mostrar los niveles de inventario y muestra un mensaje indicando que ha habido un error en el proceso.<br><br>
-            <b>Scenario 04:</b> Error en la recepción de notificaciones de reposición<br>
-            <b>Dado</b> que el dueño de la granja está autenticado en la plataforma<br>
-            <b>Cuando</b> los niveles de inventario de algún producto alcanzan un umbral mínimo predefinido<br>
-            <b>Y</b> hay un problema técnico o de conectividad<br>
-            <b>Entonces</b> el sistema no puede enviar la notificación de reposición y muestra un mensaje indicando que ha habido un error en el proceso.
         </td>
     </tr>
 </table>
@@ -516,7 +505,7 @@
             <b>Épica</b>
         </td>
         <td colspan=2>
-            Gestión de granja
+            Gestión de la granja
         </td>
     </tr>
     <tr align="left">
@@ -550,20 +539,584 @@
     <tr align="left">
         <td colspan=4>
             <b>Criterio de Aceptación:</b><br>
-            <b>Scenario 01:</b> Obtención exitosa de información detallada<br>
+            <b>Scenario 01:</b> Acceso exitoso a información detallada sobre cultivos y ganado<br>
             <b>Dado</b> que el dueño de la granja está autenticado en la plataforma<br>
-            <b>Cuando</b> accede al sistema de gestión de cultivos y ganado<br>
-            <b>Entonces</b> puede ver información detallada sobre el estado actual de sus cultivos y ganado, incluyendo salud, crecimiento, producción, y cualquier otra métrica relevante.<br><br>
-            <b>Scenario 02:</b> No hay información disponible<br>
+            <b>Cuando</b> accede a la sección de información detallada sobre cultivos y ganado<br>
+            <b>Entonces</b> el sistema muestra de manera rápida y clara el estado actualizado de los cultivos y ganado de la granja.<br><br>
+            <b>Scenario 02:</b> Error al acceder a información detallada sobre cultivos y ganado por falta de autorización<br>
+            <b>Dado</b> que el dueño de la granja intenta acceder a la información sin tener los permisos necesarios<br>
+            <b>Cuando</b> intenta acceder a la sección de información detallada sobre cultivos y ganado<br>
+            <b>Entonces</b> el sistema muestra un mensaje indicando que el usuario no está autorizado para ver la información.<br><br>
+        </td>
+    </tr>
+</table>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Gestión de la granja
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            11
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Luciano Ruiz
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Obtener estadísticas financieras
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b><br>
+            <b>Como</b> dueño de la granja, <b>quiero</b> saber estadísticas financieras, <b>para</b> poder administrar correctamente la economía de mi granja.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b><br>
+            <b>Scenario 01:</b> Acceso exitoso a estadísticas financieras<br>
             <b>Dado</b> que el dueño de la granja está autenticado en la plataforma<br>
-            <b>Cuando</b> intenta obtener información detallada sobre el estado de sus cultivos y ganado<br>
-            <b>Y</b> no hay datos disponibles en el sistema<br>
-            <b>Entonces</b> el sistema muestra un mensaje indicando que no hay información disponible en este momento.<br><br>
-            <b>Scenario 03:</b> Error al obtener información detallada<br>
+            <b>Cuando</b> accede a la sección de estadísticas financieras<br>
+            <b>Entonces</b> el sistema muestra las estadísticas financieras de la granja de manera clara y comprensible.<br><br>
+            <b>Scenario 02:</b> Error al acceder a estadísticas financieras<br>
             <b>Dado</b> que el dueño de la granja está autenticado en la plataforma<br>
-            <b>Cuando</b> intenta obtener información detallada sobre el estado de sus cultivos y ganado<br>
-            <b>Y</b> hay un problema técnico o de conectividad<br>
-            <b>Entonces</b> el sistema no puede mostrar la información detallada y muestra un mensaje indicando que ha habido un error en el proceso.
+            <b>Cuando</b> intenta acceder a las estadísticas financieras pero hay un problema técnico o de conectividad<br>
+            <b>Entonces</b> el sistema muestra un mensaje indicando que no se pueden mostrar las estadísticas financieras en ese momento.<br><br>
+            <b>Scenario 03:</b> Restricción de acceso a estadísticas financieras<br>
+            <b>Dado</b> que un usuario intenta acceder a las estadísticas financieras sin tener los permisos necesarios<br>
+            <b>Entonces</b> el sistema rechaza el acceso y muestra un mensaje indicando que el usuario no está autorizado para ver las estadísticas financieras.
+        </td>
+    </tr>
+</table>
+
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Gestión de la granja
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            12
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Luciano Ruiz
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Registrar el cumplimiento de tareas con detalles precisos
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b><br>
+            <b>Como</b> trabajador en la granja, <b>quiero</b> registrar el cumplimiento de mis tareas con detalles como la cantidad, calidad y fecha de cosecha, <b>para</b> mantener un registro preciso de la producción de la granja.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b><br>
+            <b>Scenario 01:</b> Registro exitoso del cumplimiento de tareas<br>
+            <b>Dado</b> que el trabajador ha completado una tarea asignada correctamente<br>
+            <b>Cuando</b> registra los detalles pertinentes como cantidad, calidad y fecha de cosecha<br>
+            <b>Entonces</b> el sistema registra la información correctamente en el registro de producción de la granja.<br><br>
+            <b>Scenario 02:</b> Error al registrar cumplimiento de tareas por falta de información<br>
+            <b>Dado</b> que el trabajador intenta registrar el cumplimiento de una tarea sin proporcionar toda la información requerida<br>
+            <b>Cuando</b> intenta guardar el registro<br>
+            <b>Entonces</b> el sistema rechaza el registro y muestra un mensaje indicando que se deben proporcionar todos los detalles necesarios.<br><br>
+            <b>Scenario 03:</b> Error al registrar cumplimiento de tareas por información incorrecta<br>
+            <b>Dado</b> que el trabajador proporciona información incorrecta al registrar el cumplimiento de una tarea<br>
+            <b>Cuando</b> intenta guardar el registro<br>
+            <b>Entonces</b> el sistema rechaza el registro y muestra un mensaje indicando que la información proporcionada es inválida o inconsistente.
+        </td>
+    </tr>
+</table>
+
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Gestión de la granja
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            13
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Luciano Ruiz
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Emitir alertas sobre emergencias a colegas y supervisores
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b><br>
+            <b>Como</b> trabajador en la granja, <b>quiero</b> emitir alertas sobre cualquier emergencia a mis colegas y supervisores de manera eficaz e inmediata.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b><br>
+            <b>Scenario 01:</b> Emisión exitosa de alerta de emergencia<br>
+            <b>Dado</b> que el trabajador identifica una emergencia en la granja<br>
+            <b>Cuando</b> emite una alerta utilizando la plataforma designada<br>
+            <b>Entonces</b> la alerta se envía de manera inmediata y eficaz a todos los colegas y supervisores designados.<br><br>
+            <b>Scenario 02:</b> Fallo por error del usuario al emitir alerta de emergencia<br>
+            <b>Dado</b> que el trabajador intenta emitir una alerta de emergencia sin proporcionar información suficiente o precisa sobre la emergencia<br>
+            <b>Entonces</b> la plataforma rechaza la solicitud y muestra un mensaje indicando que se deben proporcionar detalles adecuados sobre la emergencia.<br><br>
+            <b>Scenario 03:</b> Restricción de acceso para emitir alertas de emergencia<br>
+            <b>Dado</b> que un trabajador intenta emitir una alerta de emergencia sin tener los permisos necesarios<br>
+            <b>Entonces</b> el sistema rechaza la solicitud y muestra un mensaje indicando que el usuario no está autorizado para emitir alertas de emergencia.
+        </td>
+    </tr>
+</table>
+
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Gestión de la granja
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            14
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Luciano Ruiz
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Registrar horas de trabajo para cálculo de salario
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b><br>
+            <b>Como</b> trabajador, <b>quiero</b> registrar mis horas de trabajo, <b>para</b> saber mi salario en función a ello.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b><br>
+            <b>Scenario 01:</b> Registro exitoso de horas de trabajo<br>
+            <b>Dado</b> que el trabajador está autenticado en la plataforma<br>
+            <b>Cuando</b> registra sus horas de trabajo al finalizar su jornada laboral<br>
+            <b>Entonces</b> el sistema registra las horas de trabajo de manera correcta.<br><br>
+            <b>Scenario 02:</b> Intento de registro de horas de trabajo incorrecto<br>
+            <b>Dado</b> que el trabajador está autenticado en la plataforma<br>
+            <b>Cuando</b> intenta registrar sus horas de trabajo antes de iniciar o alargando su jornada sin justificación<br>
+            <b>Entonces</b> el sistema rechaza el registro y muestra un mensaje indicando que el tiempo registrado es inválido o incoherente.<br><br>
+            <b>Scenario 03:</b> Registro de horas de trabajo incompleto<br>
+            <b>Dado</b> que el trabajador está autenticado en la plataforma<br>
+            <b>Cuando</b> intenta registrar sus horas de trabajo sin completar todos los campos requeridos<br>
+            <b>Entonces</b> el sistema no acepta el registro y muestra un mensaje indicando que todos los campos deben ser completados.<br><br>
+            <b>Scenario 04:</b> Intento de registro duplicado<br>
+            <b>Dado</b> que el trabajador está autenticado en la plataforma<br>
+            <b>Cuando</b> intenta registrar las mismas horas de trabajo nuevamente<br>
+            <b>Entonces</b> el sistema rechaza el registro y muestra un mensaje indicando que ya se han registrado las horas para ese período de tiempo.<br>
+        </td>
+    </tr>
+</table>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Gestión de la granja
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            15
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Luciano Ruiz
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Registrar cantidad de ganado enfermo
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b><br>
+            <b>Como</b> trabajador, <b>quiero</b> registrar la cantidad de ganado enfermo, <b>para</b> tener información vital de la situación de cada animal.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b><br>
+            <b>Scenario 01:</b> Registro exitoso de cantidad de ganado enfermo<br>
+            <b>Dado</b> que el trabajador está autenticado en la plataforma<br>
+            <b>Cuando</b> registra la cantidad de ganado enfermo en la base de datos<br>
+            <b>Entonces</b> el sistema registra la información correctamente.<br><br>
+            <b>Scenario 02:</b> Registro de cantidad de ganado enfermo incorrecto<br>
+            <b>Dado</b> que el trabajador está autenticado en la plataforma<br>
+            <b>Cuando</b> intenta registrar una cantidad de ganado enfermo negativa o no numérica<br>
+            <b>Entonces</b> el sistema rechaza el registro y muestra un mensaje indicando que la cantidad debe ser un número positivo.<br><br>
+            <b>Scenario 03:</b> Registro de cantidad de ganado enfermo fuera de rango<br>
+            <b>Dado</b> que el trabajador está autenticado en la plataforma<br>
+            <b>Cuando</b> intenta registrar una cantidad de ganado enfermo mayor que el total de ganado en la granja<br>
+            <b>Entonces</b> el sistema rechaza el registro y muestra un mensaje indicando que la cantidad no puede ser mayor que el total de ganado en la granja.<br><br>
+            <b>Scenario 04:</b> Registro de cantidad de ganado enfermo incompleto<br>
+            <b>Dado</b> que el trabajador está autenticado en la plataforma<br>
+            <b>Cuando</b> intenta registrar la cantidad de ganado enfermo sin completar todos los campos requeridos<br>
+            <b>Entonces</b> el sistema no acepta el registro y muestra un mensaje indicando que todos los campos deben ser completados.
+        </td>
+    </tr>
+</table>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Acceso a la aplicación desde cualquier área de la granja
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            16
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Luciano Ruiz
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Acceso a la aplicación desde cualquier área de la granja
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b><br>
+            <b>Como</b> trabajador, <b>quiero</b> acceder a la aplicación desde cualquier área de la granja, <b>para</b> tener acceso rápido y conveniente a la información y funcionalidades necesarias para mi trabajo.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b><br>
+            <b>Scenario 01:</b> Acceso exitoso desde cualquier área de la granja<br>
+            <b>Dado</b> que el trabajador está en la granja<br>
+            <b>Cuando</b> intenta acceder a la aplicación desde cualquier dispositivo con conexión a internet<br>
+            <b>Entonces</b> el sistema le permite acceder sin problemas y utilizar todas las funcionalidades.<br><br>
+            <b>Scenario 02:</b> Problema de acceso desde ciertas áreas de la granja<br>
+            <b>Dado</b> que el trabajador está en la granja<br>
+            <b>Cuando</b> intenta acceder a la aplicación desde ciertas áreas con mala cobertura de internet o interferencias<br>
+            <b>Entonces</b> el sistema puede tener dificultades para cargar o responder lentamente.<br><br>
+            <b>Scenario 03:</b> Restricción de acceso por error del usuario<br>
+            <b>Dado</b> que el trabajador está en la granja<br>
+            <b>Cuando</b> intenta acceder a la aplicación ingresando credenciales incorrectas o no autorizadas<br>
+            <b>Entonces</b> el sistema rechaza el acceso y muestra un mensaje indicando que las credenciales son inválidas o que el usuario no está autorizado.
+        </td>
+    </tr>
+</table>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Gestión de la granja
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            17
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Luciano Ruiz
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Verificar el estado de actividades diarias de los trabajadores
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b><br>
+            <b>Como</b> dueño de la granja, <b>quiero</b> verificar el estado de las actividades diarias de los trabajadores y el tiempo dedicado a cada tarea, <b>para</b> gestionar eficazmente la asignación de tareas y el horario de trabajo.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b><br>
+            <b>Scenario 01:</b> Verificación exitosa de actividades diarias de los trabajadores<br>
+            <b>Dado</b> que el dueño de la granja está autenticado en la plataforma<br>
+            <b>Cuando</b> accede al registro de actividades diarias de los trabajadores<br>
+            <b>Entonces</b> puede ver el estado de las actividades y el tiempo dedicado a cada tarea de manera clara y precisa.<br><br>
+            <b>Scenario 02:</b> Error al verificar actividades diarias<br>
+            <b>Dado</b> que el dueño de la granja está autenticado en la plataforma<br>
+            <b>Cuando</b> intenta verificar las actividades diarias de los trabajadores<br>
+            <b>Y</b> ocurre un error al cargar los datos o el sistema no responde correctamente<br>
+            <b>Entonces</b> el sistema muestra un mensaje indicando que ha habido un error en el proceso de verificación.<br><br>
+            <b>Scenario 03:</b> Restricción de acceso sin autorización<br>
+            <b>Dado</b> que el dueño de la granja intenta acceder sin estar autorizado<br>
+            <b>Entonces</b> el sistema rechaza el acceso y muestra un mensaje indicando que el usuario no tiene permisos para ver estas actividades.
+        </td>
+    </tr>
+</table>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Gestión de la granja
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            18
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Luciano Ruiz
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Informes detallados sobre producción y gestión de la granja
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b><br>
+            <b>Como</b> dueño de la granja, <b>quiero</b> un informe detallado sobre la producción y la gestión de la granja, <b>para</b> garantizar el cumplimiento de los estándares de calidad y rentabilidad.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b><br>
+            <b>Scenario 01:</b> Generación exitosa de informe detallado<br>
+            <b>Dado</b> que el dueño de la granja está autenticado en la plataforma<br>
+            <b>Cuando</b> solicita la generación de un informe detallado sobre la producción y la gestión de la granja<br>
+            <b>Entonces</b> el sistema genera el informe de manera completa y precisa, incluyendo datos relevantes sobre la producción, gastos, ingresos y otros aspectos importantes.<br><br>
+            <b>Scenario 02:</b> Error en la generación del informe<br>
+            <b>Dado</b> que el dueño de la granja está autenticado en la plataforma<br>
+            <b>Cuando</b> intenta generar el informe detallado<br>
+            <b>Y</b> hay problemas técnicos o de conectividad<br>
+            <b>Entonces</b> el sistema no puede completar la generación del informe y muestra un mensaje indicando que ha habido un error.<br><br>
+            <b>Scenario 03:</b> Acceso restringido al informe<br>
+            <b>Dado</b> que un usuario intenta acceder al informe sin tener los permisos necesarios<br>
+            <b>Entonces</b> el sistema rechaza el acceso y muestra un mensaje indicando que el usuario no tiene autorización para ver el informe.
+        </td>
+    </tr>
+</table>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Gestión de la granja
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            19
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Luciano Ruiz
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Establecer y seguir metas de producción
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b><br>
+            <b>Como</b> dueño de la granja, <b>quiero</b> establecer metas de producción y seguirlas a lo largo del tiempo, <b>para</b> mantenerme enfocado en mejorar el rendimiento de mi granja.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b><br>
+            <b>Scenario 01:</b> Establecimiento exitoso de metas de producción<br>
+            <b>Dado</b> que el dueño de la granja está autenticado en la plataforma<br>
+            <b>Cuando</b> establece metas de producción específicas y alcanzables para su granja<br>
+            <b>Entonces</b> el sistema registra las metas de manera adecuada y las muestra para su seguimiento.<br><br>
+            <b>Scenario 02:</b> Seguimiento de metas a lo largo del tiempo<br>
+            <b>Dado</b> que el dueño de la granja está autenticado en la plataforma<br>
+            <b>Cuando</b> consulta el progreso hacia las metas establecidas en períodos posteriores<br>
+            <b>Entonces</b> el sistema muestra el progreso de manera clara y permite al dueño de la granja evaluar el rendimiento de su granja en relación con las metas establecidas.<br><br>
+            <b>Scenario 03:</b> Error en el establecimiento de metas de producción<br>
+            <b>Dado</b> que el dueño de la granja está autenticado en la plataforma<br>
+            <b>Cuando</b> intenta establecer metas de producción de manera incorrecta o incompleta<br>
+            <b>Entonces</b> el sistema no registra las metas y muestra un mensaje indicando que la información proporcionada es inválida o insuficiente.<br><br>
+            <b>Scenario 04:</b> Restricción de acceso a establecimiento de metas<br>
+            <b>Dado</b> que un usuario intenta establecer metas de producción sin tener los permisos necesarios<br>
+            <b>Entonces</b> el sistema rechaza el acceso y muestra un mensaje indicando que el usuario no tiene autorización para establecer metas.
+        </td>
+    </tr>
+</table>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Acceso móvil a la plataforma FarmLogiTech
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            20
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Luciano Ruiz
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Acceder a la plataforma FarmLogiTech desde dispositivo móvil
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b><br>
+            <b>Como</b> dueño de la granja, <b>quiero</b> acceder a la plataforma FarmLogiTech desde mi dispositivo móvil, <b>para</b> poder gestionar mi granja desde cualquier lugar.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b><br>
+            <b>Scenario 01:</b> Acceso exitoso desde dispositivo móvil<br>
+            <b>Dado</b> que el dueño de la granja tiene un dispositivo móvil con conexión a internet<br>
+            <b>Cuando</b> accede a la plataforma FarmLogiTech a través del navegador web de su dispositivo móvil<br>
+            <b>Entonces</b> el sistema le permite acceder y utilizar todas las funcionalidades de la plataforma de manera adecuada.<br><br>
+            <b>Scenario 02:</b> Problemas de rendimiento en dispositivo móvil<br>
+            <b>Dado</b> que el dueño de la granja está accediendo desde su dispositivo móvil<br>
+            <b>Cuando</b> utiliza la plataforma FarmLogiTech y experimenta lentitud o errores en la carga de páginas<br>
+            <b>Entonces</b> el sistema puede tener problemas de rendimiento en dispositivos móviles y necesita ser optimizado para mejorar la experiencia del usuario.<br><br>
+            <b>Scenario 03:</b> Restricción de acceso desde dispositivo móvil<br>
+            <b>Dado</b> que el dueño de la granja intenta acceder desde un dispositivo móvil sin estar autorizado<br>
+            <b>Entonces</b> el sistema rechaza el acceso y muestra un mensaje indicando que el acceso desde ese dispositivo no está permitido.
         </td>
     </tr>
 </table>
