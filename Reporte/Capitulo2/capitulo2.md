@@ -184,7 +184,7 @@ A continuación se pueden apreciar los User Journey Mapping de los segmentos obj
 - User Journey Mapping empresaria
   ![Imagen de UserJourney3](https://i.postimg.cc/tRYmRdj8/Customer-journey-map-Maria.png)
 
-### 2.3.5 Empathy Mapping
+### 2.3.4 Empathy Mapping
 A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivos.
 - User Empathy Mapping trabajador en granja
   ![Imagen de EmpathyMapping1](https://i.postimg.cc/Hxw80nyb/Empathy-Map-Trabajador.jpg)
