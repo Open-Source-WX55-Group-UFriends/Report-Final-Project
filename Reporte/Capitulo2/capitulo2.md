@@ -178,18 +178,30 @@ ya que estas deben alinearse con los estandares de los empresarios.
 ### 2.3.3 User Journey Mapping
 A continuación se pueden apreciar los User Journey Mapping de los segmentos objetivos.
 - User Journey Mapping trabajador en granja
-  ![Imagen de UserPersona1](https://i.postimg.cc/tTKBsfdJ/Customer-journey-map-Juann.png)
+  ![Imagen de UserJourney1](https://i.postimg.cc/tTKBsfdJ/Customer-journey-map-Juann.png)
 - User Journey Mapping dueño de granja
-  ![Imagen de UserPersona1](https://i.postimg.cc/SsWLjKg2/Customer-journey-map-Piero.png)
+  ![Imagen de UserJourney2](https://i.postimg.cc/SsWLjKg2/Customer-journey-map-Piero.png)
 - User Journey Mapping empresaria
-  ![Imagen de UserPersona1](https://i.postimg.cc/tRYmRdj8/Customer-journey-map-Maria.png)
+  ![Imagen de UserJourney3](https://i.postimg.cc/tRYmRdj8/Customer-journey-map-Maria.png)
 
 ### 2.3.5 Empathy Mapping
-
-
+A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivos.
+- User Empathy Mapping trabajador en granja
+  ![Imagen de EmpathyMapping1](https://i.postimg.cc/Hxw80nyb/Empathy-Map-Trabajador.jpg)
+- User Empathy Mapping dueño de granja
+  ![Imagen de EmpathyMapping2](https://i.postimg.cc/QCj9fDQw/Empathy-Map-Granjero.jpg)
+- User Empathy Mapping empresaria
+  ![Imagen de EmpathyMapping3](https://i.postimg.cc/j50JJPLs/Empathy-Map-Empresaria.jpg)
+Enlace de Miro: https://miro.com/app/board/uXjVKYifYmY=/?share_link_id=198034930149
 ### 2.3.5 As-Is Scenario Mapping
-
-![Imagen de As-Is Mapping](https://i.postimg.cc/qqmsH0Z8/Scenario-Mapping-Template.jpg)
+A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos.
+- User As-Is Scenario trabajador en granja
+  ![Imagen de As-Is1](https://i.postimg.cc/B6j4sVqb/Scenario-Mapping-Trabajador.jpg)
+- User As-Is Scenario dueño de granja
+  ![Imagen de As-Is2](https://i.postimg.cc/Zq74GSzX/Scenario-Mapping-Granjero.jpg)
+- User As-Is Scenario empresaria
+  ![Imagen de As-Is3](https://i.postimg.cc/tgC9vgwh/Scenario-Mapping-Empresaria.jpg)
+  Enlace de Miro: https://miro.com/app/board/uXjVKYvs29U=/?share_link_id=40902593860 
 ## 2.4 Ubiquitous Language
 - **Plataforma**: Representación de un sistema digital
 - **Perfil**: Conjunto de datos del usuario
