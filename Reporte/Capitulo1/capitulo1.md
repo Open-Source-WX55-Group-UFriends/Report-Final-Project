@@ -337,7 +337,7 @@ Soy Luciano Ruiz, tengo 20 años y estudio la carrera de Ingeniería de Software
 
 </table>
 
-
+## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
 La industria agrícola se encuentra en un estado de transformación, impulsado por el crecimiento de la población mundial y los cambios en las demandas del mercado. La presión sobre los agricultores para aumentar la producción y la calidad de los cultivos es más intensa que nunca. Sin embargo, muchos enfrentan obstáculos como la falta de herramientas tecnológicas adecuadas, la coordinación deficiente entre equipos de trabajo y la escasez de información en tiempo real sobre el estado de los cultivos y las condiciones climáticas.
 Según un informe de Rizia, Ana (2020) publicado en la página del MBA USP, muchos ganaderos pueden carecer de la capacitación necesaria en gestión agrícola y comercialización, lo que dificulta la toma de decisiones informadas y eficientes. Además, la falta de un control financiero adecuado puede llevar a dificultades económicas y poner en riesgo la viabilidad de la granja a largo plazo.
@@ -412,16 +412,16 @@ Según un informe de Rizia, Ana (2020) publicado en la página del MBA USP, much
 
 
 **Dueños de Granjas y Agricultores Independientes:**
-- Agricultores propietarios de granjas de diferentes tamaños y tipos de cultivos.
-- Buscan herramientas tecnológicas para optimizar la gestión de sus operaciones agrícolas.
-- Interesados en mejorar la eficiencia, productividad y rentabilidad de sus cultivos.
+-  Propietarios de granjas de diferentes tipos, ya sea ganado o cultivos.
+- Buscan herramientas tecnológicas para optimizar la gestión de sus operaciones agrícolas o ganaderas.
+- Interesados en mejorar la eficiencia, productividad y rentabilidad de sus cultivos y ganado.
 
-**Trabajadores Agrícolas:**
+**Trabajadores de granja:**
 - Empleados que realizan tareas diarias en las granjas, como la siembra, el riego, la cosecha y el cuidado del ganado.
 - Necesitan herramientas prácticas y fáciles de usar para realizar sus tareas de manera eficiente y colaborativa.
 - Buscan mejorar su productividad y contribuir al éxito general de la granja.
 
-**Empresas y Corporaciones del Sector Agrícola:**
+**Empresas y Corporaciones del Sector Agrícola y Ganadera:**
 - Empresas agrícolas, procesadores de alimentos y distribuidores.
-- Buscan establecer asociaciones estratégicas con granjas para mejorar la cadena de suministro y obtener productos agrícolas de alta calidad.
-- Interesados en tecnologías que les ayuden a monitorear y mejorar la calidad y el suministro de los productos agrícolas que utilizan en sus operaciones.
+- Buscan establecer asociaciones estratégicas con granjas para mejorar la cadena de suministro y obtener productos  de alta calidad.
+- Interesados en alquilar o comprar granjas.
