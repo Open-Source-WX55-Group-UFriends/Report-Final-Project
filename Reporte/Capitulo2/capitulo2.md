@@ -158,6 +158,16 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 - ¿Qué beneficios esperarían obtener al utilizar una plataforma en lugar de métodos tradicionales de búsqueda y contacto?
 - ¿Cuáles son las principales preocupaciones en términos de calidad, seguridad alimentaria y sostenibilidad al seleccionar proveedores agrícolas o ganaderos?
 - ¿Qué incentivos podrían motivarlos a utilizar una plataforma como la tuya para establecer relaciones con granjas proveedoras?
+#### Segmento objetivo: Trabajador
+- ¿Qué tipo de tareas realizas habitualmente en la granja?
+- ¿Qué herramientas o recursos necesitas para llevar a cabo tus tareas de manera eficiente?
+- ¿Qué aspectos de tu trabajo requieren una supervisión o seguimiento más cercano?
+- ¿Cuáles son los principales desafíos que enfrentas al llevar a cabo tus tareas diarias?
+- ¿Qué información consideras importante registrar sobre la producción de animales o cultivos?
+- ¿Qué funcionalidades te gustaría ver en una plataforma de gestión que facilite tu trabajo?
+- ¿Qué sugerencias o mejoras tendrías para una plataforma de gestión que te ayudaría a realizar tus tareas de manera más efectiva?
+- ¿Cómo crees que una plataforma de gestión podría ayudarte a mejorar tu productividad o eficiencia en el trabajo?
+- ¿Qué tan cómodo te sentirías utilizando tecnología para llevar a cabo tus tareas diarias en la granja?
 ### 2.2.2. Registro de entrevistas
 **Entrevista 01**
 
