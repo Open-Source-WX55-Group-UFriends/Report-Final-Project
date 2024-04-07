@@ -125,6 +125,10 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 
 
 ## 2.2. Entrevistas
+
+
+
+
 ### 2.2.1. Diseño de entrevistas
 
 #### Preguntas generales:
@@ -154,6 +158,23 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 - ¿Qué beneficios esperarían obtener al utilizar una plataforma en lugar de métodos tradicionales de búsqueda y contacto?
 - ¿Cuáles son las principales preocupaciones en términos de calidad, seguridad alimentaria y sostenibilidad al seleccionar proveedores agrícolas o ganaderos?
 - ¿Qué incentivos podrían motivarlos a utilizar una plataforma como la tuya para establecer relaciones con granjas proveedoras?
+### 2.2.2. Registro de entrevistas
+**Entrevista 01**
+
+**Nombres:** Rodrigo
+
+**Apellidos:** Noreña Nuñez
+
+**Edad:** 19 años
+
+**Ciudad:** Huacho
+
+//Foto de Rodrigo
+
+#### Evidencia de la reunión:
+
+Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente, trabaja como trabajador de cultivos en una empresa especializada en la producción, siembra y cosecha de maracuyá. Durante una entrevista reciente, compartió valiosa información sobre el seguimiento de la gestión y la producción en la empresa. Rodrigo también destacó los desafíos que enfrenta en su área de trabajo y expresó su interés en contribuir en futuras entrevistas. Además, enfatizó la importancia de contar con una plataforma que permita a los trabajadores acceder fácilmente a sus tareas pendientes, lo cual considera fundamental para mejorar la eficiencia en el trabajo.
+
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
