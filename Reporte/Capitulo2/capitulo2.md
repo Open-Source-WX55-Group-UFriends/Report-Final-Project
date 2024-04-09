@@ -203,17 +203,28 @@ Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se 
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
-- User persona trabajador en granja
+Con la finalidad comprender a nuestros segmentos objetivos, hemos decidido crear un User Persona por cada segmento objetivo.
+Para las características principales, estamos tomando en cuenta la información obtenida en las entrevistas.
+
+- **User persona trabajador en granja**  
+  Utilizando datos que obtuvimos en las entrevistas creamos el User Persona que representa al trabajador de una granja.
+  Este User Persona nos ayuda a entender las necesidades y desafíos que enfrenta este segmento objetivo.
   ![Imagen de UserPersona1](https://i.postimg.cc/FRbmXWdt/User-persona-trabajador.jpg)
 
-- Dueño de granja
+- **Dueño de granja**  
+  Utilizando datos que obtuvimos en las entrevistas creamos el User Persona que representa al dueño de la granja.
+  Este User Persona nos ayuda a entender sus motivaciones, necesidades y desafíos.
+
   ![Imagen de UserPersona2](https://i.postimg.cc/s2kDrGTW/User-persona-granjero.jpg)
 
-- Empresaria
+- **Empresaria**  
+  Utilizando datos que obtuvimos en las entrevistas creamos el User Persona que representa al empresario.
+  Este User Persona nos ayuda a entender los desafios que enfrenta este segmento objetivo.
+
   ![Imagen de UserPersona3](https://i.postimg.cc/W4hhjvjB/User-persona-empresaria.jpg)
 
 ### 2.3.2. User Task Matrix
-A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos.
+A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos. Estos son el dueño de la granja, trabajador y empresario.
 ![Imagen de TaskMatrix](https://i.postimg.cc/x10PvtVs/Tabla-User-Task.jpg)
 Las tareas que tienen mayor frecuencia son aquellas que comparten
 los dueños de las granjas y los trabajadores de las mismas.
@@ -222,7 +233,7 @@ con los otros segmentos, pero que son importantes para las granjas,
 ya que estas deben alinearse con los estandares de los empresarios.
 
 ### 2.3.3 User Journey Mapping
-A continuación se pueden apreciar los User Journey Mapping de los segmentos objetivos.
+A continuación se pueden apreciar end-to-end journey de los segmentos objetivos antes de que exista nuestra solución.
 - User Journey Mapping trabajador en granja
   ![Imagen de UserJourney1](https://i.postimg.cc/tTKBsfdJ/Customer-journey-map-Juann.png)
 - User Journey Mapping dueño de granja
@@ -231,7 +242,7 @@ A continuación se pueden apreciar los User Journey Mapping de los segmentos obj
   ![Imagen de UserJourney3](https://i.postimg.cc/tRYmRdj8/Customer-journey-map-Maria.png)
 
 ### 2.3.4 Empathy Mapping
-A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivos.
+A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivos. Para crear
 - User Empathy Mapping trabajador en granja
   ![Imagen de EmpathyMapping1](https://i.postimg.cc/Hxw80nyb/Empathy-Map-Trabajador.jpg)
 - User Empathy Mapping dueño de granja
