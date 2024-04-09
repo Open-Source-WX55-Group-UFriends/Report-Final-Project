@@ -87,8 +87,85 @@ siguientes:
     escenarios.
 
 ### 5.1.4. Software Deployment Configuration.
+## Landing page deployment:
+Para desplegar la landing page es necesario contar con una serie de requisitos, entre ellos, es necesario contar con
+una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible
+comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+1. Crear una carpeta llamada "docs" para alojar el Landing Page.
+2. Asegurarse de que los archivos sigan las nomenclaturas "index.html", para la landing page; "input.css" y "output.css" para poder utilizar Tailwind y
+   una carpeta llamada "img" que contenga las imágenes.
+
+---MATHIAS
+
+3. Cargar los archivos al repositorio mediante un commit.
+4. Dirigirse a Settings > Pages y seleccionar el branch correspondiente, en nuestro caso es el "main".
+5. Especificar la carpeta "docs" como la fuente de la página.
+6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que
+   llevará al Landing Page desplegado
+
+--MATHIAS
 --PARTE DE MATHI
 ### 5.2. Landing Page, Services & Applications Implementation.
+
+### 5.2.1 Sprint 1.
+#### 5.2.1.1 Sprint Planing 1.
+
+
+En el marco de Scrum, un Sprint es un período de tiempo definido y breve en el que un equipo de desarrollo trabaja en 
+las tareas necesarias para lograr un objetivo específico del producto, conocido como "Product Goal". En el proyecto de 
+desarrollo de FarmLogiTech, se han planificado cuatro sprints, cada uno con una duración de dos semanas.
+
+El Sprint #1, que comienza el 06/04/2024, tiene como objetivo principal crear una landing page atractiva 
+para FarmLogiTech. Esta página debe ser diseñada para captar la atención de los usuarios visitantes y comunicar 
+de manera clara y efectiva los principales beneficios ofrecidos por el producto. En resumen, durante este sprint 
+se enfocarán en el diseño y desarrollo de la landing page para cumplir con los objetivos establecidos.
+
+| Sprint | Prepared Date | Time      | Location                              | Prepared By     | Attendees                                                                      | Sprint 1 Goal | Sprint 1 Velocity | Sum of Story Points |
+|--------|---------------|-----------|---------------------------------------|-----------------|--------------------------------------------------------------------------------|---------------|-------------------|---------------------|
+|   1    | 06/04/2024    | 09:00  AM | Reunión virtual mediante Google meet  | Rodrigo Aguilar | Rodrigo Aguilar, Mathias Kunimoto, Janiel Escalante, Augusto Pin, Luciano Ruiz | Elaborar y diseñar una landing page atractiva e informativa para la aplicación Greenhouse | PRODUCT BACKLOG   | PRODUCT BACKLOG  |
+
+#### 5.2.1.2. Sprint Backlog 1.
+En el primer sprint, el equipo tuvo como objetivo principal crear una landing page atractiva y funcional. Utilizamos la herramienta Trello para organizar y asignar tareas a los miembros del equipo según sus habilidades.
+
+link del trello: https://trello.com/b/WJXt50JP/farmlogitech
+
+| Sprint #   | Sprint 1 |      |
+|------------|---------|------|
+| User Story |         | 09:00  AM | Reunión virtual mediante Google meet  | Elaborar y diseñar una landing page atractiva e informativa para la aplicación Greenhouse | PRODUCT BACKLOG   | PRODUCT BACKLOG  |
+| --------   |
+
+
+
+#### 5.2.1.3. Development Evidence for Sprint Review.
+| Repository  | Branch | Commit id | Commit Message|Commit Message Body | Commited on (Date)|
+|-------------|--------|-----------|------------------------------------|--------------------|-------- 
+| User Story  |        | 09:00  AM | Reunión virtual mediante Google meet | Elaborar y diseñar una landing page atractiva e informativa para la aplicación Greenhouse | PRODUCT BACKLOG   | PRODUCT BACKLOG  |
+| --------    |
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
