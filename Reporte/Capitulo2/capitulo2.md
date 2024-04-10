@@ -234,6 +234,9 @@ ya que estas deben alinearse con los estandares de los empresarios.
 
 ### 2.3.3 User Journey Mapping
 A continuación se pueden apreciar end-to-end journey de los segmentos objetivos antes de que exista nuestra solución.
+El User Journey Mapping empieza desde el momento en el que los user personas observan los problemas y tratan de
+investigar las soluciones de estas pasando por el proceso de encontrar alguna posible solución para finalmente dejar de 
+hacer uso de esta.
 - User Journey Mapping trabajador en granja
   ![Imagen de UserJourney1](https://i.postimg.cc/tTKBsfdJ/Customer-journey-map-Juann.png)
 - User Journey Mapping dueño de granja
