@@ -245,7 +245,10 @@ hacer uso de esta.
   ![Imagen de UserJourney3](https://i.postimg.cc/tRYmRdj8/Customer-journey-map-Maria.png)
 
 ### 2.3.4 Empathy Mapping
-A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivos. Para crear
+A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivos.
+Para la creación de estos se identifico a los segmentos objetivos y se realizo una
+lluvia de ideas para identificar sus necesidades, deseos, pensamientos, sentimientos, etc.
+Por otro lado, se tuvo en cuenta el contexto específico de cada usuario, como sus roles, responsabilidades y objetivos dentro del entorno agrícola.
 - User Empathy Mapping trabajador en granja
   ![Imagen de EmpathyMapping1](https://i.postimg.cc/Hxw80nyb/Empathy-Map-Trabajador.jpg)
 - User Empathy Mapping dueño de granja
