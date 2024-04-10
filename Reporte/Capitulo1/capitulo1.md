@@ -339,13 +339,11 @@ Soy Luciano Ruiz, tengo 20 años y estudio la carrera de Ingeniería de Software
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
-La industria agrícola se encuentra en un estado de transformación, impulsado por el crecimiento de la población mundial y los cambios en las demandas del mercado. La presión sobre los agricultores para aumentar la producción y la calidad de los cultivos es más intensa que nunca. Sin embargo, muchos enfrentan obstáculos como la falta de herramientas tecnológicas adecuadas, la coordinación deficiente entre equipos de trabajo y la escasez de información en tiempo real sobre el estado de los cultivos y las condiciones climáticas.
-Según un informe de Rizia, Ana (2020) publicado en la página del MBA USP, muchos ganaderos pueden carecer de la capacitación necesaria en gestión agrícola y comercialización, lo que dificulta la toma de decisiones informadas y eficientes. Además, la falta de un control financiero adecuado puede llevar a dificultades económicas y poner en riesgo la viabilidad de la granja a largo plazo.
-
+La industria agrícola y ganadera enfrenta desafíos significativos en términos de mejorar la producción, calidad y gestión de cultivos y ganado. Los agricultores y ganaderos se ven presionados por el crecimiento de la población mundial y los cambios en las demandas del mercado, pero enfrentan obstáculos como la falta de herramientas tecnológicas, la coordinación ineficiente entre granjasy la escasez de información en tiempo real sobre el estado de los cultivos, condiciones climáticas y bienestar animal. Según un informe de Rizia, Ana (2020) publicado en la página del MBA USP, muchos ganaderos pueden carecer de la capacitación necesaria en gestión agrícola y comercialización, lo que dificulta la toma de decisiones informadas y eficientes. Además, la falta de un control financiero adecuado puede llevar a dificultades económicas y poner en riesgo la viabilidad de la granja a largo plazo.
 
 -   **What?**
 
-    La industria agrícola enfrenta desafíos significativos en la gestión eficiente de las granjas, debido a la falta de herramientas tecnológicas adecuadas y la presión para aumentar la producción y calidad de los cultivos.
+    La industria  enfrenta desafíos significativos en la gestión eficiente de las granjas, debido a la falta de herramientas tecnológicas adecuadas y la presión para aumentar la producción y calidad de los cultivos.
 
 
 -   **When?**
@@ -366,7 +364,7 @@ Según un informe de Rizia, Ana (2020) publicado en la página del MBA USP, much
 
 -   **How?**
 
-    Se necesitan soluciones tecnológicas innovadoras que ayuden a los agricultores a optimizar sus operaciones, mejorar la calidad de los cultivos y aumentar su competitividad en el mercado agrícola. Esto puede lograrse mediante el desarrollo de herramientas de gestión agrícola integradas, el uso de sensores y la aplicación de técnicas de análisis de datos.
+    Se necesitan soluciones tecnológicas innovadoras que ayuden a los agricultores a optimizar sus operaciones, mejorar la calidad de los cultivos y aumentar su competitividad en el mercado agrícola. 
 
 -   **How much?**
 
@@ -374,8 +372,8 @@ Según un informe de Rizia, Ana (2020) publicado en la página del MBA USP, much
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
+- En la industria agrícola y ganadera, existe una falta de herramientas tecnológicas integradas que permitan a los agricultores y ganaderos monitorear en tiempo real el estado de los cultivos, el bienestar animal y las condiciones climáticas, lo que dificulta la toma de decisiones informadas y la optimización de la producción. Esta falta de información en tiempo real conduce a pérdidas económicas y afecta la sostenibilidad a largo plazo de las operaciones agrícolas y ganaderas. Además, mejorar la colaboración entre las empresas y los dueños de granjas es crucial para facilitar asociaciones beneficiosas que impulsen el crecimiento y la rentabilidad en toda la cadena de suministro agrícola.
 
-- La gestión eficiente de las actividades agrícolas y la colaboración efectiva entre empresas grandes y dueños de granjas son desafíos clave en la industria agrícola. Simplificar la gestión diaria de las operaciones agrícolas es fundamental para aumentar la productividad y eficiencia de los trabajadores en las granjas. Además, mejorar la colaboración entre las empresas y los dueños de granjas es crucial para facilitar asociaciones beneficiosas que impulsen el crecimiento y la rentabilidad en toda la cadena de suministro agrícola.
 
 #### 1.2.2.2. Lean UX Assumptions
 
@@ -401,6 +399,7 @@ Según un informe de Rizia, Ana (2020) publicado en la página del MBA USP, much
 - Creemos que al ofrecer una interfaz intuitiva y fácil de usar en la plataforma, podemos aumentar tanto por parte de los usuarios, lo que resultará en una mayor satisfacción del cliente y una mayor retención.
 - Creemos que al ofrecer herramientas de análisis de rendimiento de cultivos en tiempo real, podemos proporcionar a los agricultores información detallada sobre el rendimiento de sus cultivos y áreas de mejora, lo que resultará en una optimización de los procesos de producción agrícola.
 - Creemos que al incorporar características de planificación de cultivos y rotación de cultivos en la plataforma, podemos ayudar a los agricultores a maximizar el rendimiento de sus tierras y mejorar la sostenibilidad a largo plazo de sus operaciones.
+- Creemos que al estar al tanto del bienestar animal, podemos proporcionar a los ganaderos información crucial sobre la salud y el comportamiento de su ganado, lo que resultará en una mejor atención y manejo, así como en la detección temprana de problemas de salud.
 
 #### 1.2.2.4. Lean UX Canvas
 
