@@ -203,25 +203,28 @@ Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se 
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
-Con la finalidad comprender a nuestros segmentos objetivos, hemos decidido crear un User Persona por cada segmento objetivo.
-Para las características principales, estamos tomando en cuenta la información obtenida en las entrevistas.
+Con la finalidad comprender a nuestros segmentos objetivos, hemos decidido crear un User Persona por cada uno.
+Para las características principales estamos tomando en cuenta la información obtenida en las entrevistas.
 
 - **User persona trabajador en granja**  
-  Utilizando datos que obtuvimos en las entrevistas creamos el User Persona que representa al trabajador de una granja.
-  Este User Persona nos ayuda a entender las necesidades y desafíos que enfrenta este segmento objetivo.
-  ![Imagen de UserPersona1](https://i.postimg.cc/FRbmXWdt/User-persona-trabajador.jpg)
+  Utilizando datos que obtuvimos en las entrevistas, creamos el User Persona que representa al trabajador de una granja.
+  Este nos ayuda a entender las necesidades y desafíos que enfrenta este segmento objetivo, detallando 
+  sus gustos y comportamientos.
+  ![Imagen de UserPersona1](https://i.postimg.cc/ZYQMtWWC/User-persona-trabajador.png)
 
 - **Dueño de granja**  
-  Utilizando datos que obtuvimos en las entrevistas creamos el User Persona que representa al dueño de la granja.
-  Este User Persona nos ayuda a entender sus motivaciones, necesidades y desafíos.
+  Nuestro segundo User Persona representa al dueño de la granja.
+  Este nos ayuda a entender sus motivaciones, necesidades y desafíos para poder diseñar soluciones
+  personalizadas.
 
-  ![Imagen de UserPersona2](https://i.postimg.cc/s2kDrGTW/User-persona-granjero.jpg)
+  ![Imagen de UserPersona2](https://i.postimg.cc/7Z8thjM4/User-persona-granjero.png)
 
 - **Empresaria**  
   Utilizando datos que obtuvimos en las entrevistas creamos el User Persona que representa al empresario.
-  Este User Persona nos ayuda a entender los desafios que enfrenta este segmento objetivo.
+  Este nos ayuda a entender los desafios que enfrenta este segmento objetivo, proporcionando 
+  información sobre sus intereses comerciales, objetivos y desafíos.
 
-  ![Imagen de UserPersona3](https://i.postimg.cc/W4hhjvjB/User-persona-empresaria.jpg)
+  ![Imagen de UserPersona3](https://i.postimg.cc/x8XpN24f/User-persona-empresaria.png)
 
 ### 2.3.2. User Task Matrix
 A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos. Estos son el dueño de la granja, trabajador y empresario.
@@ -229,13 +232,13 @@ A continuación se pueden apreciar los User Task Matrix de los segmentos objetiv
 Las tareas que tienen mayor frecuencia son aquellas que comparten
 los dueños de las granjas y los trabajadores de las mismas.
 Por otro lado, los empresarios tienen tareas que no se comparten
-con los otros segmentos, pero que son importantes para las granjas,
+con los otros segmentos, pero son importantes para las granjas,
 ya que estas deben alinearse con los estandares de los empresarios.
 
 ### 2.3.3 User Journey Mapping
-A continuación se pueden apreciar end-to-end journey de los segmentos objetivos antes de que exista nuestra solución.
+A continuación se pueden apreciar el end-to-end journey de los segmentos objetivos antes de que exista nuestra solución.
 El User Journey Mapping empieza desde el momento en el que los user personas observan los problemas y tratan de
-investigar las soluciones de estas pasando por el proceso de encontrar alguna posible solución para finalmente dejar de 
+investigar las soluciones de estas, pasando por el proceso de encontrar alguna posible solución para finalmente dejar de 
 hacer uso de esta.
 - User Journey Mapping trabajador en granja
   ![Imagen de UserJourney1](https://i.postimg.cc/wM2m3Cp1/Customer-journey-map-Juann.png)
