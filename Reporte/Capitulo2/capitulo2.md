@@ -137,15 +137,20 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 ¿Dónde vives actualmente?
 ¿A qué te dedicas?
 
-#### Segmento objetivo: Dueño
-- ¿Qué desafíos enfrenta actualmente al gestionar su granja?
+### Segmento objetivo: Dueño
+
+#### Preguntas objetivas:
 - ¿Qué tipo de granja suele administrar? (agreria, ganadera, avicola, etc.)
 - De tener experiencia en gestionar una granja, ¿cómo ha realizado las gestiones de toda la granja?
+- ¿Estarias dispuesto(a) a pagar una tarifa por utilizar una aplicación que te ayude a gestionar tu granja de manera más eficiente?
+
+
+#### Preguntas subjetivas:
+- ¿Qué desafíos enfrenta actualmente al gestionar su granja?
 - ¿Qué te parece más importante para un plataforma de gestion: la facilidad de uso de la plataforma, la seguridad de la informacion, la diversidad de opciones disponibles, u otros aspectos?
 - ¿Cuáles son las principales características que busca en una plataforma de gestion de granjas?
 - ¿Qué incentivos o beneficios podrían motivarlo a utilizar una plataforma de gestion de granjas de manera más frecuente?
 - ¿Ha tenido alguna experiencia previa con plataformas similares de gestion de granjas?¿Qué aspectos le gustaron?
-- ¿Estarías dispuesto(a) a pagar una tarifa por utilizar una aplicación que te ayude a gestionar tu granja de manera más eficiente?
 - ¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?
 
 #### Segmento objetivo: Administrador
@@ -201,6 +206,38 @@ Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente
 #### Evidencia de la reunión:
 Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se desempeñó como gerente de una empresa líder en la distribución de productos avícolas en la región. Durante su extensa carrera, ha acumulado una vasta experiencia en la gestión de operaciones, logística y supervisión de personal en el sector avícola. En una reciente entrevista, compartió valiosos conocimientos sobre estrategias de distribución, control de inventario y gestión de recursos humanos en la industria avícola. Cesar también reflexionó sobre los desafíos enfrentados durante su carrera y expresó su interés en seguir contribuyendo al sector mediante consultorías y asesorías especializadas. Destacó la importancia de la eficiencia operativa y la optimización de procesos en un mercado tan competitivo como el de la distribución de productos avícolas. Además, resaltó la necesidad de implementar tecnologías innovadoras para mejorar la productividad y la calidad en todas las etapas de la cadena de suministro.
 
+
+**Entrevista 03**
+
+**Nombres:** Jorge
+
+**Apellidos:** Kunimoto
+
+**Edad:** 61 años
+
+**Ciudad:** Lima
+
+<img src="/assets/entrevista-mathias-1.png"></img><br>
+
+#### Evidencia de la reunión:
+
+Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta diversos desafíos en la gestión de su granja. La rotación de personal y las regulaciones medioambientales son preocupaciones constantes, mientras que la proximidad a áreas pobladas agrega complejidad a las operaciones. La renovación de equipos e infraestructura es esencial para mantener la competitividad en un mercado en constante cambio. En su granja, se especializa en la cría y producción avícola, priorizando el bienestar de las aves y la bioseguridad. Jorge ha implementado estrategias para estabilizar el equipo de trabajo y cumplir con las regulaciones, optimizando procesos y concientizando al personal sobre su papel en el éxito de la granja. Considera que la facilidad de uso es vital en cualquier plataforma de gestión y busca constantemente mejorar los procesos internos. La optimización del tiempo es crucial, y Jorge estaría dispuesto a pagar por una aplicación que mejore la eficiencia de su operación. En la búsqueda de herramientas prácticas en una plataforma de gestión, prioriza soluciones integrales que aborden los desafíos específicos de su granja avícola.
+
+**Entrevista 04**
+
+**Nombres:** Mirian
+
+**Apellidos:** Higashi 
+
+**Edad:** 55 años
+
+**Ciudad:** Lima
+
+//Foto de Mirian
+
+#### Evidencia de la reunión:
+
+Mirian Higashi, una mujer de 55 años de Lima, Perú, ha llevado un buen manejo en la industria avícola. Con un cargo como administradora en una empresa avícola, posee un profundo conocimiento en la gestión de operaciones, logística y gestión de personal en este campo. 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 Con la finalidad comprender a nuestros segmentos objetivos, hemos decidido crear un User Persona por cada uno.
