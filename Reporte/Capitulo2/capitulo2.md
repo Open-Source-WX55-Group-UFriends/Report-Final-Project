@@ -238,11 +238,11 @@ El User Journey Mapping empieza desde el momento en el que los user personas obs
 investigar las soluciones de estas pasando por el proceso de encontrar alguna posible solución para finalmente dejar de 
 hacer uso de esta.
 - User Journey Mapping trabajador en granja
-  ![Imagen de UserJourney1](https://i.postimg.cc/tTKBsfdJ/Customer-journey-map-Juann.png)
+  ![Imagen de UserJourney1](https://i.postimg.cc/wM2m3Cp1/Customer-journey-map-Juann.png)
 - User Journey Mapping dueño de granja
-  ![Imagen de UserJourney2](https://i.postimg.cc/SsWLjKg2/Customer-journey-map-Piero.png)
+  ![Imagen de UserJourney2](https://i.postimg.cc/vHPnywhj/Customer-journey-map-Piero.png)
 - User Journey Mapping empresaria
-  ![Imagen de UserJourney3](https://i.postimg.cc/tRYmRdj8/Customer-journey-map-Maria.png)
+  ![Imagen de UserJourney3](https://i.postimg.cc/G3xYMyyb/Customer-journey-map-Maria.png)
 
 ### 2.3.4 Empathy Mapping
 A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivos.
@@ -250,20 +250,21 @@ Para la creación de estos se identifico a los segmentos objetivos y se realizo 
 lluvia de ideas para identificar sus necesidades, deseos, pensamientos, sentimientos, etc.
 Por otro lado, se tuvo en cuenta el contexto específico de cada usuario, como sus roles, responsabilidades y objetivos dentro del entorno agrícola.
 - User Empathy Mapping trabajador en granja
-  ![Imagen de EmpathyMapping1](https://i.postimg.cc/Hxw80nyb/Empathy-Map-Trabajador.jpg)
+  ![Imagen de EmpathyMapping1](https://i.postimg.cc/kXVJVr9L/Empathy-Map-Trabajador.png)
 - User Empathy Mapping dueño de granja
-  ![Imagen de EmpathyMapping2](https://i.postimg.cc/QCj9fDQw/Empathy-Map-Granjero.jpg)
+  ![Imagen de EmpathyMapping2](https://i.postimg.cc/NGCGfGh1/Empathy-Map-Granjero.png)
 - User Empathy Mapping empresaria
-  ![Imagen de EmpathyMapping3](https://i.postimg.cc/j50JJPLs/Empathy-Map-Empresaria.jpg)
-Enlace de Miro: https://miro.com/app/board/uXjVKYifYmY=/?share_link_id=198034930149
+  ![Imagen de EmpathyMapping3](https://i.postimg.cc/rss8C340/Empathy-Map-Empresaria.png)
 ### 2.3.5 As-Is Scenario Mapping
-A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos.
+El As-Is Scenario nos permite comprender a fondo cómo funcionan actualmente las operaciones en las granjas antes de implementar 
+cambios o nuevas estrategias. Es decir, proporciona una base sólida para identificar áreas de mejora y optimización en las 
+operaciones de nuestros user persona. A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos.
 - User As-Is Scenario trabajador en granja
-  ![Imagen de As-Is1](https://i.postimg.cc/B6j4sVqb/Scenario-Mapping-Trabajador.jpg)
+  ![Imagen de As-Is1](https://i.postimg.cc/DZMVFZW0/Scenario-Mapping-Trabajador.jpg)
 - User As-Is Scenario dueño de granja
-  ![Imagen de As-Is2](https://i.postimg.cc/Zq74GSzX/Scenario-Mapping-Granjero.jpg)
+  ![Imagen de As-Is2](https://i.postimg.cc/sXXFtSgb/Scenario-Mapping-Granjero.jpg)
 - User As-Is Scenario empresaria
-  ![Imagen de As-Is3](https://i.postimg.cc/tgC9vgwh/Scenario-Mapping-Empresaria.jpg)
+  ![Imagen de As-Is3](https://i.postimg.cc/MGzJmg26/Scenario-Mapping-Empresaria.jpg)
   Enlace de Miro: https://miro.com/app/board/uXjVKYvs29U=/?share_link_id=40902593860 
 ## 2.4 Ubiquitous Language
 - **Plataforma**: Representación de un sistema digital
