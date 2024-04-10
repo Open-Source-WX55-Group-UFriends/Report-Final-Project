@@ -249,11 +249,11 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
 Para la creación de estos se identifico a los segmentos objetivos y se realizo una
 lluvia de ideas para identificar sus necesidades, deseos, pensamientos, sentimientos, etc.
 Por otro lado, se tuvo en cuenta el contexto específico de cada usuario, como sus roles, responsabilidades y objetivos dentro del entorno agrícola.
-- User Empathy Mapping trabajador en granja
+- User Empathy Mapping trabajador en granja  
   ![Imagen de EmpathyMapping1](https://i.postimg.cc/kXVJVr9L/Empathy-Map-Trabajador.png)
-- User Empathy Mapping dueño de granja
+- User Empathy Mapping dueño de granja  
   ![Imagen de EmpathyMapping2](https://i.postimg.cc/NGCGfGh1/Empathy-Map-Granjero.png)
-- User Empathy Mapping empresaria
+- User Empathy Mapping empresaria  
   ![Imagen de EmpathyMapping3](https://i.postimg.cc/rss8C340/Empathy-Map-Empresaria.png)
 ### 2.3.5 As-Is Scenario Mapping
 El As-Is Scenario nos permite comprender a fondo cómo funcionan actualmente las operaciones en las granjas antes de implementar 
