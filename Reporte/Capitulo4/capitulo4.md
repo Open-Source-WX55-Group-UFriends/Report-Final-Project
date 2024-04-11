@@ -467,7 +467,7 @@ Para el proyecto, nos hemos decidido por utilizar el motor de base de datos de M
 
 ### 4.8.1 Database Diagram
 
-<img src="/Assets/diagrama-database.png" alt="Diagrama-database"></img>
+<img src="/Assets/diagrama-database.png" alt    ="Diagrama-database"></img>
 
 
 
