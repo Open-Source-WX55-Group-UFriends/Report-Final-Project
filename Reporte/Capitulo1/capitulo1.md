@@ -32,12 +32,12 @@
             <td>U202210584</td>
         </tr>
         <tr>
-                <td>Kunimoto Watanabe, Mathias Tsuneo</td>
-            <td>U202210148</td>
-        </tr>
-        <tr>
             <td>Escalante Baygorrea, Janiel Franz</td>
             <td>U201912668</td>
+        </tr>
+        <tr>
+                <td>Kunimoto Watanabe, Mathias Tsuneo</td>
+            <td>U202210148</td>
         </tr>
         <tr>
             <td>Pin Matallana, Augusto José</td>
@@ -160,7 +160,7 @@
 Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de
-conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
+conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
 
 <table>
   <tr>
@@ -172,15 +172,15 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
     <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
     <td> TB1<br><br>
          <b>Kunimoto Watanabe Mathias Tsuneo</b><br>
-colocar info         <br><br> 
+<br> Capítulo 1        <br><br> 
          <b>Aguilar Castillo, Rodrigo Alejandro </b><br>
-colocar info         <br><br> 
+<br> Capítulo 5         <br><br> 
          <b>Escalante Baygorrea, Janiel Franz</b><br>
-colocar info         <br><br>
+<br> Capítulo 2         <br><br>
         <b>Pin Matallana, Augusto José</b><br>
-colocar info         <br><br> 
+<br> Capítulo 2           <br><br> 
         <b>Ruiz Blas, Luciano Stefano</b>
-colocar info         <br><br>
+<br> Capítulo 3           <br><br>
    </td>
     <td>TB1<br><br>
     Seleccionamos un servicio de gestion y logistica de granjas con el fin de ayudar a todas las personas que trabajan en este sector y que la problematica de la falta de organizacion, junto al desperdicio de medios puede llegar a tener perdidas que buscamos preveer con nuestra startup.</td>
@@ -188,21 +188,23 @@ colocar info         <br><br>
   <tr>
     <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
     <td> TB1<br><br>
+ <b>Kunimoto Watanabe Mathias Tsuneo</b><br>
+<br> Capítulo 1        <br><br> 
          <b>Aguilar Castillo, Rodrigo Alejandro</b><br>
-
+<br> Capítulo 5         <br><br> 
 <br><br> 
          <b>Escalante Baygorrea, Janiel Franz</b><br>
-
+<br> Capítulo 2         <br><br> 
 <br><br>
         <b>Pin Matallana, Augusto José</b><br>
-
+<br> Capítulo 2       <br><br> 
 <br><br> 
         <b>Ruiz Blas, Luciano Stefano</b>
- 
+ <br> Capítulo 3       <br><br> 
 <br><br>
    </td>
     <td>TB1<br><br>
-Gracias al proyecto logramos conocer personas dentro de la insddustria y lo util que le podria venir una aplicacion como la que estamos proponiendo para el desarrollo de tareas cotidianas.  </tr>
+Gracias al proyecto logramos conocer personas dentro de la industria y lo util que le podria venir una aplicacion como la que estamos proponiendo para el desarrollo de tareas cotidianas.  </tr>
 </table>
 
 <br><br>
