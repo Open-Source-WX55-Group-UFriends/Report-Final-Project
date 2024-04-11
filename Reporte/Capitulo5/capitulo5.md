@@ -82,7 +82,6 @@ El proyecto seguirá las convenciones del flujo de trabajo establecido por el mo
 
 El flujo de trabajo a ser implementado para el desarrollo del proyecto se basará en el modelo propuesto por Vincent Driessen en "A successful Git branching model".
 
-## <M Imagen de Realese branches
 
 **Estructura de branches (Ramas):**
 1. **Master branch (Rama principal):** Esta rama servirá como la principal para la aplicación, alojando versiones estables y finales del desarrollo. Únicamente se aceptarán cambios que hayan sido previamente probados y verificados en los features y de ahí en Developer.
