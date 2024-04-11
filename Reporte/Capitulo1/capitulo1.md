@@ -183,26 +183,26 @@ colocar info         <br><br>
 colocar info         <br><br>
    </td>
     <td>TB1<br><br>
-    Seleccionamos un servicio de alquiler de habitaciones para estudiantes, donde desarrollamos el enunciado del problema y las declaraciones de hipótesis para evaluar el alcance del desarrollo y la solución de la problemática.</td>
+    Seleccionamos un servicio de gestion y logistica de granjas con el fin de ayudar a todas las personas que trabajan en este sector y que la problematica de la falta de organizacion, junto al desperdicio de medios puede llegar a tener perdidas que buscamos preveer con nuestra startup.</td>
   </tr>
   <tr>
     <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
     <td> TB1<br><br>
          <b>Aguilar Castillo, Rodrigo Alejandro</b><br>
-colocar info 
+
 <br><br> 
          <b>Escalante Baygorrea, Janiel Franz</b><br>
-colocar info 
+
 <br><br>
         <b>Pin Matallana, Augusto José</b><br>
-colocar info 
+
 <br><br> 
         <b>Ruiz Blas, Luciano Stefano</b>
-colocar info 
+ 
 <br><br>
    </td>
     <td>TB1<br><br>
-colocar info  </tr>
+Gracias al proyecto logramos conocer personas dentro de la insddustria y lo util que le podria venir una aplicacion como la que estamos proponiendo para el desarrollo de tareas cotidianas.  </tr>
 </table>
 
 <br><br>
