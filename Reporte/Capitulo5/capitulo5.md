@@ -76,6 +76,11 @@ El proyecto seguirá las convenciones del flujo de trabajo establecido por el mo
 
 **Flujo de trabajo GitFlow**
 
+<div align=center>
+   <img src="/assets/gitflow.jpeg" alt="gitflow"></img>
+</div>
+</br>
+
 El flujo de trabajo a ser implementado para el desarrollo del proyecto se basará en el modelo propuesto por Vincent Driessen en "A successful Git branching model".
    
 ## <M Imagen de Realese branches 
@@ -140,9 +145,13 @@ comenzar el despliegue de la landing page. A continuación se enuncian los pasos
 6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que
    llevará al Landing Page desplegado
 
-## < GithubPages
+<div align=center>
+   <img src="/assets/github-pages.jpeg" alt="githubpages"></img>
+</div>
 
---PARTE DE MATHI
+
+## GithubPages
+
 ### 5.2. Landing Page, Services & Applications Implementation.
 
 ### 5.2.1 Sprint 1.
@@ -157,12 +166,18 @@ Durante el Sprint #1, que inicia el 06/04/2024, el objetivo principal es desarro
 llamativa para FarmLogiTech. Esta página se diseñará para atraer a los visitantes y comunicar de manera efectiva los beneficios del producto. En resumen,
 durante este sprint nos enfocaremos en el diseño y desarrollo de la landing page para cumplir con nuestros objetivos.
 
+
 | Sprint | Prepared Date | Time      | Location                              | Prepared By     | Attendees                                                                      | Sprint 1 Goal                                                                               | Sprint 1 Velocity | Sum of Story Points |
 |--------|---------------|-----------|---------------------------------------|-----------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------|---------------------|
 |   1    | 06/04/2024    | 11:00  PM | Reunión virtual mediante Google meet  | Rodrigo Aguilar | Rodrigo Aguilar, Mathias Kunimoto, Janiel Escalante, Augusto Pin, Luciano Ruiz | Elaborar y diseñar una landing page atractiva e informativa para la aplicación FarmLogiTech | 22                | 22                  |
 
 #### 5.2.1.2. Sprint Backlog 1.
 En el primer sprint, el equipo tuvo como objetivo principal crear una landing page atractiva y funcional. Utilizamos la herramienta Trello para organizar y asignar tareas a los miembros del equipo según sus habilidades.
+
+<div align=center>
+   <img src="/assets/trello.jpeg" alt="trello"></img>
+</div>
+
 
 link del trello: https://trello.com/b/WJXt50JP/farmlogitech
 
@@ -303,22 +318,36 @@ Durante el Sprint 1, logramos la implementación y despliegue del Landing Page. 
 
 1. Sección  carrusel de imágenes
    En esta sección, se puede visualizar e interactuar con las imágenes principales.
->Imagen de carrusel
+
+<div align=center>
+   <img src="/assets/img-carrusel.jpeg" alt="carrusel"></img>
+</div>
 
 2. Sección de Características
    En esta sección, se puede observar lo que FarmLogitech ofrece.
->Imagenes  caracteristicas
+
+<div align=center>
+   <img src="/assets/img-caracteristicas.jpeg" alt="caracteristicas"></img>
+</div>
+
 3. Sección Planes
    En esta sección, se visualizan los planes que Farmlogitech, plan básico en el que solo
    podrás promocionar tu granja y el premium en la que no solo podrás promocionarla, sino también gestionarla.
->Imagenes de planes
+<div align=center>
+   <img src="/assets/img-planes.jpeg" alt="planes"></img>
+</div>
 
 4. Sección Método de Pago
    En esta sección, se visualizan diversos métodos de pago que Farmlogitech ofrece
->Imagenes de metodo de pago
+<div align=center>
+   <img src="/assets/img-metodos-de-pago.jpeg" alt="metodo-pago"></img>
+</div>
+
 5. Sección Colaboradores
    En esta sección, aparecerán los colaboradores encargados de desarrollar la landing page.
->Imagenes de colaboradores
+<div align=center>
+   <img src="/assets/img-colaboradores.jpeg" alt="colaboradores"></img>
+</div>
    
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
@@ -327,7 +356,9 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Para la entrega del Sprint número 1, se desplegó la landing page completa. 
-> Imagene completa
+<div align=center>
+   <img src="/assets/img-landing-completa.jpeg" alt="landing-completa"></img>
+</div>
 
 Enlace para acceder a la landing page: https://open-source-wx55-group-ufriends.github.io/landing-page/#
 
@@ -341,17 +372,40 @@ Enlace para acceder a la landing page: https://open-source-wx55-group-ufriends.g
 | Augusto Pin      | Implementación de la sección colaboradores                  |
 | Luciano Ruiz     | Implementación de la sección de planes                      |
 
->imagen de avances en el git
+<div align=center>
+   <img src="/assets/img-commits.jpeg" alt="commits"></img>
+</div>
+
+<div align=center>
+   <img src="/assets/commitsss.jpeg" alt="commitssss"></img>
+</div>
+
+<div align=center>
+   <img src="/assets/img-comits.jpeg" alt="comitssss"></img>
+</div>
+
+<div align=center>
+   <img src="/assets/commmmmits.jpeg" alt="commmmitssss"></img>
+</div>
+
+<div align=center>
+   <img src="/assets/more-commits.jpeg" alt="more-commits"></img>
+</div>
 
 
+# Conclusiones
 
+- En conclusión, crremos que el proyecto FarmLogiTech es una aplicación que tiene un gran potencial para ayudar a los dueños de granja a gestionar sus granjas de manera eficiente y sostenible. A través de la implementación de una landing page atractiva y funcional, hemos logrado comunicar de manera efectiva los beneficios de la aplicación y atraer a los visitantes. Durante el Sprint 1, el equipo ha trabajado de manera colaborativa y eficiente para cumplir con los objetivos establecidos. A través de la implementación de las Historias de Usuario y la realización de pruebas de aceptación, hemos logrado desarrollar una landing page que cumple con los requerimientos del cliente. En el próximo Sprint, nos enfocaremos en el desarrollo de la aplicación y en la implementación de nuevas funcionalidades para mejorar la experiencia del usuario.
 
+### Video de exposición
 
+[Video de exposición](https://youtu.be/604xxkD6Wtg)
 
+# Bibliografía
 
-
-
-
+- Infobae. (2023, 22 de marzo). Crisis en el sector avícola: Precio del pollo se eleva, granjas quebradas y millones de aves sacrificadas por influenza. https://www.infobae.com/peru/2023/03/22/crisis-en-el-sector-avicola-precio-del-pollo-se-eleva-granjas-quebradas-y-millones-de-aves-sacrificadas-por-influenza/
+- AviNews. (2023, 14 de noviembre). Brote de influenza aviar en granja de postura comercial en Perú. https://avinews.com/peru-se-presenta-brote-de-influenza-aviar-en-granja-de-postura-comercial/
+- Gobierno Regional de Lima. (2021, 3 de mayo). Productores de Barranca apuestan por el cultivo de maracuyá. https://www.gob.pe/regionlima
 
 
 

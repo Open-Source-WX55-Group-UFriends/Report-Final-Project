@@ -164,105 +164,160 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 - ¿Cuáles son las principales preocupaciones en términos de calidad, seguridad alimentaria y sostenibilidad al seleccionar proveedores agrícolas o ganaderos?
 - ¿Qué incentivos podrían motivarlos a utilizar una plataforma como la tuya para establecer relaciones con granjas proveedoras?
 #### Segmento objetivo: Trabajador
-- ¿Qué tipo de tareas realizas habitualmente en la granja?
-- ¿Qué herramientas o recursos necesitas para llevar a cabo tus tareas de manera eficiente?
-- ¿Qué aspectos de tu trabajo requieren una supervisión o seguimiento más cercano?
-- ¿Cuáles son los principales desafíos que enfrentas al llevar a cabo tus tareas diarias?
-- ¿Qué información consideras importante registrar sobre la producción de animales o cultivos?
-- ¿Qué funcionalidades te gustaría ver en una plataforma de gestión que facilite tu trabajo?
-- ¿Qué sugerencias o mejoras tendrías para una plataforma de gestión que te ayudaría a realizar tus tareas de manera más efectiva?
-- ¿Cómo crees que una plataforma de gestión podría ayudarte a mejorar tu productividad o eficiencia en el trabajo?
-- ¿Qué tan cómodo te sentirías utilizando tecnología para llevar a cabo tus tareas diarias en la granja?
-  
+#### Preguntas objetivas:
+- ¿Cuántos años de experiencia tienes trabajando en la agricultura/ganadería?
+- ¿Qué tipo de  ganado/cultivo manejas en tu trabajo?
+- ¿Cuál es el tamaño aproximado  de tu rebaño?
+- ¿Qué tecnologías o herramientas utilizas para mejorar la productividad en tu trabajo?
+- ¿Qué medidas tomas para garantizar la salud y el bienestar de tus animales?
+- ¿Que tipo de dispositivos sueles utilizar y que sistemas operativos tienen?
+
+#### Preguntas Subjetivas
+- ¿Qué aspectos te motivan más en tu trabajo diario con el ganado?
+- ¿Cómo crees que tu trabajo contribuye al bienestar animal/sostenibilidad alimentaria?
+- ¿Qué desafíos personales has enfrentado en tu trabajo y cómo los has superado?
+- ¿Cuál es tu relación con los proveedores y clientes con los que interactúas en tu trabajo?
 ### 2.2.2. Registro de entrevistas
-**Entrevista 01**
 
-**Nombres:** Rodrigo
+*Entrevista 01*
 
-**Apellidos:** Noreña Nuñez
+*Nombres:* Mirian
 
-**Edad:** 19 años
+*Apellidos:* Higashi
 
-**Ciudad:** Huacho
+*Edad:* 55 años
 
-//Foto de Rodrigo
+*Ciudad:* Lima
 
-#### Evidencia de la reunión:
-
-Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente, trabaja como trabajador de cultivos en una empresa especializada en la producción, siembra y cosecha de maracuyá. Durante una entrevista reciente, compartió valiosa información sobre el seguimiento de la gestión y la producción en la empresa. Rodrigo también destacó los desafíos que enfrenta en su área de trabajo y expresó su interés en contribuir en futuras entrevistas. Además, enfatizó la importancia de contar con una plataforma que permita a los trabajadores acceder fácilmente a sus tareas pendientes, lo cual considera fundamental para mejorar la eficiencia en el trabajo.
-
-**Entrevista:** 02
-
-**Nombres:** Cesar
-
-**Apellidos:** Pin Lavado
-
-**Edad:** 63 años
-
-**Ciudad:** Lima
-
-//Foto de Cesar
-
-#### Evidencia de la reunión:
-Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se desempeñó como gerente de una empresa líder en la distribución de productos avícolas en la región. Durante su extensa carrera, ha acumulado una vasta experiencia en la gestión de operaciones, logística y supervisión de personal en el sector avícola. En una reciente entrevista, compartió valiosos conocimientos sobre estrategias de distribución, control de inventario y gestión de recursos humanos en la industria avícola. Cesar también reflexionó sobre los desafíos enfrentados durante su carrera y expresó su interés en seguir contribuyendo al sector mediante consultorías y asesorías especializadas. Destacó la importancia de la eficiencia operativa y la optimización de procesos en un mercado tan competitivo como el de la distribución de productos avícolas. Además, resaltó la necesidad de implementar tecnologías innovadoras para mejorar la productividad y la calidad en todas las etapas de la cadena de suministro.
-
-
-**Entrevista 03**
-
-**Nombres:** Jorge
-
-**Apellidos:** Kunimoto
-
-**Edad:** 61 años
-
-**Ciudad:** Lima
 
 <div align=center>
-    <img src="/Assets/Entrevista03.png" alt="Entrevista-03"/></img>
+    <img src="/assets/Entrevista04.png" alt="Entrevista-04"/></img>
+</div>
+
+#### Evidencia de la reunión:
+
+Mirian Higashi, una mujer de 55 años de Lima, Perú, ha llevado un buen manejo en la industria avícola. Con un cargo como administradora en una empresa avícola, posee un profundo conocimiento en la gestión de operaciones, logística y gestión de personal en este campo.
+
+*Minuto de la entrevista:* 0:00
+
+*Link de la entrevista:* [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
+
+
+
+*Entrevista 02*
+
+*Nombres:* Jorge
+
+*Apellidos:* Kunimoto
+
+*Edad:* 61 años
+
+*Ciudad:* Lima
+
+<div align=center>
+    <img src="/assets/Entrevista03.png" alt="Entrevista-03"/></img>
 </div>
 
 #### Evidencia de la reunión:
 
 Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta diversos desafíos en la gestión de su granja. La rotación de personal y las regulaciones medioambientales son preocupaciones constantes, mientras que la proximidad a áreas pobladas agrega complejidad a las operaciones. La renovación de equipos e infraestructura es esencial para mantener la competitividad en un mercado en constante cambio. En su granja, se especializa en la cría y producción avícola, priorizando el bienestar de las aves y la bioseguridad. Jorge ha implementado estrategias para estabilizar el equipo de trabajo y cumplir con las regulaciones, optimizando procesos y concientizando al personal sobre su papel en el éxito de la granja. Considera que la facilidad de uso es vital en cualquier plataforma de gestión y busca constantemente mejorar los procesos internos. La optimización del tiempo es crucial, y Jorge estaría dispuesto a pagar por una aplicación que mejore la eficiencia de su operación. En la búsqueda de herramientas prácticas en una plataforma de gestión, prioriza soluciones integrales que aborden los desafíos específicos de su granja avícola.
 
-**Entrevista 04**
+*Minuto de la entrevista:* 6:55
 
-**Nombres:** Mirian
+*Link de la entrevista:*  [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
-**Apellidos:** Higashi 
+*Entrevista 03*
 
-**Edad:** 55 años
+*Nombres:* Rodrigo
 
-**Ciudad:** Lima
+*Apellidos:* Noreña Nuñez
+
+*Edad:* 19 años
+
+*Ciudad:* Huacho
 
 <div align=center>
-    <img src="/Assets/Entrevista04.png" alt="Entrevista-04"/></img>
+    <img src="/assets/Entrevista3.jpg" alt="Entrevista3"/></img>
 </div>
+
+
+
 
 #### Evidencia de la reunión:
 
-Mirian Higashi, una mujer de 55 años de Lima, Perú, ha llevado un buen manejo en la industria avícola. Con un cargo como administradora en una empresa avícola, posee un profundo conocimiento en la gestión de operaciones, logística y gestión de personal en este campo. 
+Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente, trabaja como trabajador de cultivos en una empresa especializada en la producción, siembra y cosecha de maracuyá. Durante una entrevista reciente, compartió valiosa información sobre el seguimiento de la gestión y la producción en la empresa. Rodrigo también destacó los desafíos que enfrenta en su área de trabajo y expresó su interés en contribuir en futuras entrevistas. Además, enfatizó la importancia de contar con una plataforma que permita a los trabajadores acceder fácilmente a sus tareas pendientes, lo cual considera fundamental para mejorar la eficiencia en el trabajo.
+*Minuto de la entrevista:* 14:28
+
+*Link de la entrevista:*  [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
+
+*Entrevista 04*
+
+*Nombres:* Italo
+
+*Apellidos:* Luna
+
+*Edad:* 19 años
+
+*Ciudad:* Lima
+
+<div align=center>
+    <img src="/assets/Entrevista4.jpeg" alt="Entrevista4"/></img>
+</div>
+
+####  Evidencia de la reunión:
+Italo Luna es un joven de 19 años que proviene de Huaral, Perú. Actualmente, es un estudiante de la carrera de ing. de Software, en vacaciones ayuda a sus padres como trabajador de en una empresa avícola. Durante una entrevista reciente, compartió valiosa información sobre el seguimiento de la gestión y la producción en la empresa. Italo también destacó
+que uno de los desafíos que ha tenido es mantener el equilibrio entre la eficiencia de producción y el bienestar animal. Además nos comenta que la empresa cuenta con alrededor de 50,000 pollo y 10 galpones. Se le preguntó acerca de como viene siendo la venta de los pollos y nos dijo que dependiendo del peso del pollo, se crea un porcentaje en la cuál tiene que ser vendido cada pollo por el mismo peso o un aproximado.
+
+*Minuto de la entrevista:* 20:14
+
+*Link de la entrevista:* [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
+*Entrevista:* 02
+
+*Nombres:* Cesar
+
+*Apellidos:* Pin Lavado
+
+*Edad:* 63 años
+
+*Ciudad:* Lima
+
+<div align=center>
+    <img src="/assets/Entrevista5.jpg" alt="Entrevista5"/></img>
+</div>
+
+*Minuto de la entrevista:* 25:17
+
+*Link de la entrevista:* [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
+
+#### Evidencia de la reunión:
+Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se desempeñó como gerente de una empresa líder en la distribución de productos avícolas en la región. Durante su extensa carrera, ha acumulado una vasta experiencia en la gestión de operaciones, logística y supervisión de personal en el sector avícola. En una reciente entrevista, compartió valiosos conocimientos sobre estrategias de distribución, control de inventario y gestión de recursos humanos en la industria avícola. Cesar también reflexionó sobre los desafíos enfrentados durante su carrera y expresó su interés en seguir contribuyendo al sector mediante consultorías y asesorías especializadas. Destacó la importancia de la eficiencia operativa y la optimización de procesos en un mercado tan competitivo como el de la distribución de productos avícolas. Además, resaltó la necesidad de implementar tecnologías innovadoras para mejorar la productividad y la calidad en todas las etapas de la cadena de suministro.
+
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 Con la finalidad comprender a nuestros segmentos objetivos, hemos decidido crear un User Persona por cada uno.
 Para las características principales estamos tomando en cuenta la información obtenida en las entrevistas.
 
-- **User persona trabajador en granja**  
+- *User persona trabajador en granja*  
   Utilizando datos que obtuvimos en las entrevistas, creamos el User Persona que representa al trabajador de una granja.
-  Este nos ayuda a entender las necesidades y desafíos que enfrenta este segmento objetivo, detallando 
+  Este nos ayuda a entender las necesidades y desafíos que enfrenta este segmento objetivo, detallando
   sus gustos y comportamientos.
   ![Imagen de UserPersona1](https://i.postimg.cc/ZYQMtWWC/User-persona-trabajador.png)
 
-- **Dueño de granja**  
+- *Dueño de granja*  
   Nuestro segundo User Persona representa al dueño de la granja.
   Este nos ayuda a entender sus motivaciones, necesidades y desafíos para poder diseñar soluciones
   personalizadas.
 
   ![Imagen de UserPersona2](https://i.postimg.cc/7Z8thjM4/User-persona-granjero.png)
 
-- **Empresaria**  
+- *Empresaria*  
   Utilizando datos que obtuvimos en las entrevistas creamos el User Persona que representa al empresario.
-  Este nos ayuda a entender los desafios que enfrenta este segmento objetivo, proporcionando 
+  Este nos ayuda a entender los desafios que enfrenta este segmento objetivo, proporcionando
   información sobre sus intereses comerciales, objetivos y desafíos.
 
   ![Imagen de UserPersona3](https://i.postimg.cc/x8XpN24f/User-persona-empresaria.png)
@@ -279,7 +334,7 @@ ya que estas deben alinearse con los estandares de los empresarios.
 ### 2.3.3 User Journey Mapping
 A continuación se pueden apreciar el end-to-end journey de los segmentos objetivos antes de que exista nuestra solución.
 El User Journey Mapping empieza desde el momento en el que los user personas observan los problemas y tratan de
-investigar las soluciones de estas, pasando por el proceso de encontrar alguna posible solución para finalmente dejar de 
+investigar las soluciones de estas, pasando por el proceso de encontrar alguna posible solución para finalmente dejar de
 hacer uso de esta.
 - User Journey Mapping trabajador en granja
   ![Imagen de UserJourney1](https://i.postimg.cc/wM2m3Cp1/Customer-journey-map-Juann.png)
@@ -300,8 +355,8 @@ Por otro lado, se tuvo en cuenta el contexto específico de cada usuario, como s
 - User Empathy Mapping empresaria  
   ![Imagen de EmpathyMapping3](https://i.postimg.cc/rss8C340/Empathy-Map-Empresaria.png)
 ### 2.3.5 As-Is Scenario Mapping
-El As-Is Scenario nos permite comprender a fondo cómo funcionan actualmente las operaciones en las granjas antes de implementar 
-cambios o nuevas estrategias. Es decir, proporciona una base sólida para identificar áreas de mejora y optimización en las 
+El As-Is Scenario nos permite comprender a fondo cómo funcionan actualmente las operaciones en las granjas antes de implementar
+cambios o nuevas estrategias. Es decir, proporciona una base sólida para identificar áreas de mejora y optimización en las
 operaciones de nuestros user persona. A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos.
 - User As-Is Scenario trabajador en granja
   ![Imagen de As-Is1](https://i.postimg.cc/DZMVFZW0/Scenario-Mapping-Trabajador.jpg)
@@ -309,10 +364,8 @@ operaciones de nuestros user persona. A continuación se pueden apreciar los As-
   ![Imagen de As-Is2](https://i.postimg.cc/sXXFtSgb/Scenario-Mapping-Granjero.jpg)
 - User As-Is Scenario empresaria
   ![Imagen de As-Is3](https://i.postimg.cc/MGzJmg26/Scenario-Mapping-Empresaria.jpg)
-  Enlace de Miro: https://miro.com/app/board/uXjVKYvs29U=/?share_link_id=40902593860 
+  Enlace de Miro: https://miro.com/app/board/uXjVKYvs29U=/?share_link_id=40902593860
 ## 2.4 Ubiquitous Language
-- **Plataforma**: Representación de un sistema digital
-- **Perfil**: Conjunto de datos del usuario
-- **Dispositivo**: IoT = Red de objetos y dispositivos que son capaces de transmitir y recibir datos usando internet
-
-
+- *Plataforma*: Representación de un sistema digital
+- *Perfil*: Conjunto de datos del usuario
+- *Dispositivo*: IoT = Red de objetos y dispositivos que son capaces de transmitir y recibir datos usando internet
