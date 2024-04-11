@@ -1,10 +1,9 @@
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 
-
 ### 4.1.1. General Style Guidelines
 
-*Branding:*
+### Branding:
 - Esta imagen simboliza nuestra dedicación a la agricultura y a los animales. Al unirse a nosotros, los usuarios experimentarán una conexión sólida y colaborativa, reflejada en nuestra comunidad.
 
 <div align=center>
@@ -12,17 +11,17 @@
 colocar imagen del logo
 </div>
 
-*Typography:*
-- La tipografía de nuestro logotipo adoptará el elegante estilo Etna Sans Serif, reconocido por su modernidad y su atractivo visual para nuestros usuarios. Este estilo no solo refleja la innovación y la creatividad que caracterizarán a nuestra aplicación, sino que también resalta la vanguardia que buscamos transmitir.
+### Typography:
+- La tipografía de nuestro logotipo adoptará el elegante estilo Semibold, reconocido por su modernidad y su atractivo visual para nuestros usuarios. Este estilo no solo refleja la innovación y la creatividad que caracterizarán a nuestra aplicación, sino que también resalta la vanguardia que buscamos transmitir.
 
 <div align=center>
  colocar imagen tipografia
 </div>
 <br>
 
-*Colors:*
-- 
-Nuestra paleta de colores se ha seleccionado para que al visitar nuestro sitio web, los usuarios sientan la atmósfera de una granja. El verde oscuro (#44604D) nos conecta con la naturaleza y la tierra, mientras que el verde claro (#25C95C) aporta frescura y vitalidad. El amarillo pálido (#FAFFDD) evoca la luz del sol sobre los cultivos. En conjunto, estos colores ofrecen una experiencia visual que refleja el ambiente y la energía de una granja.
+### Colors:
+
+- Nuestra paleta de colores se ha seleccionado para que al visitar nuestro sitio web, los usuarios sientan la atmósfera de una granja. El verde  (#25C95C) aporta frescura y vitalidad. El amarillo pálido (#E9F3AE) evoca la luz del sol sobre los cultivos. En conjunto, estos colores ofrecen una experiencia visual que refleja el ambiente y la energía de una granja.
 
 <div align=center>
     colocar imagen 
@@ -54,7 +53,7 @@ Nuestra paleta de colores se ha seleccionado para que al visitar nuestro sitio w
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 
-Al entrar a nuestro Website, el usuario podrá visualizar 3 secciones: El inicio, las tarifas, Login (Administradores) .
+Al entrar a nuestro Website, el usuario podrá visualizar 5 secciones: El inicio, las tarifas, Login (Administradores) y publica tu anuncio .
 
 <div align=center>
 colocar imagen
@@ -77,85 +76,47 @@ Dichas categorías son:
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-*Landing Page:* La página de inicio de nuestra aplicación contará con los siguientes tags:
+Las etiquetas meta en HTML son esenciales para proporcionar información y metadatos no visibles a los usuarios, pero útiles para los navegadores y rastreadores web. Facilitan el análisis y mantenimiento del contenido, además de contribuir al posicionamiento en los motores de búsqueda. Utilizaremos estas etiquetas para optimizar nuestra página web.
+  
+- Título: Esta etiqueta es fundamental y suele colocarse antes que cualquier otra metaetiqueta. Todos los motores de búsqueda la utilizan como encabezado en las páginas de resultados de búsqueda (SERP).  
+```<title>Register your processes with FarmLogiTech</title> ```
+- Autor y Derechos de Autor:
+  Esta etiqueta se emplea para registrar la información del autor y los derechos de propiedad de la página web.  
+``` 
+<meta name="author" content="FarmLogitech"/>
+<meta name="copyright" content="Copyright FarmLogiTech team" /
+- ```
 
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ChambeaPe - Tu plataforma para encontrar empleo</title>
-    <meta name="description" content="Encuentra empleo en Perú con ChambeaPe. Conectamos a empleadores y trabajadores de manera eficiente. ¡Regístrate y encuentra tu próximo trabajo!">
-    <meta name="keywords" content="empleo, trabajo, Perú, búsqueda de empleo, ofertas de trabajo, empleos en Perú">
-    <link rel="stylesheet" href="./assets/css/home.css">
-    <link rel="shortcut icon" href="./assets/icons/Logo.svg" type="image/x-icon">
-
-</head>
 
 
 
 ### 4.2.4. Searching Systems
 
-En nuestro proyecto, facilitaremos a los usuarios la oferta de granjas que cumplan con sus requisitos específicos. Los usuarios podrán listar sus granjas según el tipo de producto que ofrecen, ya sea cultivos o animales, así como también podrán especificar la ubicación geográfica de sus granjas. Esto garantizará que los usuarios puedan mostrar fácilmente las características de sus granjas, mejorando así su visibilidad y accesibilidad en nuestra plataforma.
-<div align=center>
-colocar imagen
-</div>
+
+
+Es esencial que los usuarios administradores puedan distinguir y filtrar la información de los registros almacenados en la aplicación web de gestión de granjas. Uno de los objetivos clave del sistema es presentar de manera efectiva, sencilla y rápida la gran cantidad de datos que serán ingresados por las empresas agrícolas. Los usuarios tendrán la capacidad de buscar los registros de cultivos según su fecha de ingreso y la fase en la que se encuentran. Además, podrán filtrar la información según la fecha, fase y autor del registro de cultivos en el histórico general de cultivos realizados. También se incluirá funcionalidad de búsqueda en la visualización de los empleados de la empresa.
 
 ### 4.2.5. Navigation Systems
 
-Para facilitar al usuario navegar por nuestro contenido, se utilizarán los siguientes sistemas de navegación:
 
-- *Navegación principal o global:* Es el sistema de navegación más común, presente en todos los apartados de la página y usualmente representado por la barra de navegación y el footer.
-
-<div align=center>
-colocar imagen 
-</div>
-
-El patrón de lectura a utilizar para la visualización de nuestro website para las secciones que muestran contenido ligero será el patrón Z.
-<div align=center>
-colocar imagen
-<br>
-
-</div>
+Los principales sistemas de navegación en la Landing Page son los menús ubicados en la parte superior e inferior. El etiquetado direcciona a los usuarios a las secciones específicas de la página. Si no se utilizan estos enlaces, la página se desplazará hacia abajo automáticamente. En la aplicación, los usuarios seguirán un proceso de cultivo, con secciones numeradas y visibles encima de los registros de cada fase. Los usuarios tienen la opción de saltar entre fases o seguir un orden secuencial. Los botones, por su parte, representan acciones como abrir, confirmar o completar un registro, facilitando el seguimiento del proceso en una nueva pantalla.
 
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
 
-<div align=center>
-    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149433086304600187/image.png?width=1026&height=670" alt="version-web-wireframe"  width="90%"/>
-</div>
-</br>
-<div align=center>
-    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149433086870814761/image.png?width=560&height=526" alt="version-web-wireframe"  width="90%"/>
-</div>
-</br>
-<div align=center>
-    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149433086614982827/image.png?width=552&height=670" alt="version-web-wireframe"  width="90%"/>
-</div>
-</br>
-<div align=center>
-    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149433087118295181/image.png?width=561&height=240" alt="version-web-wireframe"  width="90%"/>
-</div>
-</br>
+
 
 ### 4.3.2. Landing Page Mock-up
 
-<div align=center>
-    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149434091909955746/image.png?width=562&height=401" alt="version-web-mockup"  width="90%"/>
-</div>
-</br>
-<div align=center>
-    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149434092400680980/image.png?width=561&height=511" alt="version-web-mockup"  width="90%"/>
-</div>
-</br>
-<div align=center>
-    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149434092639760384/image.png?width=560&height=485" alt="version-web-mockup"  width="90%"/>
-</div>
-</br>
-<div align=center>
-    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149434092908200016/image.png?width=562&height=388" alt="version-web-mockup"  width="90%"/>
-</div>
-</br>
+### 4.4. Web Applications UX/UI Design.
+#### 4.4.1. Web Applications Wireframes.
+#### 4.4.2. Web Applications Wireflow Diagrams.
+####  4.4.3. Web Applications Mock-ups.
+#### 4.4.4. Web Applications User Flow Diagrams.
+#### 4.5. Web Applications Prototyping.
+
+
 
 # 4.6. Domain-Driven Software Architecture
 El Domain Driven Design (DDD) tiene como objetivo llegar a un entendimiento compartido del dominio que abarca el espacio del problema. En el caso de “FarmLogitech”, este dominio es la gestión de granjas y la colaboración entre agricultores y empresas. Gracias a la perspectiva brindada por este enfoque, es posible mejorar la colaboración entre los desarrolladores y los expertos del dominio.
@@ -165,7 +126,6 @@ El Domain Driven Design (DDD) tiene como objetivo llegar a un entendimiento comp
 El diagrama de contexto muestra una vista de alto nivel de las relaciones entre el sistema de software “FarmLogitech”, los usuarios y, si es el caso, de otros sistemas externos.
 
 <img src="/assets/img-diagram-system.png" alt="System diagram"></img>
-
 
 ## 4.6.2. Software Architecture Container Diagram
 El diagrama de contenedores muestra una vista de alto nivel de las relaciones entre las aplicaciones y fuentes de datos que son parte de la ejecución del sistema de software “FarmLogitech”.
@@ -329,7 +289,7 @@ Class Sells
 | date  | String | Day of the sell
 | percentage  | int | Percentage of the sell
 
-Class Notification
+ Class Notification
 | Atribute  | Type  | Description |
 | ------------ | ------------ |------------ |
 | id | int | Unique code for a notification
@@ -337,9 +297,7 @@ Class Notification
 
 ## Database Design
 Para el proyecto, nos hemos decidido por utilizar el motor de base de datos de MySQL, debido a que es una herramientas con la que todos los integrantes del equipo nos sentimos comodos y familiarizados, ademas que posee una interfaz sencilla e intuitiva. Este motor nos permite desarrollar una base de datos para nuestro proyecto, el cual requerira de muchas tablas y conexiones entre ellas.
-###Database Diagram
-
-
+### Database Diagram
 
 
 
