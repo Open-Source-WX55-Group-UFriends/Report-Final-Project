@@ -235,7 +235,9 @@ Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta di
 
 **Ciudad:** Lima
 
-//Foto de Mirian
+<div align=center>
+    <img src="/Assets/Entrevista04.png" alt="Entrevista-04"/></img>
+</div>
 
 #### Evidencia de la reunión:
 
