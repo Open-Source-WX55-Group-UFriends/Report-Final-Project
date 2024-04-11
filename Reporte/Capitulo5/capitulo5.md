@@ -6,71 +6,71 @@ A continuación, presentaremos el proceso por el cual organizamos, gestionamos y
 1. Trello: Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos de
    trabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuario
    pertenecientes al sprint a desarrollar.  
-  Ruta de referencia: https://trello.com/es
-  
+   Ruta de referencia: https://trello.com/es
+
 
 **Product UX/UI Design**
 
 1. Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En el
    caso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.
-  
-    Ruta de referencia: https://www.figma.com/login
+
+   Ruta de referencia: https://www.figma.com/login
 2. Lucidchart: Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama de
-   clases asociado a la aplicación.   
+   clases asociado a la aplicación.
 
    Ruta de referencia: https://www.lucidchart.com/
-     
+
 
 **Software Development**
 1. Visual Studio Code: Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos de
    dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del
    proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltiples
-   lenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios. 
-   
+   lenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios.
+
    Ruta de referencia: https://code.visualstudio.com/  
    <br>
 2. HTML5: HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será
-   empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación. 
-    
+   empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
+
    Ruta de referencia: https://www.w3schools.com/html/html5_syntax.asp   
    <br>
 3. CSS: Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano
    con HTML.
-   
+
    Ruta de referencia: https://google.github.io/styleguide/htmlcssguide.html
    <br>
    <br>
 4. Tailwind CSS: Es un conjunto de herramientas de utilidad de CSS altamente personalizable y orientado a clases. Se utilizará para diseñar y estilizar la interfaz de usuario dentro de la aplicación.
 
-    Ruta de referencia: https://tailwindcss.com/docs
-<br>
-<br>
+   Ruta de referencia: https://tailwindcss.com/docs
+   <br>
+   <br>
 5. JavaScript: Es un lenguaje de programación interpretado y orientado a objetos. Se utilizará para elaborar la interfaz de
-   usuario dentro de la aplicación. 
+   usuario dentro de la aplicación.
 
    Ruta de referencia: https://developer.mozilla.org/es/docs/Web/JavaScript
 
  <br>
 
 **Software Deployment**
-1. Git: Una herramienta de control de versiones que facilita el registro y la gestión de las distintas versiones del programa. Su propósito es mantener un historial de cambios y simplificar la corrección de errores. Los integrantes del equipo 
-   accederán a través de la línea de comandos en sus sistemas locales. 
+1. Git: Una herramienta de control de versiones que facilita el registro y la gestión de las distintas versiones del programa. Su propósito es mantener un historial de cambios y simplificar la corrección de errores. Los integrantes del equipo
+   accederán a través de la línea de comandos en sus sistemas locales.
 
    Ruta de referencia: https://git-scm.com/
    <br>
    <br>
-**Software Documentation and Project Management**
-2. Github: Una plataforma en la nube que hospedará los repositorios de código del proyecto. Permitirá la colaboración en 
-   tiempo real y la revisión de contribuciones de cada miembro del equipo. Los integrantes del equipo podrán acceder a través de sus navegadores web. 
-   
+   **Software Documentation and Project Management**
+2. Github: Una plataforma en la nube que hospedará los repositorios de código del proyecto. Permitirá la colaboración en
+   tiempo real y la revisión de contribuciones de cada miembro del equipo. Los integrantes del equipo podrán acceder a través de sus navegadores web.
+
    Ruta de referencia: https://github.com/
 
 
 ### 5.1.2. Source Code Management.
 El proyecto seguirá las convenciones del flujo de trabajo establecido por el modelo GitFlow para el control de versiones, empleando GitHub como plataforma y sistema de control de versiones. A continuación, se describirá la implementación de GitFlow como un flujo de trabajo para el control de versiones, junto con el enlace del Landing Page.
-  
-**Repositorio de GitHub:** 
-- Enlace para acceder a la [organización en GitHub](https://github.com/Open-Source-WX55-Group-UFriends)   
+
+**Repositorio de GitHub:**
+- Enlace para acceder a la [organización en GitHub](https://github.com/Open-Source-WX55-Group-UFriends)
 - Enlace para acceder al repositorio de la [landing Page](https://github.com/Open-Source-WX55-Group-UFriends/landing-page)
 - Enlace para acceder al repositorio del [reporte final](https://github.com/Open-Source-WX55-Group-UFriends/Report-Final-Project)
 
@@ -82,41 +82,41 @@ El proyecto seguirá las convenciones del flujo de trabajo establecido por el mo
 </br>
 
 El flujo de trabajo a ser implementado para el desarrollo del proyecto se basará en el modelo propuesto por Vincent Driessen en "A successful Git branching model".
-   
-## <M Imagen de Realese branches 
+
+## <M Imagen de Realese branches
 
 **Estructura de branches (Ramas):**
- 1. **Master branch (Rama principal):** Esta rama servirá como la principal para la aplicación, alojando versiones estables y finales del desarrollo. Únicamente se aceptarán cambios que hayan sido previamente probados y verificados en los features y de ahí en Developer.
- 2. **Develop branch (Rama de desarrollo):** El propósito de esta rama es facilitar los avances del proyecto en equipo y mantener los archivos centrales del desarrollo continuo.
- 3. **Feature branch(Ramas de funcionalidad):** Cada capitulo desarrollado por el equipo, o separada del enfoque actual del desarrollo, tendrá su propia rama. Una vez que una funcionalidad esté completamente trabajada, se fusionará con la rama de desarrollo del proyecto. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón descriptivo y único, por ejemplo, "feature/chapter-#".
+1. **Master branch (Rama principal):** Esta rama servirá como la principal para la aplicación, alojando versiones estables y finales del desarrollo. Únicamente se aceptarán cambios que hayan sido previamente probados y verificados en los features y de ahí en Developer.
+2. **Develop branch (Rama de desarrollo):** El propósito de esta rama es facilitar los avances del proyecto en equipo y mantener los archivos centrales del desarrollo continuo.
+3. **Feature branch(Ramas de funcionalidad):** Cada capitulo desarrollado por el equipo, o separada del enfoque actual del desarrollo, tendrá su propia rama. Una vez que una funcionalidad esté completamente trabajada, se fusionará con la rama de desarrollo del proyecto. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón descriptivo y único, por ejemplo, "feature/chapter-#".
 ### 5.1.3. Source Code Style Guide & Conventions.
- **HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las
+**HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las
 siguientes:
 1. Cerrar todos los elementos HTML: Por ejemplo, ```<p>Esto es un párrafo.</p>```
 2. Siempre declarar el tipo de documento en la primera línea del documento, para
-HTML es "<!DOCTYPE html>”.
+   HTML es "<!DOCTYPE html>”.
 3. Escribir en una línea los comentarios cortos.
 4. Utilizar comillas en caso de que los atributos contengan espacios entre sí.
 5. Procurar especificar el texto alt y las dimensiones width y height de las imágenes, ya que de esta manera se facilitará la
-    disponibilidad del contenido. Por ejemplo:   ```<img src="abc.img" alt="image name"  
-    style="width:128px;height:128px">```  
+   disponibilidad del contenido. Por ejemplo:   ```<img src="abc.img" alt="image name"  
+   style="width:128px;height:128px">```
 6. Se nos recomienda no usar el espacio al momento de utilizar los signos porque
    es más fácil de leerlo de esta forma.  
- <br>
- HTML: (https://www.w3schools.com/html/html5_syntax.asp)
+   <br>
+   HTML: (https://www.w3schools.com/html/html5_syntax.asp)
 
-**CSS:** Entre las prácticas empleadas se menciona:  
+**CSS:** Entre las prácticas empleadas se menciona:
 
 1. Se nos recomienda tener una sangría por 2 espacios a la vez, no debemos
-utilizar tabulaciones ni mezclarlas tabulaciones con espacios para la sangría.
+   utilizar tabulaciones ni mezclarlas tabulaciones con espacios para la sangría.
 2. Todo el código debe estar en minúscula.
 3. Eliminar los espacios en blanco.
 4. Usar comentarios para explicar el código.
 5. Utilizar nombres de clase significativos o genéricos, nombres que reflejen el
-propósito de su elemento.  
+   propósito de su elemento.  
    <br>
 
-    CSS: (https://google.github.io/styleguide/htmlcssguide.html)
+   CSS: (https://google.github.io/styleguide/htmlcssguide.html)
 
 **Tailwind:** Entre las prácticas empleadas se menciona:
 
@@ -157,8 +157,8 @@ comenzar el despliegue de la landing page. A continuación se enuncian los pasos
 ### 5.2.1 Sprint 1.
 #### 5.2.1.1 Sprint Planing 1.
 
-En el marco de Scrum, un Sprint es un período de tiempo definido y breve en el que un equipo de desarrollo trabaja en 
-las tareas necesarias para lograr un objetivo específico del producto, conocido como "Product Goal". En el proyecto de 
+En el marco de Scrum, un Sprint es un período de tiempo definido y breve en el que un equipo de desarrollo trabaja en
+las tareas necesarias para lograr un objetivo específico del producto, conocido como "Product Goal". En el proyecto de
 desarrollo de FarmLogiTech, se han planificado cuatro sprints, cada uno con una duración de dos semanas.
 
 
@@ -348,21 +348,21 @@ Durante el Sprint 1, logramos la implementación y despliegue del Landing Page. 
 <div align=center>
    <img src="/assets/img-colaboradores.jpeg" alt="colaboradores"></img>
 </div>
-   
+
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
 
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-Para la entrega del Sprint número 1, se desplegó la landing page completa. 
+Para la entrega del Sprint número 1, se desplegó la landing page completa.
 <div align=center>
    <img src="/assets/img-landing-completa.jpeg" alt="landing-completa"></img>
 </div>
 
 Enlace para acceder a la landing page: https://open-source-wx55-group-ufriends.github.io/landing-page/#
 
- ### 5.2.1.8. Team Collaboration Insights during Sprint.
+### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 | Alumno           | Actividad                                                   | 
 |------------------|-------------------------------------------------------------|

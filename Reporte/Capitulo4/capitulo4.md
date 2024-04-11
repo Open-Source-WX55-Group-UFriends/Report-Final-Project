@@ -7,7 +7,7 @@
 - Esta imagen simboliza nuestra dedicación a la agricultura y a los animales. Al unirse a nosotros, los usuarios experimentarán una conexión sólida y colaborativa, reflejada en nuestra comunidad.
 
 <div align=center>
-   <img src="/assets/logo-farm.jpeg" alt="Logo-farm"></img>
+   <img src="/Assets/logo-farm.jpeg" alt="Logo-farm"></img>
 </div>
 
 ### Typography:
@@ -18,7 +18,7 @@
 
 
 <div align=center>
-   <img src="/assets/Font-typo.jpeg" alt="Font-typo"></img>
+   <img src="/Assets/Font-typo.jpeg" alt="Font-typo"></img>
 </div>
 <br>
 
@@ -27,7 +27,7 @@
 - Nuestra paleta de colores se ha seleccionado para que al visitar nuestro sitio web, los usuarios sientan la atmósfera de una granja. El verde  (#25C95C) aporta frescura y vitalidad. El amarillo pálido (#E9F3AE) evoca la luz del sol sobre los cultivos. En conjunto, estos colores ofrecen una experiencia visual que refleja el ambiente y la energía de una granja.
 
 <div align=center>
-   <img src="/assets/palet-colors.jpeg" alt="palet-colors"></img>
+   <img src="/Assets/palet-colors.jpeg" alt="palet-colors"></img>
 </div>
 <br>
 
@@ -77,8 +77,8 @@ Las etiquetas meta en HTML son esenciales para proporcionar información y metad
   Esta etiqueta se emplea para registrar la información del autor y los derechos de propiedad de la página web.
 ``` 
 <meta name="author" content="FarmLogitech"/>
-<meta name="copyright" content="Copyright FarmLogiTech team" /
-- ```
+<meta name="copyright" content="Copyright FarmLogiTech team" />
+```
 
 
 
@@ -93,9 +93,8 @@ En nuestro proyecto, facilitaremos a los usuarios la oferta de granjas que cumpl
 ### 4.2.5. Navigation Systems
 
 
-<<<<<<< HEAD
 Los principales sistemas de navegación en la Landing Page son los menús ubicados en la parte superior e inferior. El etiquetado direcciona a los usuarios a las secciones específicas de la página. Si no se utilizan estos enlaces, la página se desplazará hacia abajo automáticamente. En la aplicación, los usuarios seguirán un proceso de cultivo, con secciones numeradas y visibles encima de los registros de cada fase. Los usuarios tienen la opción de saltar entre fases o seguir un orden secuencial. Los botones, por su parte, representan acciones como abrir, confirmar o completar un registro, facilitando el seguimiento del proceso en una nueva pantalla.
-=======
+
 - *Navegación principal o global:* Es el sistema de navegación más común, presente en todos los apartados de la página y usualmente representado por la barra de navegación y el footer.
 
 <div align=center>
@@ -114,7 +113,7 @@ El patrón de lectura a utilizar para la visualización de nuestro website para 
 
 
 <div align=center>
-   <img src="/assets/Landing-Wireframe.png" alt="Landing-Wireframe"></img>
+   <img src="/Assets/Landing-Wireframe.png" alt="Landing-Wireframe"></img>
 </div>
 
 
@@ -129,7 +128,7 @@ El patrón de lectura a utilizar para la visualización de nuestro website para 
 
 
 <div align=center>
-   <img src="/assets/Landing-Mock-up.png" alt="Landing-Mock-up"></img>
+   <img src="/Assets/Landing-Mock-up.png" alt="Landing-Mock-up"></img>
 </div>
 
 # 4.4. Web Applications UX/UI Design.
@@ -137,64 +136,64 @@ El patrón de lectura a utilizar para la visualización de nuestro website para 
 
 <div align=center>
     <p>En la siguiente imagen, podemos observar los wireframes que se utilizan para poder publicar una granja.</p>
-   <img src="/assets/Wireframe-Publicar-Anuncio-Sin-Conexion.jpg" alt="Wireframe-Publicar-Anuncio-Sin-Conexion"></img>
+   <img src="/Assets/Wireframe-Publicar-Anuncio-Sin-Conexion.jpg" alt="Wireframe-Publicar-Anuncio-Sin-Conexion"></img>
 </div>
 
 <div align=center>
     <p>En la siguiente imagen, se visualiza los wireframes que se utilizan para editar perfil.</p>
-   <img src="/assets/Wireframe-Editar-Perfil-Sin-Conexion.jpg" alt="Wireframe-Editar-Perfil-Sin-Conexion"></img>
+   <img src="/Assets/Wireframe-Editar-Perfil-Sin-Conexion.jpg" alt="Wireframe-Editar-Perfil-Sin-Conexion"></img>
 </div>
 
 <div align=center>
 <p>En la siguiente imagen, se visualiza los wireframes que usaran los trabajadores de las granjas al utilizar FarmLogitech para ver sus tareas asignadas</p>
-   <img src="/assets/Wireframe-Monitoreo-Tasks-Sin-Conexion.jpg" alt="Wireframe-Monitoreo-Tasks-Sin-Conexion"></img>
+   <img src="/Assets/Wireframe-Monitoreo-Tasks-Sin-Conexion.jpg" alt="Wireframe-Monitoreo-Tasks-Sin-Conexion"></img>
 </div>
 
 <div align=center>
     <p>En la siguiente imagen se observa los wireframes que usará el administrador para poder ver ingresos y agresos a través de gráficos</p>
-   <img src="/assets/Wireframe-Estadistica-Sin-Conexion.jpg" alt="Wireframe-Estadistica-Sin-Conexion"></img>
+   <img src="/Assets/Wireframe-Estadistica-Sin-Conexion.jpg" alt="Wireframe-Estadistica-Sin-Conexion"></img>
 </div>
 
 <div align=center>
    <p>En la siguiente imagen se observa los wireframes que usará el administrador o trabajador para poder mandar mensajes de emergencia a su jefe o compañeros</p>
-   <img src="/assets/Wireframe-Mandar-Alerta-Sin-Conexion.jpg" alt="Wireframe-Mandar-Alerta-Sin-Conexion"></img>
+   <img src="/Assets/Wireframe-Mandar-Alerta-Sin-Conexion.jpg" alt="Wireframe-Mandar-Alerta-Sin-Conexion"></img>
 </div>
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
 <div align=center>
     <p>Iniciar Sesion</p>
-   <img src="/assets/Wireframe-Publicar-tu-anuncio.jpg" alt="Wireframe-Publicar-Anuncio"></img>
+   <img src="/Assets/Wireframe-Publicar-tu-anuncio.jpg" alt="Wireframe-Publicar-Anuncio"></img>
 </div>
 
 <div align=center>
     <p>Editar perfil</p>
-   <img src="/assets/Wireframe-Editar-Perfil.jpg" alt="Wireframe-Editar-perfil"></img>
+   <img src="/Assets/Wireframe-Editar-Perfil.jpg" alt="Wireframe-Editar-perfil"></img>
 </div>
 
 <div align=center>
     <p>Consultar tareas</p>
-   <img src="/assets/Wireframe-Consultar-tareas.jpg" alt="Wireframe-Consultar-tareas"></img>
+   <img src="/Assets/Wireframe-Consultar-tareas.jpg" alt="Wireframe-Consultar-tareas"></img>
 </div>
 
 <div align=center>
     <p>Consulta de estadisticas</p>
-   <img src="/assets/Wireframe-Consultar-estadisticas.jpg" alt="Wireframe-Consultar-estadisticas"></img>
+   <img src="/Assets/Wireframe-Consultar-estadisticas.jpg" alt="Wireframe-Consultar-estadisticas"></img>
 </div>
 
 <div align=center>
     <p>Consulta de inventario</p>
-   <img src="/assets/Wireframe-Consultar-inventario.jpg" alt="Wireframe-Consultar-inventario"></img>
+   <img src="/Assets/Wireframe-Consultar-inventario.jpg" alt="Wireframe-Consultar-inventario"></img>
 </div>
 
 <div align=center>
     <p>Mandar Alerta de emergencia</p>
-   <img src="/assets/Wireframe-Mandar-alterta-emergencia.jpg" alt="Wireframe-Alerta-emergencia"></img>
+   <img src="/Assets/Wireframe-Mandar-alterta-emergencia.jpg" alt="Wireframe-Alerta-emergencia"></img>
 </div>
 
 <div align=center>
     <p>Registrar Detalles</p>
-   <img src="/assets/Wireframe-Registrar-detalles.jpg" alt="Wireframe-Registrar-detalles"></img>
+   <img src="/Assets/Wireframe-Registrar-detalles.jpg" alt="Wireframe-Registrar-detalles"></img>
 </div>
 
 
@@ -203,60 +202,60 @@ El patrón de lectura a utilizar para la visualización de nuestro website para 
 <div align=center>
     <p>Publicar tu anuncio</p>
     <p>En la siguiente imagen, podemos observar los mockups que se utilizan para poder publicar una granja.</p>
-   <img src="/assets/Mockup-Sin-Conexion-Publicar-anuncio.jpg" alt="Mockup-Sin-Conexion-Publicar-anuncio"></img>
+   <img src="/Assets/Mockup-Sin-Conexion-Publicar-anuncio.jpg" alt="Mockup-Sin-Conexion-Publicar-anuncio"></img>
 </div>
 
 <div align=center>
     <p>Editar perfil</p>
     <p>En la siguiente imagen, se visualiza los mockups que se utilizan para editar perfil.</p>
-   <img src="/assets/Mockup-Sin-Conexion-Editar-perfil.jpg" alt="Editar-Perfil-Mockup"></img>
+   <img src="/Assets/Mockup-Sin-Conexion-Editar-perfil.jpg" alt="Editar-Perfil-Mockup"></img>
 </div>
 <div align=center>
     <p>Realizar task</p>
     <p>En la siguiente imagen, se visualiza los mockups que usaran los trabajadores de las granjas al utilizar FarmLogitech para ver sus tareas asignadas</p>
-   <img src="/assets/Mockup-Sin-Conexion-Consultar-tareas.jpg" alt="Wireframe-Consultar-tareas"></img>
+   <img src="/Assets/Mockup-Sin-Conexion-Consultar-tareas.jpg" alt="Wireframe-Consultar-tareas"></img>
 </div>
 <div align=center>
     <p>Gestión y estadistica en FarmLogitech</p>
    <p>En la siguiente imagen observamos los mockups de los administradores de la granja en cual podrán acceder a las tareas asiganadas, estadísticas de ingresos y egresos, control de inventario.</p>
-   <img src="/assets/Mockup-Sin-Conexion-Estadistica.jpg" alt="Mockup-Sin-Conexion-Estadistica"></img>
+   <img src="/Assets/Mockup-Sin-Conexion-Estadistica.jpg" alt="Mockup-Sin-Conexion-Estadistica"></img>
 </div>
 
 <div align=center>
     <p>Mandar alerta</p>
 <p>En la siguiente imagen se observa los mockups que usará el administrador o trabajador para poder mandar mensajes de emergencia a su jefe o compañeros</p>
-   <img src="/assets/Mockup-Sin-Conexion-Mensaje-alerta.jpg" alt="Mockup-Sin-Conexion-Mensaje-alerta"></img>
+   <img src="/Assets/Mockup-Sin-Conexion-Mensaje-alerta.jpg" alt="Mockup-Sin-Conexion-Mensaje-alerta"></img>
 </div>
 
 <div align=center>
     <p>Registrar detalles</p>
 <p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
-   <img src="/assets/Mockup-Sin-Conexion-Registro-Detallado.jpg" alt="Mockup-Sin-Conexion-Registro-Detallado"></img>
+   <img src="/Assets/Mockup-Sin-Conexion-Registro-Detallado.jpg" alt="Mockup-Sin-Conexion-Registro-Detallado"></img>
 </div>
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
 <div align=center>
     <p>Publicar anuncio</p>
-   <img src="/assets/Mockup-Publicar-anuncio.jpg" alt="Mockup-Publicar-anuncio"></img>
+   <img src="/Assets/Mockup-Publicar-anuncio.jpg" alt="Mockup-Publicar-anuncio"></img>
 </div>
 
 <div align=center>
     <p>Editar perfil</p>
-   <img src="/assets/Mockup-Editar-perfil.jpg" alt="Editar-Perfil-Mockup"></img>
+   <img src="/Assets/Mockup-Editar-perfil.jpg" alt="Editar-Perfil-Mockup"></img>
 </div>
 <div align=center>
     <p>Realizar task</p>
-   <img src="/assets/Mockup-Consultar-tareas.jpg" alt="Wireframe-Consultar-tareas"></img>
+   <img src="/Assets/Mockup-Consultar-tareas.jpg" alt="Wireframe-Consultar-tareas"></img>
 </div>
 <div align=center>
     <p>Gestión y estadistica en FarmLogitech</p>
-   <img src="/assets/Mockup-Estadisticas.jpg" alt="Mockup-Estadistica"></img>
+   <img src="/Assets/Mockup-Estadisticas.jpg" alt="Mockup-Estadistica"></img>
 </div>
 
 <div align=center>
     <p>Mandar alerta</p>
-   <img src="/assets/Mockup-Alerta-emergencia.jpg" alt="Mockup-Mensaje-alerta"></img>
+   <img src="/Assets/Mockup-Alerta-emergencia.jpg" alt="Mockup-Mensaje-alerta"></img>
 </div>
 
 # 4.5. Web Applications Prototyping.
@@ -276,41 +275,51 @@ El Domain Driven Design (DDD) tiene como objetivo llegar a un entendimiento comp
 
 ## 4.6.1. Software Architecture Context Diagram
 El diagrama de contexto muestra una vista de alto nivel de las relaciones entre el sistema de software “FarmLogitech”, los usuarios y, si es el caso, de otros sistemas externos.
-
-<img src="/assets/System-diagram.jpeg" alt="System diagram"></img>
-
+<div align=center>
+<img src="/Assets/System-diagram.jpeg" alt="System diagram"></img>
+</div>
 ## 4.6.2. Software Architecture Container Diagram
 El diagrama de contenedores muestra una vista de alto nivel de las relaciones entre las aplicaciones y fuentes de datos que son parte de la ejecución del sistema de software “FarmLogitech”.
 
-<img src="/assets/Conatiner-diagram.jpeg" alt="Container diagram"></img>
+<div align=center>
+<img src="/Assets/Conatiner-diagram.jpeg" alt="Container diagram"></img>
+</div>
 
 ## 4.6.3. Software Architecture Components Diagrams
 Los diagramas de componentes muestran una vista de las relaciones de los componentes principales del sistema de software “FarmLogitech”. Estos componentes detallan la implementación de los respectivos módulos en el programa.
 
 - Log-In Bounded Context
 
-  <img src="/assets/Login-Bounded-Context.jpeg" alt="Login Bounded Context"></img>
+<div align=center>
+  <img src="/Assets/Login-Bounded-Context.jpeg" alt="Login Bounded Context"></img>
+</div>
 
 - Company Management Bounded Context
 
-  <img src="/assets/Company-Management-Bounded-Context.jpeg" alt="Company Management Bounded Context"></img>
+<div align=center>
+  <img src="/Assets/Company-Management-Bounded-Context.jpeg" alt="Company Management Bounded Context"></img>
+<div>
 
 - Farm Management Bounded Context
 
-  <img src="/assets/Farm-Management-Bounded-Context.jpeg" alt="Farm Management Bounded Context"></img>
+<div align=center>
+  <img src="/Assets/Farm-Management-Bounded-Context.jpeg" alt="Farm Management Bounded Context"></img>
+<div>
 
 - Notification Bounded Context
 
-  <img src="/assets/Notification-Bounded-Context.jpeg" alt="Notification Bounded Context"></img>
+<div align=center>
+  <img src="/Assets/Notification-Bounded-Context.jpeg" alt="Notification Bounded Context"></img>
 
 - Payment Bounded Context
-
-  <img src="/assets/Payment-Bounded-Context.jpeg" alt="Payment Bounded Context"></img>
+<div align=center>
+  <img src="/Assets/Payment-Bounded-Context.jpeg" alt="Payment Bounded Context"></img>
+<div>
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 <div align=center>
-   <img src="/assets/Diagrama.jpg" alt="Diagrama"></img>
+   <img src="/Assets/Diagrama.jpg" alt="Diagrama"></img>
 </div>
 
 ### 4.7.2. Class Dictionary
@@ -458,10 +467,7 @@ Para el proyecto, nos hemos decidido por utilizar el motor de base de datos de M
 
 ### 4.8.1 Database Diagram
 
-<div align=center>
-   <img src="/assets/diagrama-database.png.jpg" alt="Diagrama-database"></img>
-</div>
-
+<img src="/Assets/diagrama-database.png" alt="Diagrama-database"></img>
 
 
 
