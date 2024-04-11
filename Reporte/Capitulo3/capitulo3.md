@@ -1,9 +1,9 @@
 # CAPITULO III: Requirements Specifications
 
 ## 3.1 To-Be Scenario Mapping
-![Imagen de Granjero To-Be Scenario Mapping](https://i.postimg.cc/52VS1CqV/To-Be-Scenario-Mapping-Granjero.jpg)
-![Imagen de Trabajador To-Be Scenario Mapping](https://i.postimg.cc/wT0JLmcg/To-Be-Scenario-Mapping-Trabajadores.jpg)
-![Imagen de Empresario To-Be Scenario Mapping](https://i.postimg.cc/zfYSzRCN/To-Be-Scenario-Mapping-Empresario.jpg)
+![Imagen de Granjero To-Be Scenario Mapping](https://i.postimg.cc/RhwZqJDK/To-Be-Scenary-Mapping-Due-o-de-la-granja.jpg)
+![Imagen de Trabajador To-Be Scenario Mapping](https://i.postimg.cc/wTdBZF1V/To-Be-Scenary-Mapping-Trabajador.jpg)
+![Imagen de Empresario To-Be Scenario Mapping](https://i.postimg.cc/tR6TB84J/To-Be-Scenary-Mapping-Empresario.jpg)
 
 ## 3.2 User Stories
 <table>
@@ -17,46 +17,46 @@
 <tr>
     <td>US-01</td> 
     <td>Ver descripción clara y concisa de los servicios en la landing page</td>
-    <td>Como usuario potencial, quiero ver una descripción clara y concisa de los servicios ofrecidos en la landing page, para comprender rápidamente cómo pueden beneficiar a mi operación agrícola y ganadera.</td>
+    <td>Como visitante, quiero ver una descripción clara y concisa de los servicios ofrecidos en la landing page, para comprender rápidamente cómo pueden beneficiar a mi operación agrícola y ganadera.</td>
     <td>
         <b>Scenario 01:</b> Acceso exitoso a la descripción de servicios en la landing page<br>
-        <b>Dado</b> que un usuario potencial visita la landing page por primera vez<br>
+        <b>Dado</b> que un visitante visita la landing page por primera vez<br>
         <b>Cuando</b> observa la sección de servicios ofrecidos<br>
-        <b>Entonces</b> el usuario puede leer fácilmente una descripción clara y concisa de los servicios agrícolas y ganaderos, resaltando cómo pueden beneficiar su operación.<br><br>
+        <b>Entonces</b> el visitante puede leer fácilmente una descripción clara y concisa de los servicios agrícolas y ganaderos, resaltando cómo pueden beneficiar su operación.<br><br>
         <b>Scenario 02:</b> Error al acceder a la descripción de servicios en la landing page<br>
-        <b>Dado</b> que un usuario potencial visita la landing page por primera vez<br>
+        <b>Dado</b> que un visitante visita la landing page por primera vez<br>
         <b>Cuando</b> intenta acceder a la sección de servicios ofrecidos<br>
-        <b>Entonces</b> el usuario se confunde al no encontrar una descripción clara y concisa de los servicios, lo que podría hacerle perder interés en la plataforma.
+        <b>Entonces</b> el visitante se confunde al no encontrar una descripción clara y concisa de los servicios, lo que podría hacerle perder interés en la plataforma.
     </td>
     <td>###</td> 
 </tr>
 <tr>
     <td>US-02</td> 
     <td>Encontrar fácilmente los precios y planes de suscripción en la landing page</td>
-    <td>Como usuario potencial, quiero encontrar fácilmente los precios y planes de suscripción disponibles en la landing page, para evaluar la viabilidad económica de utilizar la plataforma en mi granja.</td>
+    <td>Como visitante del segmento agropecuario, quiero encontrar fácilmente los precios y planes de suscripción disponibles en la landing page, para evaluar la viabilidad económica de utilizar la plataforma en mi granja.</td>
     <td>
         <b>Scenario 01:</b> Acceso exitoso a los precios y planes de suscripción en la landing page<br>
-        <b>Dado</b> que un usuario potencial visita la landing page por primera vez<br>
+        <b>Dado</b> que un visitante del segmento agropecuario visita la landing page por primera vez<br>
         <b>Cuando</b> busca información sobre precios y planes de suscripción<br>
-        <b>Entonces</b> el usuario puede encontrar rápidamente una sección dedicada que describe los diferentes precios y planes de suscripción disponibles, con claridad sobre lo que incluye cada uno y sus costos asociados.<br><br>
+        <b>Entonces</b> el visitante del segmento agropecuario puede encontrar rápidamente una sección dedicada que describe los diferentes precios y planes de suscripción disponibles, con claridad sobre lo que incluye cada uno y sus costos asociados.<br><br>
         <b>Scenario 02:</b> Dificultad para encontrar precios y planes de suscripción en la landing page<br>
-        <b>Dado</b> que un usuario potencial visita la landing page por primera vez<br>
+        <b>Dado</b> que un visitante del segmento agropecuario visita la landing page por primera vez<br>
         <b>Cuando</b> busca información sobre precios y planes de suscripción<br>
-        <b>Entonces</b> el usuario se frustra al no encontrar fácilmente la información que busca, lo que puede generar dudas sobre la transparencia de la plataforma y su viabilidad económica para su granja.
+        <b>Entonces</b> el visitante del segmento agropecuario se frustra al no encontrar fácilmente la información que busca, lo que puede generar dudas sobre la transparencia de la plataforma y su viabilidad económica para su granja.
     </td>
     <td>###</td> 
 </tr>
 <tr>
     <td>US-03</td> 
     <td>Adaptación de la landing page a diferentes dispositivos</td>
-    <td>Como usuario potencial, quiero que la landing page se adapte correctamente a la pantalla de mi dispositivo, para poder verla y usarla de forma cómoda, independientemente de si estoy usando un ordenador, una tablet o un teléfono móvil.</td>
+    <td>Como visitante, quiero que la landing page se adapte correctamente a la pantalla de mi dispositivo, para poder verla y usarla de forma cómoda, independientemente de si estoy usando un ordenador, una tablet o un teléfono móvil.</td>
     <td>
         <b>Scenario 01:</b> Adaptación exitosa en diferentes dispositivos<br>
-        <b>Dado</b> que un usuario potencial visita la landing page desde diferentes dispositivos (ordenador, tablet, teléfono móvil)<br>
+        <b>Dado</b> que un visitante visita la landing page desde diferentes dispositivos (ordenador, tablet, teléfono móvil)<br>
         <b>Cuando</b> accede a la landing page desde cada dispositivo<br>
         <b>Entonces</b> la página se adapta correctamente a la pantalla de cada dispositivo, manteniendo una experiencia de usuario cómoda y funcional en todas las resoluciones y tamaños de pantalla.<br><br>
         <b>Scenario 02:</b> Problemas de adaptación en algunos dispositivos<br>
-        <b>Dado</b> que un usuario potencial visita la landing page desde diferentes dispositivos (ordenador, tablet, teléfono móvil)<br>
+        <b>Dado</b> que un visitante visita la landing page desde diferentes dispositivos (ordenador, tablet, teléfono móvil)<br>
         <b>Cuando</b> accede a la landing page desde ciertos dispositivos<br>
         <b>Entonces</b> la página presenta problemas de visualización o funcionalidad en algunos dispositivos, lo que dificulta la experiencia del usuario y puede llevar a una percepción negativa de la plataforma.
     </td>
@@ -65,80 +65,80 @@
 <tr>
     <td>US-04</td> 
     <td>Identificar fácilmente las características de la aplicación en la landing page</td>
-    <td>Como usuario potencial, quiero identificar fácilmente en la landing page las características que me ayudarán a encontrar una granja ideal, para evaluar la efectividad de la aplicación.</td>
+    <td>Como visitante del segmento empresarial, quiero identificar fácilmente en la landing page las características que me ayudarán a encontrar una granja ideal, para evaluar la efectividad de la aplicación.</td>
     <td>
         <b>Scenario 01:</b> Acceso fácil a las características en la landing page<br>
-        <b>Dado</b> que un usuario potencial visita la landing page por primera vez<br>
+        <b>Dado</b> que un visitante del segmento empresarial visita la landing page por primera vez<br>
         <b>Cuando</b> busca características para encontrar una granja ideal<br>
-        <b>Entonces</b> el usuario puede encontrar rápidamente una sección dedicada que describe las características principales, como ubicación, tamaño, tipo de suelo, instalaciones, etc., de manera clara y organizada.<br><br>
+        <b>Entonces</b> el visitante del segmento empresarial puede encontrar rápidamente una sección dedicada que describe las características principales, como ubicación, tamaño, tipo de suelo, instalaciones, etc., de manera clara y organizada.<br><br>
         <b>Scenario 02:</b> Dificultad para identificar características en la landing page<br>
-        <b>Dado</b> que un usuario potencial visita la landing page por primera vez<br>
+        <b>Dado</b> que un visitante del segmento empresarial visita la landing page por primera vez<br>
         <b>Cuando</b> busca características para encontrar una granja ideal<br>
-        <b>Entonces</b> el usuario se siente frustrado al no poder identificar fácilmente las características necesarias, lo que puede afectar su percepción de la efectividad de la aplicación y su interés en utilizarla.
+        <b>Entonces</b> el visitante del segmento empresarial se siente frustrado al no poder identificar fácilmente las características necesarias, lo que puede afectar su percepción de la efectividad de la aplicación y su interés en utilizarla.
     </td>
     <td>###</td> 
 </tr>
 <tr>
     <td>US-05</td> 
     <td>Encontrar información sobre los colaboradores en la landing page</td>
-    <td>Como usuario potencial, quiero encontrar información sobre los colaboradores del proyecto en la landing page, para saber quiénes están detrás de la aplicación y qué experiencia tienen.</td>
+    <td>Como visitante, quiero encontrar información sobre los colaboradores del proyecto en la landing page, para saber quiénes están detrás de la aplicación y qué experiencia tienen.</td>
     <td>
         <b>Scenario 01:</b> Acceso fácil a la información de los colaboradores en la landing page<br>
-        <b>Dado</b> que un usuario potencial visita la landing page por primera vez<br>
+        <b>Dado</b> que un visitante visita la landing page por primera vez<br>
         <b>Cuando</b> busca información sobre los colaboradores del proyecto<br>
-        <b>Entonces</b> el usuario puede encontrar rápidamente una sección dedicada que describe quiénes son los colaboradores del proyecto, incluyendo sus nombres, roles y experiencia relevante de manera clara y organizada.<br><br>
+        <b>Entonces</b> el visitante puede encontrar rápidamente una sección dedicada que describe quiénes son los colaboradores del proyecto, incluyendo sus nombres, roles y experiencia relevante de manera clara y organizada.<br><br>
         <b>Scenario 02:</b> Dificultad para encontrar información de los colaboradores en la landing page<br>
-        <b>Dado</b> que un usuario potencial visita la landing page por primera vez<br>
+        <b>Dado</b> que un visitante visita la landing page por primera vez<br>
         <b>Cuando</b> busca información sobre los colaboradores del proyecto<br>
-        <b>Entonces</b> el usuario se siente frustrado al no poder encontrar fácilmente la información deseada, lo que puede generar dudas sobre la transparencia y credibilidad del proyecto.
+        <b>Entonces</b> el visitante se siente frustrado al no poder encontrar fácilmente la información deseada, lo que puede generar dudas sobre la transparencia y credibilidad del proyecto.
     </td>
     <td>###</td> 
 </tr>
 <tr>
     <td>US-06</td> 
     <td>Interactuar con las imágenes en la landing page</td>
-    <td>Como usuario potencial, quiero interactuar con las imágenes de la landing page, para obtener más información o realizar acciones, como ampliarlas, verlas en una galería o acceder a una descripción.</td>
+    <td>Como visitante, quiero interactuar con las imágenes de la landing page, para obtener más información o realizar acciones, como ampliarlas, verlas en una galería o acceder a una descripción.</td>
     <td>
         <b>Scenario 01:</b> Interacción exitosa con las imágenes en la landing page<br>
-        <b>Dado</b> que un usuario potencial visita la landing page por primera vez<br>
+        <b>Dado</b> que un visitante visita la landing page por primera vez<br>
         <b>Cuando</b> interactúa con las imágenes presentes en la página<br>
-        <b>Entonces</b> el usuario puede realizar acciones como ampliar las imágenes, verlas en una galería o acceder a una descripción detallada, lo que mejora su experiencia de navegación y le proporciona información adicional.<br><br>
+        <b>Entonces</b> el visitante puede realizar acciones como ampliar las imágenes, verlas en una galería o acceder a una descripción detallada, lo que mejora su experiencia de navegación y le proporciona información adicional.<br><br>
         <b>Scenario 02:</b> Problemas de interacción con las imágenes en la landing page<br>
-        <b>Dado</b> que un usuario potencial visita la landing page por primera vez<br>
+        <b>Dado</b> que un visitante visita la landing page por primera vez<br>
         <b>Cuando</b> intenta interactuar con las imágenes presentes en la página<br>
-        <b>Entonces</b> el usuario encuentra dificultades para ampliar las imágenes, acceder a una galería o encontrar una descripción detallada, lo que puede generar frustración y afectar negativamente su experiencia de usuario.
+        <b>Entonces</b> el visitante encuentra dificultades para ampliar las imágenes, acceder a una galería o encontrar una descripción detallada, lo que puede generar frustración y afectar negativamente su experiencia de usuario.
     </td>
     <td>###</td> 
 </tr>
 <tr>
     <td>US-07</td> 
     <td>Demostración de efectividad de funciones en la landing page</td>
-    <td>Como usuario potencial, quiero encontrar fácilmente información en la landing page sobre cómo puedo mejorar la eficiencia y rentabilidad de mi granja utilizando la plataforma, para evaluar la efectividad de la aplicación.</td>
+    <td>Como visitante del segmento agropecuario, quiero encontrar fácilmente información en la landing page sobre cómo puedo mejorar la eficiencia y rentabilidad de mi granja utilizando la plataforma, para evaluar la efectividad de la aplicación.</td>
     <td>
         <b>Scenario 01:</b> Acceso fácil a información sobre mejora de eficiencia en la landing page<br>
-        <b>Dado</b> que un usuario potencial visita la landing page por primera vez<br>
+        <b>Dado</b> que un visitante del segmento agropecuario visita la landing page por primera vez<br>
         <b>Cuando</b> busca información sobre cómo mejorar la eficiencia y rentabilidad de su granja<br>
-        <b>Entonces</b> el usuario puede encontrar rápidamente una sección dedicada que describe cómo la plataforma puede ayudar a mejorar la eficiencia y rentabilidad de su granja, proporcionando detalles sobre características, herramientas y consejos útiles de manera clara y organizada.<br><br>
+        <b>Entonces</b> el visitante del segmento agropecuario puede encontrar rápidamente una sección dedicada que describe cómo la plataforma puede ayudar a mejorar la eficiencia y rentabilidad de su granja, proporcionando detalles sobre características, herramientas y consejos útiles de manera clara y organizada.<br><br>
         <b>Scenario 02:</b> Dificultad para encontrar información sobre mejora de eficiencia en la landing page<br>
-        <b>Dado</b> que un usuario potencial visita la landing page por primera vez<br>
+        <b>Dado</b> que un visitante del segmento agropecuario visita la landing page por primera vez<br>
         <b>Cuando</b> busca información sobre cómo mejorar la eficiencia y rentabilidad de su granja<br>
-        <b>Entonces</b> el usuario se siente frustrado al no poder encontrar fácilmente la información deseada, lo que puede generar dudas sobre la efectividad y utilidad de la aplicación.
+        <b>Entonces</b> el visitante del segmento agropecuario se siente frustrado al no poder encontrar fácilmente la información deseada, lo que puede generar dudas sobre la efectividad y utilidad de la aplicación.
     </td>
     <td>###</td> 
 </tr>
 <tr>
     <td>US-08</td> 
     <td>Entender cómo la plataforma puede ayudar a controlar costos y maximizar ingresos en la landing page</td>
-    <td>Como usuario potencial, quiero entender en la landing page cómo la plataforma puede ayudarme a controlar los costos y maximizar los ingresos de mi granja, para evaluar la efectividad de la aplicación.</td>
+    <td>Como visitante del segmento agropecuario, quiero entender en la landing page cómo la plataforma puede ayudarme a controlar los costos y maximizar los ingresos de mi granja, para evaluar la efectividad de la aplicación.</td>
     <td>
         <b>Scenario 01:</b> Acceso fácil a información sobre control de costos y maximización de ingresos en la landing page<br>
-        <b>Dado</b> que un usuario potencial visita la landing page por primera vez<br>
+        <b>Dado</b> que un visitante del segmento agropecuario visita la landing page por primera vez<br>
         <b>Cuando</b> busca información sobre cómo la plataforma puede ayudar a controlar costos y maximizar ingresos<br>
-        <b>Entonces</b> el usuario puede encontrar rápidamente una sección dedicada que describe cómo la plataforma ofrece herramientas y funcionalidades para controlar costos, optimizar recursos y maximizar ingresos en la operación de su granja, de manera clara y organizada.<br><br>
+        <b>Entonces</b> el visitante del segmento agropecuario puede encontrar rápidamente una sección dedicada que describe cómo la plataforma ofrece herramientas y funcionalidades para controlar costos, optimizar recursos y maximizar ingresos en la operación de su granja, de manera clara y organizada.<br><br>
         <b>Scenario 02:</b> Dificultad para entender cómo la plataforma puede ayudar en control de costos y maximización de ingresos en la landing page<br>
-        <b>Dado</b> que un usuario potencial visita la landing page por primera vez<br>
+        <b>Dado</b> que un visitante del segmento agropecuario visita la landing page por primera vez<br>
         <b>Cuando</b> busca información sobre cómo la plataforma puede ayudar a controlar costos y maximizar ingresos<br>
-        <b>Entonces</b> el usuario se siente frustrado al no poder entender fácilmente cómo la plataforma puede ser útil para su situación específica, lo que puede generar dudas sobre la efectividad y utilidad de la aplicación en este aspecto.
+        <b>Entonces</b> el visitante del segmento agropecuario se siente frustrado al no poder entender fácilmente cómo la plataforma puede ser útil para su situación específica, lo que puede generar dudas sobre la efectividad y utilidad de la aplicación en este aspecto.
     </td>
     <td>###</td> 
 </tr>
@@ -747,9 +747,23 @@
 
 
 ## 3.3 Impact Mapping
+Impact Mapping (Dueño de granja y Empresario):
+![Imagen de Impact Mapping - Dueño de granja y Empresario](https://i.postimg.cc/T1NTHjFV/Impact-Mapping-Due-o-de-granja-y-Empresario.jpg)
+
+Impact Mapping (Trabajador):
+![Imagen de Impact Mapping - Trabajador](https://i.postimg.cc/NFjg4CJG/Impact-Mapping-Trabajador.jpg)
+
 
 ## 3.4 Product Backlog
 
+Product Backlog en Pivotal Tracker: 
+https://www.pivotaltracker.com/n/projects/2700504
+
+Presentación de nuestras 5 Epics y 35 User Stories en la herramienta.
+![Imagen de Epics y Users en Pivotal Tracker](https://i.postimg.cc/mZ03K3w2/Users-y-epics-1.png)
+
+Visualización de las User Stories seleccionadas para nuestro sprint 1 y ya implementadas por los miembros del equipo.
+![Imagen de Users Stories seleccionadas para el sprint 1](https://i.postimg.cc/Y0Wm3VLK/Current-Backlog-Sprint1.png)
 <table align="center" border="1" width="90%" style="text-align:center;">
     <tr>
         <th>
@@ -796,7 +810,7 @@
             Descripción clara de servicios en la landing page
         </td>
         <td>
-            Como usuario potencial, quiero ver una descripción clara y concisa de los servicios ofrecidos en la landing page, para comprender rápidamente cómo pueden beneficiar a mi operación agrícola y ganadera.
+            Como visitante, quiero ver una descripción clara y concisa de los servicios ofrecidos en la landing page, para comprender rápidamente cómo pueden beneficiar a mi operación agrícola y ganadera.
         </td>
         <td>
             5
@@ -813,7 +827,7 @@
             Identificación de características en la landing page
         </td>
         <td>
-            Como usuario potencial, quiero identificar fácilmente en la landing page las características que me ayudarán a encontrar una granja ideal, para evaluar la efectividad de la aplicación.
+            Como visitante del segmento empresarial, quiero identificar fácilmente en la landing page las características que me ayudarán a encontrar una granja ideal, para evaluar la efectividad de la aplicación.
         </td>
         <td>
             3
@@ -830,7 +844,7 @@
             Información de colaboradores en la landing page
         </td>
         <td>
-            Como usuario potencial, quiero encontrar información sobre los colaboradores del proyecto en la landing page, para saber quiénes están detrás de la aplicación y qué experiencia tienen.
+            Como visitante, quiero encontrar información sobre los colaboradores del proyecto en la landing page, para saber quiénes están detrás de la aplicación y qué experiencia tienen.
         </td>
         <td>
             3
@@ -847,7 +861,7 @@
             Interacción con imágenes en la landing page
         </td>
         <td>
-            Como usuario potencial, quiero interactuar con las imágenes de la landing page, para obtener más información o realizar acciones, como ampliarlas, verlas en una galería o acceder a una descripción.
+            Como visitante, quiero interactuar con las imágenes de la landing page, para obtener más información o realizar acciones, como ampliarlas, verlas en una galería o acceder a una descripción.
         </td>
         <td>
             1
@@ -932,7 +946,7 @@
             Adaptación de landing page a dispositivos
         </td>
         <td>
-            Como usuario potencial, quiero que la landing page se adapte correctamente a la pantalla de mi dispositivo, para poder verla y usarla de forma cómoda, independientemente de si estoy usando un ordenador, una tablet o un teléfono móvil.
+            Como visitante, quiero que la landing page se adapte correctamente a la pantalla de mi dispositivo, para poder verla y usarla de forma cómoda, independientemente de si estoy usando un ordenador, una tablet o un teléfono móvil.
         </td>
         <td>
             3
@@ -983,7 +997,7 @@
             Apartado demostrativo de mejora de la eficiencia y rentabilidad de las granjas en la landing page
         </td>
         <td>
-            Como usuario potencial, quiero encontrar fácilmente información en la landing page sobre cómo puedo mejorar la eficiencia y rentabilidad de mi granja utilizando la plataforma, para evaluar la efectividad de la aplicación.
+            Como visitante del segmento agropecuario, quiero encontrar fácilmente información en la landing page sobre cómo puedo mejorar la eficiencia y rentabilidad de mi granja utilizando la plataforma, para evaluar la efectividad de la aplicación.
         </td>
         <td>
             1
@@ -1034,7 +1048,7 @@
             Apartado explicativo de control de costos y maximización de ingresos en la landing page
         </td>
         <td>
-            Como usuario potencial, quiero entender en la landing page cómo la plataforma puede ayudarme a controlar los costos y maximizar los ingresos de mi granja, para evaluar la efectividad de la aplicación.
+            Como visitante del segmento agropecuario, quiero entender en la landing page cómo la plataforma puede ayudarme a controlar los costos y maximizar los ingresos de mi granja, para evaluar la efectividad de la aplicación.
         </td>
         <td>
             1
