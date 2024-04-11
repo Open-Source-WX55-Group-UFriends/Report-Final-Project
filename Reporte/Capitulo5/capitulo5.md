@@ -77,9 +77,8 @@ El proyecto seguirá las convenciones del flujo de trabajo establecido por el mo
 **Flujo de trabajo GitFlow**
 
 <div align=center>
-   <img src="/assets/gitflow.jpeg" alt="gitflow"></img>
+   <img src="/Assets/gitflow.jpeg" alt="gitflow"></img>
 </div>
-</br>
 
 El flujo de trabajo a ser implementado para el desarrollo del proyecto se basará en el modelo propuesto por Vincent Driessen en "A successful Git branching model".
 
@@ -146,7 +145,7 @@ comenzar el despliegue de la landing page. A continuación se enuncian los pasos
    llevará al Landing Page desplegado
 
 <div align=center>
-   <img src="/assets/github-pages.jpeg" alt="githubpages"></img>
+   <img src="/Assets/github-pages.jpeg" alt="githubpages"></img>
 </div>
 
 
@@ -175,7 +174,7 @@ durante este sprint nos enfocaremos en el diseño y desarrollo de la landing pag
 En el primer sprint, el equipo tuvo como objetivo principal crear una landing page atractiva y funcional. Utilizamos la herramienta Trello para organizar y asignar tareas a los miembros del equipo según sus habilidades.
 
 <div align=center>
-   <img src="/assets/trello.jpeg" alt="trello"></img>
+   <img src="/Assets/trello.jpeg" alt="trello"></img>
 </div>
 
 
@@ -320,33 +319,33 @@ Durante el Sprint 1, logramos la implementación y despliegue del Landing Page. 
    En esta sección, se puede visualizar e interactuar con las imágenes principales.
 
 <div align=center>
-   <img src="/assets/img-carrusel.jpeg" alt="carrusel"></img>
+   <img src="/Assets/img-carrusel.jpeg" alt="carrusel"></img>
 </div>
 
 2. Sección de Características
    En esta sección, se puede observar lo que FarmLogitech ofrece.
 
 <div align=center>
-   <img src="/assets/img-caracteristicas.jpeg" alt="caracteristicas"></img>
+   <img src="/Assets/img-caracteristicas.jpeg" alt="caracteristicas"></img>
 </div>
 
 3. Sección Planes
    En esta sección, se visualizan los planes que Farmlogitech, plan básico en el que solo
    podrás promocionar tu granja y el premium en la que no solo podrás promocionarla, sino también gestionarla.
 <div align=center>
-   <img src="/assets/img-planes.jpeg" alt="planes"></img>
+   <img src="/Assets/img-planes.jpeg" alt="planes"></img>
 </div>
 
 4. Sección Método de Pago
    En esta sección, se visualizan diversos métodos de pago que Farmlogitech ofrece
 <div align=center>
-   <img src="/assets/img-metodos-de-pago.jpeg" alt="metodo-pago"></img>
+   <img src="/Assets/img-metodos-de-pago.jpeg" alt="metodo-pago"></img>
 </div>
 
 5. Sección Colaboradores
    En esta sección, aparecerán los colaboradores encargados de desarrollar la landing page.
 <div align=center>
-   <img src="/assets/img-colaboradores.jpeg" alt="colaboradores"></img>
+   <img src="/Assets/img-colaboradores.jpeg" alt="colaboradores"></img>
 </div>
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
@@ -357,7 +356,7 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 
 Para la entrega del Sprint número 1, se desplegó la landing page completa.
 <div align=center>
-   <img src="/assets/img-landing-completa.jpeg" alt="landing-completa"></img>
+   <img src="/Assets/img-landing-completa.jpeg" alt="landing-completa"></img>
 </div>
 
 Enlace para acceder a la landing page: https://open-source-wx55-group-ufriends.github.io/landing-page/#
@@ -373,29 +372,29 @@ Enlace para acceder a la landing page: https://open-source-wx55-group-ufriends.g
 | Luciano Ruiz     | Implementación de la sección de planes                      |
 
 <div align=center>
-   <img src="/assets/img-commits.jpeg" alt="commits"></img>
+   <img src="/Assets/img-commits.jpeg" alt="commits"></img>
 </div>
 
 <div align=center>
-   <img src="/assets/commitsss.jpeg" alt="commitssss"></img>
+   <img src="/Assets/commitsss.jpeg" alt="commitssss"></img>
 </div>
 
 <div align=center>
-   <img src="/assets/img-comits.jpeg" alt="comitssss"></img>
+   <img src="/Assets/img-comits.jpeg" alt="comitssss"></img>
 </div>
 
 <div align=center>
-   <img src="/assets/commmmmits.jpeg" alt="commmmitssss"></img>
+   <img src="/Assets/commmmmits.jpeg" alt="commmmitssss"></img>
 </div>
 
 <div align=center>
-   <img src="/assets/more-commits.jpeg" alt="more-commits"></img>
+   <img src="/Assets/more-commits.jpeg" alt="more-commits"></img>
 </div>
 
 
 # Conclusiones
 
-- En conclusión, crremos que el proyecto FarmLogiTech es una aplicación que tiene un gran potencial para ayudar a los dueños de granja a gestionar sus granjas de manera eficiente y sostenible. A través de la implementación de una landing page atractiva y funcional, hemos logrado comunicar de manera efectiva los beneficios de la aplicación y atraer a los visitantes. Durante el Sprint 1, el equipo ha trabajado de manera colaborativa y eficiente para cumplir con los objetivos establecidos. A través de la implementación de las Historias de Usuario y la realización de pruebas de aceptación, hemos logrado desarrollar una landing page que cumple con los requerimientos del cliente. En el próximo Sprint, nos enfocaremos en el desarrollo de la aplicación y en la implementación de nuevas funcionalidades para mejorar la experiencia del usuario.
+- En conclusión, creemos que el proyecto FarmLogiTech es una aplicación que tiene un gran potencial para ayudar a los dueños de granja a gestionar sus granjas de manera eficiente y sostenible. A través de la implementación de una landing page atractiva y funcional, hemos logrado comunicar de manera efectiva los beneficios de la aplicación y atraer a los visitantes. Durante el Sprint 1, el equipo ha trabajado de manera colaborativa y eficiente para cumplir con los objetivos establecidos. A través de la implementación de las Historias de Usuario y la realización de pruebas de aceptación, hemos logrado desarrollar una landing page que cumple con los requerimientos del cliente. En el próximo Sprint, nos enfocaremos en el desarrollo de la aplicación y en la implementación de nuevas funcionalidades para mejorar la experiencia del usuario.
 
 ### Video de exposición
 
