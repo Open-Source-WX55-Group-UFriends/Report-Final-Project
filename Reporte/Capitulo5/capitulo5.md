@@ -5,53 +5,65 @@ A continuación, presentaremos el proceso por el cual organizamos, gestionamos y
 **Requirements Management**
 1. Trello: Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos de
    trabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuario
-   pertenecientes al sprint a desarrollar. Ruta de referencia https://trello.com/es
+   pertenecientes al sprint a desarrollar.  
+  Ruta de referencia: https://trello.com/es
   
 
 **Product UX/UI Design**
 
 1. Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En el
    caso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.
-   Ruta de referencia https://www.figma.com/login
+  
+    Ruta de referencia: https://www.figma.com/login
 2. Lucidchart: Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama de
-   clases asociado a la aplicación. Ruta de referencia https://www.lucidchart.com/
+   clases asociado a la aplicación.   
+
+   Ruta de referencia: https://www.lucidchart.com/
      
- **Software Testing**
-1. Gherkin: Es un sistema de etiquetado utilizado para describir los criterios de aceptación de estructura de una user story.
-   Ruta de referencia https://cucumber.io/docs/gherkin/  
 
 **Software Development**
 1. Visual Studio Code: Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos de
    dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del
    proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltiples
-   lenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios. Ruta de referencia
-   https://code.visualstudio.com/  
+   lenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios. 
+   
+   Ruta de referencia: https://code.visualstudio.com/  
    <br>
 2. HTML5: HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será
-   empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación. Ruta de referencia
-   https://www.w3schools.com/html/html5_syntax.asp   
+   empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación. 
+    
+   Ruta de referencia: https://www.w3schools.com/html/html5_syntax.asp   
    <br>
 3. CSS: Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano
-   con HTML. Ruta de referencia https://google.github.io/styleguide/htmlcssguide.html
+   con HTML.
+   
+   Ruta de referencia: https://google.github.io/styleguide/htmlcssguide.html
    <br>
    <br>
- 4. Tailwind CSS: Es un conjunto de herramientas de utilidad de CSS altamente personalizable y orientado a clases. Se utilizará para diseñar y estilizar la interfaz de usuario dentro de la aplicación. Puedes encontrar información detallada en la documentación
-oficial de Tailwind CSS: https://tailwindcss.com/docs
+4. Tailwind CSS: Es un conjunto de herramientas de utilidad de CSS altamente personalizable y orientado a clases. Se utilizará para diseñar y estilizar la interfaz de usuario dentro de la aplicación.
+
+    Ruta de referencia: https://tailwindcss.com/docs
 <br>
 <br>
 5. JavaScript: Es un lenguaje de programación interpretado y orientado a objetos. Se utilizará para elaborar la interfaz de
-   usuario dentro de la aplicación. Ruta de referencia https://developer.mozilla.org/es/docs/Web/JavaScript
+   usuario dentro de la aplicación. 
+
+   Ruta de referencia: https://developer.mozilla.org/es/docs/Web/JavaScript
 
  <br>
 
 **Software Deployment**
 1. Git: Una herramienta de control de versiones que facilita el registro y la gestión de las distintas versiones del programa. Su propósito es mantener un historial de cambios y simplificar la corrección de errores. Los integrantes del equipo 
-   accederán a través de la línea de comandos en sus sistemas locales https://git-scm.com/
+   accederán a través de la línea de comandos en sus sistemas locales. 
+
+   Ruta de referencia: https://git-scm.com/
    <br>
    <br>
 **Software Documentation and Project Management**
 2. Github: Una plataforma en la nube que hospedará los repositorios de código del proyecto. Permitirá la colaboración en 
-   tiempo real y la revisión de contribuciones de cada miembro del equipo. Los integrantes del equipo podrán acceder a través de sus navegadores web. https://github.com/
+   tiempo real y la revisión de contribuciones de cada miembro del equipo. Los integrantes del equipo podrán acceder a través de sus navegadores web. 
+   
+   Ruta de referencia: https://github.com/
 
 
 ### 5.1.2. Source Code Management.
@@ -111,8 +123,6 @@ propósito de su elemento.
    Tailwind:(https://tailwindcss.com/docs/adding-custom-styles)
 
 
-**Gherkin:** Es un DSL (Lenguaje de Dominio Específico) diseñado para abordar la comunicación entre los equipos de negocios y técnicos al adoptar Behavior Driven Development (BDD). Se han empleado saltos de línea para organizar y distinguir los diversos tipos de escenarios de manera efectiva, buscando una práctica óptima. Además, se han utilizado palabras clave como "Given", "When", "Then" y 
-"And" para estructurar los escenarios de manera clara y concisa.
 
 
 ### 5.1.4. Software Deployment Configuration.
@@ -201,7 +211,7 @@ link del trello: https://trello.com/b/WJXt50JP/farmlogitech
 <tr>
        <td>US02</td>
        <td> Planes de suscripción en la landing page</td>
-       <td>T02</td>
+       <td>T03</td>
        <td>Agregar divs para las suscripciones en la landing page</td>
        <td>Diseñar los planes que ofrecemos usando divs</td>
        <td>2</td>
@@ -211,8 +221,19 @@ link del trello: https://trello.com/b/WJXt50JP/farmlogitech
 <tr>
 <tr>
        <td>US02</td>
+       <td> Métodos de pago en la landing page</td>
+       <td>T04</td>
+       <td>Agregar divs para los métodos de pago en la landing page</td>
+       <td>Colocar las imagenes de los métodos de pagos usando div</td>
+       <td>2</td>
+       <td>Janiel Escalante</td>
+       <td>Done</td>
+    </tr>
+<tr>
+<tr>
+       <td>US02</td>
        <td> Planes de suscripción en la landing page</td>
-       <td>T02</td>
+       <td>T05</td>
        <td>Agregar interacción con los planes</td>
        <td> Añadir la función hover para planes interactivos</td>
        <td>2</td>
@@ -220,11 +241,20 @@ link del trello: https://trello.com/b/WJXt50JP/farmlogitech
        <td>Done</td>
     </tr>
 <tr>
-       <td>US03</td>
+       <td>US04</td>
        <td>Adaptación de landing page a dispositivos</td>
-       <td>T02</td>
+       <td>T06</td>
        <td>Agregar responsive </td>
-       <td>Añadir responsive al landing page para que se pueda acoplar a cualquier dispositivo</td>
+       <td>Añadir responsXive al landing page para que se pueda acoplar a cualquier dispositivo</td>
+       <td>1</td>
+       <td>Mathias Kunimoto</td>
+       <td>Done</td>
+    </tr>
+ <td>US05</td>
+       <td>Adaptación de sección de colaboradores en la landing page </td>
+       <td>T07</td>
+       <td>Agregar Colaboradores </td>
+       <td>Añadir creadores del  landing page </td>
        <td>1</td>
        <td>Augusto Pin</td>
        <td>Done</td>
@@ -236,11 +266,82 @@ link del trello: https://trello.com/b/WJXt50JP/farmlogitech
 
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
-| Repository  | Branch | Commit id | Commit Message|Commit Message Body | Commited on (Date)|
-|-------------|--------|-----------|------------------------------------|--------------------|-------- 
-|  https://github.com/Open-Source-WX55-Group-UFriends/landing-page|        | 09:00  AM | Reunión virtual mediante Google meet | Elaborar y diseñar una landing page atractiva e informativa para la aplicación  | PRODUCT BACKLOG   | PRODUCT BACKLOG  |
+| Repository                                                      | Branch             | Commit id | Commit Message                             | Commit Message Body                                                            | Commited on (Date) |
+|-----------------------------------------------------------------|--------------------|--------|--------------------------------------------|--------------------------------------------------------------------------------|-------------------- 
+| https://github.com/Open-Source-WX55-Group-UFriends/landing-page | interactive_images | 099a2cd | feat: update index(image carousel)         |  feat: update index(image carousel)                           | 07/04/2024         | 
+|                                                                 | interactive_images | d5c926e | feat: added collaborators above the footer | feat: added collaborators above the footer| 9/04/2024          | 
+|                                                                 | price_rates        | 8b7d124 | feat:  added price_rates section           | feat:  added price_rates section         | 10/04/2024         | 
+|                                                                 | interactive_images | 1fec9bf | fix: update responsive                     | fix: update responsive | 07/04/2024         | 
+|                                                                 | payment_method     | a28ada5 | chore: initial commit                       | chore: initial commit| 11/04/2024         | 
+
+#### 5.2.1.4 Testing Suite Evidence for Sprint Review.
+
+Para la entrega del Sprint 1, logramos completar el desarrollo, la implementación y el despliegue del Landing Page. Por esta razón, nos enfocamos en la sección de "acceptance-tests" en la implementación de los archivos feature que componen nuestro landing page. Estos features se basan en las Historias de Usuario especificadas en el sprint backlog, detallando cada uno de los escenarios que planeamos desarrollar.
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Repository</th>
+    <th >Branch</th>
+    <th>Commit</th>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>landing-page</td>
+    <td>Features_testing</td>
+    <td>07fa8d6</td>
+    <td>Augusto Pin</td>
+    <td>doc: add acceptance tests</td>
+    <td>11/04/2024</td>
+  </tr>
+</table>
+
+
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+Durante el Sprint 1, logramos la implementación y despliegue del Landing Page. Muestra diversas secciones donde los usuarios pueden encontrar información relevante sobre el producto. A continuación, se presentan algunas evidencias del progreso realizado.
+
+1. Sección  carrusel de imágenes
+   En esta sección, se puede visualizar e interactuar con las imágenes principales.
+>Imagen de carrusel
+
+2. Sección de Características
+   En esta sección, se puede observar lo que FarmLogitech ofrece.
+>Imagenes  caracteristicas
+3. Sección Planes
+   En esta sección, se visualizan los planes que Farmlogitech, plan básico en el que solo
+   podrás promocionar tu granja y el premium en la que no solo podrás promocionarla, sino también gestionarla.
+>Imagenes de planes
+
+4. Sección Método de Pago
+   En esta sección, se visualizan diversos métodos de pago que Farmlogitech ofrece
+>Imagenes de metodo de pago
+5. Sección Colaboradores
+   En esta sección, aparecerán los colaboradores encargados de desarrollar la landing page.
+>Imagenes de colaboradores
+   
+### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
+
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Para la entrega del Sprint número 1, se desplegó la landing page completa. 
+> Imagene completa
+
+Enlace para acceder a la landing page: https://open-source-wx55-group-ufriends.github.io/landing-page/#
+
+ ### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+| Alumno           | Actividad                                                   | 
+|------------------|-------------------------------------------------------------|
+| Rodrigo Aguilar  | Implementación de imágenes interactivas                     |
+| Janiel Escalante | Implementación de sección métodos de pago                   |
+| Mathias Kunimoto | Implementación del responsive y características del website |
+| Augusto Pin      | Implementación de la sección colaboradores                  |
+| Luciano Ruiz     | Implementación de la sección de planes                      |
+
+>imagen de avances en el git
 
 
 
@@ -269,22 +370,15 @@ link del trello: https://trello.com/b/WJXt50JP/farmlogitech
 
 
 
-5.2.
-Landing Page, Services & Applications Implementation.
-5.2.1. Sprint 1
-5.2.1.1.
-5.2.1.2.
-5.2.1.3.
-5.2.1.4.
-5.2.1.5.
-5.2.1.6.
-5.2.1.7.
-5.2.1.8.
-Sprint Planning 1.
-Sprint Backlog 1.
-Development Evidence for Sprint Review.
-Testing Suite Evidence for Sprint Review.
-Execution Evidence for Sprint Review.
-Services Documentation Evidence for Sprint Review.
-Software Deployment Evidence for Sprint Review.
-Team Collaboration Insights during Sprint. 
+
+
+
+
+
+
+
+
+
+
+
+
