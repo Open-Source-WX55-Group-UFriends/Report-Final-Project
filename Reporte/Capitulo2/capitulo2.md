@@ -217,7 +217,9 @@ Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se 
 
 **Ciudad:** Lima
 
-<img src="/assets/Entrevista03.png"></img><br>
+<div align=center>
+    <img src="/Assets/Entrevista03.png" alt="Entrevista-03"/></img>
+</div>
 
 #### Evidencia de la reunión:
 
