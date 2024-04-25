@@ -189,6 +189,8 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 
 **Ciudad:** Lima
 
+**Segmento objetivo:** Dueño de granja
+
 
 <div align=center>
     <img src="/Assets/Entrevista04.png" alt="Entrevista-04"/></img>
@@ -215,6 +217,8 @@ Mirian Higashi, una mujer de 55 años de Lima, Perú, ha llevado un buen manejo 
 
 **Ciudad:** Lima
 
+**Segmento objetivo:** Dueño de granja
+
 <div align=center>
     <img src="/Assets/Entrevista03.png" alt="Entrevista-03"/></img>
 </div>
@@ -236,6 +240,8 @@ Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta di
 **Edad:** 19 años
 
 **Ciudad:** Huacho
+
+**Segmento objetivo:** Trabajador de una granja
 
 //Foto de Rodrigo
 
@@ -259,6 +265,8 @@ Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente
 
 **Ciudad:** Lima
 
+**Segmento objetivo:** Trabajador de una granja
+
 //Foto de Italo
 
 ####  Resumen de la entrevista:
@@ -278,6 +286,8 @@ que uno de los desafíos que ha tenido es mantener el equilibrio entre la eficie
 **Edad:** 63 años
 
 **Ciudad:** Lima
+
+**Segmento objetivo:** Dueño de granja
 
 //Foto de Cesar
 
