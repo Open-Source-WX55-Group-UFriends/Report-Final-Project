@@ -137,7 +137,7 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 ¿Dónde vives actualmente?
 ¿A qué te dedicas?
 
-### Segmento objetivo: Dueño
+### Segmento objetivo: Dueños de granjas
 
 #### Preguntas objetivas:
 - ¿Qué tipo de granja suele administrar? (agreria, ganadera, avicola, etc.)
@@ -153,7 +153,7 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 - ¿Ha tenido alguna experiencia previa con plataformas similares de gestion de granjas?¿Qué aspectos le gustaron?
 - ¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?
 
-#### Segmento objetivo: Administrador
+#### Segmento objetivo: Administrador de una empresa
 - ¿Qué tipo de productos agrícolas o ganaderos suelen adquirir para sus operaciones?
 - ¿Qué criterios son más importantes al seleccionar proveedores de productos agrícolas o ganaderos?
 - ¿Qué desafíos enfrentan actualmente al establecer relaciones comerciales con granjas proveedoras?
@@ -163,7 +163,7 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 - ¿Qué beneficios esperarían obtener al utilizar una plataforma en lugar de métodos tradicionales de búsqueda y contacto?
 - ¿Cuáles son las principales preocupaciones en términos de calidad, seguridad alimentaria y sostenibilidad al seleccionar proveedores agrícolas o ganaderos?
 - ¿Qué incentivos podrían motivarlos a utilizar una plataforma como la tuya para establecer relaciones con granjas proveedoras?
-#### Segmento objetivo: Trabajador
+#### Segmento objetivo: Trabajador de una granja
 #### Preguntas objetivas:
 - ¿Cuántos años de experiencia tienes trabajando en la agricultura/ganadería?
 - ¿Qué tipo de  ganado/cultivo manejas en tu trabajo?
@@ -194,7 +194,7 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
     <img src="/Assets/Entrevista04.png" alt="Entrevista-04"/></img>
 </div>
 
-#### Evidencia de la reunión:
+#### Resumen de la entrevista:
 
 Mirian Higashi, una mujer de 55 años de Lima, Perú, ha llevado un buen manejo en la industria avícola. Con un cargo como administradora en una empresa avícola, posee un profundo conocimiento en la gestión de operaciones, logística y gestión de personal en este campo.
 
@@ -219,7 +219,7 @@ Mirian Higashi, una mujer de 55 años de Lima, Perú, ha llevado un buen manejo 
     <img src="/Assets/Entrevista03.png" alt="Entrevista-03"/></img>
 </div>
 
-#### Evidencia de la reunión:
+#### Resumen de la entrevista:
 
 Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta diversos desafíos en la gestión de su granja. La rotación de personal y las regulaciones medioambientales son preocupaciones constantes, mientras que la proximidad a áreas pobladas agrega complejidad a las operaciones. La renovación de equipos e infraestructura es esencial para mantener la competitividad en un mercado en constante cambio. En su granja, se especializa en la cría y producción avícola, priorizando el bienestar de las aves y la bioseguridad. Jorge ha implementado estrategias para estabilizar el equipo de trabajo y cumplir con las regulaciones, optimizando procesos y concientizando al personal sobre su papel en el éxito de la granja. Considera que la facilidad de uso es vital en cualquier plataforma de gestión y busca constantemente mejorar los procesos internos. La optimización del tiempo es crucial, y Jorge estaría dispuesto a pagar por una aplicación que mejore la eficiencia de su operación. En la búsqueda de herramientas prácticas en una plataforma de gestión, prioriza soluciones integrales que aborden los desafíos específicos de su granja avícola.
 
@@ -241,7 +241,7 @@ Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta di
 
 
 
-#### Evidencia de la reunión:
+#### Resumen de la entrevista:
 
 Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente, trabaja como trabajador de cultivos en una empresa especializada en la producción, siembra y cosecha de maracuyá. Durante una entrevista reciente, compartió valiosa información sobre el seguimiento de la gestión y la producción en la empresa. Rodrigo también destacó los desafíos que enfrenta en su área de trabajo y expresó su interés en contribuir en futuras entrevistas. Además, enfatizó la importancia de contar con una plataforma que permita a los trabajadores acceder fácilmente a sus tareas pendientes, lo cual considera fundamental para mejorar la eficiencia en el trabajo.
 **Minuto de la entrevista:** 14:28
@@ -261,7 +261,7 @@ Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente
 
 //Foto de Italo
 
-####  Evidencia de la reunión:
+####  Resumen de la entrevista:
 Italo Luna es un joven de 19 años que proviene de Huaral, Perú. Actualmente, es un estudiante de la carrera de ing. de Software, en vacaciones ayuda a sus padres como trabajador de en una empresa avícola. Durante una entrevista reciente, compartió valiosa información sobre el seguimiento de la gestión y la producción en la empresa. Italo también destacó
 que uno de los desafíos que ha tenido es mantener el equilibrio entre la eficiencia de producción y el bienestar animal. Además nos comenta que la empresa cuenta con alrededor de 50,000 pollo y 10 galpones. Se le preguntó acerca de como viene siendo la venta de los pollos y nos dijo que dependiendo del peso del pollo, se crea un porcentaje en la cuál tiene que ser vendido cada pollo por el mismo peso o un aproximado.
 
@@ -286,8 +286,13 @@ que uno de los desafíos que ha tenido es mantener el equilibrio entre la eficie
 **Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
 
-#### Evidencia de la reunión:
+#### Resumen de la entrevista:
 Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se desempeñó como gerente de una empresa líder en la distribución de productos avícolas en la región. Durante su extensa carrera, ha acumulado una vasta experiencia en la gestión de operaciones, logística y supervisión de personal en el sector avícola. En una reciente entrevista, compartió valiosos conocimientos sobre estrategias de distribución, control de inventario y gestión de recursos humanos en la industria avícola. Cesar también reflexionó sobre los desafíos enfrentados durante su carrera y expresó su interés en seguir contribuyendo al sector mediante consultorías y asesorías especializadas. Destacó la importancia de la eficiencia operativa y la optimización de procesos en un mercado tan competitivo como el de la distribución de productos avícolas. Además, resaltó la necesidad de implementar tecnologías innovadoras para mejorar la productividad y la calidad en todas las etapas de la cadena de suministro.
+
+### 2.2.3. Análisis de entrevistas
+#### Segmento objetivo (Dueño de una granja):
+#### Segmento objetivo (Adinistrador de una empresa):
+#### Segmento objetivo (Trabajador de una granja):
 
 
 ## 2.3. Needfinding
