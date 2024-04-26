@@ -305,17 +305,17 @@ Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se 
 
 **Entrevista:** 06
 
-**Nombres:** Jorge
+**Nombres:** Soledad
 
-**Apellidos:** Pin Lavado
+**Apellidos:** Perez
 
-**Edad:** 63 años
+**Edad:** 47 años
 
-**Ciudad:** Lima
+**Ciudad:** Ayacucho
 
-**Segmento objetivo:** Dueño de granja
+**Segmento objetivo:** Administrador de una empresa
 
-//Foto de Cesar
+//Foto de Soledad
 
 **Minuto de la entrevista:** 25:17
 
@@ -323,8 +323,7 @@ Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se 
 
 
 #### Resumen de la entrevista:
-Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se desempeñó como gerente de una empresa líder en la distribución de productos avícolas en la región. Durante su extensa carrera, ha acumulado una vasta experiencia en la gestión de operaciones, logística y supervisión de personal en el sector avícola. En una reciente entrevista, compartió valiosos conocimientos sobre estrategias de distribución, control de inventario y gestión de recursos humanos en la industria avícola. Cesar también reflexionó sobre los desafíos enfrentados durante su carrera y expresó su interés en seguir contribuyendo al sector mediante consultorías y asesorías especializadas. Destacó la importancia de la eficiencia operativa y la optimización de procesos en un mercado tan competitivo como el de la distribución de productos avícolas. Además, resaltó la necesidad de implementar tecnologías innovadoras para mejorar la productividad y la calidad en todas las etapas de la cadena de suministro.
-
+Entrevistamos a una gerente de adquisiciones de una cadena de supermercados en la región, cuyas responsabilidades incluyen negociar con ganaderos y proveedores de productos de origen animal. Realiza estas negociaciones regularmente, aproximadamente una vez al mes. Implementa estrategias de negociación que incluyen buscar proveedores confiables, evaluar constantemente la calidad del producto y comparar precios en el mercado. Los principales desafíos que enfrenta incluyen asegurar un suministro constante de carne de alta calidad, negociar precios competitivos y mantener relaciones sólidas con los proveedores a largo plazo. Ante las fluctuaciones en los precios de la carne, utiliza estrategias de planificación y gestión de inventario, además de mantener una comunicación abierta con los proveedores. Valora la consistencia en la calidad del producto, la confiabilidad en el suministro, el cumplimiento de los plazos de entrega y la disposición para negociar precios competitivos en sus proveedores. Encuentra gratificante asegurar un suministro constante de productos de calidad para los clientes y contribuir al éxito general de la empresa.
 
 **Entrevista:** 07
 
@@ -332,11 +331,11 @@ Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se 
 
 **Apellidos:** Coras
 
-**Edad:** 43 años
+**Edad:** 47 años
 
 **Ciudad:** Ayacucho
 
-**Segmento objetivo:** Administrador en una empresa
+**Segmento objetivo:** Gerente de adquisiciones en una empresa
 
 //Foto de Jorge
 
@@ -346,8 +345,8 @@ Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se 
 
 
 #### Resumen de la entrevista:
-Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se desempeñó como gerente de una empresa líder en la distribución de productos avícolas en la región. Durante su extensa carrera, ha acumulado una vasta experiencia en la gestión de operaciones, logística y supervisión de personal en el sector avícola. En una reciente entrevista, compartió valiosos conocimientos sobre estrategias de distribución, control de inventario y gestión de recursos humanos en la industria avícola. Cesar también reflexionó sobre los desafíos enfrentados durante su carrera y expresó su interés en seguir contribuyendo al sector mediante consultorías y asesorías especializadas. Destacó la importancia de la eficiencia operativa y la optimización de procesos en un mercado tan competitivo como el de la distribución de productos avícolas. Además, resaltó la necesidad de implementar tecnologías innovadoras para mejorar la productividad y la calidad en todas las etapas de la cadena de suministro.
 
+El entrevistado es el gerente de adquisiciones de alimentos en una cadena de restaurantes reconocida en el país. Participa regularmente en negociaciones con ganaderos para garantizar el suministro de carne y productos derivados para los restaurantes. Implementa estrategias de negociación que incluyen evaluación detallada de la calidad del producto, búsqueda de proveedores confiables y negociación de precios competitivos. Algunos desafíos incluyen fluctuación de precios, variabilidad en la calidad del ganado y logística de transporte. Los criterios clave para seleccionar proveedores son calidad del producto, confiabilidad del proveedor, capacidad de suministro, ubicación geográfica y reputación en el mercado. Describe las negociaciones como fundamentales para asegurar un suministro constante de productos de calidad y establecer relaciones sólidas con proveedores. Encuentra satisfacción en obtener productos de calidad a precios competitivos y en el proceso de construcción de relaciones durante la negociación. Maneja los momentos de tensión con calma, buscando soluciones mutuamente beneficiosas y priorizando la comunicación abierta y el respeto hacia todas las partes involucradas.
 
 ### 2.2.3. Análisis de entrevistas
 #### Segmento objetivo (Dueño de una granja):
