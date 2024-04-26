@@ -206,7 +206,7 @@ Mirian Higashi, una mujer de 55 años de Lima, Perú, ha llevado un buen manejo 
 
 **Minuto de la entrevista:** 0:00
 
-**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 
@@ -233,7 +233,7 @@ Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta di
 
 **Minuto de la entrevista:** 6:55
 
-**Link de la entrevista:**  [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+**Link de la entrevista:**  [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Entrevista 03**
 
@@ -256,7 +256,7 @@ Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta di
 Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente, trabaja como trabajador de cultivos en una empresa especializada en la producción, siembra y cosecha de maracuyá. Durante una entrevista reciente, compartió valiosa información sobre el seguimiento de la gestión y la producción en la empresa. Rodrigo también destacó los desafíos que enfrenta en su área de trabajo y expresó su interés en contribuir en futuras entrevistas. Además, enfatizó la importancia de contar con una plataforma que permita a los trabajadores acceder fácilmente a sus tareas pendientes, lo cual considera fundamental para mejorar la eficiencia en el trabajo.
 **Minuto de la entrevista:** 14:28
 
-**Link de la entrevista:**  [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+**Link de la entrevista:**  [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 **Entrevista 04**
@@ -279,7 +279,7 @@ que uno de los desafíos que ha tenido es mantener el equilibrio entre la eficie
 
  **Minuto de la entrevista:** 20:14
 
-**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Entrevista:** 05
 
@@ -297,7 +297,7 @@ que uno de los desafíos que ha tenido es mantener el equilibrio entre la eficie
 
 **Minuto de la entrevista:** 25:17
 
-**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 #### Resumen de la entrevista:
@@ -315,11 +315,14 @@ Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se 
 
 **Segmento objetivo:** Administrador de una empresa
 
-//Foto de Soledad
+<div align=center>
+    <img src="/assets/interview-6.JPG" alt="Entrevista-06"/></img>
+</div>
 
-**Minuto de la entrevista:** 25:17
 
-**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+**Minuto de la entrevista:** 29:41
+
+**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=stV4Ki&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 #### Resumen de la entrevista:
@@ -337,11 +340,13 @@ Entrevistamos a una gerente de adquisiciones de una cadena de supermercados en l
 
 **Segmento objetivo:** Gerente de adquisiciones en una empresa
 
-//Foto de Jorge
+<div align=center>
+    <img src="/assets/interview-7.JPG" alt="Entrevista-07"/></img>
+</div>
 
-**Minuto de la entrevista:** XXXX
+**Minuto de la entrevista:** 32:59
 
-**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=stV4Ki&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 #### Resumen de la entrevista:
