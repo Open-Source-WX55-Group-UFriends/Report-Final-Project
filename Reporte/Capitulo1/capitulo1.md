@@ -211,8 +211,17 @@ Gracias al proyecto logramos conocer personas dentro de la industria y lo util q
 
 # Capítulo I: Introducción
 ## 1.1. StartUp Profile
+En esta sección describiremos el perfil de nuestra Startup.
+
 ### 1.1.1. Description de la StartUp
-FarmLogiTech es una plataforma tecnológica creada el 22/03/2024 por un grupo de 5 estudiantes  que ofrece soluciones integrales para la gestión eficiente de granjas, facilitando la colaboración entre empresas grandes, dueños de granjas y trabajadores agrícolas.
+FarmLogiTech es un startup tecnológico fundada en el 2024 por un grupo de estudiantes compuesta por un grupo de estudiantes de la carrera de Ingeniería de Software. Nuestro startup está dedicada a simplificar la gestion y logistica de una granja, brindando una plataforma innovadora y accesible para propietarios de granjas y trabajadores.
+
+- Misión: Nuestra misión es simplificar la gestion y administracion de granjas mediante
+una plataforma intuitiva y eficiente, ayudando con todo tipo de herramientas a las personas dueñas de una granja o que trabajan en ellas.
+
+- Visión: Convertirnos en la principal plataforma global de gestion y logistica de granjas,
+impulsando la eficiencia y la satisfacción de nuestros usuarios.
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
 <table align="center"  border="1" width="70%" style="text-align:center;">
@@ -340,8 +349,18 @@ Soy Luciano Ruiz, tengo 20 años y estudio la carrera de Ingeniería de Software
 </table>
 
 ## 1.2. Solution Profile
+
+En esta sección se detallan los aspectos claves de nuestra solución de software, incluyendo sus
+carcateristicas distintivas, propuestas de valor y estrategias de monetización.
+
+**Product Name:** FarmLogiTech
+
+**Product Description:** FarmLogiTech es una solución tecnológica diseñada para simplificar las gestiones de granjas y distribución de tareas al conectar de manera eficiente a propietarios de granjas con trabajadores. La plataforma permite asignar tareas, administrar galpones, dar detalles de cada espacio donde hay animales, dar recomendación personalizadas para el crecimiento de estas, ofreciendo una una experiencia fluida y sin problemas. Además, proporciona herramientas de seguimiento en tiempo real para las granjas y gestión de avisos y alarmas para garantizar una experiencia óptima y segura.
+
+**Monetización:** Para generar ingresos, FarmLogiTech implementará un modelo de planes para dueños de granjas que deseen acceder a funciones avanzadas de gestión y logistica. Estos planes ofrecerán beneficios adicionales, como notificaciones y acceso móvil, visualización detallada sobre granjas, asignación de tareas a colaboradores, avisos destacados, etc.
+
 ### 1.2.1. Antecedentes y problemática
-La industria agrícola y ganadera enfrenta desafíos significativos en términos de mejorar la producción, calidad y gestión de cultivos y ganado. Los agricultores y ganaderos se ven presionados por el crecimiento de la población mundial y los cambios en las demandas del mercado, pero enfrentan obstáculos como la falta de herramientas tecnológicas, la coordinación ineficiente entre granjasy la escasez de información en tiempo real sobre el estado de los cultivos, condiciones climáticas y bienestar animal. Según un informe de Rizia, Ana (2020) publicado en la página del MBA USP, muchos ganaderos pueden carecer de la capacitación necesaria en gestión agrícola y comercialización, lo que dificulta la toma de decisiones informadas y eficientes. Además, la falta de un control financiero adecuado puede llevar a dificultades económicas y poner en riesgo la viabilidad de la granja a largo plazo.
+La industria agrícola y ganadera enfrenta desafíos significativos en términos de mejorar la producción, calidad y gestión de cultivos y ganado. Los agricultores y ganaderos se ven presionados por el crecimiento de la población mundial y los cambios en las demandas del mercado, pero enfrentan obstáculos como la falta de herramientas tecnológicas, la coordinación ineficiente entre granjas y la escasez de información en tiempo real sobre el estado de los cultivos, condiciones climáticas y bienestar animal. Muchos ganaderos pueden carecer de la capacitación necesaria en gestión agrícola y comercialización, lo que dificulta la toma de decisiones informadas y eficientes. Además, la falta de un control financiero adecuado puede llevar a dificultades económicas y poner en riesgo la viabilidad de la granja a largo plazo.
 
 -   **What?**
 
