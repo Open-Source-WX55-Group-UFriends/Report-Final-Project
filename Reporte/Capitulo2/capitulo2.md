@@ -281,7 +281,7 @@ que uno de los desafíos que ha tenido es mantener el equilibrio entre la eficie
 
 **Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
-**Entrevista:** 02
+**Entrevista:** 05
 
 **Nombres:** Cesar
 
@@ -303,9 +303,57 @@ que uno de los desafíos que ha tenido es mantener el equilibrio entre la eficie
 #### Resumen de la entrevista:
 Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se desempeñó como gerente de una empresa líder en la distribución de productos avícolas en la región. Durante su extensa carrera, ha acumulado una vasta experiencia en la gestión de operaciones, logística y supervisión de personal en el sector avícola. En una reciente entrevista, compartió valiosos conocimientos sobre estrategias de distribución, control de inventario y gestión de recursos humanos en la industria avícola. Cesar también reflexionó sobre los desafíos enfrentados durante su carrera y expresó su interés en seguir contribuyendo al sector mediante consultorías y asesorías especializadas. Destacó la importancia de la eficiencia operativa y la optimización de procesos en un mercado tan competitivo como el de la distribución de productos avícolas. Además, resaltó la necesidad de implementar tecnologías innovadoras para mejorar la productividad y la calidad en todas las etapas de la cadena de suministro.
 
+**Entrevista:** 06
+
+**Nombres:** Jorge
+
+**Apellidos:** Pin Lavado
+
+**Edad:** 63 años
+
+**Ciudad:** Lima
+
+**Segmento objetivo:** Dueño de granja
+
+//Foto de Cesar
+
+**Minuto de la entrevista:** 25:17
+
+**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
+
+#### Resumen de la entrevista:
+Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se desempeñó como gerente de una empresa líder en la distribución de productos avícolas en la región. Durante su extensa carrera, ha acumulado una vasta experiencia en la gestión de operaciones, logística y supervisión de personal en el sector avícola. En una reciente entrevista, compartió valiosos conocimientos sobre estrategias de distribución, control de inventario y gestión de recursos humanos en la industria avícola. Cesar también reflexionó sobre los desafíos enfrentados durante su carrera y expresó su interés en seguir contribuyendo al sector mediante consultorías y asesorías especializadas. Destacó la importancia de la eficiencia operativa y la optimización de procesos en un mercado tan competitivo como el de la distribución de productos avícolas. Además, resaltó la necesidad de implementar tecnologías innovadoras para mejorar la productividad y la calidad en todas las etapas de la cadena de suministro.
+
+
+**Entrevista:** 07
+
+**Nombres:** Jorge
+
+**Apellidos:** Coras
+
+**Edad:** 43 años
+
+**Ciudad:** Ayacucho
+
+**Segmento objetivo:** Administrador en una empresa
+
+//Foto de Jorge
+
+**Minuto de la entrevista:** XXXX
+
+**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
+
+#### Resumen de la entrevista:
+Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se desempeñó como gerente de una empresa líder en la distribución de productos avícolas en la región. Durante su extensa carrera, ha acumulado una vasta experiencia en la gestión de operaciones, logística y supervisión de personal en el sector avícola. En una reciente entrevista, compartió valiosos conocimientos sobre estrategias de distribución, control de inventario y gestión de recursos humanos en la industria avícola. Cesar también reflexionó sobre los desafíos enfrentados durante su carrera y expresó su interés en seguir contribuyendo al sector mediante consultorías y asesorías especializadas. Destacó la importancia de la eficiencia operativa y la optimización de procesos en un mercado tan competitivo como el de la distribución de productos avícolas. Además, resaltó la necesidad de implementar tecnologías innovadoras para mejorar la productividad y la calidad en todas las etapas de la cadena de suministro.
+
+
 ### 2.2.3. Análisis de entrevistas
 #### Segmento objetivo (Dueño de una granja):
 #### Segmento objetivo (Adinistrador de una empresa):
+Los empresarios interesados en asociarse con ganaderos generalmente ocupan roles de gerentes de adquisiciones de alimentos en empresas del sector gastronómico. Participan en negociaciones con ganaderos con regularidad para asegurar el suministro de carne y productos derivados para sus negocios. Utilizan principalmente sistemas operativos como Windows 10 y navegadores web como Google Chrome en sus computadoras de trabajo. Prefieren dispositivos móviles Android y el navegador móvil Google Chrome para acceder a aplicaciones relacionadas con su trabajo.
+Estos empresarios consideran fundamental la importancia de las negociaciones con ganaderos para asegurar productos de alta calidad a precios competitivos para sus negocios. Experimentan satisfacción al lograr negociaciones exitosas que les permiten mantener la rentabilidad del negocio y ofrecer experiencias gastronómicas excepcionales a sus clientes.
 #### Segmento objetivo (Trabajador de una granja):
 
 
@@ -317,7 +365,7 @@ Para las características principales estamos tomando en cuenta la información 
 - **User persona trabajador en granja**  
   Utilizando datos que obtuvimos en las entrevistas, creamos el User Persona que representa al trabajador de una granja.
   Este nos ayuda a entender las necesidades y desafíos que enfrenta este segmento objetivo, detallando 
-  sus gustos y comportamientos.
+  sus gustos y comportamientos. 
   ![Imagen de UserPersona1](https://i.postimg.cc/ZYQMtWWC/User-persona-trabajador.png)
 
 - **Dueño de granja**  
