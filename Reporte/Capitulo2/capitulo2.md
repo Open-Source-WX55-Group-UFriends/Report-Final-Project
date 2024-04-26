@@ -154,15 +154,20 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 - ¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?
 
 #### Segmento objetivo: Administrador de una empresa
-- ¿Qué tipo de productos agrícolas o ganaderos suelen adquirir para sus operaciones?
-- ¿Qué criterios son más importantes al seleccionar proveedores de productos agrícolas o ganaderos?
-- ¿Qué desafíos enfrentan actualmente al establecer relaciones comerciales con granjas proveedoras?
-- ¿Qué información consideran crucial al evaluar a una granja como posible proveedor?
-- ¿Cómo prefieren comunicarse con las granjas proveedoras potenciales?
-- ¿Qué características o funcionalidades esperarían encontrar en una plataforma que facilite la conexión con granjas proveedoras?
-- ¿Qué beneficios esperarían obtener al utilizar una plataforma en lugar de métodos tradicionales de búsqueda y contacto?
-- ¿Cuáles son las principales preocupaciones en términos de calidad, seguridad alimentaria y sostenibilidad al seleccionar proveedores agrícolas o ganaderos?
-- ¿Qué incentivos podrían motivarlos a utilizar una plataforma como la tuya para establecer relaciones con granjas proveedoras?
+#### Preguntas objetivas:
+- ¿Cuál es tu rol o posición dentro de la empresa en la que trabajas?
+- ¿Con qué frecuencia realizas negociaciones con ganaderos o proveedores de productos de origen animal?
+- ¿Qué estrategias utilizas para garantizar la calidad y el precio competitivo de los productos de carne en tu empresa?
+- ¿Cuáles son los principales desafíos que enfrentas al negociar con ganaderos y proveedores de carne?
+- ¿Cómo manejas las fluctuaciones en los precios de la carne y otros productos de origen animal?
+- ¿Qué características valoras más en un proveedor de carne o productos de origen animal?
+
+#### Preguntas subjetivas:
+- ¿Qué aspecto de tu trabajo como gerente de adquisiciones encuentras más gratificante?
+- ¿Cómo te sientes al enfrentar situaciones de negociación difíciles con ganaderos o proveedores?
+- ¿Cuál crees que es el papel de la ética en las negociaciones comerciales con proveedores?
+- ¿Cómo te adaptas a los cambios en el mercado de productos de origen animal y las demandas cambiantes de los consumidores?
+- ¿Qué habilidades consideras más importantes para tener éxito en tu posición como gerente de adquisiciones?
 #### Segmento objetivo: Trabajador de una granja
 #### Preguntas objetivas:
 - ¿Cuántos años de experiencia tienes trabajando en la agricultura/ganadería?
