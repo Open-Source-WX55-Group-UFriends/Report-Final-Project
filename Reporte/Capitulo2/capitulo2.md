@@ -167,7 +167,6 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 - ¿Cómo te sientes al enfrentar situaciones de negociación difíciles con ganaderos o proveedores?
 - ¿Cuál crees que es el papel de la ética en las negociaciones comerciales con proveedores?
 - ¿Cómo te adaptas a los cambios en el mercado de productos de origen animal y las demandas cambiantes de los consumidores?
-- ¿Qué habilidades consideras más importantes para tener éxito en tu posición como gerente de adquisiciones?
 #### Segmento objetivo: Trabajador de una granja
 #### Preguntas objetivas:
 - ¿Cuántos años de experiencia tienes trabajando en la agricultura/ganadería?
