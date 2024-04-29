@@ -295,7 +295,7 @@ que uno de los desafíos que ha tenido es mantener el equilibrio entre la eficie
 **Segmento objetivo:** Dueño de granja
 
 <div align=center>
-    <img src="/Assets/Entrevista5.jpg" alt="Entrevista5"/></img>
+    <img src="/assets/Entrevista5.jpg" alt="Entrevista5"/></img>
 </div>
 
 **Minuto de la entrevista:** 25:17
