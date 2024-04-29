@@ -275,104 +275,6 @@ link del trello: https://trello.com/b/WJXt50JP/farmlogitech
 
    </table>
 
-<br>
-
-### Sprint 2
-
-<table align="center" border="1" width="90%" style="text-align:center">
-    <tr>
-       <td colspan="1"><b>Sprint #</b></td>
-       <td colspan="7"><b>Sprint 2</b></td>
-     </tr>
-     <tr>
-       <td colspan="2"><b>User Story</b></td>
-      <td colspan="6"><b>Work-Item / Task</b></td>
-     </tr>
-     <tr>
-       <td><b>Id</b></td>
-       <td><b>Title</b></td>
-       <td><b>Id</b></td>
-       <td><b>Title</b></td>
-       <td><b>Description</b></td>
-       <td><b>Estimation(Hours)</b></td>
-       <td><b>Assigned To</b></td>
-       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
-     </tr>
-     <tr>
-   <tr>
-       <td>US01</td>
-       <td>Descripcion clara de los servicios</td>
-       <td>T01</td>
-       <td>Agregar divs para los servicios  en la landing page</td>
-       <td>Diseñar los servicios que ofrecemos usando divs</td>
-       <td>4</td>
-       <td>Mathias Kunimoto</td>
-       <td>Done</td>
-    </tr>
-<tr>
-       <td>US06</td>
-       <td>Interacción de imágenes en la landing page</td>
-       <td>T02</td>
-       <td>Agregar un carrusel en la landing page</td>
-       <td>Diseñar un carrusel para la interacción con el usuario</td>
-       <td>5</td>
-       <td>Rodrigo Aguilar </td>
-       <td>Done</td>
-    </tr>
-<tr>
-       <td>US02</td>
-       <td> Planes de suscripción en la landing page</td>
-       <td>T03</td>
-       <td>Agregar divs para las suscripciones en la landing page</td>
-       <td>Diseñar los planes que ofrecemos usando divs</td>
-       <td>5</td>
-       <td>Janiel Escalante</td>
-       <td>Done</td>
-    </tr>
-<tr>
-<tr>
-       <td>US02</td>
-       <td> Métodos de pago en la landing page</td>
-       <td>T04</td>
-       <td>Agregar divs para los métodos de pago en la landing page</td>
-       <td>Colocar las imagenes de los métodos de pagos usando div</td>
-       <td>5</td>
-       <td>Janiel Escalante</td>
-       <td>Done</td>
-    </tr>
-<tr>
-<tr>
-       <td>US02</td>
-       <td> Planes de suscripción en la landing page</td>
-       <td>T05</td>
-       <td>Agregar interacción con los planes</td>
-       <td> Añadir la función hover para planes interactivos</td>
-       <td>7</td>
-       <td>Luciano Ruiz</td>
-       <td>Done</td>
-    </tr>
-<tr>
-       <td>US04</td>
-       <td>Adaptación de landing page a dispositivos</td>
-       <td>T06</td>
-       <td>Agregar responsive </td>
-       <td>Añadir responsXive al landing page para que se pueda acoplar a cualquier dispositivo</td>
-       <td>6</td>
-       <td>Mathias Kunimoto</td>
-       <td>Done</td>
-    </tr>
- <td>US05</td>
-       <td>Adaptación de sección de colaboradores en la landing page </td>
-       <td>T07</td>
-       <td>Agregar Colaboradores </td>
-       <td>Añadir creadores del  landing page </td>
-       <td>6</td>
-       <td>Augusto Pin</td>
-       <td>Done</td>
-    </tr>
-
-   </table>
-
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 | Repository                                                      | Branch             | Commit id | Commit Message                             | Commit Message Body                                                            | Commited on (Date) |
@@ -486,6 +388,118 @@ Enlace para acceder a la landing page: https://open-source-wx55-group-ufriends.g
    <img src="/Assets/more-commits.jpeg" alt="more-commits"></img>
 </div>
 
+## 5.2.2 Sprint 2.
+#### 5.2.1.1 Sprint Planing 2.
+
+En el marco de Scrum, un Sprint es un período de tiempo definido y breve en el que un equipo de desarrollo trabaja en
+las tareas necesarias para lograr un objetivo específico del producto, conocido como "Product Goal". En el proyecto de
+desarrollo de FarmLogiTech, se han planificado cuatro sprints, cada uno con una duración de dos semanas.
+
+
+Durante el Sprint #1, que inicia el 06/04/2024, el objetivo principal es desarrollar una landing page
+llamativa para FarmLogiTech. Esta página se diseñará para atraer a los visitantes y comunicar de manera efectiva los beneficios del producto. En resumen,
+durante este sprint nos enfocaremos en el diseño y desarrollo de la landing page para cumplir con nuestros objetivos.
+
+
+| Sprint | Prepared Date | Time      | Location                              | Prepared By     | Attendees                                                                      | Sprint 1 Goal                                                                               | Sprint 1 Velocity | Sum of Story Points |
+|--------|---------------|-----------|---------------------------------------|-----------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------|---------------------|
+|   1    | 06/04/2024    | 11:00  PM | Reunión virtual mediante Google meet  | Rodrigo Aguilar | Rodrigo Aguilar, Mathias Kunimoto, Janiel Escalante, Augusto Pin, Luciano Ruiz | Elaborar y diseñar una landing page atractiva e informativa para la aplicación FarmLogiTech | 22                | 22                  |
+
+### Sprint 2
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 2</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+      <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+   <tr>
+       <td>US01</td>
+       <td>Descripcion clara de los servicios</td>
+       <td>T01</td>
+       <td>Agregar divs para los servicios  en la landing page</td>
+       <td>Diseñar los servicios que ofrecemos usando divs</td>
+       <td>4</td>
+       <td>Mathias Kunimoto</td>
+       <td>Done</td>
+    </tr>
+<tr>
+       <td>US06</td>
+       <td>Interacción de imágenes en la landing page</td>
+       <td>T02</td>
+       <td>Agregar un carrusel en la landing page</td>
+       <td>Diseñar un carrusel para la interacción con el usuario</td>
+       <td>5</td>
+       <td>Rodrigo Aguilar </td>
+       <td>Done</td>
+    </tr>
+<tr>
+       <td>US02</td>
+       <td> Planes de suscripción en la landing page</td>
+       <td>T03</td>
+       <td>Agregar divs para las suscripciones en la landing page</td>
+       <td>Diseñar los planes que ofrecemos usando divs</td>
+       <td>5</td>
+       <td>Janiel Escalante</td>
+       <td>Done</td>
+    </tr>
+<tr>
+<tr>
+       <td>US02</td>
+       <td> Métodos de pago en la landing page</td>
+       <td>T04</td>
+       <td>Agregar divs para los métodos de pago en la landing page</td>
+       <td>Colocar las imagenes de los métodos de pagos usando div</td>
+       <td>5</td>
+       <td>Janiel Escalante</td>
+       <td>Done</td>
+    </tr>
+<tr>
+<tr>
+       <td>US02</td>
+       <td> Planes de suscripción en la landing page</td>
+       <td>T05</td>
+       <td>Agregar interacción con los planes</td>
+       <td> Añadir la función hover para planes interactivos</td>
+       <td>7</td>
+       <td>Luciano Ruiz</td>
+       <td>Done</td>
+    </tr>
+<tr>
+       <td>US04</td>
+       <td>Adaptación de landing page a dispositivos</td>
+       <td>T06</td>
+       <td>Agregar responsive </td>
+       <td>Añadir responsXive al landing page para que se pueda acoplar a cualquier dispositivo</td>
+       <td>6</td>
+       <td>Mathias Kunimoto</td>
+       <td>Done</td>
+    </tr>
+ <td>US05</td>
+       <td>Adaptación de sección de colaboradores en la landing page </td>
+       <td>T07</td>
+       <td>Agregar Colaboradores </td>
+       <td>Añadir creadores del  landing page </td>
+       <td>6</td>
+       <td>Augusto Pin</td>
+       <td>Done</td>
+    </tr>
+
+   </table>
 
 # Conclusiones
 
