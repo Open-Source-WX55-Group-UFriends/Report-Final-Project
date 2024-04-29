@@ -355,11 +355,13 @@ El entrevistado es el gerente de adquisiciones de alimentos en una cadena de res
 
 ### 2.2.3. Análisis de entrevistas
 #### Segmento objetivo (Dueño de una granja):
+Al analizar las entrevistas de Jorge Kunimoto, experimentado administrador de granjas avícolas, y Mirian Higashi, administradora en una empresa avícola, encontramos similitudes en sus sectores industriales y desafíos principales, que representan el 100% en ambos casos. Ambos priorizan el bienestar animal y la bioseguridad, y han implementado estrategias para estabilizar el equipo de trabajo. Sin embargo, difieren en ciertas características subjetivas: Jorge enfatiza la importancia de la facilidad de uso y busca soluciones integrales, representando un 50%, mientras que Mirian se centra en obtener información útil en tiempo real y gestionar eficientemente su granja, reflejando el 100%. Estos análisis muestran la convergencia y divergencia entre los enfoques de ambos entrevistados en la gestión de granjas avícolas.
+
 #### Segmento objetivo (Adinistrador de una empresa):
 Los empresarios interesados en asociarse con ganaderos generalmente ocupan roles de gerentes de adquisiciones de alimentos en empresas del sector gastronómico. Participan en negociaciones con ganaderos con regularidad para asegurar el suministro de carne y productos derivados para sus negocios. Utilizan principalmente sistemas operativos como Windows 10 y navegadores web como Google Chrome en sus computadoras de trabajo. Prefieren dispositivos móviles Android y el navegador móvil Google Chrome para acceder a aplicaciones relacionadas con su trabajo.
 Estos empresarios consideran fundamental la importancia de las negociaciones con ganaderos para asegurar productos de alta calidad a precios competitivos para sus negocios. Experimentan satisfacción al lograr negociaciones exitosas que les permiten mantener la rentabilidad del negocio y ofrecer experiencias gastronómicas excepcionales a sus clientes.
 #### Segmento objetivo (Trabajador de una granja):
-
+El análisis de la entrevista con Italo Luna, estudiante de ingeniería de software y trabajador en una empresa avícola, revela varias características objetivas y subjetivas significativas. Entre las objetivas, se destaca el tamaño de la empresa avícola, con aproximadamente 50,000 pollos y 10 galpones, así como el proceso de venta basado en el peso de los pollos. Desde una perspectiva subjetiva, Italo enfatiza la importancia del seguimiento de la gestión y la producción, mientras también menciona el desafío personal de equilibrar la eficiencia de producción y el bienestar animal. Estas características se encuentran presentes en su totalidad, reflejando un análisis completo con un porcentaje del 100% en cada aspecto.
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
