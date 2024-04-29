@@ -126,9 +126,6 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 
 ## 2.2. Entrevistas
 
-
-
-
 ### 2.2.1. Diseño de entrevistas
 
 #### Preguntas generales:
@@ -137,7 +134,7 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 ¿Dónde vives actualmente?
 ¿A qué te dedicas?
 
-### Segmento objetivo: Dueño
+### Segmento objetivo: Dueños de granjas
 
 #### Preguntas objetivas:
 - ¿Qué tipo de granja suele administrar? (agreria, ganadera, avicola, etc.)
@@ -153,17 +150,21 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 - ¿Ha tenido alguna experiencia previa con plataformas similares de gestion de granjas?¿Qué aspectos le gustaron?
 - ¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?
 
-#### Segmento objetivo: Administrador
-- ¿Qué tipo de productos agrícolas o ganaderos suelen adquirir para sus operaciones?
-- ¿Qué criterios son más importantes al seleccionar proveedores de productos agrícolas o ganaderos?
-- ¿Qué desafíos enfrentan actualmente al establecer relaciones comerciales con granjas proveedoras?
-- ¿Qué información consideran crucial al evaluar a una granja como posible proveedor?
-- ¿Cómo prefieren comunicarse con las granjas proveedoras potenciales?
-- ¿Qué características o funcionalidades esperarían encontrar en una plataforma que facilite la conexión con granjas proveedoras?
-- ¿Qué beneficios esperarían obtener al utilizar una plataforma en lugar de métodos tradicionales de búsqueda y contacto?
-- ¿Cuáles son las principales preocupaciones en términos de calidad, seguridad alimentaria y sostenibilidad al seleccionar proveedores agrícolas o ganaderos?
-- ¿Qué incentivos podrían motivarlos a utilizar una plataforma como la tuya para establecer relaciones con granjas proveedoras?
-#### Segmento objetivo: Trabajador
+#### Segmento objetivo: Administrador de una empresa
+#### Preguntas objetivas:
+- ¿Cuál es tu rol o posición dentro de la empresa en la que trabajas?
+- ¿Con qué frecuencia realizas negociaciones con ganaderos o proveedores de productos de origen animal?
+- ¿Qué estrategias utilizas para garantizar la calidad y el precio competitivo de los productos de carne en tu empresa?
+- ¿Cuáles son los principales desafíos que enfrentas al negociar con ganaderos y proveedores de carne?
+- ¿Cómo manejas las fluctuaciones en los precios de la carne y otros productos de origen animal?
+- ¿Qué características valoras más en un proveedor de carne o productos de origen animal?
+
+#### Preguntas subjetivas:
+- ¿Qué aspecto de tu trabajo como gerente de adquisiciones encuentras más gratificante?
+- ¿Cómo te sientes al enfrentar situaciones de negociación difíciles con ganaderos o proveedores?
+- ¿Cuál crees que es el papel de la ética en las negociaciones comerciales con proveedores?
+- ¿Cómo te adaptas a los cambios en el mercado de productos de origen animal y las demandas cambiantes de los consumidores?
+#### Segmento objetivo: Trabajador de una granja
 #### Preguntas objetivas:
 - ¿Cuántos años de experiencia tienes trabajando en la agricultura/ganadería?
 - ¿Qué tipo de  ganado/cultivo manejas en tu trabajo?
@@ -179,143 +180,211 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 - ¿Cuál es tu relación con los proveedores y clientes con los que interactúas en tu trabajo?
 ### 2.2.2. Registro de entrevistas
 
-*Entrevista 01*
+**Entrevista 01**
 
-*Nombres:* Mirian
+**Nombres:** Mirian
 
-*Apellidos:* Higashi
+**Apellidos:** Higashi
 
-*Edad:* 55 años
+**Edad:** 55 años
 
-*Ciudad:* Lima
+**Ciudad:** Lima
+
+**Segmento objetivo:** Dueño de granja
 
 
 <div align=center>
-    <img src="/assets/Entrevista04.png" alt="Entrevista-04"/></img>
+    <img src="/Assets/Entrevista04.png" alt="Entrevista-04"/></img>
 </div>
 
-#### Evidencia de la reunión:
+#### Resumen de la entrevista:
 
 Mirian Higashi, una mujer de 55 años de Lima, Perú, ha llevado un buen manejo en la industria avícola. Con un cargo como administradora en una empresa avícola, posee un profundo conocimiento en la gestión de operaciones, logística y gestión de personal en este campo.
 
-*Minuto de la entrevista:* 0:00
+**Minuto de la entrevista:** 0:00
 
-*Link de la entrevista:* [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
-
-
+**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
-*Entrevista 02*
 
-*Nombres:* Jorge
 
-*Apellidos:* Kunimoto
+**Entrevista 02**
 
-*Edad:* 61 años
+**Nombres:** Jorge
 
-*Ciudad:* Lima
+**Apellidos:** Kunimoto
+
+**Edad:** 61 años
+
+**Ciudad:** Lima
+
+**Segmento objetivo:** Dueño de granja
 
 <div align=center>
-    <img src="/assets/Entrevista03.png" alt="Entrevista-03"/></img>
+    <img src="/Assets/Entrevista03.png" alt="Entrevista-03"/></img>
 </div>
 
-#### Evidencia de la reunión:
+#### Resumen de la entrevista:
 
 Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta diversos desafíos en la gestión de su granja. La rotación de personal y las regulaciones medioambientales son preocupaciones constantes, mientras que la proximidad a áreas pobladas agrega complejidad a las operaciones. La renovación de equipos e infraestructura es esencial para mantener la competitividad en un mercado en constante cambio. En su granja, se especializa en la cría y producción avícola, priorizando el bienestar de las aves y la bioseguridad. Jorge ha implementado estrategias para estabilizar el equipo de trabajo y cumplir con las regulaciones, optimizando procesos y concientizando al personal sobre su papel en el éxito de la granja. Considera que la facilidad de uso es vital en cualquier plataforma de gestión y busca constantemente mejorar los procesos internos. La optimización del tiempo es crucial, y Jorge estaría dispuesto a pagar por una aplicación que mejore la eficiencia de su operación. En la búsqueda de herramientas prácticas en una plataforma de gestión, prioriza soluciones integrales que aborden los desafíos específicos de su granja avícola.
 
-*Minuto de la entrevista:* 6:55
+**Minuto de la entrevista:** 6:55
 
-*Link de la entrevista:*  [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+**Link de la entrevista:**  [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-*Entrevista 03*
+**Entrevista 03**
 
-*Nombres:* Rodrigo
+**Nombres:** Rodrigo
 
-*Apellidos:* Noreña Nuñez
+**Apellidos:** Noreña Nuñez
 
-*Edad:* 19 años
+**Edad:** 19 años
 
-*Ciudad:* Huacho
+**Ciudad:** Huacho
+
+**Segmento objetivo:** Trabajador de una granja
 
 <div align=center>
-    <img src="/Assets/Entrevista-01.jpg" alt="Entrevista3"/></img>
+    <img src="/Assets/Entrevista-01.jpg" alt="Entrevista1"/></img>
 </div>
 
 
 
-
-#### Evidencia de la reunión:
+#### Resumen de la entrevista:
 
 Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente, trabaja como trabajador de cultivos en una empresa especializada en la producción, siembra y cosecha de maracuyá. Durante una entrevista reciente, compartió valiosa información sobre el seguimiento de la gestión y la producción en la empresa. Rodrigo también destacó los desafíos que enfrenta en su área de trabajo y expresó su interés en contribuir en futuras entrevistas. Además, enfatizó la importancia de contar con una plataforma que permita a los trabajadores acceder fácilmente a sus tareas pendientes, lo cual considera fundamental para mejorar la eficiencia en el trabajo.
-*Minuto de la entrevista:* 14:28
+**Minuto de la entrevista:** 14:28
 
-*Link de la entrevista:*  [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+**Link de la entrevista:**  [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
-*Entrevista 04*
+**Entrevista 04**
 
-*Nombres:* Italo
+**Nombres:** Italo
 
-*Apellidos:* Luna
+**Apellidos:** Luna
 
-*Edad:* 19 años
+**Edad:** 19 años
 
-*Ciudad:* Lima
+**Ciudad:** Lima
+
+**Segmento objetivo:** Trabajador de una granja
 
 <div align=center>
-    <img src="/Assets/Entrevista-06.jpeg" alt="Entrevista4"/></img>
+    <img src="/Assets/Entrevista-06.jpeg" alt="Entrevista06"/></img>
 </div>
 
-####  Evidencia de la reunión:
+####  Resumen de la entrevista:
 Italo Luna es un joven de 19 años que proviene de Huaral, Perú. Actualmente, es un estudiante de la carrera de ing. de Software, en vacaciones ayuda a sus padres como trabajador de en una empresa avícola. Durante una entrevista reciente, compartió valiosa información sobre el seguimiento de la gestión y la producción en la empresa. Italo también destacó
 que uno de los desafíos que ha tenido es mantener el equilibrio entre la eficiencia de producción y el bienestar animal. Además nos comenta que la empresa cuenta con alrededor de 50,000 pollo y 10 galpones. Se le preguntó acerca de como viene siendo la venta de los pollos y nos dijo que dependiendo del peso del pollo, se crea un porcentaje en la cuál tiene que ser vendido cada pollo por el mismo peso o un aproximado.
 
-*Minuto de la entrevista:* 20:14
+**Minuto de la entrevista:** 20:14
 
-*Link de la entrevista:* [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-*Entrevista:* 02
+**Entrevista:** 05
 
-*Nombres:* Cesar
+**Nombres:** Cesar
 
-*Apellidos:* Pin Lavado
+**Apellidos:** Pin Lavado
 
-*Edad:* 63 años
+**Edad:** 63 años
 
-*Ciudad:* Lima
+**Ciudad:** Lima
+
+**Segmento objetivo:** Dueño de granja
 
 <div align=center>
-    <img src="/assets/Entrevista5.jpg" alt="Entrevista5"/></img>
+    <img src="/Assets/Entrevista5.jpg" alt="Entrevista5"/></img>
 </div>
 
-*Minuto de la entrevista:* 25:17
+**Minuto de la entrevista:** 25:17
 
-*Link de la entrevista:* [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
-#### Evidencia de la reunión:
+#### Resumen de la entrevista:
 Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se desempeñó como gerente de una empresa líder en la distribución de productos avícolas en la región. Durante su extensa carrera, ha acumulado una vasta experiencia en la gestión de operaciones, logística y supervisión de personal en el sector avícola. En una reciente entrevista, compartió valiosos conocimientos sobre estrategias de distribución, control de inventario y gestión de recursos humanos en la industria avícola. Cesar también reflexionó sobre los desafíos enfrentados durante su carrera y expresó su interés en seguir contribuyendo al sector mediante consultorías y asesorías especializadas. Destacó la importancia de la eficiencia operativa y la optimización de procesos en un mercado tan competitivo como el de la distribución de productos avícolas. Además, resaltó la necesidad de implementar tecnologías innovadoras para mejorar la productividad y la calidad en todas las etapas de la cadena de suministro.
 
+**Entrevista:** 06
+
+**Nombres:** Soledad
+
+**Apellidos:** Perez
+
+**Edad:** 47 años
+
+**Ciudad:** Ayacucho
+
+**Segmento objetivo:** Administrador de una empresa
+
+<div align=center>
+    <img src="/Assets/Entrevista-06-Soledad.jpeg" alt="Entrevista-06"/></img>
+</div>
+
+
+**Minuto de la entrevista:** 29:41
+
+**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=stV4Ki&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+#### Resumen de la entrevista:
+Entrevistamos a una gerente de adquisiciones de una cadena de supermercados en la región, cuyas responsabilidades incluyen negociar con ganaderos y proveedores de productos de origen animal. Realiza estas negociaciones regularmente, aproximadamente una vez al mes. Implementa estrategias de negociación que incluyen buscar proveedores confiables, evaluar constantemente la calidad del producto y comparar precios en el mercado. Los principales desafíos que enfrenta incluyen asegurar un suministro constante de carne de alta calidad, negociar precios competitivos y mantener relaciones sólidas con los proveedores a largo plazo. Ante las fluctuaciones en los precios de la carne, utiliza estrategias de planificación y gestión de inventario, además de mantener una comunicación abierta con los proveedores. Valora la consistencia en la calidad del producto, la confiabilidad en el suministro, el cumplimiento de los plazos de entrega y la disposición para negociar precios competitivos en sus proveedores. Encuentra gratificante asegurar un suministro constante de productos de calidad para los clientes y contribuir al éxito general de la empresa.
+
+**Entrevista:** 07
+
+**Nombres:** Jorge
+
+**Apellidos:** Coras
+
+**Edad:** 47 años
+
+**Ciudad:** Ayacucho
+
+**Segmento objetivo:** Gerente de adquisiciones en una empresa
+
+<div align=center>
+    <img src="/Assets/Entrevista-Jorge.jpeg" alt="Entrevista-07"/></img>
+</div>
+
+**Minuto de la entrevista:** 32:59
+
+**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=stV4Ki&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+#### Resumen de la entrevista:
+
+El entrevistado es el gerente de adquisiciones de alimentos en una cadena de restaurantes reconocida en el país. Participa regularmente en negociaciones con ganaderos para garantizar el suministro de carne y productos derivados para los restaurantes. Implementa estrategias de negociación que incluyen evaluación detallada de la calidad del producto, búsqueda de proveedores confiables y negociación de precios competitivos. Algunos desafíos incluyen fluctuación de precios, variabilidad en la calidad del ganado y logística de transporte. Los criterios clave para seleccionar proveedores son calidad del producto, confiabilidad del proveedor, capacidad de suministro, ubicación geográfica y reputación en el mercado. Describe las negociaciones como fundamentales para asegurar un suministro constante de productos de calidad y establecer relaciones sólidas con proveedores. Encuentra satisfacción en obtener productos de calidad a precios competitivos y en el proceso de construcción de relaciones durante la negociación. Maneja los momentos de tensión con calma, buscando soluciones mutuamente beneficiosas y priorizando la comunicación abierta y el respeto hacia todas las partes involucradas.
+
+### 2.2.3. Análisis de entrevistas
+#### Segmento objetivo (Dueño de una granja):
+Al analizar las entrevistas de Jorge Kunimoto, experimentado administrador de granjas avícolas, y Mirian Higashi, administradora en una empresa avícola, encontramos similitudes en sus sectores industriales y desafíos principales, que representan el 100% en ambos casos. Ambos priorizan el bienestar animal y la bioseguridad, y han implementado estrategias para estabilizar el equipo de trabajo. Sin embargo, difieren en ciertas características subjetivas: Jorge enfatiza la importancia de la facilidad de uso y busca soluciones integrales, representando un 50%, mientras que Mirian se centra en obtener información útil en tiempo real y gestionar eficientemente su granja, reflejando el 100%. Estos análisis muestran la convergencia y divergencia entre los enfoques de ambos entrevistados en la gestión de granjas avícolas.
+
+#### Segmento objetivo (Adinistrador de una empresa):
+Los empresarios interesados en asociarse con ganaderos generalmente ocupan roles de gerentes de adquisiciones de alimentos en empresas del sector gastronómico. Participan en negociaciones con ganaderos con regularidad para asegurar el suministro de carne y productos derivados para sus negocios. Utilizan principalmente sistemas operativos como Windows 10 y navegadores web como Google Chrome en sus computadoras de trabajo. Prefieren dispositivos móviles Android y el navegador móvil Google Chrome para acceder a aplicaciones relacionadas con su trabajo.
+Estos empresarios consideran fundamental la importancia de las negociaciones con ganaderos para asegurar productos de alta calidad a precios competitivos para sus negocios. Experimentan satisfacción al lograr negociaciones exitosas que les permiten mantener la rentabilidad del negocio y ofrecer experiencias gastronómicas excepcionales a sus clientes.
+#### Segmento objetivo (Trabajador de una granja):
+El análisis de la entrevista con Italo Luna, estudiante de ingeniería de software y trabajador en una empresa avícola, revela varias características objetivas y subjetivas significativas. Entre las objetivas, se destaca el tamaño de la empresa avícola, con aproximadamente 50,000 pollos y 10 galpones, así como el proceso de venta basado en el peso de los pollos. Desde una perspectiva subjetiva, Italo enfatiza la importancia del seguimiento de la gestión y la producción, mientras también menciona el desafío personal de equilibrar la eficiencia de producción y el bienestar animal. Estas características se encuentran presentes en su totalidad, reflejando un análisis completo con un porcentaje del 100% en cada aspecto.
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 Con la finalidad comprender a nuestros segmentos objetivos, hemos decidido crear un User Persona por cada uno.
 Para las características principales estamos tomando en cuenta la información obtenida en las entrevistas.
 
-- *User persona trabajador en granja*  
+- **User persona trabajador en granja**  
   Utilizando datos que obtuvimos en las entrevistas, creamos el User Persona que representa al trabajador de una granja.
   Este nos ayuda a entender las necesidades y desafíos que enfrenta este segmento objetivo, detallando
   sus gustos y comportamientos.
   ![Imagen de UserPersona1](https://i.postimg.cc/ZYQMtWWC/User-persona-trabajador.png)
 
-- *Dueño de granja*  
+- **Dueño de granja**  
   Nuestro segundo User Persona representa al dueño de la granja.
   Este nos ayuda a entender sus motivaciones, necesidades y desafíos para poder diseñar soluciones
   personalizadas.
 
   ![Imagen de UserPersona2](https://i.postimg.cc/7Z8thjM4/User-persona-granjero.png)
 
-- *Empresaria*  
+- **Empresaria**  
   Utilizando datos que obtuvimos en las entrevistas creamos el User Persona que representa al empresario.
   Este nos ayuda a entender los desafios que enfrenta este segmento objetivo, proporcionando
   información sobre sus intereses comerciales, objetivos y desafíos.
@@ -366,6 +435,8 @@ operaciones de nuestros user persona. A continuación se pueden apreciar los As-
   ![Imagen de As-Is3](https://i.postimg.cc/MGzJmg26/Scenario-Mapping-Empresaria.jpg)
   Enlace de Miro: https://miro.com/app/board/uXjVKYvs29U=/?share_link_id=40902593860
 ## 2.4 Ubiquitous Language
-- *Plataforma*: Representación de un sistema digital
-- *Perfil*: Conjunto de datos del usuario
-- *Dispositivo*: IoT = Red de objetos y dispositivos que son capaces de transmitir y recibir datos usando internet
+- **Plataforma**: Representación de un sistema digital
+- **Perfil**: Conjunto de datos del usuario
+- **Dispositivo**: IoT = Red de objetos y dispositivos que son capaces de transmitir y recibir datos usando internet
+
+
