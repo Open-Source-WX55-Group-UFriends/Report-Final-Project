@@ -463,7 +463,7 @@ Los diagramas de componentes muestran una vista de las relaciones de los compone
 ### 4.7.1. Class Diagrams
 
 <div align=center>
-   <img src="/Assets/Diagrama.jpg" alt="Diagrama"></img>
+   <img src="/Assets/img-diagrama.png" alt="Diagrama"></img>
 </div>
 
 
