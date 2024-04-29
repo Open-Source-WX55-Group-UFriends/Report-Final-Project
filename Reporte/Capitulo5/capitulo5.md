@@ -414,7 +414,7 @@ link del trello: https://trello.com/b/WJXt50JP/farmlogitech
        <td>T03</td>
        <td>Agregar sección de valoraciones y comentarios</td>
        <td>Implementar sección en donde podras ver las valoraciones y comentarios sobre la granja</td>
-       <td>2</td>
+       <td>4</td>
        <td>Augusto Pin</td>
        <td>Done</td>
     </tr>
@@ -425,7 +425,7 @@ link del trello: https://trello.com/b/WJXt50JP/farmlogitech
        <td>T04</td>
        <td>Agregar tabla de asignar tareas</td>
        <td>Implementar tabla en donde puedas asignar tareas a los trabajadores </td>
-       <td>2</td>
+       <td>5</td>
        <td>Janiel Escalante</td>
        <td>Done</td>
     </tr>
@@ -436,7 +436,7 @@ link del trello: https://trello.com/b/WJXt50JP/farmlogitech
        <td>T05</td>
        <td>Añadir gráficos</td>
        <td>Implementar gráficos estadísticos conforme a lo que el administrador seleccione</td>
-       <td>2</td>
+       <td>5</td>
        <td>Luciano Ruiz</td>
        <td>Done</td>
     </tr>
@@ -447,7 +447,7 @@ link del trello: https://trello.com/b/WJXt50JP/farmlogitech
        <td>Agregar información de las granjas</td>
        <td>Implementar funcion de darle click y que salga la información de la granja</td>
        <td>6</td>
-       <td>Mathias Kunimoto</td>
+       <td>Rodrigo Aguilar / Mathias Kunimoto </td>
        <td>Done</td>
     </tr>
 
@@ -488,6 +488,7 @@ Para la entrega del Sprint 2, logramos completar la implementación del desarrol
 </table>
 
 
+<br>
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 Durante el Sprint 2, logramos la implementación y despliegue de la website. Muestra diversas secciones donde los usuarios pueden encontrar información relevante sobre el producto. A continuación, se presentan algunas evidencias del progreso realizado.
@@ -521,7 +522,7 @@ Para este segundo sprint no fue contemplada la evidencia de documentación de lo
 
 Para la entrega del Sprint número 1, se desplegó la website.
 
-<img src="/Assets/img-website.jpeg" alt="Website"/></img>
+<img src="/assets/img-website.jpeg" alt="Website"/></img>
 
 Enlace para acceder a la landing page: https://open-source-wx55-group-ufriends.github.io/landing-page/#
 
@@ -535,7 +536,7 @@ Enlace para acceder a la landing page: https://open-source-wx55-group-ufriends.g
 | Augusto Pin      | Implementación de valoraciones asignadas a una granja           |
 | Luciano Ruiz     | Implementación de mostrar los gráficos estadísticos             |
 
-<img src="/Assets/img-commits.png" alt="Statistics-01"/></img>  
+<img src="/assets/img-commits.png" alt="Statistics-01"/></img>  
 
 
 
