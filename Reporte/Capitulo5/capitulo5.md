@@ -303,22 +303,21 @@ Durante el Sprint 1, logramos la implementación y despliegue del Landing Page. 
 
 1. Sección  carrusel de imágenes
    En esta sección, se puede visualizar e interactuar con las imágenes principales.
->Imagen de carrusel
+   <img src="/assets/carrousel.JPG" alt="Carrousel"/></img>  
 
 2. Sección de Características
    En esta sección, se puede observar lo que FarmLogitech ofrece.
->Imagenes  caracteristicas
+   <img src="/assets/characteristics.JPG" alt="Characteristics"/></img>   
 3. Sección Planes
    En esta sección, se visualizan los planes que Farmlogitech, plan básico en el que solo
    podrás promocionar tu granja y el premium en la que no solo podrás promocionarla, sino también gestionarla.
->Imagenes de planes
-
+   <img src="/assets/plans.JPG" alt="Plans"/></img>
 4. Sección Método de Pago
    En esta sección, se visualizan diversos métodos de pago que Farmlogitech ofrece
->Imagenes de metodo de pago
+   <img src="/assets/payment.JPG" alt="Payment"/></img>
 5. Sección Colaboradores
    En esta sección, aparecerán los colaboradores encargados de desarrollar la landing page.
->Imagenes de colaboradores
+   <img src="/assets/collaborators.JPG" alt="Collaborators"/></img>
    
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
@@ -341,10 +340,213 @@ Enlace para acceder a la landing page: https://open-source-wx55-group-ufriends.g
 | Augusto Pin      | Implementación de la sección colaboradores                  |
 | Luciano Ruiz     | Implementación de la sección de planes                      |
 
->imagen de avances en el git
+<img src="/assets/stats1.JPG" alt="Statistics-01"/></img>  
+<img src="/assets/stats2.JPG" alt="Statistics-02"/></img>  
+<img src="/assets/stats3.JPG" alt="Statistics-03"/></img>
 
 
 
+### 5.2.2 Sprint 2.
+#### 5.2.2.1 Sprint Planing 1.
+
+En el marco de Scrum, un Sprint es un período de tiempo definido y breve en el que un equipo de desarrollo trabaja en
+las tareas necesarias para lograr un objetivo específico del producto, conocido como "Product Goal". En el proyecto de
+desarrollo de FarmLogiTech, se han planificado cuatro sprints, cada uno con una duración de dos semanas.
+
+
+Durante el Sprint #1, que inicia el 06/04/2024, el objetivo principal es desarrollar una landing page
+llamativa para FarmLogiTech. Esta página se diseñará para atraer a los visitantes y comunicar de manera efectiva los beneficios del producto. En resumen,
+durante este sprint nos enfocaremos en el diseño y desarrollo de la landing page para cumplir con nuestros objetivos.
+
+| Sprint | Prepared Date | Time      | Location                              | Prepared By     | Attendees                                                                      | Sprint 1 Goal                                                                               | Sprint 1 Velocity | Sum of Story Points |
+|--------|---------------|-----------|---------------------------------------|-----------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------|---------------------|
+|   1    | 06/04/2024    | 11:00  PM | Reunión virtual mediante Google meet  | Rodrigo Aguilar | Rodrigo Aguilar, Mathias Kunimoto, Janiel Escalante, Augusto Pin, Luciano Ruiz | Elaborar y diseñar una landing page atractiva e informativa para la aplicación FarmLogiTech | 22                | 22                  |
+
+#### 5.2.2.2. Sprint Backlog 1.
+En el primer sprint, el equipo tuvo como objetivo principal crear una landing page atractiva y funcional. Utilizamos la herramienta Trello para organizar y asignar tareas a los miembros del equipo según sus habilidades.
+
+link del trello: https://trello.com/b/WJXt50JP/farmlogitech
+
+
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 1</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+      <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+   <tr>
+       <td>US01</td>
+       <td>Descripcion clara de los servicios</td>
+       <td>T01</td>
+       <td>Agregar divs para los servicios  en la landing page</td>
+       <td>Diseñar los servicios que ofrecemos usando divs</td>
+       <td>2</td>
+       <td>Mathias Kunimoto</td>
+       <td>Done</td>
+    </tr>
+<tr>
+       <td>US06</td>
+       <td>Interacción de imágenes en la landing page</td>
+       <td>T02</td>
+       <td>Agregar un carrusel en la landing page</td>
+       <td>Diseñar un carrusel para la interacción con el usuario</td>
+       <td>2</td>
+       <td>Rodrigo Aguilar </td>
+       <td>Done</td>
+    </tr>
+<tr>
+       <td>US02</td>
+       <td> Planes de suscripción en la landing page</td>
+       <td>T03</td>
+       <td>Agregar divs para las suscripciones en la landing page</td>
+       <td>Diseñar los planes que ofrecemos usando divs</td>
+       <td>2</td>
+       <td>Janiel Escalante</td>
+       <td>Done</td>
+    </tr>
+<tr>
+<tr>
+       <td>US02</td>
+       <td> Métodos de pago en la landing page</td>
+       <td>T04</td>
+       <td>Agregar divs para los métodos de pago en la landing page</td>
+       <td>Colocar las imagenes de los métodos de pagos usando div</td>
+       <td>2</td>
+       <td>Janiel Escalante</td>
+       <td>Done</td>
+    </tr>
+<tr>
+<tr>
+       <td>US02</td>
+       <td> Planes de suscripción en la landing page</td>
+       <td>T05</td>
+       <td>Agregar interacción con los planes</td>
+       <td> Añadir la función hover para planes interactivos</td>
+       <td>2</td>
+       <td>Luciano Ruiz</td>
+       <td>Done</td>
+    </tr>
+<tr>
+       <td>US04</td>
+       <td>Adaptación de landing page a dispositivos</td>
+       <td>T06</td>
+       <td>Agregar responsive </td>
+       <td>Añadir responsXive al landing page para que se pueda acoplar a cualquier dispositivo</td>
+       <td>1</td>
+       <td>Mathias Kunimoto</td>
+       <td>Done</td>
+    </tr>
+ <td>US05</td>
+       <td>Adaptación de sección de colaboradores en la landing page </td>
+       <td>T07</td>
+       <td>Agregar Colaboradores </td>
+       <td>Añadir creadores del  landing page </td>
+       <td>1</td>
+       <td>Augusto Pin</td>
+       <td>Done</td>
+    </tr>
+
+   </table>
+
+
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+| Repository                                                      | Branch             | Commit id | Commit Message                             | Commit Message Body                                                            | Commited on (Date) |
+|-----------------------------------------------------------------|--------------------|--------|--------------------------------------------|--------------------------------------------------------------------------------|-------------------- 
+| https://github.com/Open-Source-WX55-Group-UFriends/landing-page | interactive_images | 099a2cd | feat: update index(image carousel)         |  feat: update index(image carousel)                           | 07/04/2024         | 
+|                                                                 | interactive_images | d5c926e | feat: added collaborators above the footer | feat: added collaborators above the footer| 9/04/2024          | 
+|                                                                 | price_rates        | 8b7d124 | feat:  added price_rates section           | feat:  added price_rates section         | 10/04/2024         | 
+|                                                                 | interactive_images | 1fec9bf | fix: update responsive                     | fix: update responsive | 07/04/2024         | 
+|                                                                 | payment_method     | a28ada5 | chore: initial commit                       | chore: initial commit| 11/04/2024         | 
+
+#### 5.2.2.4 Testing Suite Evidence for Sprint Review.
+
+Para la entrega del Sprint 1, logramos completar el desarrollo, la implementación y el despliegue del Landing Page. Por esta razón, nos enfocamos en la sección de "acceptance-tests" en la implementación de los archivos feature que componen nuestro landing page. Estos features se basan en las Historias de Usuario especificadas en el sprint backlog, detallando cada uno de los escenarios que planeamos desarrollar.
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Repository</th>
+    <th >Branch</th>
+    <th>Commit</th>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>landing-page</td>
+    <td>Features_testing</td>
+    <td>07fa8d6</td>
+    <td>Augusto Pin</td>
+    <td>doc: add acceptance tests</td>
+    <td>11/04/2024</td>
+  </tr>
+</table>
+
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+Durante el Sprint 1, logramos la implementación y despliegue del Landing Page. Muestra diversas secciones donde los usuarios pueden encontrar información relevante sobre el producto. A continuación, se presentan algunas evidencias del progreso realizado.
+
+1. Sección  Inicio:  
+   En esta sección, se puede visualizar e interactuar con las publicaciones de dueños de granjas.    
+   <img src="/assets/inicio.JPG" alt="Statistics-01"/></img>
+
+2. Sección de Publicación:  
+   En esta sección, se puede observar lo descripción de la publicación, ponerle una valoración y contactar al dueño de la publicación.    
+   <img src="/assets/publication-1.JPG" alt="Publication-01"/></img>   
+   <img src="/assets/publication-2.JPG" alt="Publication-02"/></img>   
+3. Sección Tarifas:
+   En esta sección, se visualizan los planes que tiene Farmlogitech   
+   <img src="/assets/rates.JPG" alt="Rates"/></img>
+
+4. Sección Pagar Tarifa:     
+   En esta sección, se visualiza un formulario de pago   
+   <img src="/assets/payment-rate.JPG" alt="Payment-Rate"/></img>   
+
+5. Sección Tareas
+   En esta sección, se puede ver una tabla con las tareas de cada trabajador de la granja y asignar una.   
+   <img src="/assets/task-1.JPG" alt="Task-01"/></img>   
+   <img src="/assets/task-2.JPG" alt="Task-02"/></img>
+
+### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
+
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Para la entrega del Sprint número 1, se desplegó la landing page completa.
+> Imagene completa
+
+Enlace para acceder a la landing page: https://open-source-wx55-group-ufriends.github.io/landing-page/#
+
+### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+| Alumno           | Actividad                                                   | 
+|------------------|-------------------------------------------------------------|
+| Rodrigo Aguilar  | Implementación de imágenes interactivas                     |
+| Janiel Escalante | Implementación de sección métodos de pago                   |
+| Mathias Kunimoto | Implementación del responsive y características del website |
+| Augusto Pin      | Implementación de la sección colaboradores                  |
+| Luciano Ruiz     | Implementación de la sección de planes                      |
+
+<img src="/assets/stats1-JPG" alt="Statistics-01"/></img>  
+<img src="/assets/stats2-JPG" alt="Statistics-02"/></img>  
+<img src="/assets/stats3-JPG" alt="Statistics-03"/></img>
 
 
 
