@@ -544,9 +544,9 @@ Enlace para acceder a la landing page: https://open-source-wx55-group-ufriends.g
 | Augusto Pin      | Implementación de la sección colaboradores                  |
 | Luciano Ruiz     | Implementación de la sección de planes                      |
 
-<img src="/assets/stats1-JPG" alt="Statistics-01"/></img>  
-<img src="/assets/stats2-JPG" alt="Statistics-02"/></img>  
-<img src="/assets/stats3-JPG" alt="Statistics-03"/></img>
+<img src="/assets/stats1.JPG" alt="Statistics-01"/></img>  
+<img src="/assets/stats2.JPG" alt="Statistics-02"/></img>  
+<img src="/assets/stats3.JPG" alt="Statistics-03"/></img>
 
 
 
