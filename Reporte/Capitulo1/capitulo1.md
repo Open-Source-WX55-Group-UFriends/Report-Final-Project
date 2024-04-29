@@ -172,39 +172,87 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
     <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
     <td> TB1<br><br>
          <b>Kunimoto Watanabe Mathias Tsuneo</b><br>
-<br> Capítulo 1        <br><br> 
-         <b>Aguilar Castillo, Rodrigo Alejandro </b><br>
-<br> Capítulo 5         <br><br> 
+<br> Durante la ejecución del proyecto, fue fundamental mantener una comunicación constante con nuestro público objetivo para definir claramente nuestra solución. También se priorizó una comunicación efectiva y una organización adecuada a través de reuniones regulares.        <br><br> 
+         <b>Aguilar Castillo, Rodrigo Alejandro   <br>
+<br> En esta entrega, se realizaron los diseños del Web Applications UX/UI tales como wireframes y mockups usando la herramienta figma. Me encargué de la elaboración de las preguntas objetivas y subjetivas para poder entrevistar a nuestro segmento objetivo posteriormente. Asimismo, estuve al tanto del equipo y sus avances.        <br>
          <b>Escalante Baygorrea, Janiel Franz</b><br>
-<br> Capítulo 2         <br><br>
+<br> En esta entrega, me encargue de realizar y apoyar en la creación de los diagramas de clase y de base de datos, así como su diccionario. También, desarrollé parte del capitulo 5 y el landing page        <br><br>
         <b>Pin Matallana, Augusto José</b><br>
-<br> Capítulo 2           <br><br> 
+<br> Para el trabajo se hizo uso de github para documentar el trabajo de modo que se aprendió a utilizar conventional commits y gitflow de modo que se pueda tener una correcta comunicación escrita en lo que corresponde a la documentación del proyecto, además de aprender a utiizar el lenguaje markdown para comunicarlo mediante github en un archivo README.md.          <br><br> 
         <b>Ruiz Blas, Luciano Stefano</b>
-<br> Capítulo 3           <br><br>
-   </td>
+<br> En esta entrega se realicé el diseño de la experiencia de usuario (UX) y la interfaz de usuario (UI) para aplicaciones web. Una característica destacada de este diseño es el enfoque en la usabilidad y la accesibilidad para garantizar que los usuarios puedan interactuar de manera efectiva con la aplicación.  <br>
+
+<b>TP</b><br><br>
+<b>Kunimoto Watanabe Mathias Tsuneo</b><br>
+<br> Mediante la implementacion, hemos completado integrar las funcionalidades relacionadas con las búsquedas y encontrar granjas en la plataforma, aprovechando Angular Material.  <br>
+
+<b>Aguilar Castillo, Rodrigo Alejandro </b><br>
+<br>  Durante esta entrega, llevamos a cabo la implementación completa de los features relacionados con las suscripciones y los métodos de pago en la plataforma utilizando Angular Material.  <br>
+
+<b>Escalante Baygorrea, Janiel Franz </b><br>
+<br>  Realizado la entrega, realizamos  los features relacionados con la implementación de tablas para asignar tareas a los trabajadores utilizando Angular Material.  <br>
+
+<b>Pin Matallana, Augusto José</b><br>
+<br>  Realizamos la entrega y llevamos a cabo la implementación de mostrar los gráficos estadísticos siempre y cuando el administrados lo solicite, utilizando Angular Material. <br>
+
+<b>Ruiz Blas, Luciano Stefano</b><br>
+<br> Llevamos a cabo la entrega e implementamos las valoraciones y comentarios sobre una granja utilizando Angular Material. <br>
+
+</td>
     <td>TB1<br><br>
-    Seleccionamos un servicio de gestion y logistica de granjas con el fin de ayudar a todas las personas que trabajan en este sector y que la problematica de la falta de organizacion, junto al desperdicio de medios puede llegar a tener perdidas que buscamos preveer con nuestra startup.</td>
+    Seleccionamos un servicio de gestion y logistica de granjas con el fin de ayudar a todas las personas que trabajan en este sector y que la problematica de la falta de organizacion, junto al desperdicio de medios puede llegar a tener perdidas que buscamos preveer con nuestra startup.
+<br>
+<br>
+
+<b>TP</b><br>
+<br>Implementamos un sitio web para ofrecer un servicio de gestión y logística de granjas, con el objetivo de asistir a todas las personas involucradas en este sector. Nos propusimos abordar la problemática de la falta de organización y el desperdicio de recursos, que puede resultar en pérdidas significativas, mediante nuestra startup.
+</td>
+
   </tr>
+
   <tr>
     <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
     <td> TB1<br><br>
  <b>Kunimoto Watanabe Mathias Tsuneo</b><br>
-<br> Capítulo 1        <br><br> 
+<br> Encargado de llevar a cabo entrevistas con un grupo específico de personas, también encabezó la sección del landing page y capitulo 1. Además, colaboró en la creación de la página de aterrizaje utilizando los diseños proporcionados en Figma.        <br><br> 
          <b>Aguilar Castillo, Rodrigo Alejandro</b><br>
-<br> Capítulo 5         <br><br> 
+<br> Encargado de realizar entrevistas a un segmento objetivo, también realizó la sección de sprint, en la cuál está el sprint backlog y sprint planning. Asimismo, apoyó con la elaboración de la landing page utilizando los diseños de figma.         <br><br> 
 <br><br> 
          <b>Escalante Baygorrea, Janiel Franz</b><br>
-<br> Capítulo 2         <br><br> 
+<br> Encargado de los diagramas C4, que son una parte integral del proceso de DDD, también conocido como Domain Driven Design. Un aspecto distintivo de este enfoque es la implementación del lenguaje ubicuo. Este lenguaje facilita la comprensión de los detalles técnicos a un nivel superior para todos los interesados, tanto internos como externos del proyecto, a través de la visualización de los diagramas.        <br><br> 
 <br><br>
         <b>Pin Matallana, Augusto José</b><br>
-<br> Capítulo 2       <br><br> 
+<br> Encargado de llevar a cabo entrevistas con un grupo específico de personas, también dirigió la sección de sprint, que incluye la lista de tareas pendientes y la planificación del mismo. Además, contribuyó en la creación de la página de inicio utilizando los diseños proporcionados en Figma.       <br><br> 
 <br><br> 
         <b>Ruiz Blas, Luciano Stefano</b>
- <br> Capítulo 3       <br><br> 
+ <br> Me encargué de llevar a cabo entrevistas con un grupo específico de personas y dirigí la sección de sprint, encargándome de la lista de tareas pendientes y la planificación del mismo. Además, contribuí en la creación de la página de inicio utilizando los diseños proporcionados en Figma.       <br><br> 
 <br><br>
+
+<b>TP</b><br><br>
+<b>Kunimoto Watanabe Mathias Tsuneo</b><br>
+<br> Además de realizar la implementación, coordiné la asignación de tareas al equipo de desarrollo para su ejecución durante el sprint 2. También tuve la responsabilidad de corregir y llevar a cabo de manera efectiva como arreglar el código.  <br>
+
+<b>Aguilar Castillo, Rodrigo Alejandro</b><br>
+<br> Por otro lado de la implementación, gestioné la asignación de tareas al grupo de desarrollo para su implementación durante el sprint 2. También estuve a cargo de coordinar y ejecutar exitosamente el proceso de merge entre los diferentes branches y la rama principal del repositorio.  <br>
+
+<b>Escalante Baygorrea, Janiel Franz</b><br>
+<br> Por otro lado de la implementación, me responsabilicé de supervisar la corrección de los capítulos y llevar a cabo el proceso de merge entre los distintos branches y la rama principal del repositorio.  <br>
+
+<b>Pin Matallana, Augusto José</b><br>
+<br> Además de la implementación, asumí la tarea de supervisar la revisión de los capítulos y de manejar la fusión entre los distintos branches y la rama principal del repositorio.  <br>
+
+<b>Ruiz Blas, Luciano Stefano</b><br>
+<br>Otra responsabilidad que asumí durante el proyecto fue supervisar la edición de los capítulos y llevar a cabo la fusión de los distintos branches con la rama principal del repositorio.<br>
+
    </td>
     <td>TB1<br><br>
-Gracias al proyecto logramos conocer personas dentro de la industria y lo util que le podria venir una aplicacion como la que estamos proponiendo para el desarrollo de tareas cotidianas.  </tr>
+Gracias al proyecto logramos conocer personas dentro de la industria y lo util que le podria venir una aplicacion como la que estamos proponiendo para el desarrollo de tareas cotidianas.  
+<br>
+<br>
+<b>TP</b><br>
+<br>Gracias a la implementación, tuvimos la oportunidad de conectarnos con personas dentro de la industria y comprender lo beneficiosa que podría ser una aplicación como la que estamos proponiendo para simplificar las tareas diarias.
+</tr>
+
 </table>
 
 <br><br>
