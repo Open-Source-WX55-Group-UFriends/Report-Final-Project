@@ -358,9 +358,9 @@ Durante el Sprint #2, que inicia el 12/04/2024, el objetivo principal es impleme
 conocimientos recibidos. Esta website se implementará para atraer a los visitantes y comunicar de manera efectiva los beneficios del producto. En resumen,
 durante este sprint nos enfocaremos en mostrar la website y desarrollo para cumplir con nuestros objetivos.
 
-| Sprint | Prepared Date | Time      | Location                              | Prepared By     | Attendees                                                                      | Sprint 1 Goal                                                                               | Sprint 1 Velocity | Sum of Story Points |
-|--------|---------------|-----------|---------------------------------------|-----------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------|---------------------|
-|   1    | 12/04/2024    | 11:00  PM | Reunión virtual mediante Google meet  | Rodrigo Aguilar | Rodrigo Aguilar, Mathias Kunimoto, Janiel Escalante, Augusto Pin, Luciano Ruiz | Elaborar y diseñar una landing page atractiva e informativa para la aplicación FarmLogiTech | 22                | 22                  |
+| Sprint | Prepared Date | Time      | Location                              | Prepared By     | Attendees                                                                      | Sprint 1 Goal                                                                              | Sprint 1 Velocity | Sum of Story Points |
+|--------|---------------|-----------|---------------------------------------|-----------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------|---------------------|
+|   1    | 12/04/2024    | 11:00  PM | Reunión virtual mediante Google meet  | Rodrigo Aguilar | Rodrigo Aguilar, Mathias Kunimoto, Janiel Escalante, Augusto Pin, Luciano Ruiz | Implementar la website para la aplicación FarmLogiTech | 22                | 23                  |
 
 #### 5.2.2.2. Sprint Backlog 2.
 En el segundo sprint, el equipo tuvo como objetivo principal implementar la website y que tenga funcionamiento. Utilizamos la herramienta Trello para organizar y asignar tareas a los miembros del equipo según sus habilidades.
