@@ -207,7 +207,7 @@ link del trello: https://trello.com/b/WJXt50JP/farmlogitech
        <td>T01</td>
        <td>Agregar divs para los servicios  en la landing page</td>
        <td>Diseñar los servicios que ofrecemos usando divs</td>
-       <td>2</td>
+       <td>4</td>
        <td>Mathias Kunimoto</td>
        <td>Done</td>
     </tr>
@@ -217,7 +217,7 @@ link del trello: https://trello.com/b/WJXt50JP/farmlogitech
        <td>T02</td>
        <td>Agregar un carrusel en la landing page</td>
        <td>Diseñar un carrusel para la interacción con el usuario</td>
-       <td>2</td>
+       <td>5</td>
        <td>Rodrigo Aguilar </td>
        <td>Done</td>
     </tr>
@@ -227,7 +227,7 @@ link del trello: https://trello.com/b/WJXt50JP/farmlogitech
        <td>T03</td>
        <td>Agregar divs para las suscripciones en la landing page</td>
        <td>Diseñar los planes que ofrecemos usando divs</td>
-       <td>2</td>
+       <td>5</td>
        <td>Janiel Escalante</td>
        <td>Done</td>
     </tr>
@@ -238,7 +238,7 @@ link del trello: https://trello.com/b/WJXt50JP/farmlogitech
        <td>T04</td>
        <td>Agregar divs para los métodos de pago en la landing page</td>
        <td>Colocar las imagenes de los métodos de pagos usando div</td>
-       <td>2</td>
+       <td>5</td>
        <td>Janiel Escalante</td>
        <td>Done</td>
     </tr>
@@ -249,7 +249,7 @@ link del trello: https://trello.com/b/WJXt50JP/farmlogitech
        <td>T05</td>
        <td>Agregar interacción con los planes</td>
        <td> Añadir la función hover para planes interactivos</td>
-       <td>2</td>
+       <td>7</td>
        <td>Luciano Ruiz</td>
        <td>Done</td>
     </tr>
@@ -259,7 +259,7 @@ link del trello: https://trello.com/b/WJXt50JP/farmlogitech
        <td>T06</td>
        <td>Agregar responsive </td>
        <td>Añadir responsXive al landing page para que se pueda acoplar a cualquier dispositivo</td>
-       <td>1</td>
+       <td>6</td>
        <td>Mathias Kunimoto</td>
        <td>Done</td>
     </tr>
@@ -268,14 +268,110 @@ link del trello: https://trello.com/b/WJXt50JP/farmlogitech
        <td>T07</td>
        <td>Agregar Colaboradores </td>
        <td>Añadir creadores del  landing page </td>
-       <td>1</td>
+       <td>6</td>
        <td>Augusto Pin</td>
        <td>Done</td>
     </tr>
 
    </table>
 
+<br>
 
+### Sprint 2
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 2</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+      <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+   <tr>
+       <td>US01</td>
+       <td>Descripcion clara de los servicios</td>
+       <td>T01</td>
+       <td>Agregar divs para los servicios  en la landing page</td>
+       <td>Diseñar los servicios que ofrecemos usando divs</td>
+       <td>4</td>
+       <td>Mathias Kunimoto</td>
+       <td>Done</td>
+    </tr>
+<tr>
+       <td>US06</td>
+       <td>Interacción de imágenes en la landing page</td>
+       <td>T02</td>
+       <td>Agregar un carrusel en la landing page</td>
+       <td>Diseñar un carrusel para la interacción con el usuario</td>
+       <td>5</td>
+       <td>Rodrigo Aguilar </td>
+       <td>Done</td>
+    </tr>
+<tr>
+       <td>US02</td>
+       <td> Planes de suscripción en la landing page</td>
+       <td>T03</td>
+       <td>Agregar divs para las suscripciones en la landing page</td>
+       <td>Diseñar los planes que ofrecemos usando divs</td>
+       <td>5</td>
+       <td>Janiel Escalante</td>
+       <td>Done</td>
+    </tr>
+<tr>
+<tr>
+       <td>US02</td>
+       <td> Métodos de pago en la landing page</td>
+       <td>T04</td>
+       <td>Agregar divs para los métodos de pago en la landing page</td>
+       <td>Colocar las imagenes de los métodos de pagos usando div</td>
+       <td>5</td>
+       <td>Janiel Escalante</td>
+       <td>Done</td>
+    </tr>
+<tr>
+<tr>
+       <td>US02</td>
+       <td> Planes de suscripción en la landing page</td>
+       <td>T05</td>
+       <td>Agregar interacción con los planes</td>
+       <td> Añadir la función hover para planes interactivos</td>
+       <td>7</td>
+       <td>Luciano Ruiz</td>
+       <td>Done</td>
+    </tr>
+<tr>
+       <td>US04</td>
+       <td>Adaptación de landing page a dispositivos</td>
+       <td>T06</td>
+       <td>Agregar responsive </td>
+       <td>Añadir responsXive al landing page para que se pueda acoplar a cualquier dispositivo</td>
+       <td>6</td>
+       <td>Mathias Kunimoto</td>
+       <td>Done</td>
+    </tr>
+ <td>US05</td>
+       <td>Adaptación de sección de colaboradores en la landing page </td>
+       <td>T07</td>
+       <td>Agregar Colaboradores </td>
+       <td>Añadir creadores del  landing page </td>
+       <td>6</td>
+       <td>Augusto Pin</td>
+       <td>Done</td>
+    </tr>
+
+   </table>
 
 
 #### 5.2.1.3. Development Evidence for Sprint Review.

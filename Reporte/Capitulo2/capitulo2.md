@@ -238,7 +238,7 @@ Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta di
 *Ciudad:* Huacho
 
 <div align=center>
-    <img src="/assets/Entrevista3.jpg" alt="Entrevista3"/></img>
+    <img src="/Assets/Entrevista-01.jpg" alt="Entrevista3"/></img>
 </div>
 
 
@@ -263,7 +263,7 @@ Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente
 *Ciudad:* Lima
 
 <div align=center>
-    <img src="/assets/Entrevista4.jpeg" alt="Entrevista4"/></img>
+    <img src="/Assets/Entrevista-06.jpeg" alt="Entrevista4"/></img>
 </div>
 
 ####  Evidencia de la reunión:

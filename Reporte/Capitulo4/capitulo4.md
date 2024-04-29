@@ -147,27 +147,27 @@ El patrón de lectura a utilizar para la visualización de nuestro website para 
 
 <div align=center>
    <p>En la siguiente imagen se observa los wireframes que usará el administrador o trabajador para poder mandar mensajes de emergencia a su jefe o compañeros</p>
-   <img src="/Assets/img-wireframe-5" alt="Wireframe 5"></img>
+   <img src="/Assets/img-wireframe-5.png" alt="Wireframe 5"></img>
 </div>
 
 
 <div align=center>
-    <p>Iniciar Sesion</p>
+    <p>Estadísticas financieras</p>
    <img src="/Assets/img-wireframe-6.png" alt="Wireframe 6"></img>
 </div>
 
 <div align=center>
-    <p>Editar perfil</p>
+    <p>Asignar tarea</p>
    <img src="/Assets/img-wireframe-7.png" alt="Wireframe 7"></img>
 </div>
 
 <div align=center>
-    <p>Consultar tareas</p>
+    <p>Mandar alerta de emergencia</p>
    <img src="/Assets/img-wireframe-8.jpg" alt="Wireframe 8"></img>
 </div>
 
 <div align=center>
-    <p>Consulta de estadisticas</p>
+    <p>Agregar galpón</p>
    <img src="/Assets/img-wireframe-9.jpg" alt="Wireframe 9"></img>
 </div>
 
@@ -177,12 +177,12 @@ El patrón de lectura a utilizar para la visualización de nuestro website para 
 </div>
 
 <div align=center>
-    <p>Mandar Alerta de emergencia</p>
+    <p>Consulta de animales</p>
    <img src="/Assets/img-wireframe-11.png" alt="Wireframe-11"></img>
 </div>
 
 <div align=center>
-    <p>Registrar Detalles</p>
+    <p>Revisar tareas</p>
    <img src="/Assets/img-wireframe-12.png" alt="Wireframe 12"></img>
 </div>
 
@@ -252,73 +252,74 @@ El patrón de lectura a utilizar para la visualización de nuestro website para 
    <img src="/Assets/img-mockup-2.png" alt="Mockup 2"></img>
 </div>
 <div align=center>
-    <p>Realizar task</p>
-    <p>En la siguiente imagen, se visualiza los mockups que usaran los trabajadores de las granjas al utilizar FarmLogitech para ver sus tareas asignadas</p>
+    <p>Publicar granja</p>
+    <p>En la siguiente imagen, se visualiza los mockups que se usará para publicar la granja</p>
    <img src="/Assets/img-mockup-3.png" alt="Mockup 3"></img>
 </div>
 <div align=center>
-    <p>Gestión y estadistica en FarmLogitech</p>
-   <p>En la siguiente imagen observamos los mockups de los administradores de la granja en cual podrán acceder a las tareas asiganadas, estadísticas de ingresos y egresos, control de inventario.</p>
+    <p>Asignar tareas</p>
+   <p>En la siguiente imagen observamos los mockups de los administradores de la granja en cual podrán asignar tareas a sus trabajadores</p>
    <img src="/Assets/img-mockup-4.png" alt="Mockup 4"></img>
 </div>
 
 <div align=center>
-    <p>Mandar alerta</p>
-<p>En la siguiente imagen se observa los mockups que usará el administrador o trabajador para poder mandar mensajes de emergencia a su jefe o compañeros</p>
+    <p>Gestión y estadistica en FarmLogitech</p>
+<p>En la siguiente imagen observamos los mockups de los administradores de la granja en cual podrán acceder a las tareas asiganadas, estadísticas de ingresos y egresos, control de inventario.</p>
    <img src="/Assets/img-mockup-5.png" alt="Mockup 5"></img>
 </div>
 
 <div align=center>
-    <p>Registrar detalles</p>
-<p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
+    <p>Gráficos estadísticos</p>
+<p>En la siguiente imagen se observa el registro mediante gráficos generando como van los ingresos e egresos </p>
    <img src="/Assets/img-mockup-6.png" alt="Mockup 6"></img>
 </div>
 
 <div align=center>
-    <p>Registrar detalles</p>
-<p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
+    <p>Agregar labor</p>
+<p>En la siguiente imagen se observa como el administrador puede asignar una labor a un empleado</p>
    <img src="/Assets/img-mockup-7.png" alt="Mockup 7"></img>
 </div>
 
 <div align=center>
-    <p>Registrar detalles</p>
-<p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
+    <p>Mandar alerta de emergencia</p>
+<p>En la siguiente imágen se observa como pueden reportar una emergencia y colocar la fecha para que así quede registrado</p>
    <img src="/Assets/img-mockup-8.png" alt="Mockup 8"></img>
 </div>
 
 <div align=center>
-    <p>Registrar detalles</p>
-<p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
+    <p>Agregar galpón</p>
+<p>En la siguiente imagen se observa el registro que se llevará para agregar un galpón y listarlo</p>
    <img src="/Assets/img-mockup-9.png" alt="Mockup 9"></img>
 </div>
 
 <div align=center>
-    <p>Registrar detalles</p>
-<p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
+    <p>Agregar animales</p>
+<p>En la siguiente imagen se observa el registro que se llevará para agregar un animal y registrarlo</p>
    <img src="/Assets/img-mockup-10.png" alt="Mockup 10"></img>
 </div>
 
+
 <div align=center>
-    <p>Registrar detalles</p>
-<p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
+    <p>Registro de cultivo</p>
+<p>En la siguiente imagen se observa el registro que se llevará para registrar un cultivo</p>
    <img src="/Assets/img-mockup-11.png" alt="Mockup 11"></img>
 </div>
 
 <div align=center>
-    <p>Registrar detalles</p>
-<p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
+    <p>Listar cultivos</p>
+<p>En la siguiente imagen se observa el proceso para listar los cultivos</p>
    <img src="/Assets/img-mockup-12.png" alt="Mockup 12"></img>
 </div>
 
 <div align=center>
-    <p>Registrar detalles</p>
-<p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
+    <p>Listar animales</p>
+<p>En la siguiente imagen se observa el proceso para listar los animales</p>
    <img src="/Assets/img-mockup-13.png" alt="Mockup 13"></img>
 </div>
 
 <div align=center>
-    <p>Registrar detalles</p>
-<p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
+    <p>Registrar alimentación</p>
+<p>En la siguiente imagen se observa el registro que se llevará para el registro de alimentación</p>
    <img src="/Assets/img-mockup-14.png" alt="Mockup 14"></img>
 </div>
 
@@ -329,8 +330,14 @@ El patrón de lectura a utilizar para la visualización de nuestro website para 
 </div>
 
 <div align=center>
-    <p>Registrar detalles</p>
-<p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
+    <p>Finalizae tarea</p>
+<p>En la siguiente imagen se observa el proceso para finalizar una tarea luego de culminarla para que quede registrada</p>
+   <img src="/Assets/img-mockup-15.png" alt="Mockup 15"></img>
+</div>
+
+<div align=center>
+    <p>Chequeo de pagos</p>
+<p>En la siguiente imagen se observa como el administrado revisa los pagos completados para que pueda dar acceso a los administradores de granja para que puedan publicar sus imágenes de sus granjas</p>
    <img src="/Assets/img-mockup-16.png" alt="Mockup 16"></img>
 </div>
 
@@ -433,13 +440,13 @@ Los diagramas de componentes muestran una vista de las relaciones de los compone
 
 <div align=center>
   <img src="/Assets/Company-Management-Bounded-Context.jpeg" alt="Company Management Bounded Context"></img>
-<div>
+</div>
 
 - Farm Management Bounded Context
 
 <div align=center>
   <img src="/Assets/Farm-Management-Bounded-Context.jpeg" alt="Farm Management Bounded Context"></img>
-<div>
+</div>
 
 - Notification Bounded Context
 
@@ -450,7 +457,7 @@ Los diagramas de componentes muestran una vista de las relaciones de los compone
 - Payment Bounded Context
 <div align=center>
   <img src="/Assets/Payment-Bounded-Context.jpeg" alt="Payment Bounded Context"></img>
-<div>
+</div>
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
