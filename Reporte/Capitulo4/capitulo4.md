@@ -116,16 +116,7 @@ El patrón de lectura a utilizar para la visualización de nuestro website para 
    <img src="/Assets/Landing-Wireframe.png" alt="Landing-Wireframe"></img>
 </div>
 
-
-
 ### 4.3.2. Landing Page Mock-up
-### 4.4. Web Applications UX/UI Design.
-#### 4.4.1. Web Applications Wireframes.
-#### 4.4.2. Web Applications Wireflow Diagrams.
-####  4.4.3. Web Applications Mock-ups.
-#### 4.4.4. Web Applications User Flow Diagrams.
-#### 4.5. Web Applications Prototyping.
-
 
 <div align=center>
    <img src="/Assets/Landing-Mock-up.png" alt="Landing-Mock-up"></img>
@@ -136,64 +127,114 @@ El patrón de lectura a utilizar para la visualización de nuestro website para 
 
 <div align=center>
     <p>En la siguiente imagen, podemos observar los wireframes que se utilizan para poder publicar una granja.</p>
-   <img src="/Assets/Wireframe-Publicar-Anuncio-Sin-Conexion.jpg" alt="Wireframe-Publicar-Anuncio-Sin-Conexion"></img>
+   <img src="/Assets/img-wireframe-1.png" alt="Wireframe 1"></img>
 </div>
 
 <div align=center>
     <p>En la siguiente imagen, se visualiza los wireframes que se utilizan para editar perfil.</p>
-   <img src="/Assets/Wireframe-Editar-Perfil-Sin-Conexion.jpg" alt="Wireframe-Editar-Perfil-Sin-Conexion"></img>
+   <img src="/Assets/img-wireframe-2.png" alt="Wireframe 2"></img>
 </div>
 
 <div align=center>
 <p>En la siguiente imagen, se visualiza los wireframes que usaran los trabajadores de las granjas al utilizar FarmLogitech para ver sus tareas asignadas</p>
-   <img src="/Assets/Wireframe-Monitoreo-Tasks-Sin-Conexion.jpg" alt="Wireframe-Monitoreo-Tasks-Sin-Conexion"></img>
+   <img src="/Assets/img-wireframe-3.png" alt="Wireframe 3"></img>
 </div>
 
 <div align=center>
     <p>En la siguiente imagen se observa los wireframes que usará el administrador para poder ver ingresos y agresos a través de gráficos</p>
-   <img src="/Assets/Wireframe-Estadistica-Sin-Conexion.jpg" alt="Wireframe-Estadistica-Sin-Conexion"></img>
+   <img src="/Assets/img-wireframe-4.png" alt="Wireframe 4"></img>
 </div>
 
 <div align=center>
    <p>En la siguiente imagen se observa los wireframes que usará el administrador o trabajador para poder mandar mensajes de emergencia a su jefe o compañeros</p>
-   <img src="/Assets/Wireframe-Mandar-Alerta-Sin-Conexion.jpg" alt="Wireframe-Mandar-Alerta-Sin-Conexion"></img>
+   <img src="/Assets/img-wireframe-5" alt="Wireframe 5"></img>
 </div>
 
-### 4.4.2. Web Applications Wireflow Diagrams.
 
 <div align=center>
     <p>Iniciar Sesion</p>
-   <img src="/Assets/Wireframe-Publicar-tu-anuncio.jpg" alt="Wireframe-Publicar-Anuncio"></img>
+   <img src="/Assets/img-wireframe-6.png" alt="Wireframe 6"></img>
 </div>
 
 <div align=center>
     <p>Editar perfil</p>
-   <img src="/Assets/Wireframe-Editar-Perfil.jpg" alt="Wireframe-Editar-perfil"></img>
+   <img src="/Assets/img-wireframe-7.png" alt="Wireframe 7"></img>
 </div>
 
 <div align=center>
     <p>Consultar tareas</p>
-   <img src="/Assets/Wireframe-Consultar-tareas.jpg" alt="Wireframe-Consultar-tareas"></img>
+   <img src="/Assets/img-wireframe-8.jpg" alt="Wireframe 8"></img>
 </div>
 
 <div align=center>
     <p>Consulta de estadisticas</p>
-   <img src="/Assets/Wireframe-Consultar-estadisticas.jpg" alt="Wireframe-Consultar-estadisticas"></img>
+   <img src="/Assets/img-wireframe-9.jpg" alt="Wireframe 9"></img>
 </div>
 
 <div align=center>
     <p>Consulta de inventario</p>
-   <img src="/Assets/Wireframe-Consultar-inventario.jpg" alt="Wireframe-Consultar-inventario"></img>
+   <img src="/Assets/img-wireframe-10.png" alt="Wireframe 10"></img>
 </div>
 
 <div align=center>
     <p>Mandar Alerta de emergencia</p>
-   <img src="/Assets/Wireframe-Mandar-alterta-emergencia.jpg" alt="Wireframe-Alerta-emergencia"></img>
+   <img src="/Assets/img-wireframe-11.png" alt="Wireframe-11"></img>
 </div>
 
 <div align=center>
     <p>Registrar Detalles</p>
-   <img src="/Assets/Wireframe-Registrar-detalles.jpg" alt="Wireframe-Registrar-detalles"></img>
+   <img src="/Assets/img-wireframe-12.png" alt="Wireframe 12"></img>
+</div>
+
+
+### 4.4.2. Web Applications Wireflow Diagrams.
+
+<div align=center>
+   <img src="/Assets/img-wireframe-conexion-1.jpeg" alt="wireframe-conexion-1"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-wireframe-conexion-2.jpeg" alt="wireframe-conexion-2"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-wireframe-conexion-3.jpeg" alt="wireframe-conexion-3"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-wireframe-conexion-4.jpeg" alt="wireframe-conexion-4"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-wireframe-conexion-5.jpeg" alt="wireframe-conexion-5"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-wireframe-conexion-6.jpeg" alt="wireframe-conexion-6"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-wireframe-conexion-7.jpeg" alt="wireframe-conexion-7"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-wireframe-conexion-8.jpeg" alt="wireframe-conexion-8"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-wireframe-conexion-9.jpeg" alt="wireframe-conexion-9"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-wireframe-conexion-10.jpeg" alt="wireframe-conexion-10"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-wireframe-conexion-11.jpeg" alt="wireframe-conexion-11"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-wireframe-conexion-12.jpeg" alt="wireframe-conexion-12"></img>
 </div>
 
 
@@ -202,60 +243,153 @@ El patrón de lectura a utilizar para la visualización de nuestro website para 
 <div align=center>
     <p>Publicar tu anuncio</p>
     <p>En la siguiente imagen, podemos observar los mockups que se utilizan para poder publicar una granja.</p>
-   <img src="/Assets/Mockup-Sin-Conexion-Publicar-anuncio.jpg" alt="Mockup-Sin-Conexion-Publicar-anuncio"></img>
+   <img src="/Assets/img-mockup-1.png" alt="Mockup 1"></img>
 </div>
 
 <div align=center>
     <p>Editar perfil</p>
     <p>En la siguiente imagen, se visualiza los mockups que se utilizan para editar perfil.</p>
-   <img src="/Assets/Mockup-Sin-Conexion-Editar-perfil.jpg" alt="Editar-Perfil-Mockup"></img>
+   <img src="/Assets/img-mockup-2.png" alt="Mockup 2"></img>
 </div>
 <div align=center>
     <p>Realizar task</p>
     <p>En la siguiente imagen, se visualiza los mockups que usaran los trabajadores de las granjas al utilizar FarmLogitech para ver sus tareas asignadas</p>
-   <img src="/Assets/Mockup-Sin-Conexion-Consultar-tareas.jpg" alt="Wireframe-Consultar-tareas"></img>
+   <img src="/Assets/img-mockup-3.png" alt="Mockup 3"></img>
 </div>
 <div align=center>
     <p>Gestión y estadistica en FarmLogitech</p>
    <p>En la siguiente imagen observamos los mockups de los administradores de la granja en cual podrán acceder a las tareas asiganadas, estadísticas de ingresos y egresos, control de inventario.</p>
-   <img src="/Assets/Mockup-Sin-Conexion-Estadistica.jpg" alt="Mockup-Sin-Conexion-Estadistica"></img>
+   <img src="/Assets/img-mockup-4.png" alt="Mockup 4"></img>
 </div>
 
 <div align=center>
     <p>Mandar alerta</p>
 <p>En la siguiente imagen se observa los mockups que usará el administrador o trabajador para poder mandar mensajes de emergencia a su jefe o compañeros</p>
-   <img src="/Assets/Mockup-Sin-Conexion-Mensaje-alerta.jpg" alt="Mockup-Sin-Conexion-Mensaje-alerta"></img>
+   <img src="/Assets/img-mockup-5.png" alt="Mockup 5"></img>
 </div>
 
 <div align=center>
     <p>Registrar detalles</p>
 <p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
-   <img src="/Assets/Mockup-Sin-Conexion-Registro-Detallado.jpg" alt="Mockup-Sin-Conexion-Registro-Detallado"></img>
+   <img src="/Assets/img-mockup-6.png" alt="Mockup 6"></img>
+</div>
+
+<div align=center>
+    <p>Registrar detalles</p>
+<p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
+   <img src="/Assets/img-mockup-7.png" alt="Mockup 7"></img>
+</div>
+
+<div align=center>
+    <p>Registrar detalles</p>
+<p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
+   <img src="/Assets/img-mockup-8.png" alt="Mockup 8"></img>
+</div>
+
+<div align=center>
+    <p>Registrar detalles</p>
+<p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
+   <img src="/Assets/img-mockup-9.png" alt="Mockup 9"></img>
+</div>
+
+<div align=center>
+    <p>Registrar detalles</p>
+<p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
+   <img src="/Assets/img-mockup-10.png" alt="Mockup 10"></img>
+</div>
+
+<div align=center>
+    <p>Registrar detalles</p>
+<p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
+   <img src="/Assets/img-mockup-11.png" alt="Mockup 11"></img>
+</div>
+
+<div align=center>
+    <p>Registrar detalles</p>
+<p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
+   <img src="/Assets/img-mockup-12.png" alt="Mockup 12"></img>
+</div>
+
+<div align=center>
+    <p>Registrar detalles</p>
+<p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
+   <img src="/Assets/img-mockup-13.png" alt="Mockup 13"></img>
+</div>
+
+<div align=center>
+    <p>Registrar detalles</p>
+<p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
+   <img src="/Assets/img-mockup-14.png" alt="Mockup 14"></img>
+</div>
+
+<div align=center>
+    <p>Registrar detalles</p>
+<p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
+   <img src="/Assets/img-mockup-15.png" alt="Mockup 15"></img>
+</div>
+
+<div align=center>
+    <p>Registrar detalles</p>
+<p>En la siguiente imagen se observa el registro que llevará dependiendo a los pedidos o el estado de como lo ve para su granja</p>
+   <img src="/Assets/img-mockup-16.png" alt="Mockup 16"></img>
 </div>
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
 <div align=center>
-    <p>Publicar anuncio</p>
-   <img src="/Assets/Mockup-Publicar-anuncio.jpg" alt="Mockup-Publicar-anuncio"></img>
+   <img src="/Assets/img-mockup-conexion-1.png" alt="mockup-conexion-1"></img>
 </div>
 
 <div align=center>
-    <p>Editar perfil</p>
-   <img src="/Assets/Mockup-Editar-perfil.jpg" alt="Editar-Perfil-Mockup"></img>
-</div>
-<div align=center>
-    <p>Realizar task</p>
-   <img src="/Assets/Mockup-Consultar-tareas.jpg" alt="Wireframe-Consultar-tareas"></img>
-</div>
-<div align=center>
-    <p>Gestión y estadistica en FarmLogitech</p>
-   <img src="/Assets/Mockup-Estadisticas.jpg" alt="Mockup-Estadistica"></img>
+   <img src="/Assets/img-mockup-conexion-2.png" alt="mockup-conexion-2"></img>
 </div>
 
 <div align=center>
-    <p>Mandar alerta</p>
-   <img src="/Assets/Mockup-Alerta-emergencia.jpg" alt="Mockup-Mensaje-alerta"></img>
+   <img src="/Assets/img-mockup-conexion-3.png" alt="mockup-conexion-3"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-mockup-conexion-4.png" alt="mockup-conexion-4"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-mockup-conexion-5.png" alt="mockup-conexion-5"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-mockup-conexion-6.png" alt="mockup-conexion-6"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-mockup-conexion-7.png" alt="mockup-conexion-7"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-mockup-conexion-8.png" alt="mockup-conexion-8"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-mockup-conexion-9.png" alt="mockup-conexion-9"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-mockup-conexion-10.png" alt="mockup-conexion-10"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-mockup-conexion-11.png" alt="mockup-conexion-11"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-mockup-conexion-12.png" alt="mockup-conexion-12"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-mockup-conexion-13.png" alt="mockup-conexion-13"></img>
+</div>
+
+<div align=center>
+   <img src="/Assets/img-mockup-conexion-14.png" alt="mockup-conexion-14"></img>
 </div>
 
 # 4.5. Web Applications Prototyping.
@@ -278,11 +412,12 @@ El diagrama de contexto muestra una vista de alto nivel de las relaciones entre 
 <div align=center>
 <img src="/Assets/System-diagram.jpeg" alt="System diagram"></img>
 </div>
+
 ## 4.6.2. Software Architecture Container Diagram
 El diagrama de contenedores muestra una vista de alto nivel de las relaciones entre las aplicaciones y fuentes de datos que son parte de la ejecución del sistema de software “FarmLogitech”.
 
 <div align=center>
-<img src="/Assets/Conatiner-diagram.jpeg" alt="Container diagram"></img>
+<img src="/Assets/Container-diagram.jpeg" alt="Container diagram"></img>
 </div>
 
 ## 4.6.3. Software Architecture Components Diagrams
@@ -310,6 +445,7 @@ Los diagramas de componentes muestran una vista de las relaciones de los compone
 
 <div align=center>
   <img src="/Assets/Notification-Bounded-Context.jpeg" alt="Notification Bounded Context"></img>
+</div>
 
 - Payment Bounded Context
 <div align=center>
@@ -318,9 +454,11 @@ Los diagramas de componentes muestran una vista de las relaciones de los compone
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
 <div align=center>
    <img src="/Assets/Diagrama.jpg" alt="Diagrama"></img>
 </div>
+
 
 ### 4.7.2. Class Dictionary
 Class User
