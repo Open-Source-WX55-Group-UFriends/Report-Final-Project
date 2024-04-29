@@ -325,10 +325,10 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-Para la entrega del Sprint número 1, se desplegó la landing page completa. 
-> Imagene completa
+Para la entrega del Sprint número 2, se desplegó la website.
 
-Enlace para acceder a la landing page: https://open-source-wx55-group-ufriends.github.io/landing-page/#
+<img src="/assets/collaborators.JPG" alt="Website"/></img>
+
 
  ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
@@ -340,9 +340,9 @@ Enlace para acceder a la landing page: https://open-source-wx55-group-ufriends.g
 | Augusto Pin      | Implementación de la sección colaboradores                  |
 | Luciano Ruiz     | Implementación de la sección de planes                      |
 
-<img src="/assets/stats1.JPG" alt="Statistics-01"/></img>  
-<img src="/assets/stats2.JPG" alt="Statistics-02"/></img>  
-<img src="/assets/stats3.JPG" alt="Statistics-03"/></img>
+<img src="/Assets/stats1.JPG" alt="Statistics-01"/></img>  
+<img src="/Assets/stats2.JPG" alt="Statistics-02"/></img>  
+<img src="/Assets/stats3.JPG" alt="Statistics-03"/></img>
 
 
 
