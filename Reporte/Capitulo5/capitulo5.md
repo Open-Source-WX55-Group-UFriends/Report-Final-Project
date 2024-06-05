@@ -538,31 +538,158 @@ Enlace para acceder a la landing page: https://open-source-wx55-group-ufriends.g
 
 <img src="/assets/img-commits.png" alt="Statistics-01"/></img>  
 
+[//]: # (Sprint 3)
+
+
+### 5.3. Validation Interviews.
+Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar la aplicación web destinada a
+la gestión de granjas, y publicar anuncios para conectar granjas con empresarios. Tuvimos entrevistas interactivas con
+nuestros usuarios primordiales: los duesños de granjas, trabajadores de estas y empresarios interesados en establecer alianzas estratégicas con granjas. 
+A través de entrevistas estructuradas, nos proponemos captar las impresiones y sugerencias del segmento objetivo. 
+
+#### 5.3.1 Validation Interviews.
+En esta parte, se describen los objetivos específicos de los usuarios que guían nuestras entrevistas. Estos objetivos de usuario son fundamentales para 
+asegurar que la plataforma web satisfaga las necesidades reales de los usuarios en la industria avícola y ganadera. A continuación, se presentan los 
+objetivos de usuario mencionados:  
+- **User Goal: XXX**  
+   Bla bla bla
+
+- **User Goal: XXX**  
+  Bla bla bla
+
+[//]: # (X Cantidad de user goal)
+
+#### 5.3.2. Registro de Entrevistas.
+**Primer segmento objetivo (Dueño de granja):**  
+Entrevista de validación usuario dueño de granja 01:   
+
+| Entrevistado  01             	| Carlos Castillo  	|
+|------------------------------	|------------------	|
+| Imagen                       	| Resumen          	|
+| Timing: timingDeDondeEmpieza 	| Url: urlDelVideo 	|
+
+[//]: # (Repiter para x entrevistados)
+
+
+
+**Primer segmento objetivo (Dueño de granja):**  
+Entrevista de validación usuario dueño de granja 01:
+
+| Entrevistado  01             	| Carlos Castillo  	|
+|------------------------------	|------------------	|
+| Imagen                       	| Resumen          	|
+| Timing: timingDeDondeEmpieza 	| Url: urlDelVideo 	|
+
+[//]: # (Repiter para x entrevistados)
+
+
+
+**Segundo segmento objetivo (Trabajador de granja):**  
+Entrevista de validación usuario trabajador de granja 01:
+
+| Entrevistado  01             	| Carlos Castillo  	|
+|------------------------------	|------------------	|
+| Imagen                       	| Resumen          	|
+| Timing: timingDeDondeEmpieza 	| Url: urlDelVideo 	|    
+
+[//]: # (Repiter para x entrevistados)
+
+
+**Tercer segmento objetivo (Empresario):**  
+Entrevista de validación usuario administrador o dueño de una empresa 01:
+
+| Entrevistado  01             	| Carlos Castillo  	|
+|------------------------------	|------------------	|
+| Imagen                       	| Resumen          	|
+| Timing: timingDeDondeEmpieza 	| Url: urlDelVideo 	|
+
+[//]: # (Repetir para x entrevistados)
+
+
+#### 5.3.3. Evaluaciones según heurísticas.
+**WEB APP A EVALUAR**  
+*FarmLogiTech*  
+Nuestro propósito es encontrar problemas existentes en nuestra aplicación web. Para ello, utilizaremos las heurísticas de Nielsen, 
+las cuales nos permitirán identificar problemas de usabilidad y experiencia de usuario. A continuación, se presentan las tareas a evaluar:  
+**TAREAS A EVALUAR**  
+- Landing Page
+   - 1. nosee    
+- Web App
+   - 1. nosee
+
+[//]: # (X cantidad    )
+
+**ESCALA DE SEVERIDAD:**  
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel 	| Descripción 	                                                                                                                                                                                              |
+|-------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     	| Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.           	                   |
+| 2     	| Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase           	 |
+| 3     	| Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.           	                                |
+| 4     	| Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.           	                              |
+
+**TABLA RESUMEN:**  
+**Landing page**
+
+| # 	| Problema 	| Escala de severidad 	| Heurística/Principio violada(o) 	|
+|---	|----------	|---------------------	|---------------------------------	|
+| 1 	| a        	| X                   	| X                               	|
+| 2 	| a        	| X                   	| X                               	|
+| 3 	| a        	| X                   	| X                               	|
+| 4 	| a        	| X                   	| X                               	|
+   
+**PROBLEMA #01**: AAAA
+**Escala de severidad:** AAA 
+**Heuristica Relacionada:** AAAA 
+**Descripción del problema:** AAAAA     
+*Imagen*  
+**Recomendacion:** 02
+
+[//]: # (X cantidad    )
 
 
 
 
+**Web Application**
+
+| # 	| Problema 	| Escala de severidad 	| Heurística/Principio violada(o) 	|
+|---	|----------	|---------------------	|---------------------------------	|
+| 1 	| a        	| X                   	| X                               	|
+| 2 	| a        	| X                   	| X                               	|
+| 3 	| a        	| X                   	| X                               	|
+| 4 	| a        	| X                   	| X                               	|
+
+**PROBLEMA #01**: AAAA
+**Escala de severidad:** AAA
+**Heuristica Relacionada:** AAAA
+**Descripción del problema:** AAAAA     
+*Imagen*  
+**Recomendacion:** 02
+
+[//]: # (X cantidad    )
+
+### 5.4. Video About-The-Product.
+A continuación, se muestra el video "Acerca del producto", el cual ilustra el propósito, beneficios y características principales de la aplicación.
+Enlace para visualizar el video About the product:  
+Enlace del video subido a Stream: https://XXXXXX.com/
 
 
+# VI. Conclusiones y recomendaciones.
+
+**Video About-The-Team**
+
+El video resume el proceso de trabajo llevado a cabo por el equipo, donde los miembros presentan las acciones que realizaron para lograr los 
+resultados establecidos por el curso. Es importante resaltar que los integrantes del equipo enfatizan la comunicación oral y escrita como un método 
+efectivo para expresar ideas y reportar el progreso del proyecto.
+
+EXPLICAR MÁS COSAAAS   
+Enlace del video subido a Stream: https://XXXXXX.com/
 
 
+# VII. Bibliografía.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# VIII. Anexos.
 
 
 
