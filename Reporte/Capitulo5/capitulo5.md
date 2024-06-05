@@ -538,8 +538,15 @@ Enlace para acceder a la landing page: https://open-source-wx55-group-ufriends.g
 
 <img src="/assets/img-commits.png" alt="Statistics-01"/></img>  
 
-[//]: # (Sprint 3)
-
+## 5.2.3 Sprint 3.
+### 5.2.3.1 Sprint Planning 3.
+### 5.2.3.2 Sprint Backlog 3.
+### 5.2.3.3 Development Evidence for Sprint Review.
+### 5.2.3.4 Testing Suite Evidence for Sprint Review.
+### 5.2.3.5 Execution Evidence for Sprint Review.
+### 5.2.3.6 Services Documentation Evidence for Sprint Review.
+### 5.2.3.7 Software Deployment Evidence for Sprint Review.
+### 5.2.3.8 Team Collaboration Insights during Sprint.
 
 ### 5.3. Validation Interviews.
 Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar la aplicación web destinada a
@@ -547,7 +554,7 @@ la gestión de granjas, y publicar anuncios para conectar granjas con empresario
 nuestros usuarios primordiales: los duesños de granjas, trabajadores de estas y empresarios interesados en establecer alianzas estratégicas con granjas. 
 A través de entrevistas estructuradas, nos proponemos captar las impresiones y sugerencias del segmento objetivo. 
 
-#### 5.3.1 Validation Interviews.
+#### 5.3.1 Diseño de Entrevistas.
 En esta parte, se describen los objetivos específicos de los usuarios que guían nuestras entrevistas. Estos objetivos de usuario son fundamentales para 
 asegurar que la plataforma web satisfaga las necesidades reales de los usuarios en la industria avícola y ganadera. A continuación, se presentan los 
 objetivos de usuario mencionados:  
@@ -699,10 +706,17 @@ Enlace del video subido a Stream: https://XXXXXX.com/
 
 # VII. Bibliografía.
 [//]: # (Poner en formato APA)
-https://www.midagri.gob.pe/portal/download/pdf/especiales/plan-nacional-ganadero.pdf  
+Ministerio de Desarrollo Agrario y Riego. (s.f.). Plan Nacional Ganadero. 
+https://www.midagri.gob.pe/portal/download/pdf/especiales/plan-nacional-ganadero.pdf
+
+Actualidad Ganadera. (s.f.). INEI actualiza cifras oficiales sobre nuestro sector ganadero. 
 https://actualidadganadera.com/inei-actualiza-cifras-oficiales-sobre-sobre-nuestro-sector-ganadero/
+
+Ministerio de Desarrollo Agrario y Riego. (2023). Informe mensual avícola, abril 2023. 
 https://siea.midagri.gob.pe/portal/phocadownload/datos_estadisticas/mensual/Avicola/2023/avicola_04_2023.pdf
-https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1912/libro.pdf&ved=2ahUKEwiw-eO29cSGAxUKILkGHVIxAT4QFnoECBgQAQ&usg=AOvVaw1RkZO-1m3l_3inAtl4GFk5
+
+Instituto Nacional de Estadística e Informática. (2022). Estadísticas del sector ganadero.
+https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1912/libro.pdf
 # VIII. Anexos.
 Colocar enlaces a los documentos de Google Drive, Trello, etc. que se hayan utilizado en el proyecto.
 
