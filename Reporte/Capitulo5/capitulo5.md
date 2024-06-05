@@ -692,7 +692,8 @@ El video resume el proceso de trabajo llevado a cabo por el equipo, donde los mi
 resultados establecidos por el curso. Es importante resaltar que los integrantes del equipo enfatizan la comunicación oral y escrita como un método 
 efectivo para expresar ideas y reportar el progreso del proyecto.
 
-EXPLICAR MÁS COSAAAS   
+EL video tiene una duración de ___. Del minuto ___ al ___ expuso____. Despues, del minuto ___ al ____ expuso____ ya asi.
+
 Enlace del video subido a Stream: https://XXXXXX.com/
 
 
@@ -703,7 +704,7 @@ https://actualidadganadera.com/inei-actualiza-cifras-oficiales-sobre-sobre-nuest
 https://siea.midagri.gob.pe/portal/phocadownload/datos_estadisticas/mensual/Avicola/2023/avicola_04_2023.pdf
 https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1912/libro.pdf&ved=2ahUKEwiw-eO29cSGAxUKILkGHVIxAT4QFnoECBgQAQ&usg=AOvVaw1RkZO-1m3l_3inAtl4GFk5
 # VIII. Anexos.
-
+Colocar enlaces a los documentos de Google Drive, Trello, etc. que se hayan utilizado en el proyecto.
 
 
 
