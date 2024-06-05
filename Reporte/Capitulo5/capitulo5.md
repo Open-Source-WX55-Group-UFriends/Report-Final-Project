@@ -677,6 +677,15 @@ Enlace del video subido a Stream: https://XXXXXX.com/
 
 # VI. Conclusiones y recomendaciones.
 
+1. El uso de Lean UX, fue de gran ayuda gracias a su enfoque iterativo, que  permite adaptarse rápidamente a los cambios del la aplicación y las necesidades del usuario, promoviendo así la eficiencia al desarrollar el producto.
+2. Conventional Commits establecio un estándar para mensajes de confirmación claros y estructurados, lo que facilitó la comprensión del historial de cambios.
+3. Los diagramas de arquitectura de dominio facilitaron la comprensión de las relaciones entre el dominio y sus contextos delimitados
+4. Como equipo buscamos priorizar la comprensión profunda del negocio y su contexto, mediante la colaboración entre expertos técnicos y de dominio.
+5. El enfoque en la modularidad y la reutilización de código de Angular agilizó el proceso de desarrollo.
+6. El uso de Springboot nos ayudo gracias a su capacidad para gestionar fácilmente la lógica de negocios, la persistencia de datos y la integración con tecnologías externas
+7.  As-Is mapping nos proporcionó una comprensión detallada de los procesos existentes, identificando puntos débiles y oportunidades de mejora. Por otro lado, en el To-Be mapping, mostramos la visión futura del proceso optimizado, destacando los cambios planificados y las mejoras esperadas, sirviendo como guía para la transformación y la innovación.
+8. Nuestra aplicación puede ayudar a gobiernos regionales y locales a impulsar la modernización de la industria al  permitir mejorar y controlar los procesos productivos
+
 **Video About-The-Team**
 
 El video resume el proceso de trabajo llevado a cabo por el equipo, donde los miembros presentan las acciones que realizaron para lograr los 
@@ -688,7 +697,11 @@ Enlace del video subido a Stream: https://XXXXXX.com/
 
 
 # VII. Bibliografía.
-
+[//]: # (Poner en formato APA)
+https://www.midagri.gob.pe/portal/download/pdf/especiales/plan-nacional-ganadero.pdf  
+https://actualidadganadera.com/inei-actualiza-cifras-oficiales-sobre-sobre-nuestro-sector-ganadero/
+https://siea.midagri.gob.pe/portal/phocadownload/datos_estadisticas/mensual/Avicola/2023/avicola_04_2023.pdf
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1912/libro.pdf&ved=2ahUKEwiw-eO29cSGAxUKILkGHVIxAT4QFnoECBgQAQ&usg=AOvVaw1RkZO-1m3l_3inAtl4GFk5
 # VIII. Anexos.
 
 
