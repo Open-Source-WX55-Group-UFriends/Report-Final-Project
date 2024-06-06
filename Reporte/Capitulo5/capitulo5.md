@@ -935,11 +935,11 @@ incluimos el db.json para luego enlazarlo llamandolo con la creación de rutas.
 
 </br>
 
-<img src="/assets/img-repo1-json.png" alt="Repo 1"/></img>
-<img src="/assets/img-repo2-json.png" alt="Repo 2"/></img>
-<img src="/assets/img-repo3-json.png" alt="Repo 3"/></img>
-<img src="/assets/img-repo4-json.png" alt="Repo 4"/></img>
-<img src="/assets/img-repo5-json.png" alt="Repo 5"/></img>
+<img src="/Assets/img-repo1-json.png" alt="Repo 1"/></img>
+<img src="/Assets/img-repo2-json.png" alt="Repo 2"/></img>
+<img src="/Assets/img-repo3-json.png" alt="Repo 3"/></img>
+<img src="/Assets/img-repo4-json.png" alt="Repo 4"/></img>
+<img src="/Assets/img-repo5-json.png" alt="Repo 5"/></img>
 
 | Endpoint           | Details                                                                                                                                                           |
 |--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -997,62 +997,62 @@ incluimos el db.json para luego enlazarlo llamandolo con la creación de rutas.
 
 ### Web service images:
 #### Subscriptions Controller:
-<img src="/assets/img-subscriptions-controller-1.png" alt="subscriptions-controller-1"/></img>
-<img src="/assets/img-subscriptions-controller-2.png" alt="subscriptions-controller-2"/></img>
-<img src="/assets/img-subscriptions-controller-3.png" alt="subscriptions-controller-3"/></img>
-<img src="/assets/img-subscriptions-controller-4.png" alt="subscriptions-controller-4"/></img>
+<img src="/Assets/img-subscriptions-controller-1.png" alt="subscriptions-controller-1"/></img>
+<img src="/Assets/img-subscriptions-controller-2.png" alt="subscriptions-controller-2"/></img>
+<img src="/Assets/img-subscriptions-controller-3.png" alt="subscriptions-controller-3"/></img>
+<img src="/Assets/img-subscriptions-controller-4.png" alt="subscriptions-controller-4"/></img>
 
 #### Profile Controller:
-<img src="/assets/profile-controller-1.png" alt="profile-controller-1"/></img>
-<img src="/assets/profile-controller-2.png" alt="profile-controller-2"/></img>
-<img src="/assets/profile-controller-3.png" alt="profile-controller-3"/></img>
-<img src="/assets/profile-controller-4.png" alt="profile-controller-4"/></img>
+<img src="/Assets/profile-controller-1.png" alt="profile-controller-1"/></img>
+<img src="/Assets/profile-controller-2.png" alt="profile-controller-2"/></img>
+<img src="/Assets/profile-controller-3.png" alt="profile-controller-3"/></img>
+<img src="/Assets/profile-controller-4.png" alt="profile-controller-4"/></img>
 
 #### Farm Controller:
-<img src="/assets/img-farm-controller-1.png" alt="farm-controller-1"/></img>
-<img src="/assets/img-farm-controller-2.png" alt="farm-controller-2"/></img>
-<img src="/assets/img-farm-controller-3.png" alt="farm-controller-3"/></img>
-<img src="/assets/img-farm-controller-4.png" alt="farm-controller-4"/></img>
-<img src="/assets/img-farm-controller-5.png" alt="farm-controller-5"/></img>
-<img src="/assets/img-farm-controller-6.png" alt="farm-controller-6"/></img>
+<img src="/Assets/img-farm-controller-1.png" alt="farm-controller-1"/></img>
+<img src="/Assets/img-farm-controller-2.png" alt="farm-controller-2"/></img>
+<img src="/Assets/img-farm-controller-3.png" alt="farm-controller-3"/></img>
+<img src="/Assets/img-farm-controller-4.png" alt="farm-controller-4"/></img>
+<img src="/Assets/img-farm-controller-5.png" alt="farm-controller-5"/></img>
+<img src="/Assets/img-farm-controller-6.png" alt="farm-controller-6"/></img>
 
 #### User Controller:
-<img src="/assets/img-user-controller.png" alt="user-controller-1"/></img>
-<img src="/assets/img-user-controller-2.png" alt="user-controller-2"/></img>
+<img src="/Assets/img-user-controller.png" alt="user-controller-1"/></img>
+<img src="/Assets/img-user-controller-2.png" alt="user-controller-2"/></img>
 
 #### Task Controller:
-<img src="/assets/img-task-controller-1.png" alt="task-controller-1"/></img>
-<img src="/assets/img-task-controller-2.png" alt="task-controller-1"/></img>
-<img src="/assets/img-task-controller-3.png" alt="task-controller-1"/></img>
+<img src="/Assets/img-task-controller-1.png" alt="task-controller-1"/></img>
+<img src="/Assets/img-task-controller-2.png" alt="task-controller-1"/></img>
+<img src="/Assets/img-task-controller-3.png" alt="task-controller-1"/></img>
 
 #### Social Controller:
-<img src="/assets/img-social-controller-1.png" alt="social-controller-1"/></img>
-<img src="/assets/img-social-controller-2.png" alt="social-controller-1"/></img>
-<img src="/assets/img-social-controller-3.png" alt="social-controller-1"/></img>
+<img src="/Assets/img-social-controller-1.png" alt="social-controller-1"/></img>
+<img src="/Assets/img-social-controller-2.png" alt="social-controller-1"/></img>
+<img src="/Assets/img-social-controller-3.png" alt="social-controller-1"/></img>
 
 #### Shed Controller:
-<img src="/assets/img-shed-controller.png" alt="shed-controller"/></img>
-<img src="/assets/img-shed-controller-2.png" alt="shed-controller-2"/></img>
-<img src="/assets/img-shed-controller-3.png" alt="shed-controller-3"/></img>
+<img src="/Assets/img-shed-controller.png" alt="shed-controller"/></img>
+<img src="/Assets/img-shed-controller-2.png" alt="shed-controller-2"/></img>
+<img src="/Assets/img-shed-controller-3.png" alt="shed-controller-3"/></img>
 
 #### Income Controller:
-<img src="/assets/img-income-controller.png" alt="income-controller"/></img>
+<img src="/Assets/img-income-controller.png" alt="income-controller"/></img>
 
 #### Expense Controller:
-<img src="/assets/img-expense-controller.png" alt="expense-controller"/></img>
+<img src="/Assets/img-expense-controller.png" alt="expense-controller"/></img>
 
 #### Crop Controller:
-<img src="/assets/img-crop-controller-1.png" alt="crop-controller"/></img>
-<img src="/assets/img-crop-controller-2.png" alt="crop-controller-2"/></img>
-<img src="/assets/img-crop-controller-3.png" alt="crop-controller-3"/></img>
+<img src="/Assets/img-crop-controller-1.png" alt="crop-controller"/></img>
+<img src="/Assets/img-crop-controller-2.png" alt="crop-controller-2"/></img>
+<img src="/Assets/img-crop-controller-3.png" alt="crop-controller-3"/></img>
 
 #### Animal Controller:
-<img src="/assets/img-animal-controller-1.png" alt="animal-controller"/></img>
-<img src="/assets/img-animal-controller-2.png" alt="animal-controller-2"/></img>
-<img src="/assets/img-animal-controller-3.png" alt="animal-controller-3"/></img>
+<img src="/Assets/img-animal-controller-1.png" alt="animal-controller"/></img>
+<img src="/Assets/img-animal-controller-2.png" alt="animal-controller-2"/></img>
+<img src="/Assets/img-animal-controller-3.png" alt="animal-controller-3"/></img>
 
 #### Message Controller:
-<img src="/assets/img-message-controller.png" alt="message-controller"/></img>
+<img src="/Assets/img-message-controller.png" alt="message-controller"/></img>
 
 #### Link del repositorio:
 (https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op.git)
@@ -1100,91 +1100,102 @@ Landin Page:
 La actualización de la página de destino en GitHub Pages se realizó tras fusionar la rama "develop" con la rama principal ("main"). Este proceso permitió renovar la implementación de la página de destino.
 
 - Capturas de pantalla landing page:
-  <img src="/assets/img-landing-page-1.png" alt="landing-page"/></img>
-  <img src="/assets/img-landing-page-2.png" alt="landing-page"/></img>
-  <img src="/assets/img-landing-page-3.png" alt="landing-page"/></img>
-  <img src="/assets/img-landing-page-4.png" alt="landing-page"/></img>
-  <img src="/assets/img-landing-page-5.png" alt="landing-page"/></img>
+  <img src="/Assets/img-landing-page-1.png" alt="landing-page"/></img>
+  <img src="/Assets/img-landing-page-2.png" alt="landing-page"/></img>
+  <img src="/Assets/img-landing-page-3.png" alt="landing-page"/></img>
+  <img src="/Assets/img-landing-page-4.png" alt="landing-page"/></img>
+  <img src="/Assets/img-landing-page-5.png" alt="landing-page"/></img>
   
 - Web Application Front-end:
 
 Prueba de que esta enlazado con el Netlify
 
-<img src="/assets/img-deployment.png" alt="landing-page"/></img>
+<img src="/Assets/img-deployment.png" alt="landing-page"/></img>
 
 - Capturas de pantalla landing page:
 
-  <img src="/assets/img-website-page.png" alt="website"/></img>
-  <img src="/assets/img-website-page-2.png" alt="website"/></img>
-  <img src="/assets/img-website-page-3.png" alt="website"/></img>
-  <img src="/assets/img-website-page-4.png" alt="website"/></img>
-  <img src="/assets/img-website-page-5.png" alt="website"/></img>
-  <img src="/assets/img-website-page-6.png" alt="website"/></img>
-  <img src="/assets/img-website-page-7.png" alt="website"/></img>
-  <img src="/assets/img-website-page-8.png" alt="website"/></img>
-  <img src="/assets/img-website-page-9.png" alt="website"/></img>
-  <img src="/assets/img-website-page-10.png" alt="website"/></img>
-  <img src="/assets/img-website-page-11.png" alt="website"/></img>
-  <img src="/assets/img-website-page-12.png" alt="website"/></img>
-  <img src="/assets/img-website-page-13.png" alt="website"/></img>
-  <img src="/assets/img-website-page-14.png" alt="website"/></img>
-   <img src="/assets/img-website-page-15.png" alt="website"/></img>
-<img src="/assets/img-website-page-16.png" alt="website"/></img>
-  <img src="/assets/img-website-page-17.png" alt="website"/></img>
+  <img src="/Assets/img-website-page.png" alt="website"/></img>
+  <img src="/Assets/img-website-page-2.png" alt="website"/></img>
+  <img src="/Assets/img-website-page-3.png" alt="website"/></img>
+  <img src="/Assets/img-website-page-4.png" alt="website"/></img>
+  <img src="/Assets/img-website-page-5.png" alt="website"/></img>
+  <img src="/Assets/img-website-page-6.png" alt="website"/></img>
+  <img src="/Assets/img-website-page-7.png" alt="website"/></img>
+  <img src="/Assets/img-website-page-8.png" alt="website"/></img>
+  <img src="/Assets/img-website-page-9.png" alt="website"/></img>
+  <img src="/Assets/img-website-page-10.png" alt="website"/></img>
+  <img src="/Assets/img-website-page-11.png" alt="website"/></img>
+  <img src="/Assets/img-website-page-12.png" alt="website"/></img>
+  <img src="/Assets/img-website-page-13.png" alt="website"/></img>
+  <img src="/Assets/img-website-page-14.png" alt="website"/></img>
+   <img src="/Assets/img-website-page-15.png" alt="website"/></img>
+<img src="/Assets/img-website-page-16.png" alt="website"/></img>
+  <img src="/Assets/img-website-page-17.png" alt="website"/></img>
 
 - Web Application Back-end:
 
-  <img src="/assets/img-base-de-dato-workbrench-1.png" alt="Base de datos"/></img>
-  <img src="/assets/img-base-de-dato-workbrench-2.png" alt="Base de datos"/></img>
+  <img src="/Assets/img-base-de-dato-workbrench-1.png" alt="Base de datos"/></img>
+  <img src="/Assets/img-base-de-dato-workbrench-2.png" alt="Base de datos"/></img>
 
 
 - Capturas de pantalla de Web Application:
 
-<img src="/assets/img-subscriptions-controller-1.png" alt="subscriptions-controller-1"/></img>
-<img src="/assets/img-subscriptions-controller-2.png" alt="subscriptions-controller-2"/></img>
-<img src="/assets/img-subscriptions-controller-3.png" alt="subscriptions-controller-3"/></img>
-<img src="/assets/img-subscriptions-controller-4.png" alt="subscriptions-controller-4"/></img>
-<img src="/assets/profile-controller-1.png" alt="profile-controller-1"/></img>
-<img src="/assets/profile-controller-2.png" alt="profile-controller-2"/></img>
-<img src="/assets/profile-controller-3.png" alt="profile-controller-3"/></img>
-<img src="/assets/profile-controller-4.png" alt="profile-controller-4"/></img>
-<img src="/assets/img-farm-controller-1.png" alt="farm-controller-1"/></img>
-<img src="/assets/img-farm-controller-2.png" alt="farm-controller-2"/></img>
-<img src="/assets/img-farm-controller-3.png" alt="farm-controller-3"/></img>
-<img src="/assets/img-farm-controller-4.png" alt="farm-controller-4"/></img>
-<img src="/assets/img-farm-controller-5.png" alt="farm-controller-5"/></img>
-<img src="/assets/img-farm-controller-6.png" alt="farm-controller-6"/></img>
-<img src="/assets/img-user-controller.png" alt="user-controller-1"/></img>
-<img src="/assets/img-user-controller-2.png" alt="user-controller-2"/></img>
-<img src="/assets/img-task-controller-1.png" alt="task-controller-1"/></img>
-<img src="/assets/img-task-controller-2.png" alt="task-controller-1"/></img>
-<img src="/assets/img-task-controller-3.png" alt="task-controller-1"/></img>
-<img src="/assets/img-social-controller-1.png" alt="social-controller-1"/></img>
-<img src="/assets/img-social-controller-2.png" alt="social-controller-1"/></img>
-<img src="/assets/img-social-controller-3.png" alt="social-controller-1"/></img>
-<img src="/assets/img-shed-controller.png" alt="shed-controller"/></img>
-<img src="/assets/img-shed-controller-2.png" alt="shed-controller-2"/></img>
-<img src="/assets/img-shed-controller-3.png" alt="shed-controller-3"/></img>
-<img src="/assets/img-income-controller.png" alt="income-controller"/></img>
-<img src="/assets/img-expense-controller.png" alt="expense-controller"/></img>
-<img src="/assets/img-crop-controller-1.png" alt="crop-controller"/></img>
-<img src="/assets/img-crop-controller-2.png" alt="crop-controller-2"/></img>
-<img src="/assets/img-crop-controller-3.png" alt="crop-controller-3"/></img>
-<img src="/assets/img-animal-controller-1.png" alt="animal-controller"/></img>
-<img src="/assets/img-animal-controller-2.png" alt="animal-controller-2"/></img>
-<img src="/assets/img-animal-controller-3.png" alt="animal-controller-3"/></img>
-<img src="/assets/img-message-controller.png" alt="message-controller"/></img>
+<img src="/Assets/img-subscriptions-controller-1.png" alt="subscriptions-controller-1"/></img>
+<img src="/Assets/img-subscriptions-controller-2.png" alt="subscriptions-controller-2"/></img>
+<img src="/Assets/img-subscriptions-controller-3.png" alt="subscriptions-controller-3"/></img>
+<img src="/Assets/img-subscriptions-controller-4.png" alt="subscriptions-controller-4"/></img>
+<img src="/Assets/profile-controller-1.png" alt="profile-controller-1"/></img>
+<img src="/Assets/profile-controller-2.png" alt="profile-controller-2"/></img>
+<img src="/Assets/profile-controller-3.png" alt="profile-controller-3"/></img>
+<img src="/Assets/profile-controller-4.png" alt="profile-controller-4"/></img>
+<img src="/Assets/img-farm-controller-1.png" alt="farm-controller-1"/></img>
+<img src="/Assets/img-farm-controller-2.png" alt="farm-controller-2"/></img>
+<img src="/Assets/img-farm-controller-3.png" alt="farm-controller-3"/></img>
+<img src="/Assets/img-farm-controller-4.png" alt="farm-controller-4"/></img>
+<img src="/Assets/img-farm-controller-5.png" alt="farm-controller-5"/></img>
+<img src="/Assets/img-farm-controller-6.png" alt="farm-controller-6"/></img>
+<img src="/Assets/img-user-controller.png" alt="user-controller-1"/></img>
+<img src="/Assets/img-user-controller-2.png" alt="user-controller-2"/></img>
+<img src="/Assets/img-task-controller-1.png" alt="task-controller-1"/></img>
+<img src="/Assets/img-task-controller-2.png" alt="task-controller-1"/></img>
+<img src="/Assets/img-task-controller-3.png" alt="task-controller-1"/></img>
+<img src="/Assets/img-social-controller-1.png" alt="social-controller-1"/></img>
+<img src="/Assets/img-social-controller-2.png" alt="social-controller-1"/></img>
+<img src="/Assets/img-social-controller-3.png" alt="social-controller-1"/></img>
+<img src="/Assets/img-shed-controller.png" alt="shed-controller"/></img>
+<img src="/Assets/img-shed-controller-2.png" alt="shed-controller-2"/></img>
+<img src="/Assets/img-shed-controller-3.png" alt="shed-controller-3"/></img>
+<img src="/Assets/img-income-controller.png" alt="income-controller"/></img>
+<img src="/Assets/img-expense-controller.png" alt="expense-controller"/></img>
+<img src="/Assets/img-crop-controller-1.png" alt="crop-controller"/></img>
+<img src="/Assets/img-crop-controller-2.png" alt="crop-controller-2"/></img>
+<img src="/Assets/img-crop-controller-3.png" alt="crop-controller-3"/></img>
+<img src="/Assets/img-animal-controller-1.png" alt="animal-controller"/></img>
+<img src="/Assets/img-animal-controller-2.png" alt="animal-controller-2"/></img>
+<img src="/Assets/img-animal-controller-3.png" alt="animal-controller-3"/></img>
+<img src="/Assets/img-message-controller.png" alt="message-controller"/></img>
 
    ### 5.2.3.8 Team Collaboration Insights during Sprint.
 
-| Alumno                               | Actividad                                                                         |
-|--------------------------------------|-----------------------------------------------------------------------------------|
-| Aguilar Castillo, Rodrigo Alejandro  | Desarrollo del back end, y mejora y reestructuración de componentes del front end |
-| Escalante Baygorrea, Janiel Franz	       | Desarrollo del back end e internacionalización del front end                      |
-| Kunimoto Watanabe, Mathias Tsuneo         | Desarrollo del back end, y mejora y reestructuración de componentes del front end |
-|Pin Matallana, Augusto José	  | Desarrollo del back end, y mejora de componentes del front end                    |
-| Ruiz Blas, Luciano Stefano	 | Creación de nuevos componentes del front end                                      |
+| Alumno                               | Actividad                                                                          |
+|--------------------------------------|------------------------------------------------------------------------------------|
+| Aguilar Castillo, Rodrigo Alejandro  | Desarrollo del back end, y mejora y mejora de componentes del front end            |
+| Escalante Baygorrea, Janiel Franz	       | Desarrollo del back end y desarrollo  front end                                    |
+| Kunimoto Watanabe, Mathias Tsuneo         | Desarrollo del back end, y mejora de reestructuración de componentes del front end |
+|Pin Matallana, Augusto José	  | Desarrollo del back end, y mejora visual del front end                          |
+| Ruiz Blas, Luciano Stefano	 | Creación de nuevos componentes del front end                                       |
 
+#### Repositorio Landing:
+(https://github.com/Open-Source-WX55-Group-UFriends/landing-page.git)
+<img src="/Assets/img-repo-landing.png" alt="message-controller"/></img>
+
+#### Repositorio Web Application:
+(https://github.com/Open-Source-WX55-Group-UFriends/Frontend-App.git)
+<img src="/Assets/img-repo-front.png" alt="message-controller"/></img>
+
+#### Repositorio BackEnd:
+(https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op.git)
+<img src="/Assets/img-repo-backend.png" alt="message-controller"/></img>
 
 ### 5.3. Validation Interviews.
 Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar la aplicación web destinada a
