@@ -579,7 +579,157 @@ Enlace para acceder a la landing page: https://open-source-wx55-group-ufriends.g
 
 ### 5.2.3.4 Testing Suite Evidence for Sprint Review.
 ### 5.2.3.5 Execution Evidence for Sprint Review.
+En el sprint 3 se logró un desarrollo parcial tanto del frontend como del backend de la aplicación web.
+Este avance incluye nuevas vistas relevantes sobre el producto y la startup, disponibles en inglés y español, así como una versión responsive.
+A continuación, se presentan algunas evidencias:
+
+PONER IMAGENES
+- US01 (PONER LA IMAGEN DEL LANDING): Ver descripción clara y concisa de los servicios en la landing page.
+  <img src="/" alt="US01"/></img>
+
+- US02 (PONER LA IMAGEN DE LA SECCIÓN DE PLANES): Encontrar fácilmente los precios y planes de suscripción en la landing page.
+  <img src="/" alt="US02"/></img>
+
+- US06 (PONER LA IMAGEN DE LA SECCIÓN DE INTERACCIÓN DE IMÁGENES): Interactuar con imágenes en la landing page.
+  <img src="/" alt="US06"/></img>
+
+- US10 (PONER LA IMAGEN DE LA SECCIÓN DE TAREAS): Crear y asignar tareas a los trabajadores.
+  <img src="/" alt="US10"/></img>
+
+- US19 (PONER LA IMAGEN DE VER INFORMACION DETALLADA SOBRE EL ESTADO DE CULTIVO): Ver información detallada sobre el estado de cultivo.
+  <img src="/" alt="US19"/></img>
+
+
+
 ### 5.2.3.6 Services Documentation Evidence for Sprint Review.
+
+Para el sprint 3, se planificó el front-end como el back-end. Inicialmente, se trabajó con el mismo github creando repositorios en donde
+incluimos el db.json para luego enlazarlo llamandolo con la creación de rutas.
+
+</br>
+
+<img src="/assets/img-repo1-json.png" alt="Repo 1"/></img>
+<img src="/assets/img-repo2-json.png" alt="Repo 2"/></img>
+<img src="/assets/img-repo3-json.png" alt="Repo 3"/></img>
+<img src="/assets/img-repo4-json.png" alt="Repo 4"/></img>
+<img src="/assets/img-repo5-json.png" alt="Repo 5"/></img>
+
+| Endpoint           | Details                                                                                                                                                           |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| /subscription-controller | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /profile-controller   | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /farm-controller   | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /user-controller   | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /task-controller   | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /social-controller    | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /shed-controller   | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /income-controller | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /expense-controller | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /crop-controller   | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /animal-controller | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /message-controller | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+
+### Web Service:
+
+| Endpoint                | Operaciones | Parámetros       | URL                                                    |
+|-------------------------|-------------|------------------|--------------------------------------------------------|
+| subscription-controller | PUT         | {profileId}      | /api/v1/subscription/pay/subscription/{profileId}                                           |
+|                         | POST        | No tiene         | /api/v1/subscription                          |
+|                         | GET         | {id}             | api/v1/crops/{cropId}/tunnels                          |
+|                         | GET         | No tiene         | /api/v1/subscription/all                |
+| profile-controller      | GET         | {profileId}      | /api/v1/profile/{profileId}                           |
+|                         | PUT         | {profileId}      | /api/v1/profile/{profileId}                                       |
+|                         | POST        | No tiene         | /api/v1/profile                           |
+|                         | GET         | No tiene         | /api/v1/profile/all                           |
+| farm-controller         | GET         | {id}             | /api/v1/farm/{id}                          |
+|                         | PUT         | {id}             | /api/v1/farm/{id}                                       |
+|                         | POST        | No tiene         | /api/v1/farm                         |
+|                         | GET         | {location}       | /api/v1/farm/location/{location}                           |
+|                         | GET         | No tiene         | /api/v1/farm/all                         |
+|                         | GET         | {profileId}        | /api/v1/farm/all/farms/profile/{profileId}                          |
+| user-controller         | POST        | No tiene         | /api/v1/user                                       |
+|                         | GET         | No tiene         | /api/v1/user/all                          |
+| task-controller         | POST        | No tiene         | /api/v1/task                                      |
+|                         | GET         | {farmerId}       | /api/v1/task/all/farmer/{farmerId}                          |
+|                         | GET         | {collaboratorId} | /api/v1/task/all/collaborator/{collaboratorId}                          |
+| social-controller       | POST        | No tiene         | /api/v1/socials                                      |
+|                         | GET         | No tiene         | /api/v1/socials/all                         |
+|                         | GET         | {id}             | /api/v1/socials/all/farm/{id}                         |
+| shed-controller         | POST        | No tiene         | /api/v1/shed                                      |
+|                         | GET         | {id}             | /api/v1/shed/{id}                         |
+|                         | GET         | No tiene         | /api/v1/shed/all                        |
+| income-controller       | POST        | No tiene         | /api/v1/income                                     |
+| expense-controller      | POST        | No tiene         | /api/v1/expense                                     |
+| crop-controller         | POST        | No tiene         | /api/v1/crop                                      |
+|                         | GET         | {id}             | /api/v1/crop/{id}                         |
+|                         | GET         | No tiene         | /api/v1/crop/all                       |
+| animal-controller       | POST        | No tiene         | /api/v1/animal                                      |
+|                         | GET         | {id}             | /api/v1/animal/{id}                         |
+|                         | GET         | No tiene         | /api/v1/animal/all                       |
+| message-controller      | POST        | {collaboratorId} | /api/v1/messages/collaborator/{collaboratorId}                                   |
+
+### Web service images:
+#### Subscriptions Controller:
+<img src="/assets/img-subscriptions-controller-1.png" alt="subscriptions-controller-1"/></img>
+<img src="/assets/img-subscriptions-controller-2.png" alt="subscriptions-controller-2"/></img>
+<img src="/assets/img-subscriptions-controller-3.png" alt="subscriptions-controller-3"/></img>
+<img src="/assets/img-subscriptions-controller-4.png" alt="subscriptions-controller-4"/></img>
+
+#### Profile Controller:
+<img src="/assets/profile-controller-1.png" alt="profile-controller-1"/></img>
+<img src="/assets/profile-controller-2.png" alt="profile-controller-2"/></img>
+<img src="/assets/profile-controller-3.png" alt="profile-controller-3"/></img>
+<img src="/assets/profile-controller-4.png" alt="profile-controller-4"/></img>
+
+#### Farm Controller:
+<img src="/assets/img-farm-controller-1.png" alt="farm-controller-1"/></img>
+<img src="/assets/img-farm-controller-2.png" alt="farm-controller-2"/></img>
+<img src="/assets/img-farm-controller-3.png" alt="farm-controller-3"/></img>
+<img src="/assets/img-farm-controller-4.png" alt="farm-controller-4"/></img>
+<img src="/assets/img-farm-controller-5.png" alt="farm-controller-5"/></img>
+<img src="/assets/img-farm-controller-6.png" alt="farm-controller-6"/></img>
+
+#### User Controller:
+<img src="/assets/img-user-controller.png" alt="user-controller-1"/></img>
+<img src="/assets/img-user-controller-2.png" alt="user-controller-2"/></img>
+
+#### Task Controller:
+<img src="/assets/img-task-controller-1.png" alt="task-controller-1"/></img>
+<img src="/assets/img-task-controller-2.png" alt="task-controller-1"/></img>
+<img src="/assets/img-task-controller-3.png" alt="task-controller-1"/></img>
+
+#### Social Controller:
+<img src="/assets/img-social-controller-1.png" alt="social-controller-1"/></img>
+<img src="/assets/img-social-controller-2.png" alt="social-controller-1"/></img>
+<img src="/assets/img-social-controller-3.png" alt="social-controller-1"/></img>
+
+#### Shed Controller:
+<img src="/assets/img-shed-controller.png" alt="shed-controller"/></img>
+<img src="/assets/img-shed-controller-2.png" alt="shed-controller-2"/></img>
+<img src="/assets/img-shed-controller-3.png" alt="shed-controller-3"/></img>
+
+#### Income Controller:
+<img src="/assets/img-income-controller.png" alt="income-controller"/></img>
+
+#### Expense Controller:
+<img src="/assets/img-expense-controller.png" alt="expense-controller"/></img>
+
+#### Crop Controller:
+<img src="/assets/img-crop-controller-1.png" alt="crop-controller"/></img>
+<img src="/assets/img-crop-controller-2.png" alt="crop-controller-2"/></img>
+<img src="/assets/img-crop-controller-3.png" alt="crop-controller-3"/></img>
+
+#### Animal Controller:
+<img src="/assets/img-animal-controller-1.png" alt="animal-controller"/></img>
+<img src="/assets/img-animal-controller-2.png" alt="animal-controller-2"/></img>
+<img src="/assets/img-animal-controller-3.png" alt="animal-controller-3"/></img>
+
+#### Message Controller:
+<img src="/assets/img-message-controller.png" alt="message-controller"/></img>
+
+#### Link del repositorio:
+(https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op.git)
+
 ### 5.2.3.7 Software Deployment Evidence for Sprint Review.
 ### 5.2.3.8 Team Collaboration Insights during Sprint.
 
