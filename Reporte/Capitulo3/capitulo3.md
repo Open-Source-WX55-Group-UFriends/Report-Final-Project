@@ -796,7 +796,7 @@ Visualización de las User Stories seleccionadas para nuestro sprint 1 y ya impl
             Como dueño de granja, quiero crear y asignar tareas a los trabajadores para mejorar la gestión de la mano de obra en mi finca.
         </td>
         <td>
-            8
+            3
         </td>
     </tr>
     <tr>
@@ -813,7 +813,7 @@ Visualización de las User Stories seleccionadas para nuestro sprint 1 y ya impl
             Como visitante, quiero ver una descripción clara y concisa de los servicios ofrecidos en la landing page, para comprender rápidamente cómo pueden beneficiar a mi operación agrícola y ganadera.
         </td>
         <td>
-            5
+            1
         </td>
     </tr>
     <tr>
@@ -830,7 +830,7 @@ Visualización de las User Stories seleccionadas para nuestro sprint 1 y ya impl
             Como visitante del segmento empresarial, quiero identificar fácilmente en la landing page las características que me ayudarán a encontrar una granja ideal, para evaluar la efectividad de la aplicación.
         </td>
         <td>
-            3
+            1
         </td>
     </tr>
     <tr>
@@ -847,7 +847,7 @@ Visualización de las User Stories seleccionadas para nuestro sprint 1 y ya impl
             Como visitante, quiero encontrar información sobre los colaboradores del proyecto en la landing page, para saber quiénes están detrás de la aplicación y qué experiencia tienen.
         </td>
         <td>
-            3
+            1
         </td>
     </tr>
     <tr>
@@ -881,7 +881,7 @@ Visualización de las User Stories seleccionadas para nuestro sprint 1 y ya impl
             Como empresario, quiero buscar y contactar a dueños de granjas potenciales, para establecer asociaciones comerciales y mejorar nuestra cadena de suministro.
         </td>
         <td>
-            8
+            3
         </td>
     </tr>
     <tr>
@@ -895,10 +895,10 @@ Visualización de las User Stories seleccionadas para nuestro sprint 1 y ya impl
             Verificación de inventario
         </td>
         <td>
-            Como dueño de la granja, quiero verificar fácilmente los niveles de inventario de productos agrícolas y ganaderos, y recibir notificaciones cuando sea necesario reponerlos, para garantizar un flujo de trabajo ininterrumpido.
+            Como dueño de la granja, quiero verificar fácilmente los niveles de inventario de productos agrícolas y ganaderos.
         </td>
         <td>
-            5
+            3
         </td>
     </tr>
     <tr>
@@ -915,7 +915,7 @@ Visualización de las User Stories seleccionadas para nuestro sprint 1 y ya impl
             Como trabajador, quiero recibir notificaciones sobre las tareas asignadas, para mantenerme informado sobre las indicaciones del superior.
         </td>
         <td>
-            3
+            5
         </td>
     </tr>
     <tr>
@@ -949,7 +949,7 @@ Visualización de las User Stories seleccionadas para nuestro sprint 1 y ya impl
             Como visitante, quiero que la landing page se adapte correctamente a la pantalla de mi dispositivo, para poder verla y usarla de forma cómoda, independientemente de si estoy usando un ordenador, una tablet o un teléfono móvil.
         </td>
         <td>
-            3
+            1
         </td>
     </tr>
     <tr>
@@ -1000,7 +1000,7 @@ Visualización de las User Stories seleccionadas para nuestro sprint 1 y ya impl
             Como visitante del segmento agropecuario, quiero encontrar fácilmente información en la landing page sobre cómo puedo mejorar la eficiencia y rentabilidad de mi granja utilizando la plataforma, para evaluar la efectividad de la aplicación.
         </td>
         <td>
-            1
+            5
         </td>
     </tr>
     <tr>
@@ -1017,7 +1017,7 @@ Visualización de las User Stories seleccionadas para nuestro sprint 1 y ya impl
             Como dueño de la granja, quiero saber estadísticas financieras, para poder administrar correctamente la economía de mi granja.
         </td>
         <td>
-            1
+            5
         </td>
     </tr>
     <tr>
@@ -1034,7 +1034,7 @@ Visualización de las User Stories seleccionadas para nuestro sprint 1 y ya impl
             Como trabajador, quiero recibir alertas automáticas sobre cambios climáticos significativos que puedan afectar mis cultivos, para poder tomar medidas preventivas y proteger mis cosechas.
         </td>
         <td>
-            1
+            5
         </td>
     </tr>
     <tr>
@@ -1068,7 +1068,7 @@ Visualización de las User Stories seleccionadas para nuestro sprint 1 y ya impl
             Como trabajador, quiero registrar el progreso de mis tareas, para mantenerme organizado y productivo.
         </td>
         <td>
-            1
+            3
         </td>
     </tr>
     <tr>
@@ -1085,7 +1085,7 @@ Visualización de las User Stories seleccionadas para nuestro sprint 1 y ya impl
             Como trabajador, quiero registrar mis horas de trabajo, para saber mi salario en función a ello.
         </td>
         <td>
-            1
+            3
         </td>
     </tr>
     <tr>
@@ -1102,7 +1102,7 @@ Visualización de las User Stories seleccionadas para nuestro sprint 1 y ya impl
             Como trabajador en la granja, quiero emitir alertas sobre cualquier emergencia a mis colegas y supervisores de manera eficaz e inmediata.
         </td>
         <td>
-            1
+            5
         </td>
     </tr>
     <tr>
@@ -1136,7 +1136,7 @@ Visualización de las User Stories seleccionadas para nuestro sprint 1 y ya impl
             Como desarrollador, necesito crear una API RESTful, para permitir que la plataforma web se comunique con el backend y acceda a los datos agrícolas y ganaderos de los usuarios.
         </td>
         <td>
-            8
+            5
         </td>
     </tr>
     <tr>
@@ -1170,7 +1170,7 @@ Visualización de las User Stories seleccionadas para nuestro sprint 1 y ya impl
             Como desarrollador, necesito integrar funcionalidades de pronóstico meteorológico en la plataforma, para proporcionar a los agricultores información actualizada sobre las condiciones climáticas en sus áreas.
         </td>
         <td>
-            3
+            5
         </td>
     </tr>
     <tr>
@@ -1187,7 +1187,7 @@ Visualización de las User Stories seleccionadas para nuestro sprint 1 y ya impl
             Como desarrollador, necesito crear una interfaz intuitiva y fácil de usar en la plataforma, para garantizar una experiencia de usuario positiva y aumentar la satisfacción del cliente.
         </td>
         <td>
-            3
+            1
         </td>
     </tr>
     <tr>
@@ -1238,7 +1238,7 @@ Visualización de las User Stories seleccionadas para nuestro sprint 1 y ya impl
             Como dueño de la granja, quiero establecer metas de producción y seguirlas a lo largo del tiempo, para mantenerme enfocado en mejorar el rendimiento de mi granja.
         </td>
         <td>
-            1
+            5
         </td>
     </tr>
     <tr>
