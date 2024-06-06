@@ -575,8 +575,6 @@ Enlace para acceder a la landing page: https://open-source-wx55-group-ufriends.g
 |                                                                 | feature/task               |2e4ad5  | feat(task): create services              | 31/05/2024          |
 
 
-
-
 ### 5.2.3.4 Testing Suite Evidence for Sprint Review.
 ### 5.2.3.5 Execution Evidence for Sprint Review.
 En el sprint 3 se logró un desarrollo parcial tanto del frontend como del backend de la aplicación web.
@@ -730,8 +728,134 @@ incluimos el db.json para luego enlazarlo llamandolo con la creación de rutas.
 #### Link del repositorio:
 (https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op.git)
 
+#### Web service commit details:
+
+| Repository                                                      | Branch                     | Commit id | Commit Message                                                | Committed on (Date) |
+|-----------------------------------------------------------------|----------------------------|--------|---------------------------------------------------------------|---------------------|
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                          | feature/dashboard-analitycs|3e468c  | feature: Add method put                                       | 21/05/2024          |
+|   https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                              | feature/dashboard-analitycs|d25e83  | feature: Added image filed to farm                             | 21/05/2024          |
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/dashboard-analitycs|c642ae  | feat(profiles-managment): Added profile and user.              | 21/05/2024          |
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/dashboard-analitycs|b37c18  | feat: add get subscription by id query to subscriptions        | 27/05/2024          |
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/dashboard-analitycs|294127  | feat: add social-interaction bounded context                   | 28/05/2024          |
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/dashboard-analitycs|bbf1a6  | feat: add all records                                          | 31/05/2024          |
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/dashboard-analitycs|2be2c3  | feat(task): repository created and the table are running :)    | 01/06/2024          |
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/dashboard-analitycs|c3eabf  | feat(task): Implemented task controller.                       | 01/06/2024          |
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/dashboard-analitycs|791547  | feat(feature/task): Added Queries get all task by collaborator with fa… | 01/06/2024          |
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/dashboard-analitycs|f0ece0  | feat(feature/dashboard-analitycs): Add aggregates Income and Expense.  | 02/06/2024          |
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/monitoring         |8677d1  | fix: update README                                            | 26/05/2024          |
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/monitoring         |b3bf62  | feat: add subscription bounded context                        | 26/05/2024          |
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/monitoring         |328889  | feat: add subscription command and query service impl          | 26/05/2024          |
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/monitoring         |e5e69b  | fix: subscription repository and command service impl fixed    | 26/05/2024          |
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/social-interaction |294127  | feat: add social-interaction bounded context                  | 28/05/2024          |
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/social-interaction |d7a80b  | feat: fix endpoint and add commands in readme                  | 28/05/2024          |
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/profiles-managment |c41ef5  | fix(social interaction): Added valueobject                   | 29/05/2024          |
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/profiles-managment |c59490  | feature(social interaction): Update subscription aggregate   | 30/05/2024          |
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/profiles-managment |e1fde1  | feature(social-interaction): Added update profile.           | 30/05/2024          |
+|  https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                               | feature/profiles-managment |5a142a  | feature(profiles-managment): Update user aggregate           | 30/05/2024          |
+|  https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                               | feature/profiles-managment |f7663f  | feature(profiles-managment): Add profileId in subscriptions  | 31/05/2024          |
+|  https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                               | feature/profiles-managment |294158  | feature(profiles-managment): Updated get all socials interactions by … | 31/05/2024          |
+|  https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                               | feature/subscription       |d72697  | feat: add update subscription command servioce and implementations | 30/05/2024          |
+|  https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                               | feature/task               |623d8e  | feat(aggregate): task aggregate created  | 31/05/2024          |
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/task               |1d324f  | feat(task): create task command         | 31/05/2024          |
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/task               |f524de  | feat(task): add command to aggregate    | 31/05/2024          |
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/task               |a10634  | feat(task): create queries               | 31/05/2024          |
+| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/task               |2e4ad5  | feat(task): create services              | 31/05/2024          |
+
 ### 5.2.3.7 Software Deployment Evidence for Sprint Review.
-### 5.2.3.8 Team Collaboration Insights during Sprint.
+
+Para la entrega del tercer sprint, se implementó una landing page completamente funcional, cumpliendo 
+con los user stories correspondientes. También se desplegó y por otro lado se lanzó parcialmente el back-end, el cual aún no está finalizado.
+
+Landin Page:
+
+La actualización de la página de destino en GitHub Pages se realizó tras fusionar la rama "develop" con la rama principal ("main"). Este proceso permitió renovar la implementación de la página de destino.
+
+- Capturas de pantalla landing page:
+  <img src="/assets/img-landing-page-1.png" alt="landing-page"/></img>
+  <img src="/assets/img-landing-page-2.png" alt="landing-page"/></img>
+  <img src="/assets/img-landing-page-3.png" alt="landing-page"/></img>
+  <img src="/assets/img-landing-page-4.png" alt="landing-page"/></img>
+  <img src="/assets/img-landing-page-5.png" alt="landing-page"/></img>
+  
+- Web Application Front-end:
+
+Prueba de que esta enlazado con el Netlify
+
+<img src="/assets/img-deployment.png" alt="landing-page"/></img>
+
+- Capturas de pantalla landing page:
+
+  <img src="/assets/img-website-page.png" alt="website"/></img>
+  <img src="/assets/img-website-page-2.png" alt="website"/></img>
+  <img src="/assets/img-website-page-3.png" alt="website"/></img>
+  <img src="/assets/img-website-page-4.png" alt="website"/></img>
+  <img src="/assets/img-website-page-5.png" alt="website"/></img>
+  <img src="/assets/img-website-page-6.png" alt="website"/></img>
+  <img src="/assets/img-website-page-7.png" alt="website"/></img>
+  <img src="/assets/img-website-page-8.png" alt="website"/></img>
+  <img src="/assets/img-website-page-9.png" alt="website"/></img>
+  <img src="/assets/img-website-page-10.png" alt="website"/></img>
+  <img src="/assets/img-website-page-11.png" alt="website"/></img>
+  <img src="/assets/img-website-page-12.png" alt="website"/></img>
+  <img src="/assets/img-website-page-13.png" alt="website"/></img>
+  <img src="/assets/img-website-page-14.png" alt="website"/></img>
+   <img src="/assets/img-website-page-15.png" alt="website"/></img>
+<img src="/assets/img-website-page-16.png" alt="website"/></img>
+  <img src="/assets/img-website-page-17.png" alt="website"/></img>
+
+- Web Application Back-end:
+
+  <img src="/assets/img-base-de-dato-workbrench-1.png" alt="Base de datos"/></img>
+  <img src="/assets/img-base-de-dato-workbrench-2.png" alt="Base de datos"/></img>
+
+
+- Capturas de pantalla de Web Application:
+
+<img src="/assets/img-subscriptions-controller-1.png" alt="subscriptions-controller-1"/></img>
+<img src="/assets/img-subscriptions-controller-2.png" alt="subscriptions-controller-2"/></img>
+<img src="/assets/img-subscriptions-controller-3.png" alt="subscriptions-controller-3"/></img>
+<img src="/assets/img-subscriptions-controller-4.png" alt="subscriptions-controller-4"/></img>
+<img src="/assets/profile-controller-1.png" alt="profile-controller-1"/></img>
+<img src="/assets/profile-controller-2.png" alt="profile-controller-2"/></img>
+<img src="/assets/profile-controller-3.png" alt="profile-controller-3"/></img>
+<img src="/assets/profile-controller-4.png" alt="profile-controller-4"/></img>
+<img src="/assets/img-farm-controller-1.png" alt="farm-controller-1"/></img>
+<img src="/assets/img-farm-controller-2.png" alt="farm-controller-2"/></img>
+<img src="/assets/img-farm-controller-3.png" alt="farm-controller-3"/></img>
+<img src="/assets/img-farm-controller-4.png" alt="farm-controller-4"/></img>
+<img src="/assets/img-farm-controller-5.png" alt="farm-controller-5"/></img>
+<img src="/assets/img-farm-controller-6.png" alt="farm-controller-6"/></img>
+<img src="/assets/img-user-controller.png" alt="user-controller-1"/></img>
+<img src="/assets/img-user-controller-2.png" alt="user-controller-2"/></img>
+<img src="/assets/img-task-controller-1.png" alt="task-controller-1"/></img>
+<img src="/assets/img-task-controller-2.png" alt="task-controller-1"/></img>
+<img src="/assets/img-task-controller-3.png" alt="task-controller-1"/></img>
+<img src="/assets/img-social-controller-1.png" alt="social-controller-1"/></img>
+<img src="/assets/img-social-controller-2.png" alt="social-controller-1"/></img>
+<img src="/assets/img-social-controller-3.png" alt="social-controller-1"/></img>
+<img src="/assets/img-shed-controller.png" alt="shed-controller"/></img>
+<img src="/assets/img-shed-controller-2.png" alt="shed-controller-2"/></img>
+<img src="/assets/img-shed-controller-3.png" alt="shed-controller-3"/></img>
+<img src="/assets/img-income-controller.png" alt="income-controller"/></img>
+<img src="/assets/img-expense-controller.png" alt="expense-controller"/></img>
+<img src="/assets/img-crop-controller-1.png" alt="crop-controller"/></img>
+<img src="/assets/img-crop-controller-2.png" alt="crop-controller-2"/></img>
+<img src="/assets/img-crop-controller-3.png" alt="crop-controller-3"/></img>
+<img src="/assets/img-animal-controller-1.png" alt="animal-controller"/></img>
+<img src="/assets/img-animal-controller-2.png" alt="animal-controller-2"/></img>
+<img src="/assets/img-animal-controller-3.png" alt="animal-controller-3"/></img>
+<img src="/assets/img-message-controller.png" alt="message-controller"/></img>
+
+   ### 5.2.3.8 Team Collaboration Insights during Sprint.
+
+| Alumno                               | Actividad                                                                         |
+|--------------------------------------|-----------------------------------------------------------------------------------|
+| Aguilar Castillo, Rodrigo Alejandro  | Desarrollo del back end, y mejora y reestructuración de componentes del front end |
+| Escalante Baygorrea, Janiel Franz	       | Desarrollo del back end e internacionalización del front end                      |
+| Kunimoto Watanabe, Mathias Tsuneo         | Desarrollo del back end, y mejora y reestructuración de componentes del front end |
+|Pin Matallana, Augusto José	  | Desarrollo del back end, y mejora de componentes del front end                    |
+| Ruiz Blas, Luciano Stefano	 | Creación de nuevos componentes del front end                                      |
+
 
 ### 5.3. Validation Interviews.
 Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar la aplicación web destinada a
