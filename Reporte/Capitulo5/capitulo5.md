@@ -522,7 +522,7 @@ Para este segundo sprint no fue contemplada la evidencia de documentación de lo
 
 Para la entrega del Sprint número 1, se desplegó la website.
 
-<img src="/assets/img-website.jpeg" alt="Website"/></img>
+<img src="/Assets/img-website.jpeg" alt="Website"/></img>
 
 Enlace para acceder a la landing page: https://open-source-wx55-group-ufriends.github.io/landing-page/#
 
@@ -905,28 +905,43 @@ Trello Link: [https://trello.com/b/7J9Z2J9A/sprint-3](https://trello.com/invite/
 
 
 ### 5.2.3.4 Testing Suite Evidence for Sprint Review.
+
+
 ### 5.2.3.5 Execution Evidence for Sprint Review.
 En el sprint 3 se logró un desarrollo parcial tanto del frontend como del backend de la aplicación web.
 Este avance incluye nuevas vistas relevantes sobre el producto y la startup, disponibles en inglés y español, así como una versión responsive.
 A continuación, se presentan algunas evidencias:
 
 PONER IMAGENES
-- US01 (PONER LA IMAGEN DEL LANDING): Ver descripción clara y concisa de los servicios en la landing page.
-  <img src="/" alt="US01"/></img>
+- US09 
+  <img src="/Assets/img-website-page-9.png" alt="US09"/></img>
 
-- US02 (PONER LA IMAGEN DE LA SECCIÓN DE PLANES): Encontrar fácilmente los precios y planes de suscripción en la landing page.
-  <img src="/" alt="US02"/></img>
+- US10 
+  <img src="/Assets/img-website-page-13.png" alt="US10"/></img>
 
-- US06 (PONER LA IMAGEN DE LA SECCIÓN DE INTERACCIÓN DE IMÁGENES): Interactuar con imágenes en la landing page.
-  <img src="/" alt="US06"/></img>
+- US12 
+  <img src="/Assets/img-website-page-14.png" alt="US12"/></img>
 
-- US10 (PONER LA IMAGEN DE LA SECCIÓN DE TAREAS): Crear y asignar tareas a los trabajadores.
-  <img src="/" alt="US10"/></img>
+- US14
+  <img src="/Assets/img-website-page-7.png" alt="US14"/></img>
 
-- US19 (PONER LA IMAGEN DE VER INFORMACION DETALLADA SOBRE EL ESTADO DE CULTIVO): Ver información detallada sobre el estado de cultivo.
-  <img src="/" alt="US19"/></img>
+- US15
+  <img src="/Assets/img-website-page.png" alt="US15"/></img>
 
+- US16
+  <img src="/Assets/img-website-page-8.png" alt="US16"/></img>
 
+- US18
+  <img src="/Assets/img-website-page-15.png" alt="US18"/></img>
+
+- US20
+  <img src="/Assets/img-statics.png" alt="US20"/></img>
+
+- US21
+  <img src="/Assets/img-us-21.png" alt="US21"/></img>
+
+- US22
+  <img src="/Assets/img-website-page-16.png" alt="US22"/></img>
 
 ### 5.2.3.6 Services Documentation Evidence for Sprint Review.
 
@@ -935,7 +950,7 @@ incluimos el db.json para luego enlazarlo llamandolo con la creación de rutas.
 
 </br>
 
-<img src="/Assets/img-repo1-json.png" alt="Repo 1"/></img>
+<img src="Assets" alt="Repo 1"/></img>
 <img src="/Assets/img-repo2-json.png" alt="Repo 2"/></img>
 <img src="/Assets/img-repo3-json.png" alt="Repo 3"/></img>
 <img src="/Assets/img-repo4-json.png" alt="Repo 4"/></img>
