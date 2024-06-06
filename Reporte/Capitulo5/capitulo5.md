@@ -906,6 +906,25 @@ Trello Link: [https://trello.com/b/7J9Z2J9A/sprint-3](https://trello.com/invite/
 
 ### 5.2.3.4 Testing Suite Evidence for Sprint Review.
 
+Para la entrega del Sprint 3, logramos completar el desarrollo, la implementación y el despliegue del Landing Page, Frontend App y RESTFulAPI. Por esta razón, nos enfocamos en la sección de "acceptance-tests" en la implementación de los archivos feature que componen nuestro proyecto. Estos features se basan en las Historias de Usuario especificadas en el sprint backlog, detallando cada uno de los escenarios que planeamos desarrollar.
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Repository</th>
+    <th >Branch</th>
+    <th>Commit</th>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>landing-page</td>
+    <td>Features_testing</td>
+    <td>07fa8d6</td>
+    <td>Augusto Pin</td>
+    <td>doc: add acceptance tests</td>
+    <td>11/05/2024</td>
+  </tr>
+</table>
 
 ### 5.2.3.5 Execution Evidence for Sprint Review.
 En el sprint 3 se logró un desarrollo parcial tanto del frontend como del backend de la aplicación web.
