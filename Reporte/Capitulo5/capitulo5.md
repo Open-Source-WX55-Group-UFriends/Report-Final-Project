@@ -593,13 +593,47 @@ A través de entrevistas estructuradas, nos proponemos captar las impresiones y 
 En esta parte, se describen los objetivos específicos de los usuarios que guían nuestras entrevistas. Estos objetivos de usuario son fundamentales para 
 asegurar que la plataforma web satisfaga las necesidades reales de los usuarios en la industria avícola y ganadera. A continuación, se presentan los 
 objetivos de usuario mencionados:  
-- **User Goal: XXX**  
-   Bla bla bla
 
-- **User Goal: XXX**  
-  Bla bla bla
+- **User Goal: Iniciar Sesion**  
+  User persona: Dueños de granja, trabajadores de granja y empresarios.  
+  El usuario debe ingresar a la aplicación web y visualizará el botón sign in. Si tiene una cuenta el usuario inicia sesión, y en caso de no tener una se crea una cuenta. Después de esto el usuario podrá ver las características de acuerdo al tipo de usuario que es.
 
-[//]: # (X Cantidad de user goal)
+
+- **User Goal: Navegar por los anuncios de granjas**  
+  User persona: Dueños de granja y empresarios.  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+- **User Goal: Navegar por las diferentes opciones de monitoreo.**  
+  User persona: Trabajadores de granja.
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+- **User Goal: Crear una nueva emergencia**  
+  User persona: Trabajadores de granja, Dueños de granja.
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+- **User Goal: Añadir cosas al inventario**  
+  User persona: Trabajadores de granja, Dueños de granja.
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+- **User Goal: Crear una nueva tarea**  
+  User persona: Dueños de granja.
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+- **User Goal: Crear una nuevo empleado**  
+  User persona: Dueños de granja.
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+- **User Goal: Trabajar con datos estadisticos**  
+  User persona: Dueños de granja.
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+- **User Goal: Contactar con dueños de granjas y darles una reseña**  
+   User persona: Empresario.
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+
 
 #### 5.3.2. Registro de Entrevistas.
 **Primer segmento objetivo (Dueño de granja):**  
