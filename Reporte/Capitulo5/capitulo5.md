@@ -542,6 +542,41 @@ Enlace para acceder a la landing page: https://open-source-wx55-group-ufriends.g
 ### 5.2.3.1 Sprint Planning 3.
 ### 5.2.3.2 Sprint Backlog 3.
 ### 5.2.3.3 Development Evidence for Sprint Review.
+
+| Repository                                                      | Branch                     | Commit id | Commit Message                                                | Committed on (Date) |
+|-----------------------------------------------------------------|----------------------------|--------|---------------------------------------------------------------|---------------------|
+| https://farmlogitech-op.web.app/home)                           | feature/dashboard-analitycs|3e468c  | feature: Add method put                                       | 21/05/2024          |
+|                                                                 | feature/dashboard-analitycs|d25e83  | feature: Added image filed to farm                             | 21/05/2024          |
+|                                                                 | feature/dashboard-analitycs|c642ae  | feat(profiles-managment): Added profile and user.              | 21/05/2024          |
+|                                                                 | feature/dashboard-analitycs|b37c18  | feat: add get subscription by id query to subscriptions        | 27/05/2024          |
+|                                                                 | feature/dashboard-analitycs|294127  | feat: add social-interaction bounded context                   | 28/05/2024          |
+|                                                                 | feature/dashboard-analitycs|bbf1a6  | feat: add all records                                          | 31/05/2024          |
+|                                                                 | feature/dashboard-analitycs|2be2c3  | feat(task): repository created and the table are running :)    | 01/06/2024          |
+|                                                                 | feature/dashboard-analitycs|c3eabf  | feat(task): Implemented task controller.                       | 01/06/2024          |
+|                                                                 | feature/dashboard-analitycs|791547  | feat(feature/task): Added Queries get all task by collaborator with fa… | 01/06/2024          |
+|                                                                 | feature/dashboard-analitycs|f0ece0  | feat(feature/dashboard-analitycs): Add aggregates Income and Expense.  | 02/06/2024          |
+|                                                                 | feature/monitoring         |8677d1  | fix: update README                                            | 26/05/2024          |
+|                                                                 | feature/monitoring         |b3bf62  | feat: add subscription bounded context                        | 26/05/2024          |
+|                                                                 | feature/monitoring         |328889  | feat: add subscription command and query service impl          | 26/05/2024          |
+|                                                                 | feature/monitoring         |e5e69b  | fix: subscription repository and command service impl fixed    | 26/05/2024          |
+|                                                                 | feature/social-interaction |294127  | feat: add social-interaction bounded context                  | 28/05/2024          |
+|                                                                 | feature/social-interaction |d7a80b  | feat: fix endpoint and add commands in readme                  | 28/05/2024          |
+|                                                                 | feature/profiles-managment |c41ef5  | fix(social interaction): Added valueobject                   | 29/05/2024          |
+|                                                                 | feature/profiles-managment |c59490  | feature(social interaction): Update subscription aggregate   | 30/05/2024          |
+|                                                                 | feature/profiles-managment |e1fde1  | feature(social-interaction): Added update profile.           | 30/05/2024          |
+|                                                                 | feature/profiles-managment |5a142a  | feature(profiles-managment): Update user aggregate           | 30/05/2024          |
+|                                                                 | feature/profiles-managment |f7663f  | feature(profiles-managment): Add profileId in subscriptions  | 31/05/2024          |
+|                                                                 | feature/profiles-managment |294158  | feature(profiles-managment): Updated get all socials interactions by … | 31/05/2024          |
+|                                                                 | feature/subscription       |d72697  | feat: add update subscription command servioce and implementations | 30/05/2024          |
+|                                                                 | feature/task               |623d8e  | feat(aggregate): task aggregate created  | 31/05/2024          |
+|                                                                 | feature/task               |1d324f  | feat(task): create task command         | 31/05/2024          |
+|                                                                 | feature/task               |f524de  | feat(task): add command to aggregate    | 31/05/2024          |
+|                                                                 | feature/task               |a10634  | feat(task): create queries               | 31/05/2024          |
+|                                                                 | feature/task               |2e4ad5  | feat(task): create services              | 31/05/2024          |
+
+
+
+
 ### 5.2.3.4 Testing Suite Evidence for Sprint Review.
 ### 5.2.3.5 Execution Evidence for Sprint Review.
 ### 5.2.3.6 Services Documentation Evidence for Sprint Review.
