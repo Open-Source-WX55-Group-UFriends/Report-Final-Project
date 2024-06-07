@@ -1429,8 +1429,9 @@ Prueba de que esta enlazado con el Netlify
 | Aguilar Castillo, Rodrigo Alejandro  | Desarrollo del back end, y mejora y mejora de componentes del front end            |
 | Escalante Baygorrea, Janiel Franz	       | Desarrollo del back end y desarrollo  front end                                    |
 | Kunimoto Watanabe, Mathias Tsuneo         | Desarrollo del back end, y mejora de reestructuración de componentes del front end |
-|Pin Matallana, Augusto José	  | Desarrollo del back end, y mejora visual del front end                          |
-| Ruiz Blas, Luciano Stefano	 | Creación de nuevos componentes del front end                                       |
+|Pin Matallana, Augusto José	  | Desarrollo del back end, y mejora visual del front end                             |
+| Ruiz Blas, Luciano Stefano	 | Desarrollo del back end y desarrollo de front end                                  |
+| Barrionuevo Reto, Jean Franco Joel	 | Desarrollo del back end y desarrollo de front end                                  |
 
 #### Repositorio Landing:
 (https://github.com/Open-Source-WX55-Group-UFriends/landing-page.git)
