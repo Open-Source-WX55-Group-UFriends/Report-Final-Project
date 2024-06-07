@@ -1426,7 +1426,7 @@ Prueba de que esta enlazado con el Netlify
 
 | Alumno                               | Actividad                                                                          |
 |--------------------------------------|------------------------------------------------------------------------------------|
-| Aguilar Castillo, Rodrigo Alejandro  | Desarrollo del back end, y mejora y mejora de componentes del front end            |
+| Aguilar Castillo, Rodrigo Alejandro  | Desarrollo del back end, y mejora de componentes del front end            |
 | Escalante Baygorrea, Janiel Franz	       | Desarrollo del back end y desarrollo  front end                                    |
 | Kunimoto Watanabe, Mathias Tsuneo         | Desarrollo del back end, y mejora de reestructuración de componentes del front end |
 |Pin Matallana, Augusto José	  | Desarrollo del back end, y mejora visual del front end                             |
