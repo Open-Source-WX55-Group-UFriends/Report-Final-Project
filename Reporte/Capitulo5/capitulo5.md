@@ -1558,7 +1558,6 @@ Entrevista de validación usuario administrador o dueño de una empresa 01:
 | <img src="/Assets/img-entrevista-2.png" alt="message-controller"/></img>                        	 | Lucero Barrionuevo fue entrevistada acerca del servicio para manejar una granja tanto en su ámbito interno como externo. Durante la conversación, Lucero destacó la utilidad del servicio, mencionando que le parece una herramienta interesante para la gestión agrícola. Sin embargo, también ofreció una recomendación para mejorarla. Sugirió agregar conexiones para mejorar la comunicación entre los usuarios, lo que podría contribuir a reducir la carga de trabajo y evitar que se sientan explotados. Según Lucero, esta mejora podría incrementar la eficiencia y el bienestar de los trabajadores, haciendo el servicio aún más efectivo y equilibrado.       	 |
 | Timing: timingDeDondeEmpieza 	                                                                    | Url: urlDelVideo 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
-[//]: # (Repetir para x entrevistados)
 
 
 #### 5.3.3. Evaluaciones según heurísticas.
@@ -1566,13 +1565,18 @@ Entrevista de validación usuario administrador o dueño de una empresa 01:
 *FarmLogiTech*  
 Nuestro propósito es encontrar problemas existentes en nuestra aplicación web. Para ello, utilizaremos las heurísticas de Nielsen, 
 las cuales nos permitirán identificar problemas de usabilidad y experiencia de usuario. A continuación, se presentan las tareas a evaluar:  
-**TAREAS A EVALUAR**  
-- Landing Page
-   - 1. nosee    
-- Web App
-   - 1. nosee
 
-[//]: # (X cantidad    )
+**TAREAS A EVALUAR**  
+
+- Web App
+  1. El idioma de la aplicación debe poder cambiarse Escala de severidad: 4 Heuristica Relacionada: Usability: Consistencia y estándres
+  2. Deberian haber mas animaciones y transciones a la hora de establecer farms y tasks
+  3. Falta de Feedback de los Trabajadores
+  4. Falta de Apartado en seccion de Emergencias
+  5. Falta de Comunicación entre Roles
+  6. Falta de Sección de Almacén en el Inventario
+  7. Falta de Conexiones para Mejorar la Comunicación
+
 
 **ESCALA DE SEVERIDAD:**  
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
@@ -1588,21 +1592,111 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 **Web Application**
 
-| # 	| Problema 	                                             | Escala de severidad 	 | Heurística/Principio violada(o) 	                                   |
-|---	|--------------------------------------------------------|-----------------------|---------------------------------------------------------------------|
-| 1 	| El idioma de la aplicación debe poder cambiarse      	 | 4                   	 | Usability: Consistencia y estándres                               	 |
-| 2 	| a        	                                             | X                   	 | X                               	                                   |
-| 3 	| a        	                                             | X                   	 | X                               	                                   |
-| 4 	| a        	                                             | X                   	 | X                               	                                   |
+| # 	 | Problema 	                                                                         | Escala de severidad 	 | Heurística/Principio violada(o) 	                                       |
+|-----|------------------------------------------------------------------------------------|-----------------------|-------------------------------------------------------------------------|
+| 1 	 | El idioma de la aplicación debe poder cambiarse      	                             | 4                   	 | Usability: Consistencia y estándres                               	     |
+| 2 	 | Deberian haber mas animaciones y transciones a la hora de establecer farms y tasks | 1                     | Usability- Estética y diseño minimalista                              	 |
+| 3 	 | Falta de Feedback de los Trabajadores      	                                       | 2                   	 | Usability - Coincidencia entre el sistema y el mundo real         |
+| 4 	 | Falta de Apartado en seccion de Emergencias        	                               | 2                   	 | Usability - Coincidencia entre el sistema y el mundo real            |
+| 5 	 | Falta de Comunicación entre Roles      	                                       | 3                   	 | Usability - Consistencia y estándares         |
+| 6	  |  Falta de Sección de Almacén en el Inventario        	                               | 2                   	 | Usability - Coincidencia entre el sistema y el mundo real            |
+| 7   |  Falta de Conexiones para Mejorar la Comunicación       	                               | 3                   	 | Usability - Flexibilidad y eficiencia de uso            |
 
-**PROBLEMA #01**: El idioma de la aplicación debe poder cambiarse
-**Escala de severidad:** 4
-**Heuristica Relacionada:** Usability: Consistencia y estándres  
-**Descripción del problema:** Nuestros usuarios actulamente hablan español y no todos entienden inglés, por lo tanto la aplicación debe permitir cambiar de idioma     
-*Imagen*  
+
+
+### PROBLEMA #01: El idioma de la aplicación debe poder cambiarse:
+
+**Escala de severidad:** 04
+
+**Principio violado:** Usability: Consistencia y estándres
+
+**Descripción del problema:** Nuestros usuarios actulamente hablan español y no todos entienden inglés, por lo tanto la aplicación debe permitir cambiar de idioma
+
 **Recomendacion:** Para solucionar este problema debe agregarse I18n a la aplicación.
 
-[//]: # (X cantidad    )
+### PROBLEMA #02: El idioma de la aplicación debe poder cambiarse:
+
+Deberian haber mas animaciones y transciones a la hora de establecer farms y tasks
+
+**Escala de severidad:** 01
+
+*Heuristica Relacionada:*
+
+Usability- Estética y diseño
+minimalista
+
+*Descripción del problema:*
+
+Nuestros usuarios podrian querer una interfaz mas animada o una interfaz grafica visualmente bonita y para saber que se esta constatando bien las acciones que estan haciendo
+
+*Recomendacion:*
+
+Para solucionar este problema debe implementar mas estilos en la parte del frontend, junto a transciones y componentes que solucionen el problema de la interfaz aburrida y sin dinamismo.
+
+
+## Problema #03: Falta de Feedback de los Trabajadores
+
+**Persona entrevistada:** Jorge Kunimoto
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability - Coincidencia entre el sistema y el mundo real
+
+**Descripción del problema:** No existe un sector en la parte de roles (trabajadores) donde los empleados puedan dar su feedback sobre sus necesidades. Esto puede limitar la capacidad de la gestión para entender y atender las necesidades del personal, afectando su motivación y eficiencia.
+
+**Recomendación:** Incluir un sector específico en la plataforma donde los trabajadores puedan dar su feedback y expresar sus necesidades.
+
+
+## Problema #04: Falta de Apartado de Emergencias
+
+**Persona entrevistada:** Jorge Kunimoto
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability - Coincidencia entre el sistema y el mundo real
+
+**Descripción del problema:** No hay un apartado de emergencias donde se pueda registrar el descanso médico de los trabajadores. La ausencia de este apartado puede dificultar la gestión de situaciones de emergencia y la salud del personal, afectando la operación eficiente de la granja.
+
+**Recomendación:** Agregar un apartado específico en la plataforma para registrar y gestionar descansos médicos y emergencias.
+
+## Problema #05: Falta de Comunicación entre Roles
+
+**Persona entrevistada:** Jorge Kunimoto
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability - Consistencia y estándares
+
+**Descripción del problema:** Los tres roles no están interconectados para crear un buzón de mensajes, lo que dificulta la comprensión y asignación de tareas. Esta falta de comunicación clara puede llevar a malentendidos y errores en la ejecución de las tareas, afectando la productividad.
+
+**Recomendación:** Implementar un sistema de mensajería interno que interconecte los tres roles para facilitar la comunicación y coordinación de tareas.
+
+
+## Problema #06: Falta de Sección de Almacén en el Inventario
+
+**Persona entrevistada:** Mirian Watanabe
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability - Coincidencia entre el sistema y el mundo real
+
+**Descripción del problema:** No hay una sección de almacén en el sector de inventario para guardar herramientas típicas de una granja, como palas y escaleras. La ausencia de esta sección puede dificultar la organización y el acceso a las herramientas necesarias, afectando la eficiencia operativa.
+
+**Recomendación:** Agregar una sección de almacén en el inventario para organizar y almacenar herramientas y equipos de la granja.
+
+
+## Problema #07: Falta de Conexiones para Mejorar la Comunicación
+
+**Persona entrevistada:** Lucero Barrionuevo
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability - Flexibilidad y eficiencia de uso
+
+**Descripción del problema:** No hay conexiones adecuadas para mejorar la comunicación entre los usuarios, lo que puede llevar a una sobreexplotación del personal. La falta de comunicación efectiva puede resultar en una carga de trabajo desbalanceada y en la disminución del bienestar del personal, afectando la productividad y la moral.
+
+**Recomendación:** Establecer conexiones y canales de comunicación efectivos entre los usuarios para asegurar una distribución equilibrada de las tareas y mejorar el bienestar del personal.
+
 
 ### 5.4. Video About-The-Product.
 A continuación, se muestra el video "Acerca del producto", el cual ilustra el propósito, beneficios y características principales de la aplicación.
