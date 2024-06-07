@@ -172,86 +172,51 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
     <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
     <td> TB1<br><br>
          <b>Kunimoto Watanabe Mathias Tsuneo</b><br>
-<br> Durante la ejecución del proyecto, fue fundamental mantener una comunicación constante con nuestro público objetivo para definir claramente nuestra solución. También se priorizó una comunicación efectiva y una organización adecuada a través de reuniones regulares.        <br><br> 
-         <b>Aguilar Castillo, Rodrigo Alejandro   <br>
-<br> En esta entrega, se realizaron los diseños del Web Applications UX/UI tales como wireframes y mockups usando la herramienta figma. Me encargué de la elaboración de las preguntas objetivas y subjetivas para poder entrevistar a nuestro segmento objetivo posteriormente. Asimismo, estuve al tanto del equipo y sus avances.        <br>
+<br> Capítulo 1        <br><br> 
+         <b>Aguilar Castillo, Rodrigo Alejandro </b><br>
+<br> Capítulo 5         <br><br> 
          <b>Escalante Baygorrea, Janiel Franz</b><br>
-<br> En esta entrega, me encargue de realizar y apoyar en la creación de los diagramas de clase y de base de datos, así como su diccionario. También, desarrollé parte del capitulo 5 y el landing page        <br><br>
+<br> Capítulo 2         <br><br>
         <b>Pin Matallana, Augusto José</b><br>
-<br> Para el trabajo se hizo uso de github para documentar el trabajo de modo que se aprendió a utilizar conventional commits y gitflow de modo que se pueda tener una correcta comunicación escrita en lo que corresponde a la documentación del proyecto, además de aprender a utiizar el lenguaje markdown para comunicarlo mediante github en un archivo README.md.          <br><br> 
+<br> Capítulo 2           <br><br> 
         <b>Ruiz Blas, Luciano Stefano</b>
-<br> En esta entrega se realicé el diseño de la experiencia de usuario (UX) y la interfaz de usuario (UI) para aplicaciones web. Una característica destacada de este diseño es el enfoque en la usabilidad y la accesibilidad para garantizar que los usuarios puedan interactuar de manera efectiva con la aplicación.  <br>
-
-<b>TP</b><br><br>
-<b>Kunimoto Watanabe Mathias Tsuneo</b><br>
-<br> Mediante la implementacion, hemos completado integrar las funcionalidades relacionadas con las búsquedas y encontrar granjas en la plataforma, aprovechando Angular Material.  <br>
-
-<b>Aguilar Castillo, Rodrigo Alejandro </b><br>
-<br>  Durante esta entrega, llevamos a cabo la implementación completa de los features relacionados con las suscripciones y los métodos de pago en la plataforma utilizando Angular Material.  <br>
-
-<b>Escalante Baygorrea, Janiel Franz </b><br>
-<br>  Realizado la entrega, realizamos  los features relacionados con la implementación de tablas para asignar tareas a los trabajadores utilizando Angular Material.  <br>
-
-<b>Pin Matallana, Augusto José</b><br>
-<br>  Realizamos la entrega y llevamos a cabo la implementación de mostrar los gráficos estadísticos siempre y cuando el administrados lo solicite, utilizando Angular Material. <br>
-
-<b>Ruiz Blas, Luciano Stefano</b><br>
-<br> Llevamos a cabo la entrega e implementamos las valoraciones y comentarios sobre una granja utilizando Angular Material. <br>
-
-</td>
+<br> Capítulo 3           <br><br>
+   </td>
     <td>TB1<br><br>
     Seleccionamos un servicio de gestion y logistica de granjas con el fin de ayudar a todas las personas que trabajan en este sector y que la problematica de la falta de organizacion, junto al desperdicio de medios puede llegar a tener perdidas que buscamos preveer con nuestra startup.
-<br>
-<br>
 
-<b>TP</b><br>
-<br>Implementamos un sitio web para ofrecer un servicio de gestión y logística de granjas, con el objetivo de asistir a todas las personas involucradas en este sector. Nos propusimos abordar la problemática de la falta de organización y el desperdicio de recursos, que puede resultar en pérdidas significativas, mediante nuestra startup.
-</td>
 
+TB2<br><br>
+Durante la TB2 demostramos una participación efectiva y colaborativa en nuestro equipo multidisciplinario. Cada miembro del equipo asumió responsabilidades específicas según sus fortalezas y habilidades, lo que nos permitió avanzar de manera eficiente en la implementación de las funcionalidades clave de la solución. Realizamos reuniones periódicas para coordinar esfuerzos, compartir progresos y resolver cualquier obstáculo que surgiera. Mantuvimos una comunicación abierta y objetiva, tomando decisiones basadas en los requerimientos del proyecto y las necesidades de nuestros usuarios. Gracias al trabajo en equipo y la sinergia generada, logramos cumplir con los objetivos establecidos para este sprint y avanzar de manera significativa en el desarrollo de FarmLogiTech.
+</tr>
+<br><br>
   </tr>
-
   <tr>
     <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
     <td> TB1<br><br>
  <b>Kunimoto Watanabe Mathias Tsuneo</b><br>
-<br> Encargado de llevar a cabo entrevistas con un grupo específico de personas, también encabezó la sección del landing page y capitulo 1. Además, colaboró en la creación de la página de aterrizaje utilizando los diseños proporcionados en Figma.        <br><br> 
+<br> Capítulo 1        <br><br> 
          <b>Aguilar Castillo, Rodrigo Alejandro</b><br>
-<br> Encargado de realizar entrevistas a un segmento objetivo, también realizó la sección de sprint, en la cuál está el sprint backlog y sprint planning. Asimismo, apoyó con la elaboración de la landing page utilizando los diseños de figma.         <br><br> 
+<br> Capítulo 5         <br><br> 
 <br><br> 
          <b>Escalante Baygorrea, Janiel Franz</b><br>
-<br> Encargado de los diagramas C4, que son una parte integral del proceso de DDD, también conocido como Domain Driven Design. Un aspecto distintivo de este enfoque es la implementación del lenguaje ubicuo. Este lenguaje facilita la comprensión de los detalles técnicos a un nivel superior para todos los interesados, tanto internos como externos del proyecto, a través de la visualización de los diagramas.        <br><br> 
+<br> Capítulo 2         <br><br> 
 <br><br>
         <b>Pin Matallana, Augusto José</b><br>
-<br> Encargado de llevar a cabo entrevistas con un grupo específico de personas, también dirigió la sección de sprint, que incluye la lista de tareas pendientes y la planificación del mismo. Además, contribuyó en la creación de la página de inicio utilizando los diseños proporcionados en Figma.       <br><br> 
+<br> Capítulo 2       <br><br> 
 <br><br> 
         <b>Ruiz Blas, Luciano Stefano</b>
- <br> Me encargué de llevar a cabo entrevistas con un grupo específico de personas y dirigí la sección de sprint, encargándome de la lista de tareas pendientes y la planificación del mismo. Además, contribuí en la creación de la página de inicio utilizando los diseños proporcionados en Figma.       <br><br> 
+ <br> Capítulo 3       <br><br> 
 <br><br>
-
-<b>TP</b><br><br>
-<b>Kunimoto Watanabe Mathias Tsuneo</b><br>
-<br> Además de realizar la implementación, coordiné la asignación de tareas al equipo de desarrollo para su ejecución durante el sprint 2. También tuve la responsabilidad de corregir y llevar a cabo de manera efectiva como arreglar el código.  <br>
-
-<b>Aguilar Castillo, Rodrigo Alejandro</b><br>
-<br> Por otro lado de la implementación, gestioné la asignación de tareas al grupo de desarrollo para su implementación durante el sprint 2. También estuve a cargo de coordinar y ejecutar exitosamente el proceso de merge entre los diferentes branches y la rama principal del repositorio.  <br>
-
-<b>Escalante Baygorrea, Janiel Franz</b><br>
-<br> Por otro lado de la implementación, me responsabilicé de supervisar la corrección de los capítulos y llevar a cabo el proceso de merge entre los distintos branches y la rama principal del repositorio.  <br>
-
-<b>Pin Matallana, Augusto José</b><br>
-<br> Además de la implementación, asumí la tarea de supervisar la revisión de los capítulos y de manejar la fusión entre los distintos branches y la rama principal del repositorio.  <br>
-
-<b>Ruiz Blas, Luciano Stefano</b><br>
-<br>Otra responsabilidad que asumí durante el proyecto fue supervisar la edición de los capítulos y llevar a cabo la fusión de los distintos branches con la rama principal del repositorio.<br>
-
    </td>
     <td>TB1<br><br>
-Gracias al proyecto logramos conocer personas dentro de la industria y lo util que le podria venir una aplicacion como la que estamos proponiendo para el desarrollo de tareas cotidianas.  
-<br>
-<br>
-<b>TP</b><br>
-<br>Gracias a la implementación, tuvimos la oportunidad de conectarnos con personas dentro de la industria y comprender lo beneficiosa que podría ser una aplicación como la que estamos proponiendo para simplificar las tareas diarias.
+Gracias al proyecto logramos conocer personas dentro de la industria y lo util que le podria venir una aplicacion como la que estamos proponiendo para el desarrollo de tareas cotidianas.
+
+TB2<br><br>
+Durante la TB2 profundizamos nuestro conocimiento del sector agrícola y ganadero a través de entrevistas de validación con usuarios potenciales. Presentamos el avance de nuestro proyecto a propietarios de granjas y trabajadores del sector para obtener retroalimentación valiosa sobre la funcionalidad y usabilidad de nuestra solución. Estas interacciones nos permitieron comprender mejor las necesidades específicas y las expectativas de nuestro público objetivo. Utilizamos este conocimiento para priorizar los requisitos y realizar ajustes en nuestra solución, asegurando que FarmLogiTech aborde de manera efectiva los desafíos y oportunidades del sector. Además, nuestro análisis continuo del dominio nos permitió identificar áreas de mejora y funcionalidades adicionales que podrían beneficiar a nuestros usuarios en el futuro.
 </tr>
+<br><br>
+
 
 </table>
 
@@ -259,8 +224,17 @@ Gracias al proyecto logramos conocer personas dentro de la industria y lo util q
 
 # Capítulo I: Introducción
 ## 1.1. StartUp Profile
+En esta sección describiremos el perfil de nuestra Startup.
+
 ### 1.1.1. Description de la StartUp
-FarmLogiTech es una plataforma tecnológica creada el 22/03/2024 por un grupo de 5 estudiantes  que ofrece soluciones integrales para la gestión eficiente de granjas, facilitando la colaboración entre empresas grandes, dueños de granjas y trabajadores agrícolas.
+FarmLogiTech es un startup tecnológico fundada en el 2024 por un grupo de estudiantes compuesta por un grupo de estudiantes de la carrera de Ingeniería de Software. Nuestro startup está dedicada a simplificar la gestion y logistica de una granja, brindando una plataforma innovadora y accesible para propietarios de granjas y trabajadores.
+
+- Misión: Nuestra misión es simplificar la gestion y administracion de granjas mediante
+  una plataforma intuitiva y eficiente, ayudando con todo tipo de herramientas a las personas dueñas de una granja o que trabajan en ellas.
+
+- Visión: Convertirnos en la principal plataforma global de gestion y logistica de granjas,
+  impulsando la eficiencia y la satisfacción de nuestros usuarios.
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
 <table align="center"  border="1" width="70%" style="text-align:center;">
@@ -290,7 +264,7 @@ Mathias Tsuneo Kunimoto Watanabe
     </tr>
     <tr align="center">
         <td rowspan="3">
-<img src="/Assets/integrante-rodrigo.jpg">
+<img src="/assets/integrante-rodrigo.jpg">
         </td>
       <td align="left">
             <b>Nombre y Apellido:</b>
@@ -388,8 +362,18 @@ Soy Luciano Ruiz, tengo 20 años y estudio la carrera de Ingeniería de Software
 </table>
 
 ## 1.2. Solution Profile
+
+En esta sección se detallan los aspectos claves de nuestra solución de software, incluyendo sus
+carcateristicas distintivas, propuestas de valor y estrategias de monetización.
+
+**Product Name:** FarmLogiTech
+
+**Product Description:** FarmLogiTech es una solución tecnológica diseñada para simplificar las gestiones de granjas y distribución de tareas al conectar de manera eficiente a propietarios de granjas con trabajadores. La plataforma permite asignar tareas, administrar galpones, dar detalles de cada espacio donde hay animales, dar recomendación personalizadas para el crecimiento de estas, ofreciendo una una experiencia fluida y sin problemas. Además, proporciona herramientas de seguimiento en tiempo real para las granjas y gestión de avisos y alarmas para garantizar una experiencia óptima y segura.
+
+**Monetización:** Para generar ingresos, FarmLogiTech implementará un modelo de planes para dueños de granjas que deseen acceder a funciones avanzadas de gestión y logistica. Estos planes ofrecerán beneficios adicionales, como notificaciones y acceso móvil, visualización detallada sobre granjas, asignación de tareas a colaboradores, avisos destacados, etc.
+
 ### 1.2.1. Antecedentes y problemática
-La industria agrícola y ganadera enfrenta desafíos significativos en términos de mejorar la producción, calidad y gestión de cultivos y ganado. Los agricultores y ganaderos se ven presionados por el crecimiento de la población mundial y los cambios en las demandas del mercado, pero enfrentan obstáculos como la falta de herramientas tecnológicas, la coordinación ineficiente entre granjasy la escasez de información en tiempo real sobre el estado de los cultivos, condiciones climáticas y bienestar animal. Según un informe de Rizia, Ana (2020) publicado en la página del MBA USP, muchos ganaderos pueden carecer de la capacitación necesaria en gestión agrícola y comercialización, lo que dificulta la toma de decisiones informadas y eficientes. Además, la falta de un control financiero adecuado puede llevar a dificultades económicas y poner en riesgo la viabilidad de la granja a largo plazo.
+La industria agrícola y ganadera enfrenta desafíos significativos en términos de mejorar la producción, calidad y gestión de cultivos y ganado. Los agricultores y ganaderos se ven presionados por el crecimiento de la población mundial y los cambios en las demandas del mercado, pero enfrentan obstáculos como la falta de herramientas tecnológicas, la coordinación ineficiente entre granjas y la escasez de información en tiempo real sobre el estado de los cultivos, condiciones climáticas y bienestar animal. Muchos ganaderos pueden carecer de la capacitación necesaria en gestión agrícola y comercialización, lo que dificulta la toma de decisiones informadas y eficientes. Además, la falta de un control financiero adecuado puede llevar a dificultades económicas y poner en riesgo la viabilidad de la granja a largo plazo.
 
 -   **What?**
 
@@ -410,11 +394,11 @@ La industria agrícola y ganadera enfrenta desafíos significativos en términos
 
 - **Why?**
 
-    Es crucial abordar esta problemática porque la agricultura desempeña un papel fundamental en la alimentación de la creciente población mundial y en la economía global.
+  Es crucial abordar esta problemática porque la agricultura desempeña un papel fundamental en la alimentación de la creciente población mundial y en la economía global.
 
 -   **How?**
 
-    Se necesitan soluciones tecnológicas innovadoras que ayuden a los agricultores a optimizar sus operaciones, mejorar la calidad de los cultivos y aumentar su competitividad en el mercado agrícola. 
+    Se necesitan soluciones tecnológicas innovadoras que ayuden a los agricultores a optimizar sus operaciones, mejorar la calidad de los cultivos y aumentar su competitividad en el mercado agrícola.
 
 -   **How much?**
 
@@ -454,7 +438,7 @@ La industria agrícola y ganadera enfrenta desafíos significativos en términos
 #### 1.2.2.4. Lean UX Canvas
 
 <div align=center>
-    <img src="/Assets/img-lean-canvas.png" alt="Canvas"/>
+    <img src="/assets/img-canva.png" alt="Canvas"/>
 </div>
 
 ## 1.3. Segmentos Objetivo
