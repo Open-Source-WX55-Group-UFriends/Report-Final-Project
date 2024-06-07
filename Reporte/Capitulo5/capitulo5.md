@@ -1724,7 +1724,6 @@ Enlace del video subido a Stream: https://upcedupe-my.sharepoint.com/:v:/g/perso
 
 
 # VII. Bibliografía.
-[//]: # (Poner en formato APA)
 Ministerio de Desarrollo Agrario y Riego. (s.f.). Plan Nacional Ganadero. 
 https://www.midagri.gob.pe/portal/download/pdf/especiales/plan-nacional-ganadero.pdf
 
