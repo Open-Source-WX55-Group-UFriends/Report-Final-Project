@@ -1720,15 +1720,7 @@ Enlace del video subido a Stream: https://upcedupe-my.sharepoint.com/:v:/g/perso
 7.  As-Is mapping nos proporcionó una comprensión detallada de los procesos existentes, identificando puntos débiles y oportunidades de mejora. Por otro lado, en el To-Be mapping, mostramos la visión futura del proceso optimizado, destacando los cambios planificados y las mejoras esperadas, sirviendo como guía para la transformación y la innovación.
 8. Nuestra aplicación puede ayudar a gobiernos regionales y locales a impulsar la modernización de la industria al  permitir mejorar y controlar los procesos productivos
 
-**Video About-The-Team**
 
-El video resume el proceso de trabajo llevado a cabo por el equipo, donde los miembros presentan las acciones que realizaron para lograr los 
-resultados establecidos por el curso. Es importante resaltar que los integrantes del equipo enfatizan la comunicación oral y escrita como un método 
-efectivo para expresar ideas y reportar el progreso del proyecto.
-
-EL video tiene una duración de 1:32:00. Del minuto 0:00 al ___ expuso____. Despues, del minuto ___ al ____ expuso____ ya asi.
-
-Enlace del video subido a Stream: https://XXXXXX.com/
 
 
 # VII. Bibliografía.
