@@ -1460,37 +1460,42 @@ objetivos de usuario mencionados:
   El usuario debe ingresar a la aplicación web y visualizará el botón sign in. Si tiene una cuenta el usuario inicia sesión, y en caso de no tener una se crea una cuenta. Después de esto el usuario podrá ver las características de acuerdo al tipo de usuario que es.
 
 
+
 - **User Goal: Navegar por los anuncios de granjas**  
   User persona: Dueños de granja y empresarios.  
-  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  El usuario ingresa a la aplicación visualiza la vista home y se muestra un listado en formato grilla en 4 columnas y filas ilimitadas, las cuales despliegan los datos de cada una de las granjas.
+
 
 - **User Goal: Navegar por las diferentes opciones de monitoreo.**  
   User persona: Trabajadores de granja.
-  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  El usuario debe ingresar a la aplicación web y loguearse respectivamente, luego en el navbar presionar la opción de monitoring y posteriormente podrá visualizar los apartados de monitoreo y navegar por las opciones.
+
 
 - **User Goal: Crear una nueva emergencia**  
   User persona: Trabajadores de granja, Dueños de granja.
-  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  Una vez logueado en la aplicación web presiona la opción de monitoring en la navbar y posteriormente a la opción emergencia. Aquí podrán enviar mensajes de emergencia describiendolos de manera que puedan llevar a todos los encargados de la granja.
+
 
 - **User Goal: Añadir cosas al inventario**  
   User persona: Trabajadores de granja, Dueños de granja.
-  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  Una vez logueado en la aplicación web presiona la opción de monitoring en la navbar y posteriormente a la opción inventory. Después de esto el usuario podrá visualizar todos los apartados del inventario, de manera que podrá añadir todos los items necesarios navegando por la sidebar y rellenando los datos para cada apartado.
+
 
 - **User Goal: Crear una nueva tarea**  
   User persona: Dueños de granja.
-  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  Una vez logueado en la aplicación web presiona la opción de monitoring en la navbar y posteriormente a la opción task. Después de esto el usuario le da click a create task y rellena los datos que se requieren. Después de esto la tarea ya se habrá creado.
 
 - **User Goal: Crear una nuevo empleado**  
   User persona: Dueños de granja.
-  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  Una vez logueado en la aplicación web presiona la opción de monitoring en la navbar y posteriormente a la opción Employee. Luego de esto el usuario entrará en el apartado de Employees y le hará click a Add employee. Finalmente el usuario le da click a add employee y rellena los datos que se requieren. Después de esto el empleado ya se habrá creado.
 
 - **User Goal: Trabajar con datos estadisticos**  
   User persona: Dueños de granja.
-  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  Una vez logueado en la aplicación web presiona la opción de monitoring en la navbar y posteriormente a la opción Statistics. Luego de esto el usuario se dirigirá al apartado de estadísticas donde podrá trabajar con datos estadísticos.
 
 - **User Goal: Contactar con dueños de granjas y darles una reseña**  
    User persona: Empresario.
-  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  Una vez logueado el usuario en la aplicación web podrá visualizar todas las granjas disponibles para un acuerdo comercial. El usuario deberá hacer click a su granja de interés, de manera que deslizando el slide podrá visualizar el apartado de contacto. Aqui le podrá dar click al botón chat on Whatsapp o simplemente rellenar sus datos de contacto para que el granjero se comunique con el usuario.
 
 
 
@@ -1578,27 +1583,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 | 3     	| Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.           	                                |
 | 4     	| Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.           	                              |
 
-**TABLA RESUMEN:**  
-**Landing page**
-
-| # 	| Problema 	| Escala de severidad 	| Heurística/Principio violada(o) 	|
-|---	|----------	|---------------------	|---------------------------------	|
-| 1 	| a        	| X                   	| X                               	|
-| 2 	| a        	| X                   	| X                               	|
-| 3 	| a        	| X                   	| X                               	|
-| 4 	| a        	| X                   	| X                               	|
-   
-**PROBLEMA #01**: AAAA
-**Escala de severidad:** AAA 
-**Heuristica Relacionada:** AAAA 
-**Descripción del problema:** AAAAA     
-*Imagen*  
-**Recomendacion:** 02
-
-[//]: # (X cantidad    )
-
-
-
+**TABLA RESUMEN:**
 
 **Web Application**
 
