@@ -1171,6 +1171,10 @@ PONER IMAGENES
 - US22
   <img src="/Assets/img-website-page-16.png" alt="US22"/></img>
 
+- US26
+  <img src="/Assets/img-hours.png" alt="US24"/></img>
+
+
 ### 5.2.3.6 Services Documentation Evidence for Sprint Review.
 
 Para el sprint 3, se planificó el front-end como el back-end. Inicialmente, se trabajó con el mismo github creando repositorios en donde
@@ -1178,7 +1182,7 @@ incluimos el db.json para luego enlazarlo llamandolo con la creación de rutas.
 
 </br>
 
-<img src="Assets" alt="Repo 1"/></img>
+<img src="/Assets/img-repo1-json.png" alt="Repo 1"/></img>
 <img src="/Assets/img-repo2-json.png" alt="Repo 2"/></img>
 <img src="/Assets/img-repo3-json.png" alt="Repo 3"/></img>
 <img src="/Assets/img-repo4-json.png" alt="Repo 4"/></img>
@@ -1501,19 +1505,15 @@ Entrevista de validación usuario dueño de granja 01:
 | Imagen                       	| Resumen          	|
 | Timing: timingDeDondeEmpieza 	| Url: urlDelVideo 	|
 
-[//]: # (Repiter para x entrevistados)
-
 
 
 **Primer segmento objetivo (Dueño de granja):**  
 Entrevista de validación usuario dueño de granja 01:
 
-| Entrevistado  01             	| Carlos Castillo  	|
-|------------------------------	|------------------	|
-| Imagen                       	| Resumen          	|
-| Timing: timingDeDondeEmpieza 	| Url: urlDelVideo 	|
-
-[//]: # (Repiter para x entrevistados)
+| Entrevistado  01             	| Jorge Kunimoto 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Imagen                       	| Jorge Kunimoto fue entrevistado por Mathias Kunimoto acerca del servicio para manejar una granja tanto en su ámbito interno como externo. Durante la conversación, Jorge destacó la utilidad del servicio, mencionando que le parece una herramienta interesante para la gestión agrícola. Sin embargo, también ofreció algunas recomendaciones para mejorarla. Sugerió agregar un sector en la parte de roles (trabajadores) para que los empleados puedan dar su feedback sobre las necesidades que tienen, así como incluir un apartado de emergencias donde se pueda registrar el descanso médico. Otra sugerencia fue interconectar los tres roles para crear un buzón de mensajes, ya que a veces no se entienden bien las tareas asignadas. Según Jorge, estas mejoras podrían incrementar la eficiencia y la comunicación dentro de la granja, haciendo el servicio aún más valioso.         	 |
+| Timing: timingDeDondeEmpieza 	| Url: urlDelVideo 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 
 
@@ -1525,16 +1525,21 @@ Entrevista de validación usuario trabajador de granja 01:
 | Imagen                       	| Resumen          	|
 | Timing: timingDeDondeEmpieza 	| Url: urlDelVideo 	|    
 
-[//]: # (Repiter para x entrevistados)
+**Segundo segmento objetivo (Trabajador de granja):**  
+Entrevista de validación usuario trabajador de granja 01:
 
+| Entrevistado  01             	| Rodrigo Noreña  	                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Imagen                       	| Rodrigo Noreña Nuñez, un joven trabajador en granjas, fue entrevistado para evaluar la usabilidad del sitio web de FarmLogitech. Durante la entrevista, se le presentó cómo agregar un empleador, loguearse, crear un perfil y crear "cards", que son representaciones de las granjas en la plataforma. Rodrigo comentó sobre su experiencia y facilidad de uso del sitio web, proporcionando retroalimentación valiosa para mejorar la funcionalidad y la interfaz del usuario.          	 |
+| Timing: timingDeDondeEmpieza 	| Url: urlDelVideo 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |    
 
 **Tercer segmento objetivo (Empresario):**  
 Entrevista de validación usuario administrador o dueño de una empresa 01:
 
-| Entrevistado  01             	| Soledad Quispe  	                                                                                                                                                                                                         |
-|------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Imagen                       	| Durante la entrevista Soledad, reviso las características que nuestra aplicación le ofrece a su segmento objetivo. Su único descontento fue que la pagina pueda cambiar de idioma ya que ella no habla inglés.          	 |
-| Timing: timingDeDondeEmpieza 	| Url: urlDelVideo 	                                                                                                                                                                                                        |
+| Entrevistado  01             	| Cesar Pin 	                                                                                                                                                                                                              |
+|------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Imagen                       	| Augusto Pin entrevistó al Sr. César Pin, presentándole su página web, FarmLogiTech. Durante la conversación, César Pin elogió la utilidad y el diseño general del sitio, mencionando que le pareció una herramienta muy valiosa para su propósito. No obstante, también ofreció algunas sugerencias para mejorarla. César Pin señaló que la inclusión de animaciones más atractivas y detalladas podría enriquecer la experiencia del usuario, además de recomendar interfaces gráficas más elaboradas para hacer la navegación y el uso de la página más intuitivos y visualmente agradables. Estas mejoras, según él, podrían incrementar aún más la eficacia y el atractivo de FarmLogiTech.          	 |
+| Timing: timingDeDondeEmpieza 	| Url: urlDelVideo 	                                                                                                                                                                                                       |
 
 | Entrevistado  02             	 | Jorge Nestor  	                                                                                                                                                                                                                                                                                                                             |
 |--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
