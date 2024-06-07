@@ -1322,10 +1322,16 @@ Entrevista de validación usuario trabajador de granja 01:
 **Tercer segmento objetivo (Empresario):**  
 Entrevista de validación usuario administrador o dueño de una empresa 01:
 
-| Entrevistado  01             	| Carlos Castillo  	|
-|------------------------------	|------------------	|
-| Imagen                       	| Resumen          	|
-| Timing: timingDeDondeEmpieza 	| Url: urlDelVideo 	|
+| Entrevistado  01             	| Soledad Quispe  	                                                                                                                                                                                                         |
+|------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Imagen                       	| Durante la entrevista Soledad, reviso las características que nuestra aplicación le ofrece a su segmento objetivo. Su único descontento fue que la pagina pueda cambiar de idioma ya que ella no habla inglés.          	 |
+| Timing: timingDeDondeEmpieza 	| Url: urlDelVideo 	                                                                                                                                                                                                        |
+
+| Entrevistado  02             	 | Jorge Nestor  	                                                                                                                                                                                                                                                                                                                             |
+|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Imagen                       	 | Durante la entrevista Soledad, reviso las características que nuestra aplicación le ofrece a su segmento objetivo. Las recomendaciones de Jorge fueron que el idioma no concuerda, ya que hay botones en ingles y otros en español. Por otro lado, deberian verse las reseñas que hicieron otras personas para tenerlas en cuenta         	 |
+| Timing: timingDeDondeEmpieza 	 | Url: urlDelVideo 	                                                                                                                                                                                                                                                                                                                          |
+
 
 [//]: # (Repetir para x entrevistados)
 
@@ -1377,19 +1383,19 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 **Web Application**
 
-| # 	| Problema 	| Escala de severidad 	| Heurística/Principio violada(o) 	|
-|---	|----------	|---------------------	|---------------------------------	|
-| 1 	| a        	| X                   	| X                               	|
-| 2 	| a        	| X                   	| X                               	|
-| 3 	| a        	| X                   	| X                               	|
-| 4 	| a        	| X                   	| X                               	|
+| # 	| Problema 	                                             | Escala de severidad 	 | Heurística/Principio violada(o) 	                                   |
+|---	|--------------------------------------------------------|-----------------------|---------------------------------------------------------------------|
+| 1 	| El idioma de la aplicación debe poder cambiarse      	 | 4                   	 | Usability: Consistencia y estándres                               	 |
+| 2 	| a        	                                             | X                   	 | X                               	                                   |
+| 3 	| a        	                                             | X                   	 | X                               	                                   |
+| 4 	| a        	                                             | X                   	 | X                               	                                   |
 
-**PROBLEMA #01**: AAAA
-**Escala de severidad:** AAA
-**Heuristica Relacionada:** AAAA
-**Descripción del problema:** AAAAA     
+**PROBLEMA #01**: El idioma de la aplicación debe poder cambiarse
+**Escala de severidad:** 4
+**Heuristica Relacionada:** Usability: Consistencia y estándres  
+**Descripción del problema:** Nuestros usuarios actulamente hablan español y no todos entienden inglés, por lo tanto la aplicación debe permitir cambiar de idioma     
 *Imagen*  
-**Recomendacion:** 02
+**Recomendacion:** Para solucionar este problema debe agregarse I18n a la aplicación.
 
 [//]: # (X cantidad    )
 
