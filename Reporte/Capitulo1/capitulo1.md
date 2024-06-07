@@ -183,7 +183,13 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
 <br> Capítulo 3           <br><br>
    </td>
     <td>TB1<br><br>
-    Seleccionamos un servicio de gestion y logistica de granjas con el fin de ayudar a todas las personas que trabajan en este sector y que la problematica de la falta de organizacion, junto al desperdicio de medios puede llegar a tener perdidas que buscamos preveer con nuestra startup.</td>
+    Seleccionamos un servicio de gestion y logistica de granjas con el fin de ayudar a todas las personas que trabajan en este sector y que la problematica de la falta de organizacion, junto al desperdicio de medios puede llegar a tener perdidas que buscamos preveer con nuestra startup.
+
+
+TB2<br><br>
+Durante la TB2 demostramos una participación efectiva y colaborativa en nuestro equipo multidisciplinario. Cada miembro del equipo asumió responsabilidades específicas según sus fortalezas y habilidades, lo que nos permitió avanzar de manera eficiente en la implementación de las funcionalidades clave de la solución. Realizamos reuniones periódicas para coordinar esfuerzos, compartir progresos y resolver cualquier obstáculo que surgiera. Mantuvimos una comunicación abierta y objetiva, tomando decisiones basadas en los requerimientos del proyecto y las necesidades de nuestros usuarios. Gracias al trabajo en equipo y la sinergia generada, logramos cumplir con los objetivos establecidos para este sprint y avanzar de manera significativa en el desarrollo de FarmLogiTech.
+</tr>
+<br><br>
   </tr>
   <tr>
     <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
@@ -204,7 +210,14 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
 <br><br>
    </td>
     <td>TB1<br><br>
-Gracias al proyecto logramos conocer personas dentro de la industria y lo util que le podria venir una aplicacion como la que estamos proponiendo para el desarrollo de tareas cotidianas.  </tr>
+Gracias al proyecto logramos conocer personas dentro de la industria y lo util que le podria venir una aplicacion como la que estamos proponiendo para el desarrollo de tareas cotidianas.
+
+TB2<br><br>
+Durante la TB2 profundizamos nuestro conocimiento del sector agrícola y ganadero a través de entrevistas de validación con usuarios potenciales. Presentamos el avance de nuestro proyecto a propietarios de granjas y trabajadores del sector para obtener retroalimentación valiosa sobre la funcionalidad y usabilidad de nuestra solución. Estas interacciones nos permitieron comprender mejor las necesidades específicas y las expectativas de nuestro público objetivo. Utilizamos este conocimiento para priorizar los requisitos y realizar ajustes en nuestra solución, asegurando que FarmLogiTech aborde de manera efectiva los desafíos y oportunidades del sector. Además, nuestro análisis continuo del dominio nos permitió identificar áreas de mejora y funcionalidades adicionales que podrían beneficiar a nuestros usuarios en el futuro.
+</tr>
+<br><br>
+        
+
 </table>
 
 <br><br>
