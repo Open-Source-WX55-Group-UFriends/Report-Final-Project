@@ -770,7 +770,7 @@ El spring 3 tiene como inicio el dia 13/05/2024 y como objetivo plantea completa
 ### 5.2.3.2. Sprint Backlog 3
 
 En este sprint backlog, desarrollamos completamente el frontend y en gran medida el backend, satisfaciendo la mayoría de las user stories. La herramienta utilizada para la organización del equipo fue Trello. Esta herramienta nos permitió tener en claro las tareas por desarrollar para asignarlas según las fortalezas de cada miembro del equipo.
-<img src="/assets/trello.png" alt="Repo 1"/></img>
+<img src="/Assets/trello.png" alt="Repo 1"/></img>
 Trello Link: [https://trello.com/b/7J9Z2J9A/sprint-3](https://trello.com/invite/b/WJXt50JP/ATTI255cf1b0d82284ff8d327dd3f64225d622C4A319/farmlogitech)
 
 <table>
