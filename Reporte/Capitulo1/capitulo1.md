@@ -262,6 +262,30 @@ Mathias Tsuneo Kunimoto Watanabe
        Soy Mathias Kunimoto, estudiante de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas UPC. El camino que quiero llegar, es en convertirme en un desarrollador full stack pero mas orientado en el frontend.
         </td>
     </tr>
+<tr align="center">
+        <td rowspan="3">
+<img src="/assets/img-jean-franco.jpeg">
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+Jean Franco Joel Barrionuevo Reto
+</td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+       Soy Jean Franco Barrionuevo, estudiante de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas UPC. El camino que quiero llegar, es en convertirme en un gran ingeniero y aplicar todas mis habilidades.
+        </td>
+    </tr>
     <tr align="center">
         <td rowspan="3">
 <img src="/assets/integrante-rodrigo.jpg">
