@@ -47,6 +47,10 @@
             <td>Ruiz Blas, Luciano Stefano</td>
             <td>U20211f978</td>
         </tr>
+        <tr>
+            <td>Barrionuevo Reto, Jean Franco</td>
+            <td>U202219284</td>
+        </tr>
     </table>
 </div>
 <br>
@@ -206,6 +210,8 @@ Durante la TB2 demostramos una participación efectiva y colaborativa en nuestro
 <br> Capítulo 2       <br><br> 
 <br><br> 
         <b>Ruiz Blas, Luciano Stefano</b>
+ <br> Capítulo 3       <br><br> 
+        <b>Barrionuevo Reto, Jean Franco Joel</b>
  <br> Capítulo 3       <br><br> 
 <br><br>
    </td>
