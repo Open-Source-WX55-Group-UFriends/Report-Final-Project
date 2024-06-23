@@ -444,10 +444,35 @@ granjas que utilizan activamente FarmLogiTech.
 - Tener al menos 100 granjas utilizando la plataforma en el primer año de lanzamiento.
 - Renovación de suscripciones del 80% al final del primer año, indicando la satisfacción y la retención de clientes.
 
-**Users:**
-- Empresas Grandes: Interesadas en mejorar su cadena de suministro y obtener productos agrícolas de alta calidad.
-- Dueños de Granjas: Buscan optimizar la gestión de sus operaciones y aumentar su rentabilidad.
-- Trabajadores de Granjas: Necesitan herramientas para facilitar la realización de tareas diarias y mejorar su eficiencia.
+**Users Assumptions :**
+
+**1. ¿Quien es el usuario?**
+- Empresas Grandes
+- Dueños de Granjas
+- Trabajadores de Granjas
+
+**2. ¿Donde entra nuestro producto en su trabajo o su vida?**
+- Entra en su trabajo directamente. Encaja en la mejora de la gestión de procesos en una granja, lo que culmina en una mayor rentabilidad, así como un mejor funcionamiento de las granjas.
+
+**3. ¿Cual es el problema que nuestro producto soluciona?**
+- La dificil comunicación que puede resultar entre granjas y empresas. Así, como la desconfianza que puede haber en los productos de la granja. Además abre la puerta a negocios nuevos en un mercado saturado.
+- Problemas de optimización en las operaciones, asi como de organización y de promoción.
+- Necesitan herramientas para facilitar la realización de tareas diarias y mejorar su eficiencia.
+
+**4. ¿Como y cuando nuestro producto es usado?**
+El servicio será usado por los dueños y trabajadores de granja durante su jornada laboral o antes, para poder designar las tareas con anticipación o registrar el ingreso de nuevos animales o cultivos. Mientras que, por las empresas podrá ser utilizado cuando surja la necesidad de encontrar nuevos proveedores y formar alianzas estratégicas con agricultores.
+
+**5. ¿Que caracteristicas son importantes?**
+- Un correcto funcionamiento
+- Organización de tareas y actividades de granja
+- Registro y organización de empleados.
+- Asignación de tareas a empleados
+- Registro y organización de animales, cultivos y galpones.
+- Promoción, publicación y rating de granjas.
+
+**6. ¿Como deberia nuestro producto verse o comportarse?**
+El producto debe verse con una interfaz simple, interactiva, atractiva e inclusiva. Debe poder comportarse correctamente, ser capaz de llamar la atención de quien la use, pero tambien otorgar una experiencia innovadora y acogedora a nuestro segmento objetivo.
+
 
 **User Outcomes:**
 - Empresas Grandes: Establecer como objetivo que las empresas grandes que adopten FarmLogiTech logren mejorar su eficiencia operativa 
@@ -456,6 +481,38 @@ granjas que utilizan activamente FarmLogiTech.
 en un 20% el tiempo promedio que los propietarios de granjas dedican a la gestión diaria de tareas 
 después de implementar FarmLogiTech.
 - Trabajadores de Granjas: Obtener una reducción del 25% en las incidencias críticas reportadas por las granjas durante el primer año.
+
+¿Que está intentando conseguir el usuario?
+- Empresas Grandes:Quiero poder entablecer una mejor comunicación con granjas
+- Trabajadores de Granjas y Dueños de granja: Quiero poder aumentar la productividad y mejorar la organizacion de mi granja
+
+¿Como se quiere sentir el usuario?
+- Trabajadores de Granjas y Dueños de granja: Quiero sentir que mi trabajo esta dando frutos y estoy sacandole el maximo provecho. Quiero que mi trabajo sea rentable.
+- Empresas Grandes: Quiero sentir que mi trabajo es mas sencillo y mas accesible.
+
+¿Como nuestro producto lo acerca a su objetivo?
+- Trabajadores de Granjas y Dueños de granja: Le ayuda a aumentar su productividad, a aumentar su rentabilidad, seguir el progreso de sus ingresos y egresos asi como monitorear sus tareas y su granja.
+- Empresas Grandes: Le permite convertir una tarea tan compleja y poco accesible como es contactar con dueños de granjas en algo mucho mas sencillo y facil de utilizar.
+
+¿Por que nuestros usuarios se interesarian por nuestro producto? ¿Que beneficio podrian obtener?
+- Empresas Grandes: Acceso a productos agrícolas de alta calidad y mejora en la eficiencia de su cadena de suministro.
+- Dueños de Granjas: Mayor eficiencia en la gestión de las operaciones agrícolas y aumento en la rentabilidad.
+- Trabajadores de Granjas: Facilidad para realizar tareas diarias y mejora en su eficiencia laboral.
+
+¿Que cambio en su comportamiento veremos que nos dira que nuestro objetivo ha sido logrado?
+
+- Trabajadores de Granjas y Dueños de granja: Esperamos que nuestros usuarios hagan uso de nuestra aplicación durante toda su jornada laboral, para tanto la organización como para el control de las actividades de la granja. Si vemos que, mediante entrevistas o estudios, podemos determinar que su productividad ha aumentado en un 200%, podremos decir que nuestro logro ha sido conseguido con creces.
+- Empresas Grandes: De igual, forma dirigido para las empresas, esperamos que el ratio de retención sea de digamos por ejemplo, en un mes, esperamos la cantidad de 200 nuevos clientes. Restandole al numero de clientes al final este periodo (300 usuarios ) el numero de clientes adquiridos durante este periodo (200 usuarios) y dividirlo entre el numero total de clientes al inicio del periodo(200 usuarios), tendriamos aproximdamente un 50% de retención de audiencia.
+
+
+
+**Feature Assumptions**
+- **Creemos que** el producto debe contar con planes estandares y premium que se adapten a lo que necesite el usuario, ofreciendo así una mayor flexibilidad y un valor agregado.
+- **Creemos que** el producto debe podar hacer uso del catálogo de granjas para alianzas empresariales.
+- **Creemos que** el producto debe poder ofrecer la funcionalidad de valoración y contacto de granja.
+- **Creemos que** el producto debe ofrecer un sistema de seguimiento en tiempo real del estado de los cultivos y el bienestar animal en la plataforma,
+- **Creemos que** el prodcuto debe implementar características de comunicación en tiempo real y herramientas de colaboración para mejorar la coordinación entre propietarios de granjas  y trabajadores agrícolas.
+- **Creemos que** el producto debe ofrecer una plataforma tecnológica completa para la gestión eficaz de actividades agrícolas y ganaderas
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
