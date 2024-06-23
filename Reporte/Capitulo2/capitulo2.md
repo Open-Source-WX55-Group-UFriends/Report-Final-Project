@@ -492,5 +492,16 @@ operaciones de nuestros user persona. A continuación se pueden apreciar los As-
 - **Plataforma**: Representación de un sistema digital
 - **Perfil**: Conjunto de datos del usuario
 - **Dispositivo**: IoT = Red de objetos y dispositivos que son capaces de transmitir y recibir datos usando internet
+- **Galpones**:  Un galpón en una granja es una estructura cubierta utilizada para albergar animales, almacenar alimentos y equipos, o realizar actividades agrícolas.
+- **Riego**: Sistema o proceso de suministro de agua a los cultivos para facilitar su crecimiento.
+- **Cultivos**:Plantas cultivadas en la granja para la producción de alimentos, fibras u otros productos.
+- **Ganado**: Animales criados en la granja para la producción de carne, leche, huevos u otros productos.
+- **Trabajadores de granja**: Personas empleadas para realizar diversas tareas agrícolas, como cultivar, cuidar animales y mantener la infraestructura.
+- **Dueño de granja**: Propietario de la granja que supervisa las operaciones, toma decisiones estratégicas y se encarga de la gestión general de la granja.
+- **Chacra**: Pequeña finca o granja destinada al cultivo y cría de animales.
+- **Incubadora**: Dispositivo utilizado para incubar huevos artificialmente.
+- **Ventilación**: Sistemas para mantener el flujo de aire adecuado en los galpones.
+- **Vacunación**: Proceso de inmunización de las aves contra enfermedades.
+- **Reproductoras**: Aves destinadas a la producción de huevos fértiles para incubación.
 
 
