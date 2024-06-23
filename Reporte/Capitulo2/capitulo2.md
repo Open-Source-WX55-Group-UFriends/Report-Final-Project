@@ -183,6 +183,14 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 - ¿Cuál es tu relación con los proveedores y clientes con los que interactúas en tu trabajo?
 ### 2.2.2. Registro de entrevistas
 
+**Inicio de la entrevista total :** 00:00
+
+**Duración de la entrevista total :** 40:12
+
+**Link de la entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+## Resumen de la entrevista:
+
 **Entrevista 01**
 
 **Nombres:** Mirian
@@ -191,24 +199,28 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 
 **Edad:** 55 años
 
-**Ciudad:** Lima
+**Distrito:** Jesús María
 
 **Segmento objetivo:** Dueño de granja
 
 
 <div align=center>
-    <img src="/Assets/Entrevista04.png" alt="Entrevista-04"/></img>
+    <img src="/Assets/Entrevista-04.png" alt="Entrevista-04"/></img>
 </div>
 
 #### Resumen de la entrevista:
 
-Mirian Higashi, una mujer de 55 años de Lima, Perú, ha llevado un buen manejo en la industria avícola. Con un cargo como administradora en una empresa avícola, posee un profundo conocimiento en la gestión de operaciones, logística y gestión de personal en este campo.
+Mirian Higashi, una mujer de 55 años de Lima, Perú, ha demostrado un manejo excepcional en la industria avícola como administradora en una empresa del sector, acumulando un profundo conocimiento en la gestión de operaciones, logística y personal. En su rol, enfrenta desafíos constantes como la coordinación eficiente del personal y el cumplimiento de estrictas regulaciones sanitarias y medioambientales, lo que es particularmente complejo debido a la proximidad de la granja a zonas urbanas, donde debe asegurar que las operaciones no impacten negativamente a los residentes. Para mantener la competitividad en un mercado dinámico, Mirian se enfoca en la actualización constante de equipos e infraestructura, priorizando el bienestar de las aves y la bioseguridad mediante prácticas que minimicen el riesgo de enfermedades. Ha desarrollado estrategias efectivas para estabilizar su equipo de trabajo, implementando programas de capacitación y concientización sobre la importancia del papel de cada miembro del equipo en el éxito de la empresa. Mirian valora la facilidad de uso en plataformas de gestión, buscando herramientas que optimicen el tiempo y mejoren la eficiencia de las operaciones diarias. Su disposición a invertir en aplicaciones que mejoren la eficiencia refleja su compromiso con la mejora continua y la innovación, siempre buscando soluciones integrales que aborden los desafíos específicos de la gestión avícola y optimicen los procesos internos para aumentar la productividad y efectividad de la granja.
 
-**Minuto de la entrevista:** 0:00
+En cuanto a la tecnología que utiliza, Mirian emplea dispositivos Android tanto en móvil y Windows en el sistema operativo, utilizando el navegador Chrome para sus actividades en línea. Sus principales canales de comunicación son WhatsApp, white papers y Facebook, lo que le permite mantenerse informada y conectada con su equipo y la industria. Con una personalidad ambiciosa y apasionada por la agricultura, Mirian está constantemente buscando formas de hacer crecer su granja y mejorar sus operaciones, demostrando un fuerte compromiso con la innovación y el desarrollo sostenible en el sector avícola.
 
-**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**Minuto de inicio de la entrevista:** 0:00
 
+**Minuto de fin de la entrevista:** 6:54
 
+**Duración de la entrevista:** 06:54 
+
+**Link de la entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 **Entrevista 02**
@@ -219,21 +231,27 @@ Mirian Higashi, una mujer de 55 años de Lima, Perú, ha llevado un buen manejo 
 
 **Edad:** 61 años
 
-**Ciudad:** Lima
+**Distrito:** Jesús María
 
 **Segmento objetivo:** Dueño de granja
 
 <div align=center>
-    <img src="/Assets/Entrevista03.png" alt="Entrevista-03"/></img>
+    <img src="/Assets/Entrevista-05.png" alt="Entrevista-05"/></img>
 </div>
 
 #### Resumen de la entrevista:
 
 Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta diversos desafíos en la gestión de su granja. La rotación de personal y las regulaciones medioambientales son preocupaciones constantes, mientras que la proximidad a áreas pobladas agrega complejidad a las operaciones. La renovación de equipos e infraestructura es esencial para mantener la competitividad en un mercado en constante cambio. En su granja, se especializa en la cría y producción avícola, priorizando el bienestar de las aves y la bioseguridad. Jorge ha implementado estrategias para estabilizar el equipo de trabajo y cumplir con las regulaciones, optimizando procesos y concientizando al personal sobre su papel en el éxito de la granja. Considera que la facilidad de uso es vital en cualquier plataforma de gestión y busca constantemente mejorar los procesos internos. La optimización del tiempo es crucial, y Jorge estaría dispuesto a pagar por una aplicación que mejore la eficiencia de su operación. En la búsqueda de herramientas prácticas en una plataforma de gestión, prioriza soluciones integrales que aborden los desafíos específicos de su granja avícola.
 
-**Minuto de la entrevista:** 6:55
+En cuanto a la tecnología que utiliza, Jorge Kunimoto se apoya en dispositivos Android tanto para móvil y Windows para su sistema operativo, y usa el navegador Chrome para sus actividades en línea. Sus principales medios de comunicación incluyen WhatsApp, white papers y Facebook, permitiéndole mantenerse al tanto y en contacto con su equipo e industria. Con una personalidad ambiciosa y una gran pasión por la agricultura, Jorge busca continuamente maneras de expandir su granja y optimizar sus operaciones, mostrando un firme compromiso con la innovación y el desarrollo sostenible en el sector avícola.
 
-**Link de la entrevista:**  [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**Minuto de inicio de la entrevista:** 6:55
+
+**Minuto de fin de la entrevista:** 14:27
+
+**Duración de la entrevista:** 07:32 
+
+**Link de la entrevista:**  https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **Entrevista 03**
 
@@ -243,7 +261,7 @@ Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta di
 
 **Edad:** 19 años
 
-**Ciudad:** Huacho
+**Distrito:** San Miguel
 
 **Segmento objetivo:** Trabajador de una granja
 
@@ -256,9 +274,16 @@ Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta di
 #### Resumen de la entrevista:
 
 Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente, trabaja como trabajador de cultivos en una empresa especializada en la producción, siembra y cosecha de maracuyá. Durante una entrevista reciente, compartió valiosa información sobre el seguimiento de la gestión y la producción en la empresa. Rodrigo también destacó los desafíos que enfrenta en su área de trabajo y expresó su interés en contribuir en futuras entrevistas. Además, enfatizó la importancia de contar con una plataforma que permita a los trabajadores acceder fácilmente a sus tareas pendientes, lo cual considera fundamental para mejorar la eficiencia en el trabajo.
-**Minuto de la entrevista:** 14:28
 
-**Link de la entrevista:**  [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Rodrigo se apoya en dispositivos Android, como su celular, para gestionar sus actividades diarias, mientras utiliza el navegador Chrome para navegar por la web. Utiliza canales como WhatsApp, white papers y Facebook para mantenerse conectado con su equipo y la comunidad agrícola. Apasionado por trabajar al aire libre y en contacto directo con la naturaleza, Rodrigo encuentra motivación en contribuir al éxito de su granja y en formar parte activa de la comunidad agrícola.
+
+**Minuto de inicio de la entrevista:** 14:28
+
+**Minuto de fin de la entrevista:** 20:12
+
+**Duración de la entrevista:** 05:44
+
+**Link de la entrevista:**  https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 **Entrevista 04**
@@ -269,7 +294,7 @@ Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente
 
 **Edad:** 19 años
 
-**Ciudad:** Lima
+**Distrito:** La Victoria
 
 **Segmento objetivo:** Trabajador de una granja
 
@@ -281,9 +306,16 @@ Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente
 Italo Luna es un joven de 19 años que proviene de Huaral, Perú. Actualmente, es un estudiante de la carrera de ing. de Software, en vacaciones ayuda a sus padres como trabajador de en una empresa avícola. Durante una entrevista reciente, compartió valiosa información sobre el seguimiento de la gestión y la producción en la empresa. Italo también destacó
 que uno de los desafíos que ha tenido es mantener el equilibrio entre la eficiencia de producción y el bienestar animal. Además nos comenta que la empresa cuenta con alrededor de 50,000 pollo y 10 galpones. Se le preguntó acerca de como viene siendo la venta de los pollos y nos dijo que dependiendo del peso del pollo, se crea un porcentaje en la cuál tiene que ser vendido cada pollo por el mismo peso o un aproximado.
 
-**Minuto de la entrevista:** 20:14
+Italo Luna se apoya en dispositivos iPhone para llevar a cabo sus tareas diarias, utilizando Safari como su navegador principal para explorar la web. Sus principales canales de comunicación son WhatsApp, white papers y Facebook, herramientas clave que utiliza para mantenerse conectado con su equipo y la comunidad agrícola. Italo encuentra gran satisfacción en contribuir al éxito de su granja y en participar activamente en iniciativas que promuevan el desarrollo sostenible y la innovación dentro del sector agrícola.
 
-**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+**Minuto de inicio de la entrevista:** 20:14
+
+**Minuto de fin de la entrevista:** 25:16
+
+**Duración de la entrevista:** 05:02
+
+**Link de la entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **Entrevista:** 05
 
@@ -293,7 +325,7 @@ que uno de los desafíos que ha tenido es mantener el equilibrio entre la eficie
 
 **Edad:** 63 años
 
-**Ciudad:** Lima
+**Distrito:** San Isidro
 
 **Segmento objetivo:** Dueño de granja
 
@@ -301,12 +333,18 @@ que uno de los desafíos que ha tenido es mantener el equilibrio entre la eficie
     <img src="/assets/Entrevista5.jpg" alt="Entrevista5"/></img>
 </div>
 
-**Minuto de la entrevista:** 25:17
+**Minuto de inicio de la entrevista:** 25:17
 
-**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**Minuto de fin de la entrevista:** 29:40
+
+**Duración de la entrevista:** 04:23
+
+**Link de la entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 #### Resumen de la entrevista:
 Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se desempeñó como gerente de una empresa líder en la distribución de productos avícolas en la región. Durante su extensa carrera, ha acumulado una vasta experiencia en la gestión de operaciones, logística y supervisión de personal en el sector avícola. En una reciente entrevista, compartió valiosos conocimientos sobre estrategias de distribución, control de inventario y gestión de recursos humanos en la industria avícola. Cesar también reflexionó sobre los desafíos enfrentados durante su carrera y expresó su interés en seguir contribuyendo al sector mediante consultorías y asesorías especializadas. Destacó la importancia de la eficiencia operativa y la optimización de procesos en un mercado tan competitivo como el de la distribución de productos avícolas. Además, resaltó la necesidad de implementar tecnologías innovadoras para mejorar la productividad y la calidad en todas las etapas de la cadena de suministro.
+
+César Pin confía en dispositivos Android tanto para su teléfono móvil y windows para su sistema operativo, y utiliza el navegador Chrome para navegar por la web. Sus principales canales de comunicación incluyen WhatsApp, white papers y Facebook, herramientas esenciales para mantenerse conectado con su equipo y la comunidad agrícola. Con una personalidad persistente y dedicada a la agricultura, César está constantemente buscando formas de mejorar los procesos en su granja, comprometido en optimizar la eficiencia y promover prácticas sostenibles en el sector agrícola.
 
 **Entrevista:** 06
 
@@ -325,13 +363,19 @@ Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se 
 </div>
 
 
-**Minuto de la entrevista:** 29:41
+**Minuto de inicio de la entrevista:** 29:41
 
-**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=stV4Ki&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**Minuto de fin de la entrevista:** 32:58
+
+**Duración de la entrevista:** 03:17
+
+**Link de la entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=stV4Ki&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 #### Resumen de la entrevista:
 Entrevistamos a una gerente de adquisiciones de una cadena de supermercados en la región, cuyas responsabilidades incluyen negociar con ganaderos y proveedores de productos de origen animal. Realiza estas negociaciones regularmente, aproximadamente una vez al mes. Implementa estrategias de negociación que incluyen buscar proveedores confiables, evaluar constantemente la calidad del producto y comparar precios en el mercado. Los principales desafíos que enfrenta incluyen asegurar un suministro constante de carne de alta calidad, negociar precios competitivos y mantener relaciones sólidas con los proveedores a largo plazo. Ante las fluctuaciones en los precios de la carne, utiliza estrategias de planificación y gestión de inventario, además de mantener una comunicación abierta con los proveedores. Valora la consistencia en la calidad del producto, la confiabilidad en el suministro, el cumplimiento de los plazos de entrega y la disposición para negociar precios competitivos en sus proveedores. Encuentra gratificante asegurar un suministro constante de productos de calidad para los clientes y contribuir al éxito general de la empresa.
+
+Soledad Pérez utiliza Windows como sistema operativo y navega por la web utilizando el navegador Chrome. Sus principales canales de comunicación incluyen WhatsApp, white papers, Facebook, Instagram, email y Telegram, herramientas fundamentales para mantenerse conectada con su equipo y clientes. Motivada por la ambición de ofrecer productos y servicios de alta calidad, Soledad se esfuerza por expandir su negocio y aumentar su presencia en el mercado regional. Su enfoque en la mejora continua y la expansión refleja su compromiso con la excelencia y el crecimiento sostenido en su industria.
 
 **Entrevista:** 07
 
@@ -349,14 +393,20 @@ Entrevistamos a una gerente de adquisiciones de una cadena de supermercados en l
     <img src="/Assets/Entrevista-Jorge.jpeg" alt="Entrevista-07"/></img>
 </div>
 
-**Minuto de la entrevista:** 32:59
+**Minuto de inicio de la entrevista:** 32:59
 
-**Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=stV4Ki&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**Minuto de fin de la entrevista:** 40:12
+
+**Duración de la entrevista:** 07:13
+
+**Link de la entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=stV4Ki&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 #### Resumen de la entrevista:
 
 El entrevistado es el gerente de adquisiciones de alimentos en una cadena de restaurantes reconocida en el país. Participa regularmente en negociaciones con ganaderos para garantizar el suministro de carne y productos derivados para los restaurantes. Implementa estrategias de negociación que incluyen evaluación detallada de la calidad del producto, búsqueda de proveedores confiables y negociación de precios competitivos. Algunos desafíos incluyen fluctuación de precios, variabilidad en la calidad del ganado y logística de transporte. Los criterios clave para seleccionar proveedores son calidad del producto, confiabilidad del proveedor, capacidad de suministro, ubicación geográfica y reputación en el mercado. Describe las negociaciones como fundamentales para asegurar un suministro constante de productos de calidad y establecer relaciones sólidas con proveedores. Encuentra satisfacción en obtener productos de calidad a precios competitivos y en el proceso de construcción de relaciones durante la negociación. Maneja los momentos de tensión con calma, buscando soluciones mutuamente beneficiosas y priorizando la comunicación abierta y el respeto hacia todas las partes involucradas.
+
+Jorge Coras utiliza Windows como sistema operativo y navega por la web utilizando el navegador Chrome. Sus principales canales de comunicación incluyen WhatsApp, white papers, Facebook, Instagram, email y Telegram, herramientas fundamentales para mantenerse conectado con su equipo y clientes. Impulsado por su ambición de ofrecer productos y servicios de alta calidad, Jorge se dedica a expandir su negocio y aumentar su presencia en el mercado regional. Su enfoque en la mejora continua y la innovación refleja su compromiso con la excelencia y el crecimiento sostenido en su industria.
 
 ### 2.2.3. Análisis de entrevistas
 #### Segmento objetivo (Dueño de una granja):
