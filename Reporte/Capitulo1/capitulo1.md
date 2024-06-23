@@ -438,9 +438,11 @@ La industria agrícola y ganadera enfrenta desafíos significativos en términos
 #### 1.2.2.2. Lean UX Assumptions
 
 **Business Outcomes:**
-- Aumento de la productividad y eficiencia en las operaciones agrícolas.
-- Mejora en la colaboración entre empresas grandes y dueños de granjas.
-- Incremento en la rentabilidad y calidad de los productos agrícolas.
+
+- Cumplir con la meta de crecimiento mensual del 20% en el número de usuarios activos de la plataforma, medida por el número de
+granjas que utilizan activamente FarmLogiTech.
+- Tener al menos 100 granjas utilizando la plataforma en el primer año de lanzamiento.
+- Renovación de suscripciones del 80% al final del primer año, indicando la satisfacción y la retención de clientes.
 
 **Users:**
 - Empresas Grandes: Interesadas en mejorar su cadena de suministro y obtener productos agrícolas de alta calidad.
@@ -448,9 +450,12 @@ La industria agrícola y ganadera enfrenta desafíos significativos en términos
 - Trabajadores de Granjas: Necesitan herramientas para facilitar la realización de tareas diarias y mejorar su eficiencia.
 
 **User Outcomes:**
-- Empresas Grandes: Acceso a productos agrícolas de alta calidad y mejora en la eficiencia de su cadena de suministro.
-- Dueños de Granjas: Mayor eficiencia en la gestión de las operaciones agrícolas y aumento en la rentabilidad.
-- Trabajadores de Granjas: Facilidad para realizar tareas diarias y mejora en su eficiencia laboral.
+- Empresas Grandes: Establecer como objetivo que las empresas grandes que adopten FarmLogiTech logren mejorar su eficiencia operativa 
+    en un 15% en la gestión y distribución de productos agrícolas de alta calidad dentro del primer año de implementación
+- Dueños de Granjas: Mayor eficiencia en la gestión de las operaciones agrícolas y aumento en la rentabilidad al reducir 
+en un 20% el tiempo promedio que los propietarios de granjas dedican a la gestión diaria de tareas 
+después de implementar FarmLogiTech.
+- Trabajadores de Granjas: Obtener una reducción del 25% en las incidencias críticas reportadas por las granjas durante el primer año.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
