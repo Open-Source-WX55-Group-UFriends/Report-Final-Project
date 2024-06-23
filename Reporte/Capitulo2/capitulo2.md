@@ -371,22 +371,24 @@ Para las características principales estamos tomando en cuenta la información 
 - **User persona trabajador en granja**  
   Utilizando datos que obtuvimos en las entrevistas, creamos el User Persona que representa al trabajador de una granja.
   Este nos ayuda a entender las necesidades y desafíos que enfrenta este segmento objetivo, detallando 
-  sus gustos y comportamientos. 
-  ![Imagen de UserPersona1](https://i.postimg.cc/ZYQMtWWC/User-persona-trabajador.png)
+  sus gustos y comportamientos.   
+
+
+  ![Imagen de UserPersona1](https://i.postimg.cc/Y0bSjtb1/68747470733a2f2f692e706f7374696d672e63632f5a59514d745757432f557365722d706572736f6e612d74726162616a61.png)
 
 - **Dueño de granja**  
   Nuestro segundo User Persona representa al dueño de la granja.
   Este nos ayuda a entender sus motivaciones, necesidades y desafíos para poder diseñar soluciones
   personalizadas.
 
-  ![Imagen de UserPersona2](https://i.postimg.cc/7Z8thjM4/User-persona-granjero.png)
+![farm-owner](https://i.postimg.cc/sDgXqZgK/68747470733a2f2f692e706f7374696d672e63632f375a3874686a4d342f557365722d706572736f6e612d6772616e6a6572.png)
 
 - **Empresaria**  
   Utilizando datos que obtuvimos en las entrevistas creamos el User Persona que representa al empresario.
   Este nos ayuda a entender los desafios que enfrenta este segmento objetivo, proporcionando 
   información sobre sus intereses comerciales, objetivos y desafíos.
 
-  ![Imagen de UserPersona3](https://i.postimg.cc/x8XpN24f/User-persona-empresaria.png)
+  ![Imagen de UserPersona3](https://i.postimg.cc/dQB359wL/68747470733a2f2f692e706f7374696d672e63632f783858704e3234662f557365722d706572736f6e612d656d7072657361.png)
 
 ### 2.3.2. User Task Matrix
 A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos. Estos son el dueño de la granja, trabajador y empresario.
