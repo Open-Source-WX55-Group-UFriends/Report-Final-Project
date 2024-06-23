@@ -6,6 +6,23 @@
 ![Imagen de Empresario To-Be Scenario Mapping](https://i.postimg.cc/tR6TB84J/To-Be-Scenary-Mapping-Empresario.jpg)
 
 ## 3.2 User Stories
+
+| Epic / Story ID 	  | Título 	                                                 | Descripción 	                                                                                                                                                                  | Criterios de Aceptación 	 | Relacionado con Epic ID 	|
+|--------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----------------------	|
+| 01               	 | Información de la aplicación      	                      | **Como** visitante del landing page **Quiero** obtener información relacionada a la aplicación **Para** conocer los beneficios que obtendré al usarlo                          | No Corresponde | No Corresponde|
+| 02               	 | Vinculo entre el landing page y la aplicación web      	 | **Como** visitante del landing page **Quiero** poder ingresar a la aplicación web **Para** probar la aplicación de FarmLogitech                                                | No Corresponde  |No Corresponde|
+| 03               	 | Crear tareas       	                                     | **Como** dueño de una granja **Quiero** poder crear y asignar tareas a mis trabajadores **Para** que estos tengan conocimiento de lo que deben realizar en tiempo real         | No Corresponde  | No Corresponde|
+| 04               	 | Manejar empleados       	                                | **Como** dueño de una granja **Quiero** poder crear y visualizar a mis trabajadores **Para** que tener conocimiento de con cuantos trabajadores cuento y se debo añadir alguno | No Corresponde | No Corresponde|
+| 05               	 | Visualizar datos estadísticos       	                    | X           	                                                                                                                                                                  | No Corresponde |No Corresponde|
+| 06               	 | a       	                                                | X           	                                                                                                                                                                  | No Corresponde| No Corresponde|
+| 07               	 | a       	                                                | X           	                                                                                                                                                                  |No Corresponde| No Corresponde|
+| 08               	 | a       	                                                | X           	                                                                                                                                                                  | No Corresponde| No Corresponde	|
+| 09               	 | a       	                                                | X           	                                                                                                                                                                  | No Corresponde| No Corresponde|
+| 10               	 | a       	                                                | X           	                                                                                                                                                                  | No Corresponde|No Corresponde|
+| 11               	 | a       	                                                | X           	                                                                                                                                                                  | No Corresponde | No Corresponde|
+| 12               	 | a       	                                                | X           	                                                                                                                                                                  | No Corresponde| No Corresponde|
+
+
 <table>
     <tr>
         <th>Epic / Story ID</th>
@@ -17,14 +34,14 @@
 <tr>
     <td>US-01</td> 
     <td>Ver descripción clara y concisa de los servicios en la landing page</td>
-    <td>Como visitante, quiero ver una descripción clara y concisa de los servicios ofrecidos en la landing page, para comprender rápidamente cómo pueden beneficiar a mi operación agrícola y ganadera.</td>
+    <td>Como visitante, quiero ver una descripción clara y concisa de los servicios ofrecidos en la landing page, para comprender rápidamente cómo pueden beneficiar a mi operación agrícola o ganadera.</td>
     <td>
         <b>Scenario 01:</b> Acceso exitoso a la descripción de servicios en la landing page<br>
-        <b>Dado</b> que un visitante visita la landing page por primera vez<br>
+        <b>Dado</b> que un visitante ingresa a la landing page por primera vez<br>
         <b>Cuando</b> observa la sección de servicios ofrecidos<br>
-        <b>Entonces</b> el visitante puede leer fácilmente una descripción clara y concisa de los servicios agrícolas y ganaderos, resaltando cómo pueden beneficiar su operación.<br><br>
+        <b>Entonces</b> el visitante puede leer fácilmente una descripción clara y concisa de los servicios agrícolas y ganaderos.<br><br>
         <b>Scenario 02:</b> Error al acceder a la descripción de servicios en la landing page<br>
-        <b>Dado</b> que un visitante visita la landing page por primera vez<br>
+        <b>Dado</b> que un visitante ingresa la landing page por primera vez<br>
         <b>Cuando</b> intenta acceder a la sección de servicios ofrecidos<br>
         <b>Entonces</b> el visitante se confunde al no encontrar una descripción clara y concisa de los servicios, lo que podría hacerle perder interés en la plataforma.
     </td>
