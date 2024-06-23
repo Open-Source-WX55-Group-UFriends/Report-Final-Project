@@ -12,7 +12,7 @@
     <strong>Desarrollo de Aplicaciones Open Source - WX55</strong><br>  
 <br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez</strong><br>
-    <br> <strong>INFORME DE TRABAJO FINAL - TB1 </strong> 
+    <br> <strong>INFORME DE TRABAJO FINAL - TF1 </strong> 
 </p>
 
 <p align="center">
@@ -48,18 +48,42 @@
             <td>U20211f978</td>
         </tr>
     </table>
+
+<tr>
+    <td><b>Mes y año: </b> 23/06/2024</td>
+</tr>
 </div>
 <br>
 
 # Registro de Versiones del Informe
 
-| Versión |   Fecha    | Autor | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 
-|:-------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-|TB1| 28/03/2024 |Todos los integrantes del equipo| El equipo completo colaboró en la definición de la solución propuesta, llevando a cabo un análisis Lean UX y definiendo el segmento objetivo. Además, se recopilaron todos los requisitos necesarios para desarrollar las herramientas requeridas, incluyendo User Persons, User stories, Product Backlog, e Impact Mapping, entre otros elementos. Posteriormente, se procedió al diseño de los mockups y prototipos de la página de inicio basándose en la información recabada. Finalmente, se completó la creación de la página de inicio con la ayuda del sprint backlog, asegurando así un control efectivo de los progresos realizados.| 
+| Versión |   Fecha    | Autor | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 
+|:-------:|:----------:|:-----:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+|   TB1   | 10/04/2024 |Todos los integrantes del equipo| El equipo completo colaboró en la definición de la solución propuesta, llevando a cabo un análisis Lean UX y definiendo el segmento objetivo. Además, se recopilaron todos los requisitos necesarios para desarrollar las herramientas requeridas, incluyendo User Persons, User stories, Product Backlog, e Impact Mapping, entre otros elementos. Posteriormente, se procedió al diseño de los mockups y prototipos de la página de inicio basándose en la información recabada. Finalmente, se completó la creación de la página de inicio con la ayuda del sprint backlog, asegurando así un control efectivo de los progresos realizados. |
+|   TP1   | 28/04/2024 |Todos los integrantes del equipo| El equipo completo colaboró en la actualización del informe, que incluyó una versión mejorada de los artefactos previamente presentados, la nueva versión del Landing Page y la primera versión de las aplicaciones web Frontend. Además, el informe  integro el segundo sprint, incluyendo la planificación, el backlog, evidencia de desarrollo, pruebas, ejecución, documentación de servicios, despliegue de software y colaboraciones del equipo durante el sprint. También se avanzó en las conclusiones, bibliografía y anexos. Finalmente, se elaboró un video de exposición conforme a las indicaciones del Documento de Enunciado del Proyecto Final.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|   TB2   | 06/06/2024 |Todos los integrantes del equipo| El equipo completo colaboró en la actualización del informe, que incluyó una versión mejorada de los artefactos previamente presentados, la nueva versión del Landing Page y la nueva versión de las aplicaciones web Frontend. Además, se desplegó la primera versión de los Web Services, el video "About-The-Product" y el video "About-The-Team". El informe también incluyó con detalles sobre la planificación, el backlog, evidencias de desarrollo, pruebas, ejecución, documentación de servicios, despliegue de software y colaboraciones del equipo durante el sprint. Asimismo, se incorporaron las entrevistas de validación con su diseño, registro y evaluaciones heurísticas. Por último, se avanzó en las conclusiones, bibliografía y anexos. Esta versión del informe refleja un progreso significativo y la dedicación del equipo para cumplir con los objetivos del proyecto, mejorando continuamente los entregables y asegurando una colaboración efectiva.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|   TF1   | 23/06/2024 |Todos los integrantes del equipo| dd                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 <br><br>
 
 # Project Report Collaboration Insights
+<tr>
+    <td><b> TB1 </b> 10/04/2024</td>
+</tr>
+<img src="/assets/stats1.JPG" alt="Statistics-01"/></img>  
+<img src="/assets/stats2.JPG" alt="Statistics-02"/></img>  
+<img src="/assets/stats3.JPG" alt="Statistics-03"/></img>
+<tr>
+    <td><b> TP1 </b> 28/04/2024 </td>
+</tr>
+<img src="/assets/img-commits.png" alt="Statistics-01"/></img>
+<tr>
+    <td><b> TB2 </b> 06/06/2024 </td>
+</tr>
+<img src="/Assets/img-contributors-tb2.png" alt="message-controller"/></img>
+<img src="/Assets/img-contributors-tb2-frontend.png" alt="message-controller"/></img>
+<img src="/Assets/img-contributors-tb2-backend.png" alt="message-controller"/></img>
+
 
 
 # Contenido
@@ -207,6 +231,8 @@ Durante la TB2 demostramos una participación efectiva y colaborativa en nuestro
 <br><br> 
         <b>Ruiz Blas, Luciano Stefano</b>
  <br> Capítulo 3       <br><br> 
+        <b>Barrionuevo Reto, Jean Franco Joel</b>
+ <br> Capítulo 3       <br><br> 
 <br><br>
    </td>
     <td>TB1<br><br>
@@ -216,7 +242,7 @@ TB2<br><br>
 Durante la TB2 profundizamos nuestro conocimiento del sector agrícola y ganadero a través de entrevistas de validación con usuarios potenciales. Presentamos el avance de nuestro proyecto a propietarios de granjas y trabajadores del sector para obtener retroalimentación valiosa sobre la funcionalidad y usabilidad de nuestra solución. Estas interacciones nos permitieron comprender mejor las necesidades específicas y las expectativas de nuestro público objetivo. Utilizamos este conocimiento para priorizar los requisitos y realizar ajustes en nuestra solución, asegurando que FarmLogiTech aborde de manera efectiva los desafíos y oportunidades del sector. Además, nuestro análisis continuo del dominio nos permitió identificar áreas de mejora y funcionalidades adicionales que podrían beneficiar a nuestros usuarios en el futuro.
 </tr>
 <br><br>
-        
+
 
 </table>
 
@@ -230,10 +256,10 @@ En esta sección describiremos el perfil de nuestra Startup.
 FarmLogiTech es un startup tecnológico fundada en el 2024 por un grupo de estudiantes compuesta por un grupo de estudiantes de la carrera de Ingeniería de Software. Nuestro startup está dedicada a simplificar la gestion y logistica de una granja, brindando una plataforma innovadora y accesible para propietarios de granjas y trabajadores.
 
 - Misión: Nuestra misión es simplificar la gestion y administracion de granjas mediante
-una plataforma intuitiva y eficiente, ayudando con todo tipo de herramientas a las personas dueñas de una granja o que trabajan en ellas.
+  una plataforma intuitiva y eficiente, ayudando con todo tipo de herramientas a las personas dueñas de una granja o que trabajan en ellas.
 
 - Visión: Convertirnos en la principal plataforma global de gestion y logistica de granjas,
-impulsando la eficiencia y la satisfacción de nuestros usuarios.
+  impulsando la eficiencia y la satisfacción de nuestros usuarios.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -394,11 +420,11 @@ La industria agrícola y ganadera enfrenta desafíos significativos en términos
 
 - **Why?**
 
-    Es crucial abordar esta problemática porque la agricultura desempeña un papel fundamental en la alimentación de la creciente población mundial y en la economía global.
+  Es crucial abordar esta problemática porque la agricultura desempeña un papel fundamental en la alimentación de la creciente población mundial y en la economía global.
 
 -   **How?**
 
-    Se necesitan soluciones tecnológicas innovadoras que ayuden a los agricultores a optimizar sus operaciones, mejorar la calidad de los cultivos y aumentar su competitividad en el mercado agrícola. 
+    Se necesitan soluciones tecnológicas innovadoras que ayuden a los agricultores a optimizar sus operaciones, mejorar la calidad de los cultivos y aumentar su competitividad en el mercado agrícola.
 
 -   **How much?**
 
