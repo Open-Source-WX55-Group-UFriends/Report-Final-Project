@@ -137,7 +137,7 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 ¿Dónde vives actualmente?
 ¿A qué te dedicas?
 
-### Segmento objetivo: Dueños de granjas
+### Segmento objetivo: Dueño
 
 #### Preguntas objetivas:
 - ¿Qué tipo de granja suele administrar? (agreria, ganadera, avicola, etc.)
@@ -247,7 +247,9 @@ Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta di
 
 **Segmento objetivo:** Trabajador de una granja
 
-//Foto de Rodrigo
+<div align=center>
+    <img src="/Assets/Entrevista-01.jpg" alt="Entrevista1"/></img>
+</div>
 
 
 
@@ -271,13 +273,15 @@ Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente
 
 **Segmento objetivo:** Trabajador de una granja
 
-//Foto de Italo
+<div align=center>
+    <img src="/Assets/Entrevista-06.jpeg" alt="Entrevista06"/></img>
+</div>
 
 ####  Resumen de la entrevista:
 Italo Luna es un joven de 19 años que proviene de Huaral, Perú. Actualmente, es un estudiante de la carrera de ing. de Software, en vacaciones ayuda a sus padres como trabajador de en una empresa avícola. Durante una entrevista reciente, compartió valiosa información sobre el seguimiento de la gestión y la producción en la empresa. Italo también destacó
 que uno de los desafíos que ha tenido es mantener el equilibrio entre la eficiencia de producción y el bienestar animal. Además nos comenta que la empresa cuenta con alrededor de 50,000 pollo y 10 galpones. Se le preguntó acerca de como viene siendo la venta de los pollos y nos dijo que dependiendo del peso del pollo, se crea un porcentaje en la cuál tiene que ser vendido cada pollo por el mismo peso o un aproximado.
 
- **Minuto de la entrevista:** 20:14
+**Minuto de la entrevista:** 20:14
 
 **Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
@@ -293,12 +297,13 @@ que uno de los desafíos que ha tenido es mantener el equilibrio entre la eficie
 
 **Segmento objetivo:** Dueño de granja
 
-//Foto de Cesar
+<div align=center>
+    <img src="/assets/Entrevista5.jpg" alt="Entrevista5"/></img>
+</div>
 
 **Minuto de la entrevista:** 25:17
 
 **Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
 
 #### Resumen de la entrevista:
 Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se desempeñó como gerente de una empresa líder en la distribución de productos avícolas en la región. Durante su extensa carrera, ha acumulado una vasta experiencia en la gestión de operaciones, logística y supervisión de personal en el sector avícola. En una reciente entrevista, compartió valiosos conocimientos sobre estrategias de distribución, control de inventario y gestión de recursos humanos en la industria avícola. Cesar también reflexionó sobre los desafíos enfrentados durante su carrera y expresó su interés en seguir contribuyendo al sector mediante consultorías y asesorías especializadas. Destacó la importancia de la eficiencia operativa y la optimización de procesos en un mercado tan competitivo como el de la distribución de productos avícolas. Además, resaltó la necesidad de implementar tecnologías innovadoras para mejorar la productividad y la calidad en todas las etapas de la cadena de suministro.
@@ -316,7 +321,7 @@ Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se 
 **Segmento objetivo:** Administrador de una empresa
 
 <div align=center>
-    <img src="/assets/interview-6.JPG" alt="Entrevista-06"/></img>
+    <img src="/Assets/Entrevista-06-Soledad.jpeg" alt="Entrevista-06"/></img>
 </div>
 
 
@@ -341,7 +346,7 @@ Entrevistamos a una gerente de adquisiciones de una cadena de supermercados en l
 **Segmento objetivo:** Gerente de adquisiciones en una empresa
 
 <div align=center>
-    <img src="/assets/interview-7.JPG" alt="Entrevista-07"/></img>
+    <img src="/Assets/Entrevista-Jorge.jpeg" alt="Entrevista-07"/></img>
 </div>
 
 **Minuto de la entrevista:** 32:59
@@ -385,7 +390,7 @@ Para las características principales estamos tomando en cuenta la información 
 
 - **Empresaria**  
   Utilizando datos que obtuvimos en las entrevistas creamos el User Persona que representa al empresario.
-  Este nos ayuda a entender los desafios que enfrenta este segmento objetivo, proporcionando 
+  Este nos ayuda a entender los desafios que enfrenta este segmento objetivo, proporcionando
   información sobre sus intereses comerciales, objetivos y desafíos.
 
   ![Imagen de UserPersona3](https://i.postimg.cc/dQB359wL/68747470733a2f2f692e706f7374696d672e63632f783858704e3234662f557365722d706572736f6e612d656d7072657361.png)
@@ -402,7 +407,7 @@ ya que estas deben alinearse con los estandares de los empresarios.
 ### 2.3.3 User Journey Mapping
 A continuación se pueden apreciar el end-to-end journey de los segmentos objetivos antes de que exista nuestra solución.
 El User Journey Mapping empieza desde el momento en el que los user personas observan los problemas y tratan de
-investigar las soluciones de estas, pasando por el proceso de encontrar alguna posible solución para finalmente dejar de 
+investigar las soluciones de estas, pasando por el proceso de encontrar alguna posible solución para finalmente dejar de
 hacer uso de esta.
 - User Journey Mapping trabajador en granja
   ![Imagen de UserJourney1](https://i.postimg.cc/wM2m3Cp1/Customer-journey-map-Juann.png)
@@ -423,8 +428,8 @@ Por otro lado, se tuvo en cuenta el contexto específico de cada usuario, como s
 - User Empathy Mapping empresaria  
   ![Imagen de EmpathyMapping3](https://i.postimg.cc/rss8C340/Empathy-Map-Empresaria.png)
 ### 2.3.5 As-Is Scenario Mapping
-El As-Is Scenario nos permite comprender a fondo cómo funcionan actualmente las operaciones en las granjas antes de implementar 
-cambios o nuevas estrategias. Es decir, proporciona una base sólida para identificar áreas de mejora y optimización en las 
+El As-Is Scenario nos permite comprender a fondo cómo funcionan actualmente las operaciones en las granjas antes de implementar
+cambios o nuevas estrategias. Es decir, proporciona una base sólida para identificar áreas de mejora y optimización en las
 operaciones de nuestros user persona. A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos.
 - User As-Is Scenario trabajador en granja
   ![Imagen de As-Is1](https://i.postimg.cc/DZMVFZW0/Scenario-Mapping-Trabajador.jpg)
@@ -432,7 +437,7 @@ operaciones de nuestros user persona. A continuación se pueden apreciar los As-
   ![Imagen de As-Is2](https://i.postimg.cc/sXXFtSgb/Scenario-Mapping-Granjero.jpg)
 - User As-Is Scenario empresaria
   ![Imagen de As-Is3](https://i.postimg.cc/MGzJmg26/Scenario-Mapping-Empresaria.jpg)
-  Enlace de Miro: https://miro.com/app/board/uXjVKYvs29U=/?share_link_id=40902593860 
+  Enlace de Miro: https://miro.com/app/board/uXjVKYvs29U=/?share_link_id=40902593860
 ## 2.4 Ubiquitous Language
 - **Plataforma**: Representación de un sistema digital
 - **Perfil**: Conjunto de datos del usuario
