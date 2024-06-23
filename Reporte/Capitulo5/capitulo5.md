@@ -1436,14 +1436,17 @@ Prueba de que esta enlazado con el Netlify
 #### Repositorio Landing:
 (https://github.com/Open-Source-WX55-Group-UFriends/landing-page.git)
 <img src="/Assets/img-repo-landing.png" alt="message-controller"/></img>
+<img src="/Assets/img-contributors-tb2.png" alt="message-controller"/></img>
 
 #### Repositorio Web Application:
 (https://github.com/Open-Source-WX55-Group-UFriends/Frontend-App.git)
 <img src="/Assets/img-repo-front.png" alt="message-controller"/></img>
+<img src="/Assets/img-contributors-tb2-frontend.png" alt="message-controller"/></img>
 
 #### Repositorio BackEnd:
 (https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op.git)
 <img src="/Assets/img-repo-backend.png" alt="message-controller"/></img>
+<img src="/Assets/img-contributors-tb2-backend.png" alt="message-controller"/></img>
 
 ### 5.3. Validation Interviews.
 Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar la aplicación web destinada a
