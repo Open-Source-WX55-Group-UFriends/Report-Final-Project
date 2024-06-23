@@ -3,4 +3,4 @@
 
 ## Prueba mafri
 
-## Prueba ROFRI
+## Prueba ROFRI-r (o --remotes )

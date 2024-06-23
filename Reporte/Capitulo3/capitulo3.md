@@ -357,7 +357,7 @@
 <tr>
     <td>US-18</td> 
     <td>Verificar niveles de inventario y recibir notificaciones de reposición</td>
-    <td>Como dueño de la granja, quiero verificar fácilmente los niveles de inventario de productos agrícolas y ganaderos, y recibir notificaciones cuando sea necesario reponerlos, para garantizar un flujo de trabajo ininterrumpido.</td>
+    <td>Como dueño de la granja, quiero verificar fácilmente los niveles de inventario de productos agrícolas y ganaderos.</td>
     <td>
         <b>Scenario 01:</b> Acceso a los niveles de inventario<br>
         <b>Dado</b> que soy el dueño de la granja autenticado en el sistema<br>
@@ -367,15 +367,7 @@
         <b>Dado</b> que estoy viendo los niveles de inventario<br>
         <b>Cuando</b> selecciono un producto específico<br>
         <b>Entonces</b> el sistema me muestra detalles adicionales del producto, como fecha de caducidad, ubicación de almacenamiento, etc.<br><br>
-        <b>Scenario 03:</b> Configuración de notificaciones de reposición<br>
-        <b>Dado</b> que soy el dueño de la granja<br>
-        <b>Cuando</b> accedo a la configuración de notificaciones<br>
-        <b>Entonces</b> el sistema me permite configurar umbrales de inventario bajo para recibir notificaciones cuando los niveles de un producto caigan por debajo de un cierto punto.<br><br>
-        <b>Scenario 04:</b> Recepción de notificaciones de reposición<br>
-        <b>Dado</b> que los niveles de inventario de un producto caen por debajo del umbral configurado<br>
-        <b>Cuando</b> se activa una notificación de reposición<br>
-        <b>Entonces</b> el sistema me envía una notificación instantánea indicando qué producto necesita ser reabastecido y en qué cantidad.<br><br>
-        <b>Scenario 05:</b> Registro de reposición de inventario<br>
+        <b>Scenario 03:</b> Registro de reposición de inventario<br>
         <b>Dado</b> que he recibido una notificación de reposición<br>
         <b>Cuando</b> realizo el pedido o reabastecimiento del producto<br>
         <b>Entonces</b> el sistema registra la reposición de inventario y actualiza los niveles correspondientes en la base de datos.
