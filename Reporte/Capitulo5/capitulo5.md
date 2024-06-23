@@ -70,9 +70,9 @@ A continuación, presentaremos el proceso por el cual organizamos, gestionamos y
 El proyecto seguirá las convenciones del flujo de trabajo establecido por el modelo GitFlow para el control de versiones, empleando GitHub como plataforma y sistema de control de versiones. A continuación, se describirá la implementación de GitFlow como un flujo de trabajo para el control de versiones, junto con el enlace del Landing Page.
 
 **Repositorio de GitHub:**
-- Enlace para acceder a la [organización en GitHub](https://github.com/Open-Source-WX55-Group-UFriends)
-- Enlace para acceder al repositorio de la [landing Page](https://github.com/Open-Source-WX55-Group-UFriends/landing-page)
-- Enlace para acceder al repositorio del [reporte final](https://github.com/Open-Source-WX55-Group-UFriends/Report-Final-Project)
+- Enlace para acceder a la https://github.com/Open-Source-WX55-Group-UFriends
+- Enlace para acceder al repositorio de la https://github.com/Open-Source-WX55-Group-UFriends/landing-page
+- Enlace para acceder al repositorio del https://github.com/Open-Source-WX55-Group-UFriends/Report-Final-Project
 
 **Flujo de trabajo GitFlow**
 
@@ -1738,10 +1738,40 @@ https://siea.midagri.gob.pe/portal/phocadownload/datos_estadisticas/mensual/Avic
 
 Instituto Nacional de Estadística e Informática. (2022). Estadísticas del sector ganadero.
 https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1912/libro.pdf
+
+Infobae. (2023, 22 de marzo). Crisis en el sector avícola: Precio del pollo se eleva, granjas quebradas y millones de aves sacrificadas por influenza. https://www.infobae.com/peru/2023/03/22/crisis-en-el-sector-avicola-precio-del-pollo-se-eleva-granjas-quebradas-y-millones-de-aves-sacrificadas-por-influenza/
+
+AviNews. (2023, 14 de noviembre). Brote de influenza aviar en granja de postura comercial en Perú. https://avinews.com/peru-se-presenta-brote-de-influenza-aviar-en-granja-de-postura-comercial/
+
+Gobierno Regional de Lima. (2021, 3 de mayo). Productores de Barranca apuestan por el cultivo de maracuyá. https://www.gob.pe/regionlima
+
+Moran, K. (2016). The Four Dimensions of Tone of Voice. Nielsen Norman Group. https://www.nngroup.com/articles/tone-of-voice-dimensions/
+
+Gothelf, J., & Seiden, J. (2021). Lean UX, 3rd Edition. https://www.oreilly.com/library/view/lean-ux-3rd/9781098116293/
+
+Progressa Lean. (2014). 5W+2H Técnica de análisis de problemas - Progressa Lean. Progressa Lean. https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/
+
+UX Planet. (2017). Information Architecture. Basics for Designers. - UX Planet. Medium; UX Planet. https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20
+
+Gothelf, J. (2024). Leanux Sampler. https://es.scribd.com/document/655516553/Leanux-Sampler
+
+Infobae. (2023, 22 de marzo). Crisis en el sector avícola: Precio del pollo se eleva, granjas quebradas y millones de aves sacrificadas por influenza. https://www.infobae.com/peru/2023/03/22/crisis-en-el-sector-avicola-precio-del-pollo-se-eleva-granjas-quebradas-y-millones-de-aves-sacrificadas-por-influenza/
+
+AviNews. (2023, 14 de noviembre). Brote de influenza aviar en granja de postura comercial en Perú. https://avinews.com/peru-se-presenta-brote-de-influenza-aviar-en-granja-de-postura-comercial/
+
+Gobierno Regional de Lima. (2021, 3 de mayo). Productores de Barranca apuestan por el cultivo de maracuyá. https://www.gob.pe/regionlima
+
 # VIII. Anexos.
-Colocar enlaces a los documentos de Google Drive, Trello, etc. que se hayan utilizado en el proyecto.
 
-
+- Registro de entrevistas: https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterviews%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9ce4d8dc%2D3266%2D48c0%2D9695%2D4ae0d1270660
+- Trello: https://trello.com/invite/b/H1ovwIyt/ATTIa06b8aa26ddc1b1aa652cdb1647fd69f7C984655/aplicaciones-web
+- Enlace de Miro: https://miro.com/app/board/uXjVKYvs29U=/?share_link_id=40902593860
+- Prouct Backlog: https://www.pivotaltracker.com/n/projects/2700504
+- Structurizr: https://structurizr.com/share/83579/bbb84c20-9e26-49cd-9773-c0e5e00ed182
+- Organización Github: https://github.com/Open-Source-WX55-Group-UFriends
+- Landing Page: https://github.com/Open-Source-WX55-Group-UFriends/landing-page
+- Backend: https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op.git
+- Reporte Final: https://github.com/Open-Source-WX55-Group-UFriends/Report-Final-Project
 
 
 
