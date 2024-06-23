@@ -126,6 +126,9 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 
 ## 2.2. Entrevistas
 
+
+
+
 ### 2.2.1. Diseño de entrevistas
 
 #### Preguntas generales:
@@ -134,7 +137,7 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 ¿Dónde vives actualmente?
 ¿A qué te dedicas?
 
-### Segmento objetivo: Dueños de granjas
+### Segmento objetivo: Dueño
 
 #### Preguntas objetivas:
 - ¿Qué tipo de granja suele administrar? (agreria, ganadera, avicola, etc.)
@@ -302,7 +305,6 @@ que uno de los desafíos que ha tenido es mantener el equilibrio entre la eficie
 
 **Link de la entrevista:** [link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Eb8YXfsQen1NiUHd2YuP9UsBmmr_4f5MIG-Fc4BQz0WPCQ?e=5FTMsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-
 #### Resumen de la entrevista:
 Cesar Pin es un hombre de 63 años que reside en Lima, Perú. Anteriormente, se desempeñó como gerente de una empresa líder en la distribución de productos avícolas en la región. Durante su extensa carrera, ha acumulado una vasta experiencia en la gestión de operaciones, logística y supervisión de personal en el sector avícola. En una reciente entrevista, compartió valiosos conocimientos sobre estrategias de distribución, control de inventario y gestión de recursos humanos en la industria avícola. Cesar también reflexionó sobre los desafíos enfrentados durante su carrera y expresó su interés en seguir contribuyendo al sector mediante consultorías y asesorías especializadas. Destacó la importancia de la eficiencia operativa y la optimización de procesos en un mercado tan competitivo como el de la distribución de productos avícolas. Además, resaltó la necesidad de implementar tecnologías innovadoras para mejorar la productividad y la calidad en todas las etapas de la cadena de suministro.
 
@@ -373,23 +375,25 @@ Para las características principales estamos tomando en cuenta la información 
 
 - **User persona trabajador en granja**  
   Utilizando datos que obtuvimos en las entrevistas, creamos el User Persona que representa al trabajador de una granja.
-  Este nos ayuda a entender las necesidades y desafíos que enfrenta este segmento objetivo, detallando
-  sus gustos y comportamientos.
-  ![Imagen de UserPersona1](https://i.postimg.cc/ZYQMtWWC/User-persona-trabajador.png)
+  Este nos ayuda a entender las necesidades y desafíos que enfrenta este segmento objetivo, detallando 
+  sus gustos y comportamientos.   
+
+
+  ![Imagen de UserPersona1](https://i.postimg.cc/Y0bSjtb1/68747470733a2f2f692e706f7374696d672e63632f5a59514d745757432f557365722d706572736f6e612d74726162616a61.png)
 
 - **Dueño de granja**  
   Nuestro segundo User Persona representa al dueño de la granja.
   Este nos ayuda a entender sus motivaciones, necesidades y desafíos para poder diseñar soluciones
   personalizadas.
 
-  ![Imagen de UserPersona2](https://i.postimg.cc/7Z8thjM4/User-persona-granjero.png)
+![farm-owner](https://i.postimg.cc/sDgXqZgK/68747470733a2f2f692e706f7374696d672e63632f375a3874686a4d342f557365722d706572736f6e612d6772616e6a6572.png)
 
 - **Empresaria**  
   Utilizando datos que obtuvimos en las entrevistas creamos el User Persona que representa al empresario.
   Este nos ayuda a entender los desafios que enfrenta este segmento objetivo, proporcionando
   información sobre sus intereses comerciales, objetivos y desafíos.
 
-  ![Imagen de UserPersona3](https://i.postimg.cc/x8XpN24f/User-persona-empresaria.png)
+  ![Imagen de UserPersona3](https://i.postimg.cc/dQB359wL/68747470733a2f2f692e706f7374696d672e63632f783858704e3234662f557365722d706572736f6e612d656d7072657361.png)
 
 ### 2.3.2. User Task Matrix
 A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos. Estos son el dueño de la granja, trabajador y empresario.
