@@ -7,24 +7,25 @@
 
 ## 3.2 User Stories
 
-| Epic / Story ID 	    | Título 	                                                 | Descripción 	                                                                                                                                                                                                    | Criterios de Aceptación 	 | Relacionado con Epic ID 	|
-|----------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----------------------	|
-| EP01               	 | Información de la aplicación      	                      | **Como** visitante del landing page **Quiero** obtener información relacionada a la aplicación **Para** conocer los beneficios que obtendré al usarlo                                                            | No Corresponde | No Corresponde|
-| EP02               	 | Vinculo entre el landing page y la aplicación web      	 | **Como** visitante del landing page **Quiero** poder ingresar a la aplicación web **Para** probar la aplicación de FarmLogitech                                                                                  | No Corresponde  |No Corresponde|
-| EP03               	 | Crear tareas       	                                     | **Como** dueño de una granja **Quiero** poder crear y asignar tareas a mis trabajadores **Para** que estos tengan conocimiento de lo que deben realizar en tiempo real                                           | No Corresponde  | No Corresponde|
-| EP04               	 | Gestionar empleados       	                              | **Como** dueño de una granja **Quiero** poder crear y visualizar a mis trabajadores **Para** que tener conocimiento de con cuantos trabajadores cuento y se debo añadir alguno                                   | No Corresponde | No Corresponde|
-| EP05               	 | Visualizar datos estadísticos       	                    | **Como** dueño de una granja **Quiero** poder  visualizar mis datos estadísticos **Para** tener conocimiento de mis ganancias anules o mensuales, animales enfermos y cumplimiento de tareas                     | No Corresponde |No Corresponde|
-| EP06               	 | Gestionar emergencias       	                            | **Como** dueño de una granja **Quiero** poder crear emergencias **Para** que mis trabajadores sepan cuando hay una tarea que debe ser realizada en ese mismo momento                                             | No Corresponde| No Corresponde|
+| Epic / Story ID 	    | Título 	                                                 | Descripción 	                                                                                                                                                                                                      | Criterios de Aceptación 	 | Relacionado con Epic ID 	|
+|----------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----------------------	|
+| EP01               	 | Información de la aplicación      	                      | **Como** visitante del landing page **Quiero** obtener información relacionada a la aplicación **Para** conocer los beneficios que obtendré al usarlo                                                              | No Corresponde | No Corresponde|
+| EP02               	 | Vinculo entre el landing page y la aplicación web      	 | **Como** visitante del landing page **Quiero** poder ingresar a la aplicación web **Para** probar la aplicación de FarmLogitech                                                                                    | No Corresponde  |No Corresponde|
+| EP03               	 | Crear tareas       	                                     | **Como** dueño de una granja **Quiero** poder crear y asignar tareas a mis trabajadores **Para** que estos tengan conocimiento de lo que deben realizar en tiempo real                                             | No Corresponde  | No Corresponde|
+| EP04               	 | Gestionar empleados       	                              | **Como** dueño de una granja **Quiero** poder crear y visualizar a mis trabajadores **Para** que tener conocimiento de con cuantos trabajadores cuento y si debo añadir alguno                                     | No Corresponde | No Corresponde|
+| EP05               	 | Visualizar datos estadísticos       	                    | **Como** dueño de una granja **Quiero** poder  visualizar mis datos estadísticos **Para** tener conocimiento de mis ganancias anules o mensuales, animales enfermos y cumplimiento de tareas                       | No Corresponde |No Corresponde|
+| EP06               	 | Gestionar emergencias       	                            | **Como** dueño de una granja **Quiero** poder crear emergencias **Para** que mis trabajadores sepan cuando hay una tarea que debe ser realizada en ese mismo momento                                               | No Corresponde| No Corresponde|
 | EP07               	 | Gestionar el inventario                                  | **Como** dueño de una granja **Quiero** poder agregar semillas, cultivos y animales a mi inventario **Para** poder revisar si faltan semillas, cultivos o animales y de esa manera buscar mejorar la productividad |No Corresponde| No Corresponde|
-| EP08               	 | Publicar anuncio de la granja       	                    | **Como** dueño de una granja **Quiero** publicar un anuncio de mi granja **Para** que empresarios interesados en establecer un alianza estrátegica se contacten conmigo                                          | No Corresponde| No Corresponde	|
-| EP09               	 | Visualizar anuncios de granja                            | **Como** dueño de una empresa **Quiero** visualizar anuncios de granjas **Para** poder establecer una alianza estrátegica con una granja que se ajuste a la visión de mi empresa                                 | No Corresponde| No Corresponde|
-| EP10               	 | Contactar granja       	                                 | **Como** dueño de una granja **Quiero** contactar a la granja en la que estoy interesado **Para** llegar a un acuerdo y establecer una alianza                                                                   | No Corresponde|No Corresponde|
-| EP11               	 | Calificar granja    	                                    | **Como** dueño de una granja **Quiero** poner una calificación a la granja con la que trabajé **Para** que otros empresarios tengan una referencia del trabajo de la granja                                      | No Corresponde | No Corresponde|
-| EP12               	 | Visualizar tareas                                        | **Como** trabajador de una granja **Quiero** visualizar las tareas que me asigno el dueño de la granja **Para** poder realizar las tareas del día                                                                | No Corresponde| No Corresponde|
-| EP13               	 | Visualizar el pronostico climático                       | **Como** trabajador de una granja **Quiero** visualizar el pronostico meteorologico **Para** preparar a los animales o cultivos de acuerdo al posible estado del clima                                           | No Corresponde| No Corresponde|
-| EP14               	 | Visualizar emergencias                                   | **Como** trabajador de una granja **Quiero** visualizar las emergencias **Para** poder solucionar las emergencias problemas rapidamente          	                                                               | No Corresponde| No Corresponde|
-| EP15               	 | Modificar el inventario                                  | **Como** trabajador de una granja **Quiero** modificar el inventario **Para** que mis compañeros y el dueño de la granja esten al tanto del inventario        	                                                  | No Corresponde| No Corresponde|
-| EP16               	 | Gestionar cuentas                                        | **Como** trabajador de una granja **Quiero** tener la capacidad de crear una cuenta **Para** comenzar a gestionar los procesos de mi granjas y concretar futuras alianzas estrategicas        	                  | No Corresponde| No Corresponde|
+| EP08               	 | Publicar anuncio de la granja       	                    | **Como** dueño de una granja **Quiero** publicar un anuncio de mi granja **Para** que empresarios interesados en establecer un alianza estrátegica se contacten conmigo                                            | No Corresponde| No Corresponde	|
+| EP09               	 | Visualizar anuncios de granja                            | **Como** dueño de una empresa **Quiero** visualizar anuncios de granjas **Para** poder establecer una alianza estrátegica con una granja que se ajuste a la visión de mi empresa                                   | No Corresponde| No Corresponde|
+| EP10               	 | Contactar granja       	                                 | **Como** dueño de una granja **Quiero** contactar a la granja en la que estoy interesado **Para** llegar a un acuerdo y establecer una alianza                                                                     | No Corresponde|No Corresponde|
+| EP11               	 | Calificar granja    	                                    | **Como** dueño de una granja **Quiero** poner una calificación a la granja con la que trabajé **Para** que otros empresarios tengan una referencia del trabajo de la granja                                        | No Corresponde | No Corresponde|
+| EP12               	 | Modificar tareas                                         | **Como** trabajador de una granja **Quiero** visualizar las tareas que me asigno el dueño de la granja **Para** poder realizar las tareas del día                                                                  | No Corresponde| No Corresponde|
+| EP13               	 | Visualizar el pronostico climático                       | **Como** trabajador de una granja **Quiero** visualizar el pronostico meteorologico **Para** preparar a los animales o cultivos de acuerdo al posible estado del clima                                             | No Corresponde| No Corresponde|
+| EP14               	 | Visualizar emergencias                                   | **Como** trabajador de una granja **Quiero** visualizar las emergencias **Para** poder solucionar las emergencias problemas rapidamente          	                                                                 | No Corresponde| No Corresponde|
+| EP15               	 | Modificar el inventario                                  | **Como** trabajador de una granja **Quiero** modificar el inventario **Para** que mis compañeros y el dueño de la granja esten al tanto del inventario        	                                                    | No Corresponde| No Corresponde|
+| EP16               	 | Gestionar cuentas del dueño de granja                    | **Como** dueño de una granja **Quiero** tener la capacidad de crear una cuenta **Para** comenzar a gestionar los procesos de mi granjas y concretar futuras alianzas estrategicas        	                         | No Corresponde| No Corresponde|
+| EP17               	 | Gestionar cuentas del empresario                         | **Como** empresario **Quiero** tener la capacidad de crear una cuenta **Para** poder contactar dueños de granjas        	                                                                                          | No Corresponde| No Corresponde|
 
 <table>
     <tr>
@@ -62,7 +63,7 @@
 
 
 <tr>
-    <td>US-10</td> 
+    <td>US-03</td> 
     <td>Crear y asignar tareas a los trabajadores</td>
     <td>Como dueño de granja, quiere crear y asignar tareas a los trabajadores, para mejorar la gestión de la mano de obra en su finca.</td>
     <td>
@@ -75,10 +76,10 @@
         <b>Cuando</b> está creando una tarea y completa algún detalle con un valor inválido<br>
         <b>Entonces</b> el sistema muestra un mensaje de error e indica cuál es el problema.
     </td> 
-    <td>###</td> 
+    <td>EP03</td> 
 </tr>
 <tr>
-    <td>US-11</td> 
+    <td>US-04</td> 
     <td>Recibir notificaciones sobre tareas asignadas</td>
     <td>Como trabajador, quiere recibir notificaciones sobre las tareas asignadas, para mantenerse informado sobre las indicaciones del superior.</td>
     <td>
@@ -95,10 +96,10 @@
         <b>Cuando</b> accede a la aplicación móvil o al sitio web<br>
         <b>Entonces</b> el sistema le muestra una lista de todas las notificaciones recibidas, permitiéndole revisarlas en cualquier momento.
     </td> 
-    <td>###</td> 
+    <td>EP12</td> 
 </tr>
 <tr>
-    <td>US-12</td> 
+    <td>US-05</td> 
     <td>Registrar progreso de tareas</td>
     <td>Como trabajador, quiere registrar el progreso de sus tareas, para mantenerse organizado y productivo.</td>
     <td>
@@ -123,10 +124,10 @@
         <b>Cuando</b> accede a su panel de tareas asignadas<br>
         <b>Entonces</b> el sistema le muestra un historial detallado de progreso de cada tarea, incluyendo las actualizaciones de estado y los tiempos dedicados.
     </td> 
-    <td>###</td> 
+    <td>EP12</td> 
 </tr>
 <tr>
-    <td>US-13</td> 
+    <td>US-06</td> 
     <td>Buscar y contactar a dueños de granjas potenciales</td>
     <td>Como empresario, quiere buscar y contactar a dueños de granjas potenciales, para establecer asociaciones comerciales y mejorar su cadena de suministro.</td>
     <td>
@@ -147,10 +148,10 @@
         <b>Cuando</b> realiza una interacción, como enviar un correo electrónico o hacer una llamada<br>
         <b>Entonces</b> el sistema registra la interacción y la asocia con el perfil del dueño de la granja, permitiéndole hacer un seguimiento de las comunicaciones realizadas.
     </td> 
-    <td>###</td> 
+    <td>EP09</td> 
 </tr>
 <tr>
-    <td>US-14</td> 
+    <td>US-07</td> 
     <td>Ver información detallada de las granjas</td>
     <td>Como empresario, quiere ver información detallada de las granjas, para poder elegir una adecuada para su idea de negocio.</td>
     <td>
@@ -171,9 +172,9 @@
         <b>Cuando</b> encuentra una granja que le interesa<br>
         <b>Entonces</b> el sistema le permite guardar la granja como favorita para poder acceder a ella fácilmente en el futuro.<br><br>
     </td>
-    <td>###</td>
+    <td>EP09</td>
 <tr>
-    <td>US-15</td> 
+    <td>US-08</td> 
     <td>Buscar granjas con filtros específicos</td>
     <td>Como empresario, quiere buscar granjas con filtros específicos, para encontrar fácilmente una granja que se adapte a sus necesidades.</td>
     <td>
@@ -198,12 +199,11 @@
         <b>Cuando</b> selecciona un filtro de infraestructura, como invernaderos, sistemas de riego, almacenes, etc.<br>
         <b>Entonces</b> el sistema muestra solo las granjas que cuentan con la infraestructura especificada.
     </td> 
-    <td>###</td> 
+    <td>EP09</td> 
 </tr>
 
-POR ARREGLAR
 <tr>
-    <td>US-17</td> 
+    <td>US-09</td> 
     <td>Ver cambios climáticos de la semana</td>
     <td>Como trabajador, quiere ver los cambios climáticos de la semana, para poder planificar las actividades agrícolas y tomar medidas preventivas si es necesario.</td>
     <td>
@@ -224,11 +224,11 @@ POR ARREGLAR
         <b>Cuando</b> accede a la sección de cambios climáticos<br>
         <b>Entonces</b> el sistema le muestra un historial de los cambios climáticos de semanas anteriores, permitiéndole analizar patrones y tendencias climáticas.
     </td> 
-    <td>###</td> 
+    <td>EP13</td> 
 </tr>
 
 <tr>
-    <td>US-18</td> 
+    <td>US-10</td> 
     <td>Verificar niveles de inventario</td>
     <td>Como dueño de la granja, quiere verificar fácilmente los niveles de inventario de productos agrícolas y ganaderos.</td>
     <td>
@@ -245,11 +245,11 @@ POR ARREGLAR
         <b>Cuando</b> realiza el pedido o reabastecimiento del producto<br>
         <b>Entonces</b> el sistema registra la reposición de inventario y actualiza los niveles correspondientes en la base de datos.
     </td> 
-    <td>###</td> 
+    <td>EP07</td> 
 </tr>
 
 <tr>
-    <td>US-19</td> 
+    <td>US-11</td> 
     <td>Ver información detallada sobre el estado de cultivos y ganado</td>
     <td>Como dueño de la granja, quiere saber información detallada sobre el estado de sus cultivos y ganado, para poder administrarlos de manera rápida e informada.</td>
     <td>
@@ -270,11 +270,11 @@ POR ARREGLAR
         <b>Cuando</b> los cultivos o el ganado experimentan cambios en su estado, como crecimiento, enfermedad, o reproducción<br>
         <b>Entonces</b> el sistema actualiza automáticamente la información mostrada para reflejar los cambios recientes.
     </td> 
-    <td>###</td> 
+    <td>EP07</td> 
 </tr>
 
 <tr>
-    <td>US-20</td> 
+    <td>US-12</td> 
     <td>Ver estadísticas financieras</td>
     <td>Como dueño de la granja, quiere saber estadísticas financieras, para poder administrar correctamente la economía de su granja.</td>
     <td>
@@ -291,11 +291,11 @@ POR ARREGLAR
         <b>Cuando</b> revisa la sección de análisis de rentabilidad<br>
         <b>Entonces</b> el sistema le muestra métricas y gráficos que le ayudan a evaluar la rentabilidad de su granja, como margen de beneficio, retorno sobre la inversión, etc.
     </td> 
-    <td>###</td> 
+    <td>EP05</td> 
 </tr>
 
 <tr>
-    <td>US-21</td> 
+    <td>US-13</td> 
     <td>Registrar el cumplimiento de tareas con detalles de producción</td>
     <td>Como trabajador en la granja, quiere registrar el cumplimiento de sus tareas con detalles como la cantidad, calidad y fecha de cosecha, para mantener un registro preciso de la producción de la granja.</td>
     <td>
@@ -320,11 +320,11 @@ POR ARREGLAR
         <b>Cuando</b> accede al historial de registros de cumplimiento de tareas<br>
         <b>Entonces</b> el sistema le permite ver y editar los detalles registrados previamente, manteniendo un registro preciso y actualizado de la producción de la granja.
     </td> 
-    <td>###</td> 
+    <td>EP12</td> 
 </tr>
 
 <tr>
-    <td>US-22</td> 
+    <td>US-14</td> 
     <td>Emitir alertas de emergencia de manera eficaz</td>
     <td>Como trabajador en la granja, quiere emitir alertas sobre cualquier emergencia a sus colegas y supervisores de manera eficaz e inmediata.</td>
     <td>
@@ -349,10 +349,192 @@ POR ARREGLAR
         <b>Cuando</b> sus colegas y supervisores reciben la alerta<br>
         <b>Entonces</b> el sistema muestra una confirmación de recepción para garantizar que la alerta haya sido recibida y comprendida.
     </td> 
-    <td>###</td> 
+    <td>EP06</td> 
 </tr>
 
+<tr>
+    <td>US-15</td> 
+    <td>Crear un anuncio de la granja</td>
+    <td>Como dueño de la granja, quiere crear un anuncio de su granja, para proporcionar información relevante a empresarios interesados en establecer una alianza estratégica.</td>
+    <td>
+        <b>Scenario 01:</b> Creación de anuncio exitosa<br>
+        <b>Dado</b> que es el dueño de la granja autenticado en el sistema<br>
+        <b>Cuando</b> accede a la sección de creación de anuncios<br>
+        <b>Entonces</b> el sistema le permite crear un anuncio proporcionando detalles como descripción de la granja, ubicación, tipo de cultivos, y contacto.<br><br>
+        <b>Scenario 02:</b> Falla en la creación del anuncio<br>
+        <b>Dado</b> que es el dueño de la granja autenticado en el sistema<br>
+        <b>Cuando</b> completa el formulario de creación de anuncio con información incompleta o inválida<br>
+        <b>Entonces</b> el sistema muestra un mensaje de error e indica los campos que necesitan ser corregidos.
+    </td> 
+    <td>EP08</td>
+</tr>
 
+<tr>
+    <td>US-16</td> 
+    <td>Editar un anuncio publicado</td>
+    <td>Como dueño de la granja, quiere editar un anuncio publicado, para actualizar la información de su granja cuando sea necesario.</td>
+    <td>
+        <b>Scenario 01:</b> Edición de anuncio exitosa<br>
+        <b>Dado</b> que tiene un anuncio publicado<br>
+        <b>Cuando</b> accede a la sección de anuncios y selecciona un anuncio para editar<br>
+        <b>Entonces</b> el sistema le permite modificar la información del anuncio y guardar los cambios.<br><br>
+        <b>Scenario 02:</b> Falla en la edición del anuncio<br>
+        <b>Dado</b> que tiene un anuncio publicado<br>
+        <b>Cuando</b> intenta editar el anuncio pero ocurre un error en el sistema<br>
+        <b>Entonces</b> el sistema muestra un mensaje de error indicando que no se pudo guardar los cambios y sugiere intentar nuevamente más tarde.
+    </td> 
+    <td>EP08</td> 
+</tr>
+<tr>
+    <td>US-17</td> 
+    <td>Eliminar un anuncio publicado</td>
+    <td>Como dueño de la granja, quiere eliminar un anuncio publicado, para retirar la información de su granja de la plataforma cuando ya no esté interesado en establecer alianzas.</td>
+    <td>
+        <b>Scenario 01:</b> Eliminación de anuncio exitosa<br>
+        <b>Dado</b> que tiene un anuncio publicado<br>
+        <b>Cuando</b> accede a la sección de anuncios y selecciona un anuncio para eliminar<br>
+        <b>Entonces</b> el sistema elimina el anuncio de la plataforma y confirma la eliminación.<br><br>
+        <b>Scenario 02:</b> Falla en la eliminación del anuncio<br>
+        <b>Dado</b> que tiene un anuncio publicado<br>
+        <b>Cuando</b> intenta eliminar el anuncio pero ocurre un error en el sistema<br>
+        <b>Entonces</b> el sistema muestra un mensaje de error indicando que no se pudo eliminar el anuncio y sugiere intentar nuevamente más tarde.
+    </td> 
+    <td>EP08</td> 
+</tr>
+
+<tr>
+    <td>US-18</td> 
+    <td>Registrarse en la plataforma</td>
+    <td>Como dueño de la granja, quiere registrarse en la plataforma, para poder crear y gestionar su cuenta y acceder a las funcionalidades del sistema.</td>
+    <td>
+        <b>Scenario 01:</b> Registro exitoso<br>
+        <b>Dado</b> que es un usuario nuevo<br>
+        <b>Cuando</b> accede a la página de registro y completa el formulario con información válida<br>
+        <b>Entonces</b> el sistema crea su cuenta y le envía una confirmación de registro.<br><br>
+        <b>Scenario 02:</b> Registro fallido por información inválida<br>
+        <b>Dado</b> que es un usuario nuevo<br>
+        <b>Cuando</b> completa el formulario de registro con información inválida o incompleta<br>
+        <b>Entonces</b> el sistema muestra mensajes de error indicando los campos que deben corregirse.<br><br>
+        <b>Scenario 03:</b> Registro fallido por cuenta existente<br>
+        <b>Dado</b> que es un usuario nuevo<br>
+        <b>Cuando</b> intenta registrarse con un correo electrónico ya existente<br>
+        <b>Entonces</b> el sistema muestra un mensaje indicando que ya existe una cuenta con ese correo electrónico y sugiere iniciar sesión o recuperar la contraseña.
+    </td> 
+    <td>EP16</td> 
+</tr>
+<tr>
+    <td>US-19</td> 
+    <td>Iniciar sesión en la plataforma</td>
+    <td>Como dueño de la granja, quiere iniciar sesión en la plataforma, para poder acceder a su cuenta y gestionar su granja.</td>
+    <td>
+        <b>Scenario 01:</b> Inicio de sesión exitoso<br>
+        <b>Dado</b> que es un usuario registrado<br>
+        <b>Cuando</b> introduce su correo electrónico y contraseña correctos en la página de inicio de sesión<br>
+        <b>Entonces</b> el sistema le permite acceder a su cuenta y le muestra su panel de control.<br><br>
+        <b>Scenario 02:</b> Inicio de sesión fallido por credenciales incorrectas<br>
+        <b>Dado</b> que es un usuario registrado<br>
+        <b>Cuando</b> introduce un correo electrónico o contraseña incorrectos<br>
+        <b>Entonces</b> el sistema muestra un mensaje de error indicando que las credenciales no son correctas e invita a intentar nuevamente.<br><br>
+        <b>Scenario 03:</b> Recuperación de contraseña<br>
+        <b>Dado</b> que es un usuario registrado<br>
+        <b>Cuando</b> no recuerda su contraseña<br>
+        <b>Entonces</b> el sistema le proporciona una opción para recuperar su contraseña mediante un enlace de restablecimiento enviado a su correo electrónico.
+    </td> 
+    <td>EP16</td> 
+</tr>
+
+<tr>
+    <td>US-20</td> 
+    <td>Crear un perfil de trabajador</td>
+    <td>Como dueño de la granja, quiere crear un perfil para cada trabajador, para mantener un registro organizado y detallado de sus empleados.</td>
+    <td>
+        <b>Scenario 01:</b> Creación de perfil de trabajador exitosa<br>
+        <b>Dado</b> que es el dueño de la granja autenticado en el sistema<br>
+        <b>Cuando</b> accede a la sección de gestión de empleados y completa el formulario de nuevo trabajador<br>
+        <b>Entonces</b> el sistema crea un perfil para el trabajador y lo añade a la lista de empleados.<br><br>
+        <b>Scenario 02:</b> Falla en la creación del perfil de trabajador<br>
+        <b>Dado</b> que es el dueño de la granja autenticado en el sistema<br>
+        <b>Cuando</b> introduce información incompleta o inválida en el formulario de nuevo trabajador<br>
+        <b>Entonces</b> el sistema muestra un mensaje de error indicando los campos que deben corregirse.
+    </td> 
+    <td>EP04</td> 
+</tr>
+<tr>
+    <td>US-21</td> 
+    <td>Visualizar la lista de trabajadores</td>
+    <td>Como dueño de la granja, quiere visualizar la lista de todos sus trabajadores, para tener un conocimiento claro de su fuerza laboral.</td>
+    <td>
+        <b>Scenario 01:</b> Acceso a la lista de trabajadores<br>
+        <b>Dado</b> que es el dueño de la granja autenticado en el sistema<br>
+        <b>Cuando</b> accede a la sección de gestión de empleados<br>
+        <b>Entonces</b> el sistema le muestra una lista completa de todos los trabajadores con sus detalles respectivos.<br><br>
+        <b>Scenario 02:</b> Visualización de detalles del trabajador<br>
+        <b>Dado</b> que está viendo la lista de trabajadores<br>
+        <b>Cuando</b> selecciona un trabajador específico<br>
+        <b>Entonces</b> el sistema le muestra información detallada sobre ese trabajador, incluyendo su puesto, fecha de inicio, y contacto.
+    </td> 
+    <td>EP04</td> 
+
+</tr>
+<tr>
+ <td>US-22</td> 
+    <td>Eliminar el perfil de un trabajador</td>
+    <td>Como dueño de la granja, quiere eliminar el perfil de un trabajador, para mantener la lista de empleados actualizada cuando un trabajador ya no forme parte del equipo.</td>
+    <td>
+        <b>Scenario 01:</b> Eliminación de perfil de trabajador exitosa<br>
+        <b>Dado</b> que es el dueño de la granja autenticado en el sistema<br>
+        <b>Cuando</b> accede a la sección de gestión de empleados y elimina el perfil de un trabajador<br>
+        <b>Entonces</b> el sistema elimina el perfil del trabajador de la lista y muestra un mensaje de confirmación.<br><br>
+        <b>Scenario 02:</b> Falla en la eliminación del perfil de trabajador<br>
+        <b>Dado</b> que es el dueño de la granja autenticado en el sistema<br>
+        <b>Cuando</b> intenta eliminar el perfil de un trabajador pero ocurre un error en el sistema<br>
+        <b>Entonces</b> el sistema muestra un mensaje de error indicando que no se pudo eliminar el perfil y sugiere intentar nuevamente más tarde.
+    </td> 
+    <td>EP04</td> 
+</tr>
+
+<tr>
+    <td>US-23</td> 
+    <td>Registrarse en la plataforma como dueño de empresa</td>
+    <td>Como dueño de una empresa, quiere registrarse en la plataforma, para poder crear y gestionar su cuenta y acceder a las funcionalidades del sistema.</td>
+    <td>
+        <b>Scenario 01:</b> Registro exitoso<br>
+        <b>Dado</b> que es un usuario nuevo<br>
+        <b>Cuando</b> accede a la página de registro y completa el formulario con información válida<br>
+        <b>Entonces</b> el sistema crea su cuenta y le envía una confirmación de registro.<br><br>
+        <b>Scenario 02:</b> Registro fallido por información inválida<br>
+        <b>Dado</b> que es un usuario nuevo<br>
+        <b>Cuando</b> completa el formulario de registro con información inválida o incompleta<br>
+        <b>Entonces</b> el sistema muestra mensajes de error indicando los campos que deben corregirse.<br><br>
+        <b>Scenario 03:</b> Registro fallido por cuenta existente<br>
+        <b>Dado</b> que es un usuario nuevo<br>
+        <b>Cuando</b> intenta registrarse con un correo electrónico ya existente<br>
+        <b>Entonces</b> el sistema muestra un mensaje indicando que ya existe una cuenta con ese correo electrónico y sugiere iniciar sesión o recuperar la contraseña.
+    </td> 
+    <td>17</td> 
+</tr>
+<tr>
+    <td>US-24</td> 
+    <td>Iniciar sesión en la plataforma como dueño de empresa</td>
+    <td>Como dueño de una empresa, quiere iniciar sesión en la plataforma, para poder acceder a su cuenta y gestionar su empresa.</td>
+    <td>
+        <b>Scenario 01:</b> Inicio de sesión exitoso<br>
+        <b>Dado</b> que es un usuario registrado<br>
+        <b>Cuando</b> introduce su correo electrónico y contraseña correctos en la página de inicio de sesión<br>
+        <b>Entonces</b> el sistema le permite acceder a su cuenta y le muestra su panel de control.<br><br>
+        <b>Scenario 02:</b> Inicio de sesión fallido por credenciales incorrectas<br>
+        <b>Dado</b> que es un usuario registrado<br>
+        <b>Cuando</b> introduce un correo electrónico o contraseña incorrectos<br>
+        <b>Entonces</b> el sistema muestra un mensaje de error indicando que las credenciales no son correctas e invita a intentar nuevamente.<br><br>
+        <b>Scenario 03:</b> Recuperación de contraseña<br>
+        <b>Dado</b> que es un usuario registrado<br>
+        <b>Cuando</b> no recuerda su contraseña<br>
+        <b>Entonces</b> el sistema le proporciona una opción para recuperar su contraseña mediante un enlace de restablecimiento enviado a su correo electrónico.
+    </td> 
+    <td>17</td> 
+</tr>
+
+</table>
 
 
 
