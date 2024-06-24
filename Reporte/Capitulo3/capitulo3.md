@@ -7,23 +7,24 @@
 
 ## 3.2 User Stories
 
-| Epic / Story ID 	    | Título 	                                                 | Descripción 	                                                                                                                                                                                                      | Criterios de Aceptación 	 | Relacionado con Epic ID 	|
-|----------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----------------------	|
-| EP01               	 | Información de la aplicación      	                      | **Como** visitante del landing page **Quiero** obtener información relacionada a la aplicación **Para** conocer los beneficios que obtendré al usarlo                                                              | No Corresponde | No Corresponde|
-| EP02               	 | Vinculo entre el landing page y la aplicación web      	 | **Como** visitante del landing page **Quiero** poder ingresar a la aplicación web **Para** probar la aplicación de FarmLogitech                                                                                    | No Corresponde  |No Corresponde|
-| EP03               	 | Crear tareas       	                                     | **Como** dueño de una granja **Quiero** poder crear y asignar tareas a mis trabajadores **Para** que estos tengan conocimiento de lo que deben realizar en tiempo real                                             | No Corresponde  | No Corresponde|
-| EP04               	 | Gestionar empleados       	                              | **Como** dueño de una granja **Quiero** poder crear y visualizar a mis trabajadores **Para** que tener conocimiento de con cuantos trabajadores cuento y se debo añadir alguno                                     | No Corresponde | No Corresponde|
-| EP05               	 | Visualizar datos estadísticos       	                    | **Como** dueño de una granja **Quiero** poder  visualizar mis datos estadísticos **Para** tener conocimiento de mis ganancias anules o mensuales, animales enfermos y cumplimiento de tareas                       | No Corresponde |No Corresponde|
-| EP06               	 | Gestionar emergencias       	                            | **Como** dueño de una granja **Quiero** poder crear emergencias **Para** que mis trabajadores sepan cuando hay una tarea que debe ser realizada en ese mismo momento                                               | No Corresponde| No Corresponde|
+| Epic / Story ID 	    | Título 	                                                 | Descripción 	                                                                                                                                                                                                    | Criterios de Aceptación 	 | Relacionado con Epic ID 	|
+|----------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----------------------	|
+| EP01               	 | Información de la aplicación      	                      | **Como** visitante del landing page **Quiero** obtener información relacionada a la aplicación **Para** conocer los beneficios que obtendré al usarlo                                                            | No Corresponde | No Corresponde|
+| EP02               	 | Vinculo entre el landing page y la aplicación web      	 | **Como** visitante del landing page **Quiero** poder ingresar a la aplicación web **Para** probar la aplicación de FarmLogitech                                                                                  | No Corresponde  |No Corresponde|
+| EP03               	 | Crear tareas       	                                     | **Como** dueño de una granja **Quiero** poder crear y asignar tareas a mis trabajadores **Para** que estos tengan conocimiento de lo que deben realizar en tiempo real                                           | No Corresponde  | No Corresponde|
+| EP04               	 | Gestionar empleados       	                              | **Como** dueño de una granja **Quiero** poder crear y visualizar a mis trabajadores **Para** que tener conocimiento de con cuantos trabajadores cuento y se debo añadir alguno                                   | No Corresponde | No Corresponde|
+| EP05               	 | Visualizar datos estadísticos       	                    | **Como** dueño de una granja **Quiero** poder  visualizar mis datos estadísticos **Para** tener conocimiento de mis ganancias anules o mensuales, animales enfermos y cumplimiento de tareas                     | No Corresponde |No Corresponde|
+| EP06               	 | Gestionar emergencias       	                            | **Como** dueño de una granja **Quiero** poder crear emergencias **Para** que mis trabajadores sepan cuando hay una tarea que debe ser realizada en ese mismo momento                                             | No Corresponde| No Corresponde|
 | EP07               	 | Gestionar el inventario                                  | **Como** dueño de una granja **Quiero** poder agregar semillas, cultivos y animales a mi inventario **Para** poder revisar si faltan semillas, cultivos o animales y de esa manera buscar mejorar la productividad |No Corresponde| No Corresponde|
-| EP08               	 | Publicar anuncio de la granja       	                    | **Como** dueño de una granja **Quiero** publicar un anuncio de mi granja **Para** que empresarios interesados en establecer un alianza estrátegica se contacten conmigo                                            | No Corresponde| No Corresponde	|
-| EP09               	 | Visualizar anuncios de granja                            | **Como** dueño de una empresa **Quiero** visualizar anuncios de granjas **Para** poder establecer una alianza estrátegica con una granja que se ajuste a la visión de mi empresa                                   | No Corresponde| No Corresponde|
-| EP10               	 | Contactar granja       	                                 | **Como** dueño de una granja **Quiero** contactar a la granja en la que estoy interesado **Para** llegar a un acuerdo y establecer una alianza                                                                     | No Corresponde|No Corresponde|
-| EP11               	 | Calificar granja    	                                    | **Como** dueño de una granja **Quiero** poner una calificación a la granja con la que trabajé **Para** que otros empresarios tengan una referencia del trabajo de la granja                                        | No Corresponde | No Corresponde|
-| EP12               	 | Visualizar tareas                                        | **Como** trabajador de una granja **Quiero** visualizar las tareas que me asigno el dueño de la granja **Para** poder realizar las tareas del día                                                                  | No Corresponde| No Corresponde|
-| EP13               	 | Visualizar el pronostico climático                       | **Como** trabajador de una granja **Quiero** visualizar el pronostico meteorologico **Para** preparar a los animales o cultivos de acuerdo al posible estado del clima                                             | No Corresponde| No Corresponde|
-| EP14               	 | Visualizar emergencias                                   | **Como** trabajador de una granja **Quiero** visualizar las emergencias **Para** poder solucionar las emergencias problemas rapidamente          	                                                                 | No Corresponde| No Corresponde|
-| EP15               	 | Modificar el inventario                                  | **Como** trabajador de una granja **Quiero** modificar el inventario **Para** que mis compañeros y el dueño de la granja esten al tanto del inventario        	                                                    | No Corresponde| No Corresponde|
+| EP08               	 | Publicar anuncio de la granja       	                    | **Como** dueño de una granja **Quiero** publicar un anuncio de mi granja **Para** que empresarios interesados en establecer un alianza estrátegica se contacten conmigo                                          | No Corresponde| No Corresponde	|
+| EP09               	 | Visualizar anuncios de granja                            | **Como** dueño de una empresa **Quiero** visualizar anuncios de granjas **Para** poder establecer una alianza estrátegica con una granja que se ajuste a la visión de mi empresa                                 | No Corresponde| No Corresponde|
+| EP10               	 | Contactar granja       	                                 | **Como** dueño de una granja **Quiero** contactar a la granja en la que estoy interesado **Para** llegar a un acuerdo y establecer una alianza                                                                   | No Corresponde|No Corresponde|
+| EP11               	 | Calificar granja    	                                    | **Como** dueño de una granja **Quiero** poner una calificación a la granja con la que trabajé **Para** que otros empresarios tengan una referencia del trabajo de la granja                                      | No Corresponde | No Corresponde|
+| EP12               	 | Visualizar tareas                                        | **Como** trabajador de una granja **Quiero** visualizar las tareas que me asigno el dueño de la granja **Para** poder realizar las tareas del día                                                                | No Corresponde| No Corresponde|
+| EP13               	 | Visualizar el pronostico climático                       | **Como** trabajador de una granja **Quiero** visualizar el pronostico meteorologico **Para** preparar a los animales o cultivos de acuerdo al posible estado del clima                                           | No Corresponde| No Corresponde|
+| EP14               	 | Visualizar emergencias                                   | **Como** trabajador de una granja **Quiero** visualizar las emergencias **Para** poder solucionar las emergencias problemas rapidamente          	                                                               | No Corresponde| No Corresponde|
+| EP15               	 | Modificar el inventario                                  | **Como** trabajador de una granja **Quiero** modificar el inventario **Para** que mis compañeros y el dueño de la granja esten al tanto del inventario        	                                                  | No Corresponde| No Corresponde|
+| EP16               	 | Gestionar cuentas                                        | **Como** trabajador de una granja **Quiero** tener la capacidad de crear una cuenta **Para** comenzar a gestionar los procesos de mi granjas y concretar futuras alianzas estrategicas        	                  | No Corresponde| No Corresponde|
 
 <table>
     <tr>
@@ -38,32 +39,24 @@
     <td>Ver descripción clara y concisa de los servicios en la landing page</td>
     <td>Como visitante, quiero ver una descripción clara y concisa de los servicios ofrecidos en la landing page, para comprender rápidamente cómo pueden beneficiar a mi operación agrícola o ganadera.</td>
     <td>
-        <b>Scenario 01:</b> Acceso exitoso a la descripción de servicios en la landing page<br>
-        <b>Dado</b> que un visitante ingresa a la landing page por primera vez<br>
-        <b>Cuando</b> observa la sección de servicios ofrecidos<br>
-        <b>Entonces</b> el visitante puede leer fácilmente una descripción clara y concisa de los servicios agrícolas y ganaderos.<br><br>
-        <b>Scenario 02:</b> Error al acceder a la descripción de servicios en la landing page<br>
-        <b>Dado</b> que un visitante ingresa la landing page por primera vez<br>
-        <b>Cuando</b> intenta acceder a la sección de servicios ofrecidos<br>
-        <b>Entonces</b> el visitante se confunde al no encontrar una descripción clara y concisa de los servicios, lo que podría hacerle perder interés en la plataforma.
+        <b>Scenario 01:</b> Contactar a los desarrolladores<br>
+        <b>Dado</b> que el visitante tiene una consulta <br>
+        <b>Cuando</b> redacte un mensaje y su correo electronico para contactar a los desarrolladores<br>
+        <b>Entonces</b> el mensaje le llegara a los desarrolladores.<br><br>
     </td>
-    <td>###</td> 
+    <td>EP01</td> 
 </tr>
 <tr>
     <td>US-02</td> 
-    <td>Encontrar fácilmente los precios y planes de suscripción en la landing page</td>
-    <td>Como visitante del segmento agropecuario, quiero encontrar fácilmente los precios y planes de suscripción disponibles en la landing page, para evaluar la viabilidad económica de utilizar la plataforma en mi granja.</td>
+    <td>Vinculo entre el Landing Page y la Aplicación Web</td>
+    <td>Como visitante interesado en la aplicación, quiero probar la aplicación web desde la Landing Page.</td>
     <td>
-        <b>Scenario 01:</b> Acceso exitoso a los precios y planes de suscripción en la landing page<br>
-        <b>Dado</b> que un visitante del segmento agropecuario visita la landing page por primera vez<br>
-        <b>Cuando</b> busca información sobre precios y planes de suscripción<br>
-        <b>Entonces</b> el visitante del segmento agropecuario puede encontrar rápidamente una sección dedicada que describe los diferentes precios y planes de suscripción disponibles, con claridad sobre lo que incluye cada uno y sus costos asociados.<br><br>
-        <b>Scenario 02:</b> Dificultad para encontrar precios y planes de suscripción en la landing page<br>
-        <b>Dado</b> que un visitante del segmento agropecuario visita la landing page por primera vez<br>
-        <b>Cuando</b> busca información sobre precios y planes de suscripción<br>
-        <b>Entonces</b> el visitante del segmento agropecuario se frustra al no encontrar fácilmente la información que busca, lo que puede generar dudas sobre la transparencia de la plataforma y su viabilidad económica para su granja.
-    </td>
-    <td>###</td> 
+        <b>Scenario 01:</b> El visitante ingresa a la aplicación<br>
+        <b>Dado</b> que el visitante desea usar la aplicación<br>
+        <b>Cuando</b> ingrese a la landing page y encuentre el botón para acceder a la aplicación. <br>
+        <b>Entonces</b> el visitante será redirigido a la aplicación web y podrá convertirse en nuestro usuario.<br><br>
+   </td>
+    <td>EP02</td> 
 </tr>
 <tr>
     <td>US-03</td> 
