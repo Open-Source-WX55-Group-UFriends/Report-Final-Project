@@ -263,7 +263,7 @@ TF<br><br>
 <b>Pin Matallana, Augusto José</b><br>
 <br> Contribuí con el desarrollo del backend con el frontend, para las conexiones y mejora <br><br>
 <b>Ruiz Blas, Luciano Stefano</b>
-<br> Se encargo de mantener comunicando al grupo
+<br> Contribuí con el desarrollo de endpoints  y conexiones de front a backend en los bounded context restantes. Además colabore con la mejora continua en la documentación aplicando correcciones y mejoras según la retroalimentación de la TB2.
 <br><br>
    </td>
     <td>TB1<br><br>
