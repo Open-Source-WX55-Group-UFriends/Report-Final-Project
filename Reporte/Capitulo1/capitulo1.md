@@ -432,7 +432,7 @@ Mathias Tsuneo Kunimoto Watanabe
     </tr>
     <tr align="center">
         <td rowspan="3">
-<img src="/assets/integrante-rodrigo.jpg">
+<img src="/Assets/integrante-rodrigo.jpg">
         </td>
       <td align="left">
             <b>Nombre y Apellido:</b>
