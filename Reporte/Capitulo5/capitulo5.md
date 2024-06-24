@@ -1737,9 +1737,14 @@ En este sprint backlog, desarrollamos la implementacion de nuestros endpoint de 
 
 Link del trello: https://trello.com/b/WJXt50JP/farmlogitech
 
-| Technical User Story | WorkItem / Task | Id  | Title | Description | Estimation (Hours) | Assigned To | Status(Todo/InProcess/ToReview/Done) |
-|----------------------|-----------------|-----|-------|-------------|--------------------|-------------|--------------------------------------|
-| 1 | 1 | 1 | Implementar el endpoint de login | Implementar el endpoint de login para que los usuarios puedan loguearse en la aplicacion | 4 | Rodrigo Aguilar | Done |
+| Technical User Story | WorkItem / Task |||||||
+|----------------------|-----------------|----|----|-------------|------|--------------|--------|
+| Id | Title | Id | Title | Description | Estimation (Hours) | **Assigned To** | **Status** |
+| US09 | Elegir método de pago para suscripción | TK01 | Crear endpoint para elegir método de pago | Crear endpoint que permita la elección del método de pago para la suscripción. | 4 | **Luciano Ruiz** | **Done** |
+| US02 | Vinculo entre el Landing Page y la Aplicación Web | TK02 | Configurar autenticación para acceso a la aplicación | Implementar en el backend la lógica de autenticación necesaria para permitir el acceso seguro desde la landing page a la aplicación web. | 5 | **Mathias Kunimoto** | **Done** |
+| US03 | Crear y asignar tareas a los trabajadores | TK03 | Mejora de la interfaz de gestión de tareas | Optimizar la interfaz existente para permitir al dueño de la granja crear y asignar tareas a los trabajadores de manera más eficiente. | 6 | **Franz Escalante** | **Done** |
+| US05 | Registrar progreso de tareas | TK04 | Mejora de la API para registro de progreso de tareas | Actualizar la API en el backend para mejorar la capacidad de los trabajadores de registrar y actualizar el progreso de sus tareas asignadas. | 5 | **Augusto Pin** | **Done** |
+| US10 | Verificar niveles de inventario | TK05 | Mejora del sistema de seguimiento de inventario | Optimizar el sistema existente en el backend para rastrear y actualizar los niveles de inventario de productos agrícolas y ganaderos de manera más precisa. | 8 | **Rodrigo Aguilar** | **Done** |
 
 
 ### 5.3.4.3 Development Evidence for Sprint Review.
