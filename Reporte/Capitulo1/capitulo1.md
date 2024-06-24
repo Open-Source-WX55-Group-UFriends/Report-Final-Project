@@ -196,50 +196,179 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
     <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
     <td> TB1<br><br>
          <b>Kunimoto Watanabe Mathias Tsuneo</b><br>
-<br> Capítulo 1        <br><br> 
+<br> Encargado de llevar a cabo entrevistas con un grupo específico de personas, también encabezó la sección del landing page y capitulo. Además, colaboró en la creación de la página de aterrizaje utilizando los diseños proporcionados en Figma.       <br><br> 
          <b>Aguilar Castillo, Rodrigo Alejandro </b><br>
-<br> Capítulo 5         <br><br> 
+<br> En esta entrega, se realizaron los diseños del Web Applications UX/UI tales como wireframes y mockups usando la herramienta figma. Me encargué de la elaboración de las preguntas objetivas y subjetivas para poder entrevistar a nuestro segmento objetivo posteriormente. Asimismo, estuve al tanto del equipo y sus avances.         <br><br> 
          <b>Escalante Baygorrea, Janiel Franz</b><br>
-<br> Capítulo 2         <br><br>
+<br> En esta entrega se realicé el diseño de la experiencia de usuario (UX) y la interfaz de usuario (UI) para aplicaciones web. Una característica destacada de este diseño es el enfoque en la usabilidad y la accesibilidad para garantizar que los usuarios puedan interactuar de manera efectiva con la aplicación.
+         <br><br>
         <b>Pin Matallana, Augusto José</b><br>
-<br> Capítulo 2           <br><br> 
+<br> En esta entrega, me encargue de realizar y apoyar en la creación de los diagramas de clase y de base de datos, así como su diccionario. También, desarrollé parte del capitulo 5 y el landing page           <br><br> 
         <b>Ruiz Blas, Luciano Stefano</b>
-<br> Capítulo 3           <br><br>
+<br> Para el trabajo se hizo uso de github para documentar el trabajo de modo que se aprendió a utilizar conventional commits y gitflow de modo que se pueda tener una correcta comunicación escrita en lo que corresponde a la documentación del proyecto, además de aprender a utiizar el lenguaje markdown para comunicarlo mediante github en un archivo README.md.
+           <br><br>
+
+TP1<br><br>
+<b>Kunimoto Watanabe Mathias Tsuneo</b><br>
+<br> Mediante la implementacion de esta entrega, hemos completado integrar las funcionalidades relacionadas con las búsquedas y encontrar granjas en la plataforma.
+<br><br>
+<b>Aguilar Castillo, Rodrigo Alejandro </b><br>
+<br> Durante esta entrega, llevamos a cabo la implementación completa de los features relacionados con las suscripciones y los métodos de pago.<br><br>
+<b>Escalante Baygorrea, Janiel Franz</b><br>
+<br> Durante esta fase de desarrollo, hemos completado la implementación total de las funcionalidades vinculadas al dashboard analytics y c4 model.
+<br><br>
+<b>Pin Matallana, Augusto José</b><br>
+<br> En esta etapa del desarrollo, hemos finalizado la implementación completa de todas las funciones relacionadas con el social-interaction y el communication management <br><br>
+<b>Ruiz Blas, Luciano Stefano</b>
+<br> Durante esta fase de desarrollo, hemos completado la implementación total de todas las funcionalidades relacionadas con el monitoreo, la corrección del diagrama de clases, los mapas de empatía y el lenguaje ubiquitous.
+<br><br>
+
+TB2<br><br>
+<b>Kunimoto Watanabe Mathias Tsuneo</b><br>
+<br> He realizado progresos en el back-end de la aplicación web. Los endpoints que he creado están correctamente documentados utilizando la herramienta swagger-ui.
+<br><br>
+<b>Aguilar Castillo, Rodrigo Alejandro </b><br>
+<br> Contribuí a redactar las instrucciones para desplegar el backend de la aplicación, con el objetivo de que futuros desarrolladores puedan entender y replicar el proceso de despliegue por sí mismos.<br><br>
+<b>Escalante Baygorrea, Janiel Franz</b><br>
+<br> Contribuí a la elaboración del back-end y al desarrollo del front-end, logrando un avance significativo conforme a los criterios establecidos y teniendo en cuenta los deseos del cliente.
+<br><br>
+<b>Pin Matallana, Augusto José</b><br>
+<br> Participé en la creación del back-end y en el desarrollo del front-end, asegurando un progreso considerable y cumpliendo con los criterios establecidos, mientras atendía las necesidades del cliente. <br><br>
+<b>Ruiz Blas, Luciano Stefano</b>
+<br> He realizado commits tanto para la landing page como para la aplicación web frontend y los servicios web. Además, he documentado el despliegue de los servicios web para incluir los endpoints en el siguiente sprint.
+<br><br>
+
+TF<br><br>
+<b>Kunimoto Watanabe Mathias Tsuneo</b><br>
+<br> Se encargo de desarrolloar la sección de sign in, sign up y conexion con el frontend.
+<br><br>
+<b>Aguilar Castillo, Rodrigo Alejandro </b><br>
+<br> Se encargó de conectar el frontend y backend, ademas de desarrollar el backend con las conexiones <br><br>
+<b>Escalante Baygorrea, Janiel Franz</b><br>
+<br> Contribuí a la elaboración del testeo del backend con los endpoints, ademas modifico los tasks del bounded context
+<br><br>
+<b>Pin Matallana, Augusto José</b><br>
+<br> Contribuí con el desarrollo del backend con el frontend, para las conexiones y mejora <br><br>
+<b>Ruiz Blas, Luciano Stefano</b>
+<br> Se encargo de mantener comunicando al grupo
+<br><br>
    </td>
     <td>TB1<br><br>
     Seleccionamos un servicio de gestion y logistica de granjas con el fin de ayudar a todas las personas que trabajan en este sector y que la problematica de la falta de organizacion, junto al desperdicio de medios puede llegar a tener perdidas que buscamos preveer con nuestra startup.
 
+TP:
 
-TB2<br><br>
+Implementamos un sitio web para ofrecer un servicio de gestión y logística de granjas, con el objetivo de asistir a todas las personas involucradas en este sector. Nos propusimos abordar la problemática de la falta de organización e implementar todos los feature, que puede ayudar a este sector, mediante nuestra startup.
+
+
+TB2
+
 Durante la TB2 demostramos una participación efectiva y colaborativa en nuestro equipo multidisciplinario. Cada miembro del equipo asumió responsabilidades específicas según sus fortalezas y habilidades, lo que nos permitió avanzar de manera eficiente en la implementación de las funcionalidades clave de la solución. Realizamos reuniones periódicas para coordinar esfuerzos, compartir progresos y resolver cualquier obstáculo que surgiera. Mantuvimos una comunicación abierta y objetiva, tomando decisiones basadas en los requerimientos del proyecto y las necesidades de nuestros usuarios. Gracias al trabajo en equipo y la sinergia generada, logramos cumplir con los objetivos establecidos para este sprint y avanzar de manera significativa en el desarrollo de FarmLogiTech.
-</tr>
 <br><br>
+
+TF
+
+El equipo se encargó de desarrollar las secciones de conexion con el frontend y backend. Trabajamos en la conexión entre el frontend y el backend, asegurando que ambas partes funcionaran correctamente. Además, elaboramos pruebas para el backend y documentamos los endpoints, realizando modificaciones en las tareas del bounded context. En conjunto, nuestras contribuciones se enfocaron en mejorar la funcionalidad y la integración del sistema.<br><br>
+</tr>
+
+
+<br><br>
+
+
   </tr>
+
   <tr>
     <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
-    <td> TB1<br><br>
+    
+<td> 
+TB1<br><br>
+Aguilar Castillo, Rodrigo Alejandro
+
+Encargado de realizar entrevistas a un segmento objetivo, también realizó la sección de sprint, en la cuál está el sprint backlog y sprint planning. Asimismo, apoyó con la elaboración de la landing page utilizando los diseños de figma.<br><br>
  <b>Kunimoto Watanabe Mathias Tsuneo</b><br>
-<br> Capítulo 1        <br><br> 
-         <b>Aguilar Castillo, Rodrigo Alejandro</b><br>
-<br> Capítulo 5         <br><br> 
-<br><br> 
+<br> Encargado de llevar a cabo entrevistas con un grupo específico de personas, también dirigió la sección de sprint, que incluye la lista de tareas pendientes y la planificación del mismo. Además, contribuyó en la creación de la página de inicio utilizando los diseños proporcionados en Figma.        <br><br> 
+
+<br> 
          <b>Escalante Baygorrea, Janiel Franz</b><br>
-<br> Capítulo 2         <br><br> 
-<br><br>
-        <b>Pin Matallana, Augusto José</b><br>
-<br> Capítulo 2       <br><br> 
-<br><br> 
+<br> Me encargué de el diseño de las base de datos y diagrama de clases, que son parte esencial de la implementación de una landing page y un proyecto de Aplicacion Web.        <br><br> 
+<b>Pin Matallana, Augusto José</b><br>
+<br> Durante la ejecución del proyecto, fue fundamental mantener una comunicación constante con nuestro público objetivo para definir claramente nuestra solución. También se priorizó una comunicación efectiva y una organización adecuada a través de reuniones regulares.       <br><br> 
         <b>Ruiz Blas, Luciano Stefano</b>
- <br> Capítulo 3       <br><br> 
-        <b>Barrionuevo Reto, Jean Franco Joel</b>
- <br> Capítulo 3       <br><br> 
+ <br> Me encargue del DDD en integrar los models o systems.      <br><br> 
+<br> 
+
+TP<br><br>
+Aguilar Castillo, Rodrigo Alejandro
+
+En la implementación, gestioné la asignación de tareas al grupo de desarrollo para su implementación durante el sprint. También estuve a cargo de coordinar y ejecutar exitosamente el proceso de merge entre los diferentes branches y la rama principal del repositorio.<b>
+
+Kunimoto Watanabe Mathias Tsuneo</b><br>
+<br>  Además de realizar la implementación, coordiné la asignación de tareas al equipo de desarrollo para su ejecución durante el sprint 2. También tuve la responsabilidad de corregir y llevar a cabo de manera efectiva como arreglar el código.
+<br>
+
+<b>Escalante Baygorrea, Janiel Franz</b><br>
+<br> En la implementación, lideré la gestión relacionada con el monitoreo, la corrección del diagrama de clases, la elaboración de mapas de empatía y el establecimiento del lenguaje ubiquitous.<br><br> 
+<br>
+        <b>Pin Matallana, Augusto José</b><br>
+<br> En la implementación, realice la gestión relacionada con la social-interaction y el communication management.       <br><br> 
+<br>
+        <b>Ruiz Blas, Luciano Stefano</b>
+ <br> Durante esta fase de desarrollo, logré completar totalmente la implementación de las funcionalidades asociadas al dashboard analytics  <br><br> 
+<br> 
+
+TB2<br><br>
+Aguilar Castillo, Rodrigo Alejandro
+
+En la implementación, realice el desarrollo del frontend y mejoras en el landing page.<b>
+
+Kunimoto Watanabe Mathias Tsuneo</b><br>
+<br>  Las entrevistas de validación permitieron analizar las historias de usuario técnicas al obtener información sobre los puntos más relevantes para el usuario final y cómo utilizará la aplicación.
+<br>
+
+<b>Escalante Baygorrea, Janiel Franz</b><br>
+<br> Conduje entrevistas de validación con los usuarios para entender su experiencia con la aplicación. Esto permitió comunicar el estado actual del desarrollo del proyecto y obtener retroalimentación sobre la satisfacción del cliente con la propuesta.<br><br>
+<br>
+<b>Pin Matallana, Augusto José</b><br>
+<br> En la implementación, realice la gestión de mejoras en el frontend y entrevistas a usuarios para mejorar la experiencia      <br><br>
+<br>
+<b>Ruiz Blas, Luciano Stefano</b>
+<br> Me encargué de preparar el backlog del sprint 3 y organizé el sprint en Trello para documentar los progresos y gestionar los entregables. <br><br>
+<br>
+
+TF<br><br>
+Aguilar Castillo, Rodrigo Alejandro
+
+En este entregable final, se dio prioridad al correcto funcionamiento de la aplicación y a proporcionar una buena experiencia al usuario. Se corrigieron errores y se realizaron ajustes en la nomenclatura para mantener un desarrollo futuro más organizado.<b>
+
+Kunimoto Watanabe Mathias Tsuneo</b><br>
+<br> En este entregable final, se enfocó en asegurar el funcionamiento adecuado de la aplicación y en mejorar la experiencia del usuario. Se abordaron errores y se realizaron ajustes en la nomenclatura para facilitar un desarrollo futuro más organizado.
+<br>
+
+<b>Escalante Baygorrea, Janiel Franz</b><br>
+<br> En este desarrollo final, se priorizó garantizar el correcto funcionamiento de la aplicación y mejorar la experiencia del usuario. Se corrigieron errores y se realizaron ajustes en la terminología para mantener un desarrollo futuro más estructurado.<br><br>
+<br>
+<b>Pin Matallana, Augusto José</b><br>
+<br> En este entregable final, se puso énfasis en asegurar que la aplicación funcionara correctamente y en mejorar la experiencia del usuario. Se abordaron problemas, además de establecer las conexiones necesarias con el backend.   <br><br>
+<br>
+<b>Ruiz Blas, Luciano Stefano</b>
+<br> Se trabajó en la elaboración de parte del sprint 4 y se actualizaron secciones del documento correspondiente. <br><br>
+<br>
+
 <br><br>
+
    </td>
     <td>TB1<br><br>
 Gracias al proyecto logramos conocer personas dentro de la industria y lo util que le podria venir una aplicacion como la que estamos proponiendo para el desarrollo de tareas cotidianas.
 
+TP<br><br>
+La ejecución del proyecto nos permitió establecer contactos con profesionales de la industria y comprender cómo nuestra aplicación podría beneficiar al simplificar las actividades cotidianas.
+
 TB2<br><br>
 Durante la TB2 profundizamos nuestro conocimiento del sector agrícola y ganadero a través de entrevistas de validación con usuarios potenciales. Presentamos el avance de nuestro proyecto a propietarios de granjas y trabajadores del sector para obtener retroalimentación valiosa sobre la funcionalidad y usabilidad de nuestra solución. Estas interacciones nos permitieron comprender mejor las necesidades específicas y las expectativas de nuestro público objetivo. Utilizamos este conocimiento para priorizar los requisitos y realizar ajustes en nuestra solución, asegurando que FarmLogiTech aborde de manera efectiva los desafíos y oportunidades del sector. Además, nuestro análisis continuo del dominio nos permitió identificar áreas de mejora y funcionalidades adicionales que podrían beneficiar a nuestros usuarios en el futuro.
+
+TF<br><br>
+En este entregable final, nuestro equipo se centró en dos aspectos clave, garantizar el correcto funcionamiento de la aplicación y mejorar la experiencia del usuario. Se corrigieron errores significativos y se realizaron ajustes en la nomenclatura para asegurar que el desarrollo futuro sea más organizado y eficiente. Además, se avanzó en la elaboración del sprint 4 y se actualizaron secciones importantes del documento correspondiente. Este enfoque no solo fortaleció la base técnica del proyecto, sino que también sentó las bases para iteraciones futuras que puedan continuar mejorando tanto la funcionalidad como la usabilidad de la aplicación.
+
 </tr>
 <br><br>
 
