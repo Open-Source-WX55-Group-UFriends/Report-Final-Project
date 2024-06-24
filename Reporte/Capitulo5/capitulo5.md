@@ -1396,28 +1396,7 @@ Prueba de que esta enlazado con el Netlify
 <img src="/Assets/img-farm-controller-2.png" alt="farm-controller-2"/></img>
 <img src="/Assets/img-farm-controller-3.png" alt="farm-controller-3"/></img>
 <img src="/Assets/img-farm-controller-4.png" alt="farm-controller-4"/></img>
-<img src="/Assets/img-farm-controller-5.png" alt="farm-controller-5"/></img>
-<img src="/Assets/img-farm-controller-6.png" alt="farm-controller-6"/></img>
-<img src="/Assets/img-user-controller.png" alt="user-controller-1"/></img>
-<img src="/Assets/img-user-controller-2.png" alt="user-controller-2"/></img>
-<img src="/Assets/img-task-controller-1.png" alt="task-controller-1"/></img>
-<img src="/Assets/img-task-controller-2.png" alt="task-controller-1"/></img>
-<img src="/Assets/img-task-controller-3.png" alt="task-controller-1"/></img>
-<img src="/Assets/img-social-controller-1.png" alt="social-controller-1"/></img>
-<img src="/Assets/img-social-controller-2.png" alt="social-controller-1"/></img>
-<img src="/Assets/img-social-controller-3.png" alt="social-controller-1"/></img>
-<img src="/Assets/img-shed-controller.png" alt="shed-controller"/></img>
-<img src="/Assets/img-shed-controller-2.png" alt="shed-controller-2"/></img>
-<img src="/Assets/img-shed-controller-3.png" alt="shed-controller-3"/></img>
-<img src="/Assets/img-income-controller.png" alt="income-controller"/></img>
-<img src="/Assets/img-expense-controller.png" alt="expense-controller"/></img>
-<img src="/Assets/img-crop-controller-1.png" alt="crop-controller"/></img>
-<img src="/Assets/img-crop-controller-2.png" alt="crop-controller-2"/></img>
-<img src="/Assets/img-crop-controller-3.png" alt="crop-controller-3"/></img>
-<img src="/Assets/img-animal-controller-1.png" alt="animal-controller"/></img>
-<img src="/Assets/img-animal-controller-2.png" alt="animal-controller-2"/></img>
-<img src="/Assets/img-animal-controller-3.png" alt="animal-controller-3"/></img>
-<img src="/Assets/img-message-controller.png" alt="message-controller"/></img>
+
 
 ### 5.2.3.8 Insights de Colaboración del Equipo durante el Sprint
 
@@ -1803,27 +1782,41 @@ Link del trello: https://trello.com/b/WJXt50JP/farmlogitech
 |---------------------------------------|--------|----------------|------------------|-----------------------|--------------------|
 | Open-Source-WX55-Group-UFriends | "main" | feat(testing)  | testing evidence | test of farm-logitech | 23/06/2024         |
 
-poner imagenes del testing
+#### Subscription repository test 
+<img src="/Assets/img-testing.png" alt="message-controller"/></img>
 
+#### Aws test
+
+<img src="/Assets/img-testo-aws.png" alt="message-controller"/></img>
 
 ### 5.3.4.5 Execution Evidence for Sprint Review.
-En el sprint 4 se logró un desarrollo parcial tanto del frontend como del backend de la aplicación web.
+En el sprint 4 se logró un desarrollo parcial tanto en la conexion del frontend como del backend de la aplicación web.
 Este avance incluye nuevas vistas relevantes sobre el producto y la startup, disponibles en inglés y español, así como una versión responsive.
 A continuación, se presentan algunas evidencias:
 
-Poner imagenes de evidencia
+- US09
+  <img src="/Assets/img-website-page-9.png" alt="US09"/></img>
+
+- US14
+  <img src="/Assets/img-website-page-7.png" alt="US14"/></img>
+
+- US15
+  <img src="/Assets/img-website-page.png" alt="US15"/></img>
+
+- US16
+  <img src="/Assets/img-website-page-8.png" alt="US16"/></img>
+
+- US21
+  <img src="/Assets/img-us-21.png" alt="US21"/></img>
+
+- US22
+  <img src="/Assets/img-website-page-16.png" alt="US22"/></img>
 
 
 ### 5.3.4.6 Services Documentation Evidence for Sprint Review.
 
 Para el sprint 4, se planificó la conexión del  front-end con el back-end. Inicialmente, se trabajó con el mismo github creando repositorios en donde
 incluimos el db.json para luego enlazarlo llamandolo con la creación de rutas.
-
-<img src="/Assets/img-repo1-json.png" alt="Repo 1"/></img>
-<img src="/Assets/img-repo2-json.png" alt="Repo 2"/></img>
-<img src="/Assets/img-repo3-json.png" alt="Repo 3"/></img>
-<img src="/Assets/img-repo4-json.png" alt="Repo 4"/></img>
-<img src="/Assets/img-repo5-json.png" alt="Repo 5"/></img>
 
 | Endpoint           | Details                                                                                                                                                           |
 |--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1850,12 +1843,20 @@ Link del repositorio: https://github.com/Open-Source-WX55-Group-UFriends/farmLog
 capturas de pantalla de evidencia de que se desplego el front, back y landing
 
 
-
-
 ### 5.4. Video About-The-Product.
 A continuación, se muestra el video "Acerca del producto", el cual ilustra el propósito, beneficios y características principales de la aplicación.
-Enlace para visualizar el video About the product:  
+Enlace para visualizar el video About the product
 Enlace del video subido a Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f978_upc_edu_pe/Edq2VQ_tLzFCuAXx0OFjGtYB5vx7IIgmk30-tS2SMn8z3A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=12oa9I
+
+### Video About-The-Team.
+
+Link del about the team subido en youtube: https://youtu.be/a_Oygo-rW28
+
+Link del about the team subido en Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/EbYt973d3sxCqDbrdSWNQW8B8ls31bD_P7GLliAS32oenQ?e=Qvr5gT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+### Link de la exposicion
+
+Link de la exposicion en Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/ERfwdAQEr49FpzZ6UkObzmoBvTVkY3upyvJoQhoeU6ID3Q?e=hsz9Dj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 # VI. Conclusiones y recomendaciones.
@@ -1868,8 +1869,6 @@ Enlace del video subido a Stream: https://upcedupe-my.sharepoint.com/:v:/g/perso
 6. El uso de Springboot nos ayudo gracias a su capacidad para gestionar fácilmente la lógica de negocios, la persistencia de datos y la integración con tecnologías externas
 7.  As-Is mapping nos proporcionó una comprensión detallada de los procesos existentes, identificando puntos débiles y oportunidades de mejora. Por otro lado, en el To-Be mapping, mostramos la visión futura del proceso optimizado, destacando los cambios planificados y las mejoras esperadas, sirviendo como guía para la transformación y la innovación.
 8. Nuestra aplicación puede ayudar a gobiernos regionales y locales a impulsar la modernización de la industria al  permitir mejorar y controlar los procesos productivos
-
-
 
 
 # VII. Bibliografía.
