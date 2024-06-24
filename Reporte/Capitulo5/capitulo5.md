@@ -1690,8 +1690,8 @@ El spring 4 tiene como inicio el dia 12/06/2024 y como objetivo plantea conectar
 <tr><td>Sprint 4 Retrospective</td><td>En el anterior sprint pudimos mejorar la organizacion de codigo y el como distribuirlo y aislarlo por secciones para que sea mas facil de trabajar, junto a definir la logica de negocio para una mejor experiencia del usuario.</td></tr>
 <tr><td colspan="2">Sprint Goal & User Stories</td></tr>
 <tr><td>Sprint 4 Goal</td><td>Implementar el backend y conectarlo al frontend para desplegar tanto nuestro servicio de API Rest como la aplicacion en si para que pueda ser distribuida.</td></tr>
-<tr><td>Sprint 4 Velocity</td><td>41</td></tr>
-<tr><td>Sum of story points</td><td>41</td></tr>
+<tr><td>Sprint 4 Velocity</td><td>15</td></tr>
+<tr><td>Sum of story points</td><td>15</td></tr>
 </table>
 
 ### 5.3.4.2. Sprint Backlog 4
@@ -1754,6 +1754,11 @@ Link del trello: https://trello.com/b/WJXt50JP/farmlogitech
 
 #### Subscription repository test 
 <img src="/Assets/img-testing.png" alt="message-controller"/></img>
+
+#### Task Repository Test
+
+<img src="/Assets/img-testeo-2.jpg" alt="message-controller"/></img>
+
 
 #### Aws test
 
@@ -1905,8 +1910,56 @@ Prueba de que esta enlazado con Aws
 <img src="/Assets/profile-controller-1.png" alt="profile-controller-1"/></img>
 <img src="/Assets/img-farm-controller-1.png" alt="farm-controller-1"/></img>
 
+### 5.3.4.8. Team Collaboration Insights during Sprint.
 
-### 5.4. Video About-The-Product.
+| Alumno           | Actividad                                                                                                                                                   | 
+|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Rodrigo Aguilar  | Desarrollo backend, contribucion con la conexion y desarrollo con aws                                                                                       |
+| Janiel Escalante | Desplegar la base de datos, el API, realizar mejoras en el bounded context de Task, se le puso verificaciones, reglas de dominio y realice el test unitario |
+| Mathias Kunimoto | Desarrollo de profile managmente y despliegue del frontend para la conexion                                                                                 |
+| Augusto Pin      | Desarrollo del monitoring, animal shed y drop, ademas correciones de tasks                                                                                  |
+| Luciano Ruiz     | Desarrollo del drop en la parte de tasks y conexion analytics.                                                                                              |
+
+
+1. Repositorio Landing Page:
+   (https://github.com/Open-Source-WX55-Group-UFriends/landing-page.git)
+
+   <img src="/Assets/img-repo-landing.png" alt="message-controller"/>
+   <img src="/Assets/img-contributors-tb2.png" alt="message-controller"/>
+   <img src="/Assets/participacion_landing_luciano.png" alt="message-controller"/>
+   <img src="/Assets/participacion_landing_franz.png" alt="message-controller"/>
+
+   Observaciones:
+   - La participación de Luciano Ruiz y Franz en el repositorio de la landing page no se vio reflejada en los insights debido a problemas con la sincronización de github.
+     Logros clave:
+
+2. Repositorio de la Aplicación Web (Frontend):
+   (https://github.com/Open-Source-WX55-Group-UFriends/Frontend-App.git)
+
+   <img src="/Assets/img-repo-front.png" alt="message-controller"/>
+   <img src="/Assets/img-contributors-tb2-frontend.png" alt="message-controller"/>
+
+   Patrones de colaboración:
+   - Se observaron dos grandes impulsos de desarrollo: a principios de mayo y a principios de junio
+   - Contribuciones constantes durante todo el sprint
+
+3. Repositorio Backend:
+   (https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op.git)
+
+   <img src="/Assets/img-repo-backend.png" alt="message-controller"/>
+   <img src="/Assets/img-contributors-tb2-backend.png" alt="message-controller"/>
+
+   Métricas notables:
+   - Un total de 50 commits entre todo el equipo
+   - Más de 21,000 líneas de código añadidas, indicando un desarrollo significativo de características
+
+Los gráficos de contribución muestran un esfuerzo bien distribuido entre el equipo, con un aumento de actividad hacia el final del sprint debido a las fases de integración y pruebas. El repositorio backend vio la mayor actividad, reflejando nuestro enfoque en construir una API robusta para soportar nuestra aplicación web.
+
+De cara al futuro, nuestro objetivo es mantener este nivel de colaboración mientras nos enfocamos en una distribución más uniforme de commits entre todos los miembros del equipo.
+
+
+
+### Video About-The-Product.
 A continuación, se muestra el video "Acerca del producto", el cual ilustra el propósito, beneficios y características principales de la aplicación.
 Enlace para visualizar el video About the product
 Enlace del video subido a Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f978_upc_edu_pe/Edq2VQ_tLzFCuAXx0OFjGtYB5vx7IIgmk30-tS2SMn8z3A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=12oa9I
