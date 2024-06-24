@@ -1702,14 +1702,14 @@ En este sprint backlog, desarrollamos la implementacion de nuestros endpoint de 
 
 Link del trello: https://trello.com/b/WJXt50JP/farmlogitech
 
-| Technical User Story | WorkItem / Task |||||||
-|----------------------|-----------------|----|----|-------------|------|--------------|--------|
-| Id | Title | Id | Title | Description | Estimation (Hours) | **Assigned To** | **Status** |
-| US09 | Elegir método de pago para suscripción | TK01 | Crear endpoint para elegir método de pago | Crear endpoint que permita la elección del método de pago para la suscripción. | 4 | **Luciano Ruiz** | **Done** |
-| US02 | Vinculo entre el Landing Page y la Aplicación Web | TK02 | Configurar autenticación para acceso a la aplicación | Implementar en el backend la lógica de autenticación necesaria para permitir el acceso seguro desde la landing page a la aplicación web. | 5 | **Mathias Kunimoto** | **Done** |
-| US03 | Crear y asignar tareas a los trabajadores | TK03 | Mejora de la interfaz de gestión de tareas | Optimizar la interfaz existente para permitir al dueño de la granja crear y asignar tareas a los trabajadores de manera más eficiente. | 6 | **Franz Escalante** | **Done** |
-| US05 | Registrar progreso de tareas | TK04 | Mejora de la API para registro de progreso de tareas | Actualizar la API en el backend para mejorar la capacidad de los trabajadores de registrar y actualizar el progreso de sus tareas asignadas. | 5 | **Augusto Pin** | **Done** |
-| US10 | Verificar niveles de inventario | TK05 | Mejora del sistema de seguimiento de inventario | Optimizar el sistema existente en el backend para rastrear y actualizar los niveles de inventario de productos agrícolas y ganaderos de manera más precisa. | 8 | **Rodrigo Aguilar** | **Done** |
+| Technical User Story | WorkItem / Task                                   |      |                                                               |                                                                                                                                                              ||||
+|----------------------|---------------------------------------------------|------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|------|--------------|--------|
+| Id                   | Title                                             | Id   | Title                                                         | Description                                                                                                                                                  | Estimation (Hours) | **Assigned To** | **Status** |
+| US20                 | Crear un perfil de trabajador                     | TK33 | Conexión de backend con frontend del apartado de trabajadores | Conectar el API existente con el frontend de filtros y metodos relacionados con la administración de empleados en la empresa.                                | 4 | **Luciano Ruiz** | **Done** |
+| US02                 | Vinculo entre el Landing Page y la Aplicación Web | TK34 | Configurar autenticación para acceso a la aplicación          | Implementar en el backend la lógica de autenticación necesaria para permitir el acceso seguro desde la landing page a la aplicación web.                     | 5 | **Mathias Kunimoto** | **Done** |
+| US03                 | Crear y asignar tareas a los trabajadores         | TK35 | Mejora de la interfaz de gestión de tareas                    | Conectar la interfaz existente para permitir al dueño de la granja crear y asignar tareas a los trabajadores de manera más eficiente.                        | 6 | **Franz Escalante** | **Done** |
+| US05                 | Registrar progreso de tareas                      | TK36 | Mejora de la API para registro de progreso de tareas          | Actualizar la API en el backend para mejorar la capacidad de los trabajadores de registrar y actualizar el progreso de sus tareas asignadas.                 | 5 | **Augusto Pin** | **Done** |
+| US10                 | Verificar niveles de inventario                   | TK37 | Mejora del sistema de seguimiento de inventario               | Conectar el sistema existente con el frontend para rastrear y actualizar los niveles de inventario de productos agrícolas y ganaderos de manera más precisa. | 8 | **Rodrigo Aguilar** | **Done** |
 
 
 ### 5.3.4.3 Development Evidence for Sprint Review.
@@ -1976,15 +1976,60 @@ Link de la exposicion en Stream: https://upcedupe-my.sharepoint.com/:v:/g/person
 
 
 # VI. Conclusiones y recomendaciones.
+## Conclusiones
 
-1. El uso de Lean UX, fue de gran ayuda gracias a su enfoque iterativo, que  permite adaptarse rápidamente a los cambios del la aplicación y las necesidades del usuario, promoviendo así la eficiencia al desarrollar el producto.
-2. Conventional Commits establecio un estándar para mensajes de confirmación claros y estructurados, lo que facilitó la comprensión del historial de cambios.
-3. Los diagramas de arquitectura de dominio facilitaron la comprensión de las relaciones entre el dominio y sus contextos delimitados
-4. Como equipo buscamos priorizar la comprensión profunda del negocio y su contexto, mediante la colaboración entre expertos técnicos y de dominio.
-5. El enfoque en la modularidad y la reutilización de código de Angular agilizó el proceso de desarrollo.
-6. El uso de Springboot nos ayudo gracias a su capacidad para gestionar fácilmente la lógica de negocios, la persistencia de datos y la integración con tecnologías externas
-7.  As-Is mapping nos proporcionó una comprensión detallada de los procesos existentes, identificando puntos débiles y oportunidades de mejora. Por otro lado, en el To-Be mapping, mostramos la visión futura del proceso optimizado, destacando los cambios planificados y las mejoras esperadas, sirviendo como guía para la transformación y la innovación.
-8. Nuestra aplicación puede ayudar a gobiernos regionales y locales a impulsar la modernización de la industria al  permitir mejorar y controlar los procesos productivos
+1. **Problem Statements:**
+   - El desarrollo de FarmLogiTech como proyecto de curso ha abordado teóricamente la falta de herramientas tecnológicas integradas en la industria agrícola y ganadera. Nuestro diseño propone una solución para el monitoreo en tiempo real del estado de los cultivos, el bienestar animal y las condiciones climáticas, lo cual podría facilitar la toma de decisiones informadas y la optimización de la producción.
+   - El proyecto ha explorado formas de mejorar la colaboración entre empresas y dueños de granjas, proponiendo mecanismos para facilitar asociaciones beneficiosas que podrían impulsar el crecimiento y la rentabilidad en la cadena de suministro agrícola.
+
+2. **Assumptions vs. Comportamiento real de los segmentos:**
+   - La asunción de que los dueños de granjas y trabajadores utilizarían la plataforma durante toda su jornada laboral se mantiene como una hipótesis que requeriría validación en un escenario real.
+   - La hipótesis sobre el interés de las empresas grandes en utilizar la plataforma para establecer una mejor comunicación con las granjas es prometedora, pero necesitaría ser probada en el mercado real.
+
+3. **Hypothesis Statements:**
+   - El diseño del sistema de seguimiento y análisis de datos agrícolas propuesto tiene el potencial de mejorar la toma de decisiones y la eficiencia en las operaciones agrícolas, pero esto necesitaría ser validado en la práctica.
+   - La inclusión de funcionalidades de pronóstico meteorológico en nuestro diseño parece valiosa en teoría, pero su efectividad real requeriría pruebas de campo.
+   - La interfaz intuitiva y fácil de usar que hemos diseñado apunta a una mayor satisfacción del usuario, pero esto necesitaría ser confirmado con pruebas de usabilidad reales.
+
+4. **Criterios de Éxito vs. Expectativas del Proyecto:**
+   - Los objetivos de crecimiento, adopción y eficiencia establecidos en nuestro proyecto son ambiciosos y están bien fundamentados en nuestra investigación, pero su viabilidad solo podría ser determinada mediante una implementación real.
+   - Las mejoras en eficiencia operativa, reducción de tiempo en gestión de tareas y disminución de incidencias críticas que hemos proyectado son metas realistas basadas en nuestro análisis, pero requerirían validación en un entorno operativo real.
+
+5. **Conclusiones técnicas:**
+   - El uso de Lean UX, fue de gran ayuda gracias a su enfoque iterativo, que  permite adaptarse rápidamente a los cambios del la aplicación y las necesidades del usuario, promoviendo así la eficiencia al desarrollar el producto.
+   - Conventional Commits establecio un estándar para mensajes de confirmación claros y estructurados, lo que facilitó la comprensión del historial de cambios.
+   - Los diagramas de arquitectura de dominio facilitaron la comprensión de las relaciones entre el dominio y sus contextos delimitados
+   - Como equipo buscamos priorizar la comprensión profunda del negocio y su contexto, mediante la colaboración entre expertos técnicos y de dominio.
+   - El enfoque en la modularidad y la reutilización de código de Angular agilizó el proceso de desarrollo.
+   - El uso de Springboot nos ayudo gracias a su capacidad para gestionar fácilmente la lógica de negocios, la persistencia de datos y la integración con tecnologías externas
+   - As-Is mapping nos proporcionó una comprensión detallada de los procesos existentes, identificando puntos débiles y oportunidades de mejora. Por otro lado, en el To-Be mapping, mostramos la visión futura del proceso optimizado, destacando los cambios planificados y las mejoras esperadas, sirviendo como guía para la transformación y la innovación.
+   - Nuestra aplicación puede ayudar a gobiernos regionales y locales a impulsar la modernización de la industria al  permitir mejorar y controlar los procesos productivos
+## Recomendaciones
+
+Basándonos en el desarrollo de FarmLogiTech como proyecto de curso y en nuestro análisis teórico, recomendamos los siguientes pasos para un potencial Roadmap de desarrollo futuro:
+
+1. **Validación de Conceptos:**
+   - Realizar pruebas de concepto con un prototipo funcional en un entorno controlado, como una granja piloto, para validar las funcionalidades clave.
+   - Conducir entrevistas y encuestas detalladas con potenciales usuarios (dueños de granjas, trabajadores y empresas) para refinar los requisitos y características del producto.
+
+2. **Desarrollo Iterativo:**
+   - Implementar un enfoque de desarrollo ágil, comenzando con un Producto Mínimo Viable (MVP) que incluya las funcionalidades más críticas identificadas en nuestro proyecto.
+   - Establecer ciclos de retroalimentación tempranos y frecuentes con usuarios beta para iterar y mejorar el producto.
+
+3. **Expansión Gradual de Funcionalidades:**
+   - Priorizar el desarrollo de módulos core como la gestión de tareas, monitoreo de cultivos y animales, y herramientas de comunicación.
+   - Planificar la integración futura de tecnologías avanzadas como IA y IoT, basándose en la retroalimentación de los usuarios iniciales.
+
+4. **Estrategia de Entrada al Mercado:**
+   - Desarrollar un plan de lanzamiento por fases, comenzando con un grupo selecto de granjas para un período de prueba extensivo.
+   - Diseñar una estrategia de marketing enfocada en demostrar el valor tangible de FarmLogiTech a través de casos de estudio y testimonios de usuarios piloto.
+
+5. **Consideraciones de Escalabilidad y Sostenibilidad:**
+   - Investigar y planificar la infraestructura tecnológica necesaria para soportar un crecimiento potencial del número de usuarios y volumen de datos.
+   - Incorporar desde el inicio prácticas de desarrollo sostenible y considerar el impacto ambiental de la implementación tecnológica en el sector agrícola.
+
+Estas recomendaciones buscan trazar un camino desde el proyecto académico actual hacia una potencial implementación real de FarmLogiTech, reconociendo la necesidad de validación y refinamiento continuos basados en retroalimentación del mundo real.
+
 
 
 # VII. Bibliografía.

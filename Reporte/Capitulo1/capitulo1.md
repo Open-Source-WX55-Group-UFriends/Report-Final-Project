@@ -395,7 +395,7 @@ En este entregable final, nuestro equipo se centró en dos aspectos clave, garan
 En esta sección describiremos el perfil de nuestra Startup.
 
 ### 1.1.1. Description de la StartUp
-FarmLogiTech es un startup tecnológico fundada en el 2024 por un grupo de estudiantes compuesta por un grupo de estudiantes de la carrera de Ingeniería de Software. Nuestro startup está dedicada a simplificar la gestion y logistica de una granja, brindando una plataforma innovadora y accesible para propietarios de granjas y trabajadores.
+FarmLogiTech es una startup tecnológico fundada en el 2024 por un grupo de estudiantes compuesta por un grupo de estudiantes de la carrera de Ingeniería de Software. Nuestro startup está dedicada a simplificar la gestion y logistica de una granja, brindando una plataforma innovadora y accesible para propietarios de granjas y trabajadores.
 
 - Misión: Nuestra misión es simplificar la gestion y administracion de granjas mediante
   una plataforma intuitiva y eficiente, ayudando con todo tipo de herramientas a las personas dueñas de una granja o que trabajan en ellas.
