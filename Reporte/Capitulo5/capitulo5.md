@@ -1140,7 +1140,6 @@ En el sprint 3 se logró un desarrollo parcial tanto del frontend como del backe
 Este avance incluye nuevas vistas relevantes sobre el producto y la startup, disponibles en inglés y español, así como una versión responsive.
 A continuación, se presentan algunas evidencias:
 
-PONER IMAGENES
 - US09
   <img src="/Assets/img-website-page-9.png" alt="US09"/></img>
 
@@ -1179,8 +1178,6 @@ PONER IMAGENES
 
 Para el sprint 3, se planificó el front-end como el back-end. Inicialmente, se trabajó con el mismo github creando repositorios en donde
 incluimos el db.json para luego enlazarlo llamandolo con la creación de rutas.
-
-</br>
 
 <img src="/Assets/img-repo1-json.png" alt="Repo 1"/></img>
 <img src="/Assets/img-repo2-json.png" alt="Repo 2"/></img>
@@ -1536,6 +1533,8 @@ objetivos de usuario mencionados:
 
 Entrevista de validación usuario dueño de granja 01:
 
+Inicio:00:00 <br>
+Fin: 1:32:00
 
 | Entrevistado  01             	                                                                  | Jorge Kunimoto 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1573,17 +1572,17 @@ Entrevista de validación usuario trabajador de granja 02:
 Entrevista de validación administrado de una empresa 01:
 
 
- Entrevistado  01             	                                                                    | Soledad Quispe  	                                                                                                                                                                                                         |
-|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+ Entrevistado  01             	                                                                    | Soledad Quispe  	                                                                                                                                                                                                        |
+|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <img src="/Assets/img-entrevista-6.png" alt="message-controller"/></img>                        	 | Durante la entrevista Soledad, reviso las características que nuestra aplicación le ofrece a su segmento objetivo. Su único descontento fue que la pagina pueda cambiar de idioma ya que ella no habla inglés.          	 |
-| Timing: 0:00 	                                                                                    | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/EXAcj83ERHtPoZgYPm_f4uQBELiIyG7Vh0XDwtcCOeFHag?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLjQ5MiwidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=IVWAWA 	                                                                                                                                                                                                        |
+| Timing: 0:00 / Fin: 9:34 / Duracion: 9:34 	                                                       | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/EXAcj83ERHtPoZgYPm_f4uQBELiIyG7Vh0XDwtcCOeFHag?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLjQ5MiwidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=IVWAWA 	                                                                                                                                                                                                        |
 
 Entrevista de validación administrado de una empresa 02:
 
 | Entrevistado  02             	                                                                    | Jorge Nestor  	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <img src="/Assets/img-entrevista-7.png" alt="message-controller"/></img>                        	 | Durante la entrevista Jorge, reviso las características que nuestra aplicación le ofrece a su segmento objetivo. Las recomendaciones de Jorge fueron que el idioma no concuerda, ya que hay botones en ingles y otros en español. Por otro lado, deberian verse las reseñas que hicieron otras personas para tenerlas en cuenta         	                                                                                                                                                                                        |
-| Timing: 9:35 	                                                                                    | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/EXAcj83ERHtPoZgYPm_f4uQBELiIyG7Vh0XDwtcCOeFHag?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjo1NzUuMDk2LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=A0smD7 
+| Timing: 9:35 / Fin: 18:11 / Duracion:  	                                                          | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/EXAcj83ERHtPoZgYPm_f4uQBELiIyG7Vh0XDwtcCOeFHag?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjo1NzUuMDk2LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=A0smD7 
 
 Entrevista de validación administrado de una empresa 03:
 
@@ -1731,8 +1730,8 @@ Para solucionar este problema debe implementar mas estilos en la parte del front
 
 **Recomendación:** Establecer conexiones y canales de comunicación efectivos entre los usuarios para asegurar una distribución equilibrada de las tareas y mejorar el bienestar del personal.
 
-## 5.2.4. Sprint 4
-### 5.2.4.1. Sprint Planning 4
+## 5.3.4. Sprint 4
+### 5.3.4.1. Sprint Planning 4
 El spring 4 tiene como inicio el dia 12/06/2024 y como objetivo plantea conectar el backend con el frontend y desplegar todos nuestros servicios
 
 <table>
@@ -1751,12 +1750,20 @@ El spring 4 tiene como inicio el dia 12/06/2024 y como objetivo plantea conectar
 <tr><td>Sum of story points</td><td>41</td></tr>
 </table>
 
-### 5.2.4.2. Sprint Backlog 4
+### 5.3.4.2. Sprint Backlog 4
 
 En este sprint backlog, desarrollamos la implementacion de nuestros endpoint de nuestra API que ha estado siendo desarrollada desde el sprint 3, siendo utilizada en el frontend para recopilar y mostrar datos de nuestra base de datos desplegada en AWS.
 
+<img src="/Assets/Trello-Sprint4.png" alt="message-controller"/></img>
 
-### 5.2.4.3 Development Evidence for Sprint Review.
+Link del trello: https://trello.com/b/WJXt50JP/farmlogitech
+
+| Technical User Story | WorkItem / Task | Id  | Title | Description | Estimation (Hours) | Assigned To | Status(Todo/InProcess/ToReview/Done) |
+|----------------------|-----------------|-----|-------|-------------|--------------------|-------------|--------------------------------------|
+| 1 | 1 | 1 | Implementar el endpoint de login | Implementar el endpoint de login para que los usuarios puedan loguearse en la aplicacion | 4 | Rodrigo Aguilar | Done |
+
+
+### 5.3.4.3 Development Evidence for Sprint Review.
 
 | Repository                                                      | Branch                     | Commit id | Commit Message                                                | Committed on (Date) |
 |-----------------------------------------------------------------|----------------------------|---------|----------------------------------------------------------|---------------------|
@@ -1790,7 +1797,57 @@ En este sprint backlog, desarrollamos la implementacion de nuestros endpoint de 
 |                                                                 | feature/develop            | 1d3194b | feat: Update authentication to farm edit                    | 24/06/2024          |
 |                                                                 | feature/monotoring         | 1a1494e | feat: Update method put in farm                             | 24/06/2024          |
 
+### 5.3.4.4 Testing Suite Evidence for Sprint Review
 
+| Repository                            | Branch | Commit Id      | Commit Message   | Commit Message Body   | Commited on (Date) |
+|---------------------------------------|--------|----------------|------------------|-----------------------|--------------------|
+| Open-Source-WX55-Group-UFriends | "main" | feat(testing)  | testing evidence | test of farm-logitech | 23/06/2024         |
+
+poner imagenes del testing
+
+
+### 5.3.4.5 Execution Evidence for Sprint Review.
+En el sprint 4 se logró un desarrollo parcial tanto del frontend como del backend de la aplicación web.
+Este avance incluye nuevas vistas relevantes sobre el producto y la startup, disponibles en inglés y español, así como una versión responsive.
+A continuación, se presentan algunas evidencias:
+
+Poner imagenes de evidencia
+
+
+### 5.3.4.6 Services Documentation Evidence for Sprint Review.
+
+Para el sprint 4, se planificó la conexión del  front-end con el back-end. Inicialmente, se trabajó con el mismo github creando repositorios en donde
+incluimos el db.json para luego enlazarlo llamandolo con la creación de rutas.
+
+<img src="/Assets/img-repo1-json.png" alt="Repo 1"/></img>
+<img src="/Assets/img-repo2-json.png" alt="Repo 2"/></img>
+<img src="/Assets/img-repo3-json.png" alt="Repo 3"/></img>
+<img src="/Assets/img-repo4-json.png" alt="Repo 4"/></img>
+<img src="/Assets/img-repo5-json.png" alt="Repo 5"/></img>
+
+| Endpoint           | Details                                                                                                                                                           |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| /subscription-controller | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /profile-controller   | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /farm-controller   | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /user-controller   | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /task-controller   | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /social-controller    | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /shed-controller   | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /income-controller | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /expense-controller | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /crop-controller   | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /animal-controller | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /message-controller | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+
+Link del repositorio: https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op
+
+- Web service commit details
+ Poner tabla de commits
+
+
+### 5.3.4.7.Software Deployment Evidence for Sprint Review.
+capturas de pantalla de evidencia de que se desplego el front, back y landing
 
 
 
@@ -1798,7 +1855,7 @@ En este sprint backlog, desarrollamos la implementacion de nuestros endpoint de 
 ### 5.4. Video About-The-Product.
 A continuación, se muestra el video "Acerca del producto", el cual ilustra el propósito, beneficios y características principales de la aplicación.
 Enlace para visualizar el video About the product:  
-Enlace del video subido a Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/ESrX78FN1VlBuIHbHMpxfYQBx41_HP0eji-7vSpLIWR55Q?e=hQMibA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Enlace del video subido a Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f978_upc_edu_pe/Edq2VQ_tLzFCuAXx0OFjGtYB5vx7IIgmk30-tS2SMn8z3A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=12oa9I
 
 
 # VI. Conclusiones y recomendaciones.
