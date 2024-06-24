@@ -12,7 +12,7 @@
     <strong>Desarrollo de Aplicaciones Open Source - WX55</strong><br>  
 <br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez</strong><br>
-    <br> <strong>INFORME DE TRABAJO FINAL - TF1 </strong> 
+    <br> <strong>INFORME DE TRABAJO FINAL - TF </strong> 
 </p>
 
 <p align="center">
