@@ -1705,6 +1705,69 @@ Para solucionar este problema debe implementar mas estilos en la parte del front
 
 **Recomendación:** Establecer conexiones y canales de comunicación efectivos entre los usuarios para asegurar una distribución equilibrada de las tareas y mejorar el bienestar del personal.
 
+## 5.2.4. Sprint 4
+### 5.2.4.1. Sprint Planning 4
+El spring 4 tiene como inicio el dia 12/06/2024 y como objetivo plantea conectar el backend con el frontend y desplegar todos nuestros servicios
+
+<table>
+<tr><td>Sprint #</td><td>Sprint 4</td></tr>
+<tr><td colspan="2">Sprint Planning Background</td></tr>
+<tr><td>Date</td><td>2024-06-12</td></tr>
+<tr><td>Time</td><td>7:00 PM</td></tr>
+<tr><td>Location</td><td>Meet virtual meeting</td></tr>
+<tr><td>Prepared by</td><td>Rodrigo Aguilar</td></tr>
+<tr><td>Atendees</td><td>Mathias Kunimoto, Franz Escalante, Augusto Pin y Luciano Ruiz</td></tr>
+<tr><td>Sprint 4 Review</td><td>En el Sprint 4 implementamos todos nuestros servicios y codigo en el frontend de manera que tengamos nuestra aplicacion funcional y lista para lanzarse, gracias a nuestros anteriores sprints dedicados a el desarrollo del frontend y backend.</td></tr>
+<tr><td>Sprint 4 Retrospective</td><td>En el anterior sprint pudimos mejorar la organizacion de codigo y el como distribuirlo y aislarlo por secciones para que sea mas facil de trabajar, junto a definir la logica de negocio para una mejor experiencia del usuario.</td></tr>
+<tr><td colspan="2">Sprint Goal & User Stories</td></tr>
+<tr><td>Sprint 4 Goal</td><td>Implementar el backend y conectarlo al frontend para desplegar tanto nuestro servicio de API Rest como la aplicacion en si para que pueda ser distribuida.</td></tr>
+<tr><td>Sprint 4 Velocity</td><td>41</td></tr>
+<tr><td>Sum of story points</td><td>41</td></tr>
+</table>
+
+### 5.2.4.2. Sprint Backlog 4
+
+En este sprint backlog, desarrollamos la implementacion de nuestros endpoint de nuestra API que ha estado siendo desarrollada desde el sprint 3, siendo utilizada en el frontend para recopilar y mostrar datos de nuestra base de datos desplegada en AWS.
+
+
+### 5.2.4.3 Development Evidence for Sprint Review.
+
+| Repository                                                      | Branch                     | Commit id | Commit Message                                                | Committed on (Date) |
+|-----------------------------------------------------------------|----------------------------|---------|----------------------------------------------------------|---------------------|
+| https://farmlogitech-op.web.app/home)                           | feature/develop            | 1925bb1 | fix: add autentication routes                               | 21/05/2024          |
+|                                                                 | feature/develop            | 4f64216 | feat: Add create profile                                    | 21/05/2024          |
+|                                                                 | feature/search-and-match   | 9a5be05 | fix: Add new farm                                           | 20/06/2024          |
+|                                                                 | feature/monotoring         | 51c3163 | fix: Add role in profile card                               | 20/06/2024          |
+|                                                                 | feature/monotoring         | 38d37fe | fix: look role                                              | 20/06/2024          |
+|                                                                 | feature/monotoring         | 7baa711 | fix: Get role                                               | 20/06/2024          |
+|                                                                 | feature/search-and-match   | d1008f1 | fix: Add create profile with toolbar                        | 20/06/2024          |
+|                                                                 | feature/develop            | 538b6be | fix: get role                                               | 20/06/2024          |
+|                                                                 | feature/develop            | 52bf5e3 | fix: get profile                                            | 20/06/2024          |
+|                                                                 | feature/search-and-match   | a80d021 | fix: Add create profile                                     | 20/06/2024          |
+|                                                                 | feature/monotoring         | 9c7cb77 | feat: add sheds                                             | 22/06/2024          |
+|                                                                 | feature/monotoring         | 5b27cdd | feat: Update the user interface for employees               | 22/06/2024          |
+|                                                                 | feature/monotoring         | a9d486a | feat: created profile to employees                          | 22/06/2024          |
+|                                                                 | feature/search-and-match   | c3ada33 | feat: Add input search by location                          | 22/06/2024          |
+|                                                                 | feature/search-and-match   | 0ead5da | feat: merge with search and match                           | 22/06/2024          |
+|                                                                 | feature/develop            | 992645b | feat: Add farm description                                  | 22/06/2024          |
+|                                                                 | feature/monotoring         | 9e1b5c3 | feat: add animal and add crops                              | 22/06/2024          |
+|                                                                 | feature/monotoring         | 9a212c1 | feat: fix sheds ddl from inventory                          | 23/06/2024          |
+|                                                                 | feature/develop            | 297b9b2 | Merge branch 'feature/monitoring' into develop              | 23/06/2024          |
+|                                                                 | feature/search-and-match   | c87daaf | feat: Update inventory                                      | 23/06/2024          |
+|                                                                 | feature/search-and-match   | ad62640 | feat: Update farm description                               | 23/06/2024          |
+|                                                                 | feature/develop            | fef6c9c | fix: height of login card container                         | 24/06/2024          |
+|                                                                 | feature/develop            | f223830 | feat: add role selector tu sign up                          | 24/06/2024          |
+|                                                                 | feature/develop            | 3867e53 | feat: Update message with farmer                            | 24/06/2024          |
+|                                                                 | feature/develop            | 833dc9a | feat: Add message in farmworker                             | 24/06/2024          |
+|                                                                 | feature/monotoring         | 49c240a | feat: Update task view for employee                         | 24/06/2024          |
+|                                                                 | feature/monotoring         | ffc8abb | feat: Add task for employees                                | 24/06/2024          |
+|                                                                 | feature/develop            | 1d3194b | feat: Update authentication to farm edit                    | 24/06/2024          |
+|                                                                 | feature/monotoring         | 1a1494e | feat: Update method put in farm                             | 24/06/2024          |
+
+
+
+
+
 
 ### 5.4. Video About-The-Product.
 A continuación, se muestra el video "Acerca del producto", el cual ilustra el propósito, beneficios y características principales de la aplicación.
