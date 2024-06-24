@@ -1243,22 +1243,14 @@ incluimos el db.json para luego enlazarlo llamandolo con la creación de rutas.
 #### Subscriptions Controller:
 <img src="/Assets/img-subscriptions-controller-1.png" alt="subscriptions-controller-1"/></img>
 <img src="/Assets/img-subscriptions-controller-2.png" alt="subscriptions-controller-2"/></img>
-<img src="/Assets/img-subscriptions-controller-3.png" alt="subscriptions-controller-3"/></img>
-<img src="/Assets/img-subscriptions-controller-4.png" alt="subscriptions-controller-4"/></img>
 
 #### Profile Controller:
 <img src="/Assets/profile-controller-1.png" alt="profile-controller-1"/></img>
 <img src="/Assets/profile-controller-2.png" alt="profile-controller-2"/></img>
-<img src="/Assets/profile-controller-3.png" alt="profile-controller-3"/></img>
-<img src="/Assets/profile-controller-4.png" alt="profile-controller-4"/></img>
 
 #### Farm Controller:
 <img src="/Assets/img-farm-controller-1.png" alt="farm-controller-1"/></img>
 <img src="/Assets/img-farm-controller-2.png" alt="farm-controller-2"/></img>
-<img src="/Assets/img-farm-controller-3.png" alt="farm-controller-3"/></img>
-<img src="/Assets/img-farm-controller-4.png" alt="farm-controller-4"/></img>
-<img src="/Assets/img-farm-controller-5.png" alt="farm-controller-5"/></img>
-<img src="/Assets/img-farm-controller-6.png" alt="farm-controller-6"/></img>
 
 #### User Controller:
 <img src="/Assets/img-user-controller.png" alt="user-controller-1"/></img>
@@ -1266,18 +1258,13 @@ incluimos el db.json para luego enlazarlo llamandolo con la creación de rutas.
 
 #### Task Controller:
 <img src="/Assets/img-task-controller-1.png" alt="task-controller-1"/></img>
-<img src="/Assets/img-task-controller-2.png" alt="task-controller-1"/></img>
-<img src="/Assets/img-task-controller-3.png" alt="task-controller-1"/></img>
 
 #### Social Controller:
 <img src="/Assets/img-social-controller-1.png" alt="social-controller-1"/></img>
-<img src="/Assets/img-social-controller-2.png" alt="social-controller-1"/></img>
-<img src="/Assets/img-social-controller-3.png" alt="social-controller-1"/></img>
 
 #### Shed Controller:
 <img src="/Assets/img-shed-controller.png" alt="shed-controller"/></img>
-<img src="/Assets/img-shed-controller-2.png" alt="shed-controller-2"/></img>
-<img src="/Assets/img-shed-controller-3.png" alt="shed-controller-3"/></img>
+
 
 #### Income Controller:
 <img src="/Assets/img-income-controller.png" alt="income-controller"/></img>
@@ -1292,8 +1279,6 @@ incluimos el db.json para luego enlazarlo llamandolo con la creación de rutas.
 
 #### Animal Controller:
 <img src="/Assets/img-animal-controller-1.png" alt="animal-controller"/></img>
-<img src="/Assets/img-animal-controller-2.png" alt="animal-controller-2"/></img>
-<img src="/Assets/img-animal-controller-3.png" alt="animal-controller-3"/></img>
 
 #### Message Controller:
 <img src="/Assets/img-message-controller.png" alt="message-controller"/></img>
@@ -1359,22 +1344,11 @@ Prueba de que esta enlazado con el Netlify
 - Capturas de pantalla landing page:
 
   <img src="/Assets/img-website-page.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-2.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-3.png" alt="website"/></img>
   <img src="/Assets/img-website-page-4.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-5.png" alt="website"/></img>
   <img src="/Assets/img-website-page-6.png" alt="website"/></img>
   <img src="/Assets/img-website-page-7.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-8.png" alt="website"/></img>
   <img src="/Assets/img-website-page-9.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-10.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-11.png" alt="website"/></img>
   <img src="/Assets/img-website-page-12.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-13.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-14.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-15.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-16.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-17.png" alt="website"/></img>
 
 - Web Application Back-end:
 
@@ -1385,17 +1359,8 @@ Prueba de que esta enlazado con el Netlify
 - Capturas de pantalla de Web Application:
 
 <img src="/Assets/img-subscriptions-controller-1.png" alt="subscriptions-controller-1"/></img>
-<img src="/Assets/img-subscriptions-controller-2.png" alt="subscriptions-controller-2"/></img>
-<img src="/Assets/img-subscriptions-controller-3.png" alt="subscriptions-controller-3"/></img>
-<img src="/Assets/img-subscriptions-controller-4.png" alt="subscriptions-controller-4"/></img>
 <img src="/Assets/profile-controller-1.png" alt="profile-controller-1"/></img>
-<img src="/Assets/profile-controller-2.png" alt="profile-controller-2"/></img>
-<img src="/Assets/profile-controller-3.png" alt="profile-controller-3"/></img>
-<img src="/Assets/profile-controller-4.png" alt="profile-controller-4"/></img>
 <img src="/Assets/img-farm-controller-1.png" alt="farm-controller-1"/></img>
-<img src="/Assets/img-farm-controller-2.png" alt="farm-controller-2"/></img>
-<img src="/Assets/img-farm-controller-3.png" alt="farm-controller-3"/></img>
-<img src="/Assets/img-farm-controller-4.png" alt="farm-controller-4"/></img>
 
 
 ### 5.2.3.8 Insights de Colaboración del Equipo durante el Sprint
@@ -1840,12 +1805,105 @@ incluimos el db.json para luego enlazarlo llamandolo con la creación de rutas.
 
 Link del repositorio: https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op
 
-- Web service commit details
- Poner tabla de commits
+### Web Service:
+
+| Endpoint                | Operaciones | Parámetros       | URL                                                    |
+|-------------------------|-------------|------------------|--------------------------------------------------------|
+| subscription-controller | PUT         | {profileId}      | /api/v1/subscription/pay/subscription/{profileId}                                           |
+|                         | POST        | No tiene         | /api/v1/subscription                          |
+|                         | GET         | {id}             | api/v1/crops/{cropId}/tunnels                          |
+|                         | GET         | No tiene         | /api/v1/subscription/all                |
+| profile-controller      | GET         | {profileId}      | /api/v1/profile/{profileId}                           |
+|                         | PUT         | {profileId}      | /api/v1/profile/{profileId}                                       |
+|                         | POST        | No tiene         | /api/v1/profile                           |
+|                         | GET         | No tiene         | /api/v1/profile/all                           |
+| farm-controller         | GET         | {id}             | /api/v1/farm/{id}                          |
+|                         | PUT         | {id}             | /api/v1/farm/{id}                                       |
+|                         | POST        | No tiene         | /api/v1/farm                         |
+|                         | GET         | {location}       | /api/v1/farm/location/{location}                           |
+|                         | GET         | No tiene         | /api/v1/farm/all                         |
+|                         | GET         | {profileId}        | /api/v1/farm/all/farms/profile/{profileId}                          |
+| user-controller         | POST        | No tiene         | /api/v1/user                                       |
+|                         | GET         | No tiene         | /api/v1/user/all                          |
+| task-controller         | POST        | No tiene         | /api/v1/task                                      |
+|                         | GET         | {farmerId}       | /api/v1/task/all/farmer/{farmerId}                          |
+|                         | GET         | {collaboratorId} | /api/v1/task/all/collaborator/{collaboratorId}                          |
+| social-controller       | POST        | No tiene         | /api/v1/socials                                      |
+|                         | GET         | No tiene         | /api/v1/socials/all                         |
+|                         | GET         | {id}             | /api/v1/socials/all/farm/{id}                         |
+| shed-controller         | POST        | No tiene         | /api/v1/shed                                      |
+|                         | GET         | {id}             | /api/v1/shed/{id}                         |
+|                         | GET         | No tiene         | /api/v1/shed/all                        |
+| income-controller       | POST        | No tiene         | /api/v1/income                                     |
+| expense-controller      | POST        | No tiene         | /api/v1/expense                                     |
+| crop-controller         | POST        | No tiene         | /api/v1/crop                                      |
+|                         | GET         | {id}             | /api/v1/crop/{id}                         |
+|                         | GET         | No tiene         | /api/v1/crop/all                       |
+| animal-controller       | POST        | No tiene         | /api/v1/animal                                      |
+|                         | GET         | {id}             | /api/v1/animal/{id}                         |
+|                         | GET         | No tiene         | /api/v1/animal/all                       |
+| message-controller      | POST        | {collaboratorId} | /api/v1/messages/collaborator/{collaboratorId}                                   |
+
+### Web service images:
+#### Subscriptions Controller:
+<img src="/Assets/img-subscriptions-controller-1.png" alt="subscriptions-controller-1"/></img>
+
+#### Profile Controller:
+<img src="/Assets/profile-controller-1.png" alt="profile-controller-1"/></img>
+
+#### Farm Controller:
+<img src="/Assets/img-farm-controller-1.png" alt="farm-controller-1"/></img>
+
+#### User Controller:
+<img src="/Assets/img-user-controller.png" alt="user-controller-1"/></img>
 
 
-### 5.3.4.7.Software Deployment Evidence for Sprint Review.
-capturas de pantalla de evidencia de que se desplego el front, back y landing
+
+### 5.3.4.7 Software Deployment Evidence for Sprint Review.
+
+Para la entrega del cuarto sprint, se implementó una landing page completamente funcional, cumpliendo
+con los user stories correspondientes. También se desplegó y por otro lado se lanzó parcialmente el back-end terminado.
+
+Landing Page:
+
+La actualización de la página de destino en GitHub Pages se realizó tras fusionar la rama "develop" con la rama principal ("main"). Este proceso permitió renovar la implementación de la página de destino.
+
+- Capturas de pantalla landing page:
+  <img src="/Assets/img-landing-page-1.png" alt="landing-page"/></img>
+  <img src="/Assets/img-landing-page-2.png" alt="landing-page"/></img>
+  <img src="/Assets/img-landing-page-3.png" alt="landing-page"/></img>
+  <img src="/Assets/img-landing-page-4.png" alt="landing-page"/></img>
+  <img src="/Assets/img-landing-page-5.png" alt="landing-page"/></img>
+
+- Web Application Front-end:
+
+Prueba de que esta enlazado con el Github pages
+
+<img src="/Assets/img-deployment-today.png" alt="landing-page"/></img>
+
+- Capturas de pantalla landing page:
+
+  <img src="/Assets/img-website-page.png" alt="website"/></img>
+  <img src="/Assets/img-website-page-4.png" alt="website"/></img>
+  <img src="/Assets/img-website-page-6.png" alt="website"/></img>
+  <img src="/Assets/img-website-page-7.png" alt="website"/></img>
+  <img src="/Assets/img-website-page-9.png" alt="website"/></img>
+  <img src="/Assets/img-website-page-12.png" alt="website"/></img>
+
+- Web Application Back-end:
+
+  <img src="/Assets/img-base-de-dato-workbrench-1.png" alt="Base de datos"/></img>
+  <img src="/Assets/img-base-de-dato-workbrench-2.png" alt="Base de datos"/></img>
+
+Prueba de que esta enlazado con Aws
+
+<img src="/Assets/img-testo-aws.png" alt="landing-page"/></img>
+
+- Capturas de pantalla de Web Application:
+
+<img src="/Assets/img-subscriptions-controller-1.png" alt="subscriptions-controller-1"/></img>
+<img src="/Assets/profile-controller-1.png" alt="profile-controller-1"/></img>
+<img src="/Assets/img-farm-controller-1.png" alt="farm-controller-1"/></img>
 
 
 ### 5.4. Video About-The-Product.
