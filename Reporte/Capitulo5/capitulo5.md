@@ -1422,31 +1422,57 @@ Prueba de que esta enlazado con el Netlify
 <img src="/Assets/img-animal-controller-3.png" alt="animal-controller-3"/></img>
 <img src="/Assets/img-message-controller.png" alt="message-controller"/></img>
 
-### 5.2.3.8 Team Collaboration Insights during Sprint.
+### 5.2.3.8 Insights de Colaboración del Equipo durante el Sprint
 
-| Alumno                               | Actividad                                                                          |
-|--------------------------------------|------------------------------------------------------------------------------------|
-| Aguilar Castillo, Rodrigo Alejandro  | Desarrollo del back end, y mejora de componentes del front end            |
-| Escalante Baygorrea, Janiel Franz	       | Desarrollo del back end y desarrollo  front end                                    |
-| Kunimoto Watanabe, Mathias Tsuneo         | Desarrollo del back end, y mejora de reestructuración de componentes del front end |
-|Pin Matallana, Augusto José	  | Desarrollo del back end, y mejora visual del front end                             |
-| Ruiz Blas, Luciano Stefano	 | Desarrollo del back end y desarrollo de front end                                  |
-| Barrionuevo Reto, Jean Franco Joel	 | Desarrollo del back end y desarrollo de front end                                  |
+Durante este sprint (21 de abril de 2024 - 22 de junio de 2024), nuestro equipo logró avances significativos en los tres repositorios: Landing Page, Aplicación Web (Frontend) y Backend. A continuación, se presenta un desglose detallado de las contribuciones más representativas de cada miembro:
 
-#### Repositorio Landing:
-(https://github.com/Open-Source-WX55-Group-UFriends/landing-page.git)
-<img src="/Assets/img-repo-landing.png" alt="message-controller"/></img>
-<img src="/Assets/img-contributors-tb2.png" alt="message-controller"/></img>
+| Miembro del Equipo | Contribuciones Clave                                                                                                     |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------|
+| Rodrigo Aguilar (Rodrag0lvr) | - Implementó funcionalidades de dashboard y análisis (Backend)<br>- Desarrolló servicios de gestión de tareas<br>        |
+| Janiel Escalante | - Implementó el contexto acotado de interacción social (Backend)<br>- Desarrolló servicios de gestión de clima<br>       |
+| Mathias Kunimoto (kuni2005) | - Implementó servicios de suscripción y monitoreo (Backend)<br>- Desarrolló funcionalidades de gestión de inventario<br> |
+| Augusto Pin (GutoPin) | - Implementó servicios de interacción social (Backend)<br>- Desarrolló funcionalidades de gestión de suscripciones<br>   ||
+| Luciano Ruiz | - Implementó funcionalidades de dashboard y análisis (Backend)<br>- Desarrolló servicios de gestión de tareas<br>        |
 
-#### Repositorio Web Application:
-(https://github.com/Open-Source-WX55-Group-UFriends/Frontend-App.git)
-<img src="/Assets/img-repo-front.png" alt="message-controller"/></img>
-<img src="/Assets/img-contributors-tb2-frontend.png" alt="message-controller"/></img>
+#### Insights de los Repositorios
 
-#### Repositorio BackEnd:
-(https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op.git)
-<img src="/Assets/img-repo-backend.png" alt="message-controller"/></img>
-<img src="/Assets/img-contributors-tb2-backend.png" alt="message-controller"/></img>
+1. Repositorio Landing Page:
+   (https://github.com/Open-Source-WX55-Group-UFriends/landing-page.git)
+
+   <img src="/Assets/img-repo-landing.png" alt="message-controller"/>
+   <img src="/Assets/img-contributors-tb2.png" alt="message-controller"/>
+   <img src="/Assets/participacion_landing_luciano.png" alt="message-controller"/>
+   <img src="/Assets/participacion_landing_franz.png" alt="message-controller"/>
+   
+   Observaciones:
+   - La participación de Luciano Ruiz y Franz en el repositorio de la landing page no se vio reflejada en los insights debido a problemas con la sincronización de github.
+   Logros clave:
+   - Completado el diseño responsivo para todos los tamaños de pantalla
+   - Implementada la carga dinámica de contenido para mejorar el rendimiento
+
+2. Repositorio de la Aplicación Web (Frontend):
+   (https://github.com/Open-Source-WX55-Group-UFriends/Frontend-App.git)
+
+   <img src="/Assets/img-repo-front.png" alt="message-controller"/>
+   <img src="/Assets/img-contributors-tb2-frontend.png" alt="message-controller"/>
+
+   Patrones de colaboración:
+   - Se observaron dos grandes impulsos de desarrollo: a principios de mayo y a principios de junio
+   - Contribuciones constantes durante todo el sprint
+
+3. Repositorio Backend:
+   (https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op.git)
+
+   <img src="/Assets/img-repo-backend.png" alt="message-controller"/>
+   <img src="/Assets/img-contributors-tb2-backend.png" alt="message-controller"/>
+
+   Métricas notables:
+   - Un total de 50 commits entre todo el equipo
+   - Más de 21,000 líneas de código añadidas, indicando un desarrollo significativo de características
+
+Los gráficos de contribución muestran un esfuerzo bien distribuido entre el equipo, con un aumento de actividad hacia el final del sprint debido a las fases de integración y pruebas. El repositorio backend vio la mayor actividad, reflejando nuestro enfoque en construir una API robusta para soportar nuestra aplicación web.
+
+De cara al futuro, nuestro objetivo es mantener este nivel de colaboración mientras nos enfocamos en una distribución más uniforme de commits entre todos los miembros del equipo.
 
 ### 5.3. Validation Interviews.
 Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar la aplicación web destinada a
@@ -1823,6 +1849,28 @@ Infobae. (2023, 22 de marzo). Crisis en el sector avícola: Precio del pollo se 
 AviNews. (2023, 14 de noviembre). Brote de influenza aviar en granja de postura comercial en Perú. https://avinews.com/peru-se-presenta-brote-de-influenza-aviar-en-granja-de-postura-comercial/
 
 Gobierno Regional de Lima. (2021, 3 de mayo). Productores de Barranca apuestan por el cultivo de maracuyá. https://www.gob.pe/regionlima
+
+Ganadera, P. (2021, 22 octubre). Guía para montar una granja. Material Ganadero Para Granjas Proyectos Agrícolas. https://peigganadera.com/guia-montar-una-granja/
+
+Sanchez, L. (2023, 30 junio). Cómo iniciar tu propia granja avícola: consejos y consideraciones clave. AmericaAgro. https://americaagro.com/como-iniciar-tu-propia-granja-avicola-consejos-y-consideraciones-clave/
+
+Pardo, J. (2023, 8 noviembre). DDD y arquitectura Onion, todo lo que necesitas saber. Paradigma Digital. https://www.paradigmadigital.com/techbiz/domain-driven-design-y-arquitectura-onion/
+
+Fernández, R. G. (2022). Microservicios y Domain Driven Design (DDD): un enfoque práctico a la arquitectura de software. Izertis. https://www.izertis.com/es/-/blog/microservicios-domain-driven-design
+
+Domain driven design | Modyo Docs. (2023). https://docs.modyo.com/es/architecture/patterns/ddd.html
+
+Ibáñez, Y. G. (2024, 29 febrero). Patrones de arquitectura: organización y estructura de microservicios. Paradigma Digital. https://www.paradigmadigital.com/dev/patrones-arquitectura-organizacion-estructura-microservicios/
+
+Candelario, L. (2021, 18 octubre). Arquitecturas limpias y DDD, un recorrido práctico. Parte 2. Sixphere Technologies. https://sixphere.com/blog/arquitecturas-limpias-ddd-parte-2/
+
+RobBagby. (2024). Patrón Backends for Frontends - Azure Architecture Center. Microsoft Learn. https://learn.microsoft.com/es-es/azure/architecture/patterns/backends-for-frontends
+
+GeeksforGeeks. (2024, 20 febrero). JavaScript for Backend Development. GeeksforGeeks. https://www.geeksforgeeks.org/javascript-backend-basics/
+
+Pragma. (2023). Academia Pragma | Ruta Backend Node JS. https://www.pragma.com.co/academia/universo/galaxia-ingenieria/backend-nodejs
+
+S, R. A. (2023, 6 octubre). How to Use Node Js for Backend Web Development in 2024. Simplilearn.com. https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-backend
 
 # VIII. Anexos.
 
